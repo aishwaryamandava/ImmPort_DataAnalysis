@@ -1,0 +1,12 @@
+name: "FlowCytometry-Data-Analysis"
+output_dir: "docs"
+navbar:
+  title: "Memory"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "FlowCytometry"
+    href: FlowCytometry.html
+output:
+  html_document:
+          theme: cosmo
