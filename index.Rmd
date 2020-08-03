@@ -1,12 +1,7 @@
 ---
-title: "index-AM"
+title: "Memory"
 output: html_document
 ---
-
-<style type="text/css">
-.title{
-  display: none;
-}
 
 Welcome page
 some text here!
