@@ -8,7 +8,7 @@ knit: (function(input_file, encoding) {
 ---
 
 
-##Background
+##Background{.tabset}
 
 ```{r, include=FALSE,message=FALSE}
 library(ggplot2)
@@ -65,7 +65,7 @@ kable(summary_table) %>%
 ```
 
 
-##SDY144
+##SDY144{.tabset}
 [SDY144](https://www.immport.org/shared/study/SDY144) - Systems Biology Approach to Study Influenza Vaccine 2011-12 in Healthy Children (see companion studies SDY364, SDY368, SDY387). Related published article can be accessed [here](https://academic.oup.com/jid/article/210/2/224/2908549).
 All the subjects are from younger cohort.
 
