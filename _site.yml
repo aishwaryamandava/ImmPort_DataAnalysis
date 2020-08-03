@@ -1,4 +1,4 @@
-name: "FlowCytometry-Data-Analysis"
+name: "Flow-Analysis-2020"
 output_dir: "docs"
 navbar:
   title: "Memory"
