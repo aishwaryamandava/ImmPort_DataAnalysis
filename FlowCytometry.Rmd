@@ -172,7 +172,7 @@ Configuration used in DAFi analysis
 #kable(as.matrix(read.table('inclusion_SDY144.config'), sep = '\t', header=TRUE))
 ```
 Gating co-ordinates for SDY144
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/MemoryCD4_CD8/SDY144_config.png)
+![alt text](SDY144_config.png)
 
 Gating hierarchy used to identify the cell populations (example: SUB118176 at Day 28)
 ![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/MemoryCD4_CD8/SDY144_1.png)
