@@ -1,0 +1,423 @@
+---
+title: "SDY67"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+---
+
+#{.tabset}
+
+## SDY67: B-cells panel
+[SDY67](https://www.immport.org/shared/study/SDY67) related published articles are [1](https://www.ncbi.nlm.nih.gov/pubmed/25816015?dopt=Abstract), [2](https://www.ncbi.nlm.nih.gov/pubmed/27031986?dopt=Abstract), [3](https://www.ncbi.nlm.nih.gov/pubmed/27441275?dopt=Abstract) and [4](https://www.ncbi.nlm.nih.gov/pubmed/29130882?dopt=Abstract)
+
+#### A) Gating Hierarchy and Cell Populations
+
+* CD19+ CD3- Bcells
+* IgD- CD27-
+* IgD+ CD27-
+* IgD- CD27+
+* IgD+ CD27+ NonClassswitched
+* Plasmablasts and Plasma cells
+* Class switched memory cells
+* Translational Bcells
+* Naive Bcells
+
+![B-cell panel gating hierarchy](/Volumes/Samsung_T5/Immport_UH2/SDY67/Bcell/fig.png)
+
+```{r, include=FALSE,echo=FALSE, message=FALSE}
+library(RImmPort)
+library(DBI)
+library(plyr)
+library(RSQLite)
+library("openxlsx")
+library(readr)
+library(stringr)
+library(kableExtra)
+library(knitr)
+library(reshape2)
+library(ggplot2)
+#devtools::install_github("terrysun0302/FastMix", build_vignettes = TRUE,force = TRUE)
+library("FastMix")
+library(openxlsx)
+library(Biobase)
+library(biomaRt)
+require(ensembldb)
+require(DESeq2)
+library(ReactomePA)
+library(VennDiagram)
+library(psych)
+library(gridExtra)
+library(ggpubr)
+```
+
+#### B) Metadata
+```{r, include=FALSE, echo=FALSE}
+sdy <- "SDY67"
+##Set tab_dir to the folder where the study files are located
+studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2"),sdy,"Study")
+tab_dir <- file.path(studies_dir,"Tab")
+list.files(tab_dir)
+
+##Set db dir to the folder where the database file "ImmPort.sqlite" should be stored
+db_dir <- file.path(studies_dir,"Db")
+
+##Build a local SQLite ImmPort database instance
+#buildNewSqliteDb(tab_dir, db_dir)
+list.files(db_dir)
+
+######
+sqlite_conn <- dbConnect(SQLite(), dbname=file.path(db_dir, "ImmPort.sqlite"))
+setImmPortDataSource(sqlite_conn)
+getListOfStudies()
+```
+
+```{r, include=FALSE, echo=FALSE}
+fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsample_accession, b.file_info_id,
+                            c.biosample_accession, c.expsample_accession, 
+                            d.biosample_accession, d.study_time_collected, d.subject_accession, d.type,
+                            e.subject_accession, e.max_subject_age,
+                            f.arm_accession, f.subject_accession,
+                            g.arm_accession, g.description,
+                            h.subject_accession, h.ethnicity, h.gender, h.race
+                            FROM file_info a
+                            INNER JOIN expsample_2_file_info b
+                            ON a.file_info_id = b.file_info_id
+                            INNER JOIN expsample_2_biosample c
+                            ON c.expsample_accession = b.expsample_accession
+                            INNER JOIN biosample d
+                            ON d.biosample_accession = c.biosample_accession
+                            INNER JOIN arm_2_subject e
+                            ON e.subject_accession = d.subject_accession
+                            INNER JOIN arm_2_subject f
+                            ON f.subject_accession = d.subject_accession
+                            INNER JOIN arm_or_cohort g
+                            ON g.arm_accession = f.arm_accession
+                            INNER JOIN subject h
+                            ON h.subject_accession = d.subject_accession
+                            AND a.name LIKE '%.fcs%'
+                            AND a.name NOT LIKE '%Compensation%';")
+fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
+fcs_meta_Data <- unique(fcs_meta_Data[,-c(4,6,7,11,13,14,17)])
+header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY67/Header_SDY67.xlsx",sheet=1)
+colnames(header_info)[1] <- "name" 
+mm_sdy67 <- merge(fcs_meta_Data, header_info, by="name")
+final_tab_sdy67 <- mm_sdy67[which(mm_sdy67$Panel == "3"),]
+#write.csv(final_tab_sdy67,"/Volumes/Samsung_T5/Immport_UH2/SDY67/Meta_Data_Panel_Panel2.csv")
+```
+
+```{r,message=FALSE,echo=FALSE, results=TRUE}
+print(head(final_tab_sdy67[,1:13]))
+```
+
+#### C) Merging meta data and Cell Proportions {.tabset}
+The cell proportions are calculated with Live Leukocytes in population 1 as the parent. 
+```{r, inlcude=FALSE, message=FALSE, echo=FALSE}
+cell_props <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY67/Bcell/Bcells.xlsx",sheet=7)
+colnames(cell_props)[1] <- "name" 
+
+Final_table <- merge(cell_props,final_tab_sdy67[,1:13],by='name',all=TRUE,sort=TRUE)
+
+Final_table[,c(10,11,12,13,14,15,21,22)] <- lapply(Final_table[,c(10,11,12,13,14,15,21,22)],as.factor)
+
+Final_table <- Final_table %>% mutate(Age_cat=cut(as.numeric(max_subject_age),breaks = c(0,59,100),labels=c("young","old")))
+
+```
+
+##### Description
+There are 621 FCS files from 149 subjects. 
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+lapply(Final_table[,c(14,15)],table)
+lapply(unique(Final_table[,c(15,17,21,22,23)])[,-1],table)
+```
+
+##### Plots
+```{r, inlcude=FALSE, message=FALSE, echo=FALSE}
+CP_gender <- melt(Final_table[,c(1:10,14:15,21)])
+CP_age <- melt(Final_table[,c(1:10,14:15,23)])
+```
+
+```{r, message=FALSE, out.width="100%",echo=FALSE, results=TRUE}
+ggplot(CP_gender,aes(x=study_time_collected,y=value))+geom_boxplot()+facet_wrap(~variable,scales = "free")+xlab("Visit in Days")+ylab("cell proportions")+ggtitle("Cell proportions across cell populations")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+ggplot(CP_gender,aes(x=study_time_collected,y=value,color=gender,fill=gender))+geom_boxplot(alpha=0.3)+facet_wrap(~variable,scales = "free")+xlab("Visit in Days")+ylab("cell proportions")+ggtitle("Cell proportions across cell populations")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+ggplot(CP_age,aes(x=study_time_collected,y=value,color=Age_cat,fill=Age_cat))+geom_boxplot(alpha=0.3)+facet_wrap(~variable,scales = "free")+xlab("Visit in Days")+ylab("cell proportions")+ggtitle("Cell proportions across cell populations")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+#### D) Antibody titer {.tabset}
+**seroprotection** refers to those individuals with a titer of 1:40 or better. 
+**Seroconversion** is defined as an increase in HI titer following vaccination of fourfold or greater.
+**Multiplicity factor** is an increase compared to baseline with 2.5 or greater.
+```{r, message=FALSE, include=FALSE}
+#ab titer
+hai <- as.data.frame(read_tsv("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/hai_result.txt"))
+nai <- as.data.frame(read_tsv("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/neut_ab_titer_result.txt"))
+nai_cast <- dcast(nai,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
+hai_cast <- dcast(hai,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
+hai_cast$STUDY_TIME_COLLECTED <- as.factor(hai_cast$STUDY_TIME_COLLECTED)
+nai_cast$STUDY_TIME_COLLECTED <- as.factor(nai_cast$STUDY_TIME_COLLECTED)
+```
+
+##### HAI
+```{r, message=FALSE,out.width="60%",echo=FALSE, results=TRUE}
+#quartz()
+ggplot(data=hai_cast[,c(1:3)],aes(x=STUDY_TIME_COLLECTED,y=hai_cast$`A/California/07/2009`))+geom_boxplot()+xlab("Day")+ylab("A/California/07/2009")+labs(fill="Response")+ggtitle("HAI_California_2009")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+#quartz()
+ggplot(data=hai_cast[,c(1:2,4)],aes(x=STUDY_TIME_COLLECTED,y=hai_cast$`A/Perth/16/2009`))+geom_boxplot()+xlab("Day")+ylab("A/Perth/16/2009")+labs(fill="Response")+ggtitle("HAI_Perth_2009")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+##### NAI
+```{r, message=FALSE,out.width="60%",echo=FALSE, results=TRUE}
+#quartz()
+ggplot(data=nai_cast[,c(1:3)],aes(x=nai_cast[,2],y=nai_cast[,3]))+geom_boxplot()+xlab("Day")+ylab("A/California/07/2009")+labs(fill="Response")+ggtitle("NAI_California_2009")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+```{r, include=FALSE, echo=FALSE, message=FALSE}
+hai_cast$Geometric_mean <- apply(hai_cast[,3:4],1,function(x) geometric.mean(x,na.rm=TRUE))
+
+hai_cast_resp <- dcast(hai_cast,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
+
+hai_cast_resp$FoldChange <- hai_cast_resp$`28`/(hai_cast_resp$`0`+0.00001)
+
+hai_cast_resp$responder28 <- cut(hai_cast_resp$`28`, breaks = c(0,40,max(na.omit(hai_cast_resp$`28`))), labels=c("NonResponder","Responder"))
+
+colnames(hai_cast_resp)[1] <- "subject_accession"
+```
+
+#### E) Correlation between titer and cell proportions
+```{r, message=FALSE, echo=FALSE, include=FALSE}
+Final_table$study_time_collected <- paste0("Day_",Final_table$study_time_collected)
+melt_Final_table<- melt(Final_table[,-c(11,12,13,16,18,19,20,21,22,23)],id=c("name","study_time_collected","subject_accession","max_subject_age"))
+colnames(melt_Final_table)[5:6] <- c("CellType","CellProportion")
+melt_Final_table$CellProportion <- as.numeric(melt_Final_table$CellProportion)
+cast_melt_Final_table <- dcast(melt_Final_table,subject_accession+max_subject_age+CellType~study_time_collected,value.var='CellProportion',fun.aggregate = mean)
+#cast_melt_Final_table <- cast_melt_Final_table[which(cast_melt_Final_table$subject_accession!="SUB118169"),]
+#colnames(resp_sdy144)[1] <- "subject_accession"
+melt_Final_table <- left_join(cast_melt_Final_table, hai_cast_resp, by='subject_accession')
+melt_Final_table$Age_cat <- cut(melt_Final_table$max_subject_age, breaks = c(0,60,120), labels = c("young","old"))
+melt_Final_table_melt <- melt(melt_Final_table,id=c("subject_accession","max_subject_age","CellType","0","3","28","75","FoldChange","responder28","Age_cat"))
+```
+
+```{r, message=FALSE,echo=FALSE, warning=FALSE,out.width="60%", results=TRUE}
+for(i in 1:length(unique(melt_Final_table$CellType))){
+  data <- melt_Final_table[melt_Final_table$CellType == unique(melt_Final_table$CellType)[i],]
+  #data$variable <- factor(data$variable,levels = c("Day_0","Day_1","Day_7","Day_28"))
+  data_m <- melt_Final_table_melt[melt_Final_table_melt$CellType == unique(melt_Final_table_melt$CellType)[i],]
+  data_m$variable <- factor(data_m$variable,levels = c("Day_0","Day_3","Day_28","Day_75"))
+#p <- ggplot(na.omit(data_m),aes(x=variable,y=value, group=subject_accession, color=responder28))+geom_line()+geom_point()+ggtitle(paste0("Cell Proportions across visits for ",unique(melt_Final_table$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")
+#print(p)
+  
+p <- ggplot(na.omit(data_m),aes(x=variable,y=value, fill=responder28))+geom_boxplot()+ggtitle(paste0("Cell Proportions across visits for ",unique(melt_Final_table$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+print(p)
+
+p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(melt_Final_table$CellType)[i]," at Day 0"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+  p2<-ggscatter(data,x="Day_3",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(melt_Final_table$CellType)[i]," at Day 3"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p3<-ggscatter(data,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(melt_Final_table$CellType)[i]," at Day 28"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+    p4<-ggscatter(data,x="Day_75",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(melt_Final_table$CellType)[i]," at Day 75"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  grid.arrange(p1,p2,p3,p4, ncol=2)
+  }
+```
+
+## SDY67: Dendritic cells panel
+[SDY67](https://www.immport.org/shared/study/SDY67) related published articles are [1](https://www.ncbi.nlm.nih.gov/pubmed/25816015?dopt=Abstract), [2](https://www.ncbi.nlm.nih.gov/pubmed/27031986?dopt=Abstract), [3](https://www.ncbi.nlm.nih.gov/pubmed/27441275?dopt=Abstract) and [4](https://www.ncbi.nlm.nih.gov/pubmed/29130882?dopt=Abstract)
+
+#### A) Gating Hierarchy and Cell Populations
+
+* CD3+ CD56- Tcells
+* CD3- CD56+ NK cells
+* CD20+ Bcells
+* CD16+ Neutrophils
+* CD14+ Monocytes
+* CD3- CD20- CD14- HLA-DR+ Dendritic cells
+* CD11c- CD123+ pDC
+* CD11c+ CD16- mDC
+* CD11c+ CD16+ mDC
+   
+![alt text](/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells1.png)
+![alt text](/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells2.png)
+![alt text](/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells3.png)
+#### B) Metadata
+```{r, include=FALSE, echo=FALSE}
+sdy <- "SDY67"
+##Set tab_dir to the folder where the study files are located
+studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2"),sdy,"Study")
+tab_dir <- file.path(studies_dir,"Tab")
+list.files(tab_dir)
+
+##Set db dir to the folder where the database file "ImmPort.sqlite" should be stored
+db_dir <- file.path(studies_dir,"Db")
+
+##Build a local SQLite ImmPort database instance
+#buildNewSqliteDb(tab_dir, db_dir)
+list.files(db_dir)
+
+######
+sqlite_conn <- dbConnect(SQLite(), dbname=file.path(db_dir, "ImmPort.sqlite"))
+setImmPortDataSource(sqlite_conn)
+getListOfStudies()
+```
+
+```{r, include=FALSE, echo=FALSE}
+fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsample_accession, b.file_info_id,
+                            c.biosample_accession, c.expsample_accession, 
+                            d.biosample_accession, d.study_time_collected, d.subject_accession, d.type,
+                            e.subject_accession, e.max_subject_age,
+                            f.arm_accession, f.subject_accession,
+                            g.arm_accession, g.description,
+                            h.subject_accession, h.ethnicity, h.gender, h.race
+                            FROM file_info a
+                            INNER JOIN expsample_2_file_info b
+                            ON a.file_info_id = b.file_info_id
+                            INNER JOIN expsample_2_biosample c
+                            ON c.expsample_accession = b.expsample_accession
+                            INNER JOIN biosample d
+                            ON d.biosample_accession = c.biosample_accession
+                            INNER JOIN arm_2_subject e
+                            ON e.subject_accession = d.subject_accession
+                            INNER JOIN arm_2_subject f
+                            ON f.subject_accession = d.subject_accession
+                            INNER JOIN arm_or_cohort g
+                            ON g.arm_accession = f.arm_accession
+                            INNER JOIN subject h
+                            ON h.subject_accession = d.subject_accession
+                            AND a.name LIKE '%.fcs%'
+                            AND a.name NOT LIKE '%Compensation%';")
+fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
+fcs_meta_Data <- unique(fcs_meta_Data[,-c(4,6,7,11,13,14,17)])
+header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY67/Header_SDY67.xlsx",sheet=1)
+colnames(header_info)[1] <- "name" 
+mm_sdy67 <- merge(fcs_meta_Data, header_info, by="name")
+final_tab_sdy67 <- mm_sdy67[which(mm_sdy67$Panel == "2"),]
+#write.csv(final_tab_sdy67,"/Volumes/Samsung_T5/Immport_UH2/SDY67/Meta_Data_Panel_Panel2.csv")
+```
+
+```{r,message=FALSE,echo=FALSE, results=TRUE}
+print(head(final_tab_sdy67[,1:13]))
+```
+
+
+#### C) Merging meta data and Cell Proportions {.tabset}
+The cell proportions are calculated with Live Leukocytes in population 1 as the parent. 
+```{r, inlcude=FALSE, message=FALSE, echo=FALSE}
+cell_props <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DC_percentages.xlsx",sheet=4)
+colnames(cell_props)[1] <- "name" 
+
+Final_table <- merge(cell_props,final_tab_sdy67[,1:13],by='name',all=TRUE,sort=TRUE)
+
+Final_table[,c(1,11,12,13,14,15,21,22)] <- lapply(Final_table[,c(1,11,12,13,14,15,21,22)],as.factor)
+
+Final_table <- Final_table %>% mutate(Age_cat=cut(as.numeric(max_subject_age),breaks = c(0,59,100),labels=c("young","old")))
+
+```
+
+
+##### Description
+There are 439 FCS files from 147 subjects. 
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+lapply(Final_table[,c(14,15)],table)
+lapply(unique(Final_table[,c(15,17,21,22,23)])[,-1],table)
+```
+
+##### Plots
+```{r, inlcude=FALSE, message=FALSE, echo=FALSE}
+CP_gender <- melt(Final_table[,c(1:10,14:15,21)])
+CP_age <- melt(Final_table[,c(1:10,14:15,23)])
+```
+
+```{r, message=FALSE, out.width="100%",echo=FALSE, results=TRUE}
+ggplot(CP_gender,aes(x=study_time_collected,y=value))+geom_boxplot()+facet_wrap(~variable,scales = "free")+xlab("Visit in Days")+ylab("cell proportions")+ggtitle("Cell proportions across cell populations")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+ggplot(CP_gender,aes(x=study_time_collected,y=value,color=gender,fill=gender))+geom_boxplot(alpha=0.3)+facet_wrap(~variable,scales = "free")+xlab("Visit in Days")+ylab("cell proportions")+ggtitle("Cell proportions across cell populations")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+ggplot(CP_age,aes(x=study_time_collected,y=value,color=Age_cat,fill=Age_cat))+geom_boxplot(alpha=0.3)+facet_wrap(~variable,scales = "free")+xlab("Visit in Days")+ylab("cell proportions")+ggtitle("Cell proportions across cell populations")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+#### D) Antibody titer {.tabset}
+**seroprotection** refers to those individuals with a titer of 1:40 or better. 
+**Seroconversion** is defined as an increase in HI titer following vaccination of fourfold or greater.
+**Multiplicity factor** is an increase compared to baseline with 2.5 or greater.
+```{r, message=FALSE, include=FALSE}
+#ab titer
+hai <- as.data.frame(read_tsv("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/hai_result.txt"))
+nai <- as.data.frame(read_tsv("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/neut_ab_titer_result.txt"))
+nai_cast <- dcast(nai,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
+hai_cast <- dcast(hai,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
+hai_cast$STUDY_TIME_COLLECTED <- as.factor(hai_cast$STUDY_TIME_COLLECTED)
+nai_cast$STUDY_TIME_COLLECTED <- as.factor(nai_cast$STUDY_TIME_COLLECTED)
+```
+
+##### HAI
+```{r, message=FALSE,out.width="60%",echo=FALSE, results=TRUE}
+#quartz()
+ggplot(data=hai_cast[,c(1:3)],aes(x=STUDY_TIME_COLLECTED,y=hai_cast$`A/California/07/2009`))+geom_boxplot()+xlab("Day")+ylab("A/California/07/2009")+labs(fill="Response")+ggtitle("HAI_California_2009")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+#quartz()
+ggplot(data=hai_cast[,c(1:2,4)],aes(x=STUDY_TIME_COLLECTED,y=hai_cast$`A/Perth/16/2009`))+geom_boxplot()+xlab("Day")+ylab("A/Perth/16/2009")+labs(fill="Response")+ggtitle("HAI_Perth_2009")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+##### NAI
+```{r, message=FALSE,out.width="60%",echo=FALSE, results=TRUE}
+#quartz()
+ggplot(data=nai_cast[,c(1:3)],aes(x=nai_cast[,2],y=nai_cast[,3]))+geom_boxplot()+xlab("Day")+ylab("A/California/07/2009")+labs(fill="Response")+ggtitle("NAI_California_2009")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+```{r, include=FALSE, echo=FALSE, message=FALSE}
+hai_cast$Geometric_mean <- apply(hai_cast[,3:4],1,function(x) geometric.mean(x,na.rm=TRUE))
+
+hai_cast_resp <- dcast(hai_cast,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
+
+hai_cast_resp$FoldChange <- hai_cast_resp$`28`/(hai_cast_resp$`0`+0.00001)
+
+hai_cast_resp$responder28 <- cut(hai_cast_resp$`28`, breaks = c(0,40,max(na.omit(hai_cast_resp$`28`))), labels=c("NonResponder","Responder"))
+
+colnames(hai_cast_resp)[1] <- "subject_accession"
+```
+
+#### E) Correlation between titer and cell proportions
+```{r, message=FALSE, echo=FALSE, include=FALSE}
+Final_table$study_time_collected <- paste0("Day_",Final_table$study_time_collected)
+melt_Final_table<- melt(Final_table[,-c(11,12,13,16,18,19,20,21,22,23)],id=c("name","study_time_collected","subject_accession","max_subject_age"))
+colnames(melt_Final_table)[5:6] <- c("CellType","CellProportion")
+cast_melt_Final_table <- dcast(melt_Final_table,subject_accession+max_subject_age+CellType~study_time_collected,value.var='CellProportion',fun.aggregate = mean)
+#cast_melt_Final_table <- cast_melt_Final_table[which(cast_melt_Final_table$subject_accession!="SUB118169"),]
+#colnames(resp_sdy144)[1] <- "subject_accession"
+melt_Final_table <- left_join(cast_melt_Final_table, hai_cast_resp, by='subject_accession')
+melt_Final_table$Age_cat <- cut(melt_Final_table$max_subject_age, breaks = c(0,60,120), labels = c("young","old"))
+melt_Final_table_melt <- melt(melt_Final_table,id=c("subject_accession","max_subject_age","CellType","0","28","75","FoldChange","responder28","Age_cat"))
+```
+
+```{r, message=FALSE,echo=FALSE, warning=FALSE,out.width="60%",results=TRUE}
+for(i in 1:length(unique(melt_Final_table$CellType))){
+  data <- melt_Final_table[melt_Final_table$CellType == unique(melt_Final_table$CellType)[i],]
+  #data$variable <- factor(data$variable,levels = c("Day_0","Day_1","Day_7","Day_28"))
+  data_m <- melt_Final_table_melt[melt_Final_table_melt$CellType == unique(melt_Final_table_melt$CellType)[i],]
+  data_m$variable <- factor(data_m$variable,levels = c("Day_0","Day_3","Day_28"))
+#p <- ggplot(na.omit(data_m),aes(x=variable,y=value, group=subject_accession, color=responder28))+geom_line()+geom_point()+ggtitle(paste0("Cell Proportions across visits for ",unique(melt_Final_table$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")
+#print(p)
+  
+p <- ggplot(na.omit(data_m),aes(x=variable,y=value, fill=responder28))+geom_boxplot()+ggtitle(paste0("Cell Proportions across visits for ",unique(melt_Final_table$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+print(p)
+
+p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(melt_Final_table$CellType)[i]," at Day 0"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+  p2<-ggscatter(data,x="Day_3",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(melt_Final_table$CellType)[i]," at Day "))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p3<-ggscatter(data,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(melt_Final_table$CellType)[i]," at Day 28"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  grid.arrange(p1,p2,p3, ncol=2)
+  }
+```
+

@@ -1,0 +1,1056 @@
+---
+title: "MemoryBcells"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+---
+
+#{.tabset}
+
+##Background
+
+```{r,include=FALSE,message=FALSE}
+library(ggplot2)
+library(reshape2)
+library(dplyr)
+library(RImmPort)
+library(DBI)
+library(plyr)
+library(RSQLite)
+library(openxlsx)
+library(kableExtra)
+library(knitr)
+library(shiny)
+library(psych)
+library(gridExtra)
+library(ggpubr)
+library(lme4)
+library(IDPmisc)
+library(stringr)
+library(viridis)
+```
+
+SDY144, SDY364, SDY368, SDY387, SDY180, SDY372 were used for this analysis from [ImmPort database](https://www.immport.org/shared/home). Gating hierarchy followed from [here](https://www.bdbiosciences.com/documents/Bcell_Brochure.pdf) on page number 6 and 7 and [here](https://www.google.com/imgres?imgurl=https://www.frontiersin.org/files/Articles/32082/fimmu-03-00302-r2/image_m/fimmu-03-00302-g001.jpg&imgrefurl=https://www.frontiersin.org/articles/10.3389/fimmu.2012.00302/full&tbnid=cThSyuceTw2K4M&vet=1&docid=DzzekIm9Q7saqM&w=1181&h=882&q=b+cell+subsets+gating+hierarchy+plasmablasts,+memory+effector+cd27+vs+igd&source=sh/x/im).
+
+Another useful [link](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.b.20536).
+
+```{r, include=FALSE}
+cell_summ <- data.frame(CellPopulation = c("B-cells","Non-memory B-cells","Memory B-cells","Class-switched Memory B-cells","Non-class-switched memory B-cells","Plasmablasts/PlasmaCells","Plasmablasts","Plasma cells","Double negative memory B-cells","Naive B-cells","Translational B-cells"), CellDefinition=c("CD19+ CD3CD14-","CD19+ CD3CD14- CD27-","CD19+ CD3CD14- CD27+","CD19+ CD3CD14- IgD- CD27+","CD19+ CD3CD14- IgD+ CD27+", "CD19+ CD3CD14- IgD- CD27+ CD38Hi CD27Hi","CD19+ CD3CD14- IgD- CD27+ CD38Hi CD27Hi CD138-","CD19+ CD3CD14- IgD- CD27+ CD38Hi CD27Hi CD138+","CD19+ CD3CD14- IgD- CD27-","CD19+ CD3CD14- IgD+ CD27-","CD19+ CD3CD14- CD38+ CD24+"))
+```
+
+```{r,echo=FALSE, results=TRUE}
+kable(cell_summ) %>%
+  kable_styling(full_width = F,c("striped","bordered")) %>%
+  row_spec(1:9,hline_after = TRUE) %>%
+  column_spec(1:ncol(cell_summ),border_left = T, border_right = T)
+```
+
+The table below summarizes the studies and the markers used in each study. 
+```{r, include=FALSE}
+summ <- data.frame(Studies = c("SDY144","SDY364","SDY368","SDY387","SDY180","SDY80","SDY372"), MarkersStudied=c("FSC-A, FSC_W, FSC_H, SSC-A, SSC_W, SSC_H, IgD, CD24, CD19, CD20, CD38, CD86, CD45, CD138, CD3CD14, CD27","FSC-A,FSC-H,FSC-W,SSC-A,SSC-H,SSC-W,IgD,CD24,CD19,CD20,CD38,CD86,CD45,CD138,CD3CD14,CD27","FSC-A, FSC-H, FSC-W, SSC-A, SSC-H, SSC-W, IgD, CD24, CD19, CD20, CD38, CD86, CD45, CD138, CD3CD14, CD27","FSC-A, FSC_W, FSC_H, SSC-A, SSC_W, SSC_H, IgD, CD24, CD19, CD20, CD38, CD86, CD45, CD138, CD3-CD14, CD27","FSC-A, FSC-H, SSC-A, SSC-H, IgD, CD45, CD138, CD27, CD24, CD19, CD20, CD38","FSC-A, SSC-A, IgA, CD86, CD21, CD38, IgG, CD20, CD23, IgD, IgM, CD10, CD80, Viability, CD27, CD19, CD45","FSC-A, FSC-H, SSC-A, SSC-H, IgD, CD24, CD19 CD20, CD38, CD138, CD3/14, CD27, HLA-DR, CD45"),TimePoints=c("Day0, Day1, Day7, Day28","Day0, Day1, Day7, Day28","Day0, Day1, Day7, Day28","Day0, Day7, Day28, Day90, Day180","Day-7, Day0, Day0.5, Day1, Day3, Day7, Day10, Day28","","Day0, Day7, Day28, Day90"), NumberOfSubjects=c("17","23","22","20","36","","17"),Neutralization =c("Yes (for Day0 and Day30)","Yes (for Day0 and Day28)","Yes (for Day0 and Day28)","Yes (for Day0 and Day28)","Yes (for Day -7, Day0 and Day28)","Yes (for Day -7, Day0 and Day28)","Yes (Day0, Day28 and Day90)"),HAI=c("Yes (for Day0 and Day30)","Yes (for Day0 and Day28)","Yes (for Day0 and Day28)","Yes (for Day0 and Day28)","Yes (for Day -7, Day0, Day14 and Day28)","No","Yes (Day0 , Day28 and Day90)"), GeneExpressionData=c("Yes (MA)","Yes (MA)","Yes (MA)","Yes (MA)","Yes (MA)","No","Yes (MA)"))
+```
+
+
+```{r,echo=FALSE, results=TRUE}
+kable(summ) %>%
+  kable_styling(full_width = F,c("striped","bordered"),fixed_thead = TRUE) %>%
+  row_spec(1:7,hline_after = TRUE) %>%
+  column_spec(2, width="0.5cm") %>%
+  column_spec(1:ncol(summ),border_left = T, border_right = T) 
+  
+```
+
+##SDY144
+[SDY144](https://www.immport.org/shared/study/SDY144) - Systems Biology Approach to Study Influenza Vaccine 2011-12 in Healthy Children (see companion studies SDY364, SDY368, SDY387). Related published article can be accessed [here](https://academic.oup.com/jid/article/210/2/224/2908549). 
+There are 62 files from 17 subjects in B cell panel.
+
+###MetaData
+MetaData is extracted from the ImmPort data schema by querying the local database. First we build a local SQLite database instance and then query the database. The table below shows the filtered out data. To retrieve this meta data, file_info, expsample_2_file_info, expsample_2_biosample, biosample, arm_2_subject and subject tables were queried from the database. The table below shows metadata for the files in SDY144 B-cell panel.
+```{r, include=FALSE}
+sdy <- "SDY144"
+##Set tab_dir to the folder where the study files are located
+studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1"),sdy,"Study")
+tab_dir <- file.path(studies_dir,"Tab")
+list.files(tab_dir)
+
+##Set db dir to the folder where the database file "ImmPort.sqlite" should be stored
+db_dir <- file.path(studies_dir,"Db")
+
+##Build a local SQLite ImmPort database instance
+#buildNewSqliteDb(tab_dir, db_dir)
+list.files(db_dir)
+
+sqlite_conn <- dbConnect(SQLite(), dbname=file.path(db_dir, "ImmPort.sqlite"))
+setImmPortDataSource(sqlite_conn)
+getListOfStudies()
+```
+
+```{r, include=FALSE, message=FALSE, warning=FALSE}
+fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsample_accession, b.file_info_id,
+                            c.biosample_accession, c.expsample_accession, 
+                            d.biosample_accession, d.study_time_collected, d.subject_accession, d.type,
+                            e.subject_accession, e.max_subject_age,  f.ethnicity, f.race, f.description
+                            FROM file_info a
+                            INNER JOIN expsample_2_file_info b
+                            ON a.file_info_id = b.file_info_id
+                            INNER JOIN expsample_2_biosample c
+                            ON c.expsample_accession = b.expsample_accession
+                            INNER JOIN biosample d
+                            ON d.biosample_accession = c.biosample_accession
+                            INNER JOIN arm_2_subject e
+                            ON e.subject_accession = d.subject_accession
+                            INNER JOIN subject f
+                            ON f.subject_accession = e.subject_accession
+                            AND a.name LIKE '%.fcs%'
+                            AND a.name NOT LIKE '%Compensation%';")
+```
+
+```{r, include=FALSE}
+fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,5,6)])
+header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY144/Analysis/Header_SDY144.xlsx",sheet=1)                            
+#colnames(header_info)[1] <- "name" 
+mm_sdy144 <- merge(fcs_meta_Data, header_info, by="name")
+final_tab_sdy144 <- mm_sdy144[which(mm_sdy144$Panel == "NCH_2011_FLOW_Bcell"),]
+#write.xlsx(final_tab_sdy144,"/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY144/Analysis/NCH_2011_FLOW_Bcell/MetaData_Bcells_SDY144.xlsx", row.names=TRUE)
+```
+
+```{r,echo=FALSE, results=TRUE}
+kable(final_tab_sdy144)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+All the files from SDY144 B-cell panel were used in the analysis. Table below shows subjects' data used in the analysis and the number of files in each visit. 0 represents missing data for that subject and visit
+```{r,warning=FALSE,message=FALSE,echo=FALSE, results=TRUE}
+kable(dcast(final_tab_sdy144[,c(1,5,6)],subject_accession~study_time_collected,fun.aggregate = length))%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Data Description: 
+There are 62 files from 17 subjects. Below is the data summary for the files, showing the number of files for each covariate.
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+lapply(final_tab_sdy144[,-c(1,2,3,4,7,12,13,14,15)],table)
+```
+
+
+###Ab titer
+Antibody titer for SDY144: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
+```{r, include=FALSE}
+ab_titer_sdy144 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY144/Study/Tab/SDY144-DR28_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_d_sdy144 <- dcast(ab_titer_sdy144,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
+ab_titer_d_sdy144$Geometric_mean <- apply(ab_titer_d_sdy144[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
+resp_sdy144 <- dcast(ab_titer_d_sdy144,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
+resp_sdy144$FoldChange <- resp_sdy144$`30`/(resp_sdy144$`0`+0.00001)
+resp_sdy144$responder0 <- cut(resp_sdy144$`0`, breaks = c(0,40,max(na.omit(resp_sdy144$`0`))), labels=c("NonResponder","Responder"))
+resp_sdy144$responder30 <- cut(resp_sdy144$`30`, breaks = c(0,40,max(na.omit(resp_sdy144$`30`))), labels=c("NonResponder","Responder"))
+resp_sdy144$responderFC <- cut(resp_sdy144$FoldChange, breaks = c(0,4,max(na.omit(resp_sdy144$FoldChange))), labels = c("NonResponder","Responder"))
+resp_sdy144$responder_Day0_FC <- ifelse(resp_sdy144$responder0 == "Responder" | resp_sdy144$responderFC == "Responder","Responder","NonResponder")
+colnames(resp_sdy144)[1] <- "subject_accession"
+```
+
+```{r,echo=FALSE, results=TRUE}
+###Print the ab titer table
+kable(resp_sdy144)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day30 titer (> 40 is a responder)
+```{r,echo=FALSE, results=TRUE}
+melt_response <- melt(resp_sdy144[,c(1:3,6)],id=c("subject_accession","responder30"))
+ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder30))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+
+###Cell Populations:
+Gating co-ordinates for SDY144
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_config.png)
+Gating hierarchy used to identify the cell populations (example: SUB118176 at Day 7)
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_1.png)
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_2.png)
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_3.png)
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_4.png)
+```{r, include=FALSE}
+#####Read the files########
+sdy144 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_MemoryBcells.xlsx",sheet=2)[,-1]
+sdy144$study_time_collected <- paste0("Day_",sdy144$study_time_collected)
+melt_sdy144 <- melt(sdy144,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
+colnames(melt_sdy144)[6:7] <- c("CellType","CellProportion")
+cast_sdy144 <- dcast(melt_sdy144,subject_accession+max_subject_age+CellType+Study~study_time_collected,value.var='CellProportion',fun.aggregate = mean)
+cast_sdy144 <- cast_sdy144[which(cast_sdy144$subject_accession!="SUB118169"),]
+colnames(resp_sdy144)[1] <- "subject_accession"
+data_sdy144 <- left_join(cast_sdy144, resp_sdy144, by='subject_accession')
+data_sdy144$Age_cat <- cut(data_sdy144$max_subject_age, breaks = c(0,60,120), labels = c("young","old"))
+melt_data_sdy144 <- melt(data_sdy144[,-c(12,14,15)],id=c("subject_accession","max_subject_age","CellType","Study","0","30","FoldChange","responder30","Age_cat"))
+```
+
+```{r, warning=FALSE, message=FALSE,echo=FALSE, results=TRUE}
+for(i in 1:length(unique(data_sdy144$CellType))){
+  data <- data_sdy144[data_sdy144$CellType == unique(data_sdy144$CellType)[i],]
+  #data$variable <- factor(data$variable,levels = c("Day_0","Day_1","Day_7","Day_28"))
+  data_m <- melt_data_sdy144[melt_data_sdy144$CellType == unique(data_sdy144$CellType)[i],]
+  data_m$variable <- factor(data_m$variable,levels = c("Day_0","Day_1","Day_7","Day_28"))
+
+  p <- ggplot(na.omit(data_m),aes(x=variable,y=value, group=subject_accession, color=responder30))+geom_line()+geom_point()+ggtitle(paste0("Cell Proportions across visits for ",unique(data_sdy144$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+print(p)
+
+  p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy144$CellType)[i]," at Day 0"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p2<-ggscatter(data,x="Day_1",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy144$CellType)[i]," at Day 1"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p3<-ggscatter(data,x="Day_7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy144$CellType)[i]," at Day 7"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p4<-ggscatter(data,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy144$CellType)[i]," at Day 28"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  grid.arrange(p1,p2,p3,p4, ncol=2)
+  }
+```
+
+##SDY364
+[SDY364](https://www.immport.org/shared/study/SDY364) - Systems Biology Approach to Study Influenza Vaccine 2012-13 in Healthy Children (see companion studies SDY144, SDY368, SDY387). 
+The Bcells panel has 17 subjects
+
+###MetaData
+MetaData is extracted from the ImmPort data schema by querying the local database. First we build a local SQLite database instance and then query the database. The table below shows the filtered out data. To retrieve this meta data, file_info, expsample_2_file_info, expsample_2_biosample, biosample, arm_2_subject and subject tables were queried from the database. The table below shows metadata for the files in SDY364 B-cell panel.
+
+```{r, include=FALSE}
+sdy <- "SDY364"
+##Set tab_dir to the folder where the study files are located
+studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1"),sdy,"Study")
+tab_dir <- file.path(studies_dir,"Tab")
+list.files(tab_dir)
+
+##Set db dir to the folder where the database file "ImmPort.sqlite" should be stored
+db_dir <- file.path(studies_dir,"Db")
+
+##Build a local SQLite ImmPort database instance
+#buildNewSqliteDb(tab_dir, db_dir)
+list.files(db_dir)
+
+sqlite_conn <- dbConnect(SQLite(), dbname=file.path(db_dir, "ImmPort.sqlite"))
+setImmPortDataSource(sqlite_conn)
+getListOfStudies()
+```
+
+```{r, include=FALSE, message=FALSE, warning=FALSE}
+fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsample_accession, b.file_info_id,
+                            c.biosample_accession, c.expsample_accession, 
+                            d.biosample_accession, d.study_time_collected, d.subject_accession, d.type,
+                            e.subject_accession, e.max_subject_age,  f.ethnicity, f.race, f.description
+                            FROM file_info a
+                            INNER JOIN expsample_2_file_info b
+                            ON a.file_info_id = b.file_info_id
+                            INNER JOIN expsample_2_biosample c
+                            ON c.expsample_accession = b.expsample_accession
+                            INNER JOIN biosample d
+                            ON d.biosample_accession = c.biosample_accession
+                            INNER JOIN arm_2_subject e
+                            ON e.subject_accession = d.subject_accession
+                            INNER JOIN subject f
+                            ON f.subject_accession = e.subject_accession
+                            AND a.name LIKE '%.fcs%'
+                            AND a.name NOT LIKE '%Compensation%';")
+```
+
+
+```{r, include=FALSE}
+fcs_meta_Data <- unique(fcs_meta_Data[,-c(3,4,5)])
+header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY364/FCS/Header_SDY364.xlsx",sheet=1)                            
+#colnames(header_info)[1] <- "name" 
+mm_sdy364 <- merge(fcs_meta_Data, header_info, by="name")
+final_tab_sdy364 <- mm_sdy364[which(mm_sdy364$Panel == "B"),]
+#write.xlsx(final_tab_sdy364,"/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY364/FCS/B/MetaData_Bcells_SDY364.xlsx", row.names=TRUE)
+```
+
+```{r,echo=FALSE, results=TRUE}
+kable(final_tab_sdy364)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+All the files from SDY364 B-cell panel were used in the analysis. Table below shows subjects' data used in the analysis and the number of files in each visit. 0 represents missing data for that subject and visit
+```{r,warning=FALSE,message=FALSE,echo=FALSE, results=TRUE}
+kable(dcast(final_tab_sdy364[,c(1,5,6)],subject_accession~study_time_collected,fun.aggregate = length))%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Data Description: 
+There are 87 files from 23 subjects. Below is the data summary for the files, showing the number of files for each covariate.
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+lapply(final_tab_sdy364[,-c(1,2,3,4,8,12,13,14,15,16)],table)
+```
+
+
+###Antibody titer
+Antibody titer for SDY364: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
+```{r, include=FALSE}
+ab_titer_sdy364 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY364/Study/Tab/SDY364-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_d_sdy364 <- dcast(ab_titer_sdy364,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
+ab_titer_d_sdy364$Geometric_mean <- apply(ab_titer_d_sdy364[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
+resp_sdy364 <- dcast(ab_titer_d_sdy364,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
+resp_sdy364$FoldChange <- resp_sdy364$`28`/(resp_sdy364$`0`+0.00001)
+resp_sdy364$responder0 <- cut(resp_sdy364$`0`, breaks = c(0,40,max(na.omit(resp_sdy364$`0`))), labels=c("NonResponder","Responder"))
+resp_sdy364$responder28 <- cut(resp_sdy364$`28`, breaks = c(0,40,max(na.omit(resp_sdy364$`28`))), labels=c("NonResponder","Responder"))
+resp_sdy364$responderFC <- cut(resp_sdy364$FoldChange, breaks = c(0,4,max(na.omit(resp_sdy364$FoldChange))), labels = c("NonResponder","Responder"))
+resp_sdy364$responder_Day0_FC <- ifelse(resp_sdy364$responder0 == "Responder" | resp_sdy364$responderFC == "Responder","Responder","NonResponder")
+colnames(resp_sdy364)[1] <- "subject_accession"
+```
+
+```{r,include=FALSE}
+###Print the ab titer table
+kable(resp_sdy364)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder)
+```{r,echo=FALSE, results=TRUE}
+melt_response <- melt(resp_sdy364[,c(1:3,6)],id=c("subject_accession","responder28"))
+ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+###Cell Proportions
+Gating co-ordinates for SDY364
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_config.png)
+
+
+Gating hierarchy used to identify the cell populations (example: SUB135685 at Day 1 )
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_1.png)
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_2.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_3.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_4.png)
+```{r, include=FALSE}
+#####Read the files########
+sdy364 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_MemoryBcells.xlsx",sheet=2)[,-1]
+sdy364$study_time_collected <- paste0("Day_",sdy364$study_time_collected)
+melt_sdy364 <- melt(sdy364,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
+colnames(melt_sdy364)[6:7] <- c("CellType","CellProportion")
+cast_sdy364 <- dcast(melt_sdy364,subject_accession+max_subject_age+CellType+Study~study_time_collected,value.var='CellProportion',fun.aggregate = mean)
+colnames(resp_sdy364)[1] <- "subject_accession"
+data_sdy364 <- left_join(cast_sdy364, resp_sdy364, by='subject_accession')
+data_sdy364$Age_cat <- cut(data_sdy364$max_subject_age, breaks = c(0,60,120), labels = c("young","old"))
+melt_data_sdy364 <- melt(data_sdy364[,-c(8,13,15,16)],id=c("subject_accession","max_subject_age","CellType","Study","0","28","FoldChange","responder28","Age_cat"))
+```
+
+```{r, warning=FALSE, message=FALSE,echo=FALSE, results=TRUE}
+for(i in 1:length(unique(data_sdy364$CellType))){
+  data <- data_sdy364[data_sdy364$CellType == unique(data_sdy364$CellType)[i],]
+  #data$variable <- factor(data$variable,levels = c("Day_0","Day_1","Day_7","Day_28","Day_40"))
+  data_m <- melt_data_sdy364[melt_data_sdy364$CellType == unique(data_sdy364$CellType)[i],]
+  data_m$variable <- factor(data_m$variable,levels = c("Day_0","Day_1","Day_7","Day_28","Day_40"))
+p <- ggplot(na.omit(data_m),aes(x=as.factor(variable),y=value, group=subject_accession, color=responder28))+geom_line()+geom_point()+ggtitle(paste0("Cell Proportions across visits for ",unique(data_sdy364$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+print(p)
+  p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy364$CellType)[i]," at Day 0"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p2<-ggscatter(data,x="Day_1",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy364$CellType)[i]," at Day 1"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p3<-ggscatter(data,x="Day_7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy364$CellType)[i]," at Day 7"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p4<-ggscatter(data,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy364$CellType)[i]," at Day 28"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  grid.arrange(p1,p2,p3,p4, ncol=2)
+  }
+```
+
+##SDY368
+[SDY368](https://www.immport.org/shared/study/SDY368) - Systems Biology Approach to Study Influenza Vaccine 2012-13 in Healthy Children (see companion studies SDY144, SDY364, SDY387). 
+The Bcells panel has 22 subjects.
+
+###MetaData
+MetaData is extracted from the ImmPort data schema by querying the local database. First we build a local SQLite database instance and then query the database. The table below shows the filtered out data. To retrieve this meta data, file_info, expsample_2_file_info, expsample_2_biosample, biosample, arm_2_subject and subject tables were queried from the database. The table below shows metadata for the files in SDY368 B-cell panel.
+
+```{r, include=FALSE}
+sdy <- "SDY368"
+##Set tab_dir to the folder where the study files are located
+studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/"),sdy,"/Study")
+tab_dir <- file.path(studies_dir,"Tab")
+list.files(tab_dir)
+
+##Set db dir to the folder where the database file "ImmPort.sqlite" should be stored
+db_dir <- file.path(studies_dir,"Db")
+
+##Build a local SQLite ImmPort database instance
+#buildNewSqliteDb(tab_dir, db_dir)
+list.files(db_dir)
+
+sqlite_conn <- dbConnect(SQLite(), dbname=file.path(db_dir, "ImmPort.sqlite"))
+setImmPortDataSource(sqlite_conn)
+getListOfStudies()
+```
+
+```{r, include=FALSE, message=FALSE, warning=FALSE}
+fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsample_accession, b.file_info_id,
+                            c.biosample_accession, c.expsample_accession, 
+                            d.biosample_accession, d.study_time_collected, d.subject_accession, d.type,
+                            e.subject_accession, e.max_subject_age,  f.ethnicity, f.race, f.description
+                            FROM file_info a
+                            INNER JOIN expsample_2_file_info b
+                            ON a.file_info_id = b.file_info_id
+                            INNER JOIN expsample_2_biosample c
+                            ON c.expsample_accession = b.expsample_accession
+                            INNER JOIN biosample d
+                            ON d.biosample_accession = c.biosample_accession
+                            INNER JOIN arm_2_subject e
+                            ON e.subject_accession = d.subject_accession
+                            INNER JOIN subject f
+                            ON f.subject_accession = e.subject_accession
+                            AND a.name LIKE '%.fcs%'
+                            AND a.name NOT LIKE '%Compensation%';")
+
+fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
+```
+
+```{r, include=FALSE}
+fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,3,5)])
+header_info <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY368/SDY368mapping.txt",header=T)
+colnames(header_info)[1] <- "name" 
+mm_sdy368 <- merge(fcs_meta_Data, header_info, by="name")
+final_tab_sdy368 <- mm_sdy368[which(mm_sdy368$Panel == "B"),]
+#write.xlsx(final_tab_sdy368,"/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY368/B/MetaData_Bcells_SDY368.xlsx", row.names=TRUE)
+```
+
+```{r,echo=FALSE, results=TRUE}
+kable(final_tab_sdy368)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+All the files from SDY368 B-cell panel were used in the analysis. Table below shows subjects' data used in the analysis and the number of files in each visit. 0 represents missing data for that subject and visit
+```{r,warning=FALSE,message=FALSE,echo=FALSE, results=TRUE}
+kable(dcast(final_tab_sdy368[,c(1,5,6)],subject_accession~study_time_collected,fun.aggregate = length))%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Data Description: 
+There are 88 files from 22 subjects. Below is the data summary for the files, showing the number of files for each covariate.
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+lapply(final_tab_sdy368[,-c(1,2,3,4,8,12,13,14,15)],table)
+```
+
+###Antibody titer
+Antibody titer for SDY368: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
+```{r, include=FALSE}
+ab_titer_sdy368 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY368/Study/Tab/SDY368-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_d_sdy368 <- dcast(ab_titer_sdy368,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
+ab_titer_d_sdy368$Geometric_mean <- apply(ab_titer_d_sdy368[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
+resp_sdy368 <- dcast(ab_titer_d_sdy368,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
+resp_sdy368$FoldChange <- resp_sdy368$`28`/(resp_sdy368$`0`+0.00001)
+resp_sdy368$responder0 <- cut(resp_sdy368$`0`, breaks = c(0,40,max(na.omit(resp_sdy368$`0`))), labels=c("NonResponder","Responder"))
+resp_sdy368$responder28 <- cut(resp_sdy368$`28`, breaks = c(0,40,max(na.omit(resp_sdy368$`28`))), labels=c("NonResponder","Responder"))
+resp_sdy368$responderFC <- cut(resp_sdy368$FoldChange, breaks = c(0,4,max(na.omit(resp_sdy368$FoldChange))), labels = c("NonResponder","Responder"))
+resp_sdy368$responder_Day0_FC <- ifelse(resp_sdy368$responder0 == "Responder" | resp_sdy368$responderFC == "Responder","Responder","NonResponder")
+colnames(resp_sdy368)[1] <- "subject_accession"
+```
+
+```{r,echo=FALSE, results=TRUE}
+###Print the ab titer table
+kable(resp_sdy368)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder). ALl the subjects are responders. 
+```{r,echo=FALSE, results=TRUE}
+melt_response <- melt(resp_sdy368[,c(1:3,6)],id=c("subject_accession","responder28"))
+ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+Also looking at the response based on titer values at Day 0. 
+```{r,echo=FALSE, results=TRUE}
+melt_response <- melt(resp_sdy368[,c(1:3,5)],id=c("subject_accession","responder0"))
+ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+###Cell Proportions:
+Gating co-ordinates for SDY368
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_config.png)
+
+
+Gating hierarchy used to identify the cell populations (example: SUB135730 at Day 28)
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_1.png)
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_2.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_3.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_4.png)
+
+Colors indicate responder or non-repsonder based on the titer values at Day 0. 
+```{r, include=FALSE}
+#####Read the files########
+sdy368 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_MemoryBcells.xlsx",sheet=2)[,-1]
+sdy368$study_time_collected <- paste0("Day_",sdy368$study_time_collected)
+melt_sdy368 <- melt(sdy368,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
+colnames(melt_sdy368)[6:7] <- c("CellType","CellProportion")
+cast_sdy368 <- dcast(melt_sdy368,subject_accession+max_subject_age+CellType+Study~study_time_collected,value.var='CellProportion',fun.aggregate = mean)
+colnames(resp_sdy368)[1] <- "subject_accession"
+data_sdy368 <- left_join(cast_sdy368, resp_sdy368, by='subject_accession')
+data_sdy368$Age_cat <- cut(data_sdy368$max_subject_age, breaks = c(0,60,120), labels = c("young","old"))
+melt_data_sdy368 <- melt(data_sdy368[,-c(13,14,15)],id=c("subject_accession","max_subject_age","CellType","Study","0","28","FoldChange","responder0","Age_cat"))
+```
+
+```{r, warning=FALSE, message=FALSE,echo=FALSE, results=TRUE}
+for(i in 1:length(unique(data_sdy368$CellType))){
+  data <- data_sdy368[data_sdy368$CellType == unique(data_sdy368$CellType)[i],]
+  #data$variable <- factor(data$variable,levels = c("Day_0","Day_1","Day_7","Day_28","Day_40"))
+  data_m <- melt_data_sdy368[melt_data_sdy368$CellType == unique(data_sdy368$CellType)[i],]
+  data_m$variable <- factor(data_m$variable,levels = c("Day_0","Day_1","Day_7","Day_28","Day_40"))
+p <- ggplot(na.omit(data_m),aes(x=as.factor(variable),y=value, group=subject_accession, color=responder0))+geom_line()+geom_point()+ggtitle(paste0("Cell Proportions across visits for ",unique(data_sdy368$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+
+print(p)
+  p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy368$CellType)[i]," at Day 0"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p2<-ggscatter(data,x="Day_1",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy368$CellType)[i]," at Day 1"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  p3<-ggscatter(data,x="Day_7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy368$CellType)[i]," at Day 7"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p4<-ggscatter(data,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy368$CellType)[i]," at Day 28"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  grid.arrange(p1,p2,p3,p4, ncol=2)
+  }
+```
+
+
+##SDY387
+[SDY387](https://www.immport.org/shared/study/SDY387) - Systems Biology Approach to Study Influenza Vaccine 2010-11 in Healthy Children (see companion studies SDY144, SDY364, SDY368). Related published article can be accessed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621097/pdf/nihms-457255.pdf).
+The Bcells panel has 20 subjects.
+
+###MetaData
+MetaData is extracted from the ImmPort data schema by querying the local database. First we build a local SQLite database instance and then query the database. The table below shows the filtered out data. To retrieve this meta data, file_info, expsample_2_file_info, expsample_2_biosample, biosample, arm_2_subject and subject tables were queried from the database. The table below shows metadata for the files in SDY387 B-cell panel.
+
+```{r, include=FALSE}
+sdy <- "SDY387"
+##Set tab_dir to the folder where the study files are located
+studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1"),sdy,"/Study")
+tab_dir <- file.path(studies_dir,"Tab")
+list.files(tab_dir)
+
+##Set db dir to the folder where the database file "ImmPort.sqlite" should be stored
+db_dir <- file.path(studies_dir,"Db")
+
+##Build a local SQLite ImmPort database instance
+#buildNewSqliteDb(tab_dir, db_dir)
+list.files(db_dir)
+
+sqlite_conn <- dbConnect(SQLite(), dbname=file.path(db_dir, "ImmPort.sqlite"))
+setImmPortDataSource(sqlite_conn)
+getListOfStudies()
+```
+
+
+```{r, include=FALSE, message=FALSE, warning=FALSE}
+
+fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsample_accession, b.file_info_id,
+                            c.biosample_accession, c.expsample_accession, 
+                            d.biosample_accession, d.study_time_collected, d.subject_accession, d.type,
+                            e.subject_accession, e.max_subject_age,  f.ethnicity, f.race, f.description
+                            FROM file_info a
+                            INNER JOIN expsample_2_file_info b
+                            ON a.file_info_id = b.file_info_id
+                            INNER JOIN expsample_2_biosample c
+                            ON c.expsample_accession = b.expsample_accession
+                            INNER JOIN biosample d
+                            ON d.biosample_accession = c.biosample_accession
+                            INNER JOIN arm_2_subject e
+                            ON e.subject_accession = d.subject_accession
+                            INNER JOIN subject f
+                            ON f.subject_accession = e.subject_accession
+                            AND a.name LIKE '%.fcs%'
+                            AND a.name NOT LIKE '%Compensation%';")
+
+
+fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
+```
+
+
+```{r, include=FALSE}
+fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,3,5)])
+header_info <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY387/SDY387mapping.txt",header=T)
+colnames(header_info)[1] <- "name" 
+mm_sdy387 <- merge(fcs_meta_Data, header_info, by="name")
+final_tab_sdy387 <- mm_sdy387[which(mm_sdy387$Panel == "B"),]
+#write.xlsx(final_tab_sdy387,"/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY387/B/MetaData_Bcells_SDY387.xlsx", row.names=TRUE)
+```
+
+```{r,echo=FALSE, results=TRUE}
+kable(final_tab_sdy387)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+
+All the files from SDY387 B-cell panel were used in the analysis. Table below shows subjects' data used in the analysis and the number of files in each visit. 0 represents missing data for that subject and visit
+```{r,warning=FALSE,message=FALSE,echo=FALSE, results=TRUE}
+kable(dcast(final_tab_sdy387[,c(1,5,6)],subject_accession~study_time_collected,fun.aggregate = length))%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Data Description: 
+There are 62 files from 17 subjects. Below is the data summary for the files, showing the number of files for each covariate.
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+lapply(final_tab_sdy387[,-c(1,2,3,4,8,12,13,14,15)],table)
+```
+
+###Antibody titer
+Antibody titer for SDY387: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
+```{r, include=FALSE}
+ab_titer_sdy387 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY387/Study/Tab/SDY387-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_d_sdy387 <- dcast(ab_titer_sdy387,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
+ab_titer_d_sdy387$Geometric_mean <- apply(ab_titer_d_sdy387[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
+resp_sdy387 <- dcast(ab_titer_d_sdy387,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
+resp_sdy387$FoldChange <- resp_sdy387$`28`/(resp_sdy387$`0`+0.00001)
+resp_sdy387$responder0 <- cut(resp_sdy387$`0`, breaks = c(0,40,max(na.omit(resp_sdy387$`0`))), labels=c("NonResponder","Responder"))
+resp_sdy387$responder28 <- cut(resp_sdy387$`28`, breaks = c(0,40,max(na.omit(resp_sdy387$`28`))), labels=c("NonResponder","Responder"))
+resp_sdy387$responderFC <- cut(resp_sdy387$FoldChange, breaks = c(0,4,max(na.omit(resp_sdy387$FoldChange))), labels = c("NonResponder","Responder"))
+resp_sdy387$responder_Day0_FC <- ifelse(resp_sdy387$responder0 == "Responder" | resp_sdy387$responderFC == "Responder","Responder","NonResponder")
+colnames(resp_sdy387)[1] <- "subject_accession"
+```
+
+```{r,echo=FALSE, results=TRUE}
+###Print the ab titer table
+kable(resp_sdy387)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder). ALl the subjects are responders. 
+```{r,echo=FALSE, results=TRUE}
+melt_response <- melt(resp_sdy387[,c(1:3,6)],id=c("subject_accession","responder28"))
+ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+
+###Cell Proportions:
+Gating co-ordinates for SDY387
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_config.png)
+
+
+Gating hierarchy used to identify the cell populations (example: SUB135864 at Day 7)
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_1.png)
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_2.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_3.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_4.png)
+
+Colors indicate responder or non-repsonder based on the titer values at Day 0. 
+```{r, include=FALSE}
+#####Read the files########
+sdy387 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_MemoryBcells.xlsx",sheet=2)[,-1]
+sdy387$study_time_collected <- paste0("Day_",sdy387$study_time_collected)
+melt_sdy387 <- melt(sdy387,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
+colnames(melt_sdy387)[6:7] <- c("CellType","CellProportion")
+cast_sdy387 <- dcast(melt_sdy387,subject_accession+max_subject_age+CellType+Study~study_time_collected,value.var='CellProportion',fun.aggregate = mean)
+colnames(resp_sdy387)[1] <- "subject_accession"
+data_sdy387 <- left_join(cast_sdy387, resp_sdy387, by='subject_accession')
+data_sdy387$Age_cat <- cut(data_sdy387$max_subject_age, breaks = c(0,60,120), labels = c("young","old"))
+melt_data_sdy387 <- melt(data_sdy387[,-c(13,15:16)],id=c("subject_accession","max_subject_age","CellType","Study","0","28","FoldChange","responder28","Age_cat"))
+```
+
+```{r, warning=FALSE, message=FALSE,echo=FALSE, results=TRUE}
+for(i in 1:length(unique(data_sdy387$CellType))){
+  data <- data_sdy387[data_sdy387$CellType == unique(data_sdy387$CellType)[i],]
+  #data$variable <- factor(data$variable,levels = c("Day_0","Day_1","Day_7","Day_28","Day_40"))
+  data_m <- melt_data_sdy387[melt_data_sdy387$CellType == unique(data_sdy387$CellType)[i],]
+  data_m$variable <- factor(data_m$variable,levels = c("Day_0","Day_7","Day_28","Day_90","Day_180"))
+p <- ggplot(na.omit(data_m),aes(x=as.factor(variable),y=value, group=subject_accession, color=responder28))+geom_line()+geom_point()+ggtitle(paste0("Cell Proportions across visits for ",unique(data_sdy387$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+print(p)
+  p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy387$CellType)[i]," at Day 0"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p2<-ggscatter(data,x="Day_7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy387$CellType)[i]," at Day 7"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p3<-ggscatter(data,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy387$CellType)[i]," at Day 28"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p4<-ggscatter(data,x="Day_90",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy387$CellType)[i]," at Day 90"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+   p5<-ggscatter(data,x="Day_180",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy387$CellType)[i]," at Day 180"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  grid.arrange(p1,p2,p3,p4,p5, ncol=2)
+  }
+```
+
+##SDY372
+[SDY372](https://www.immport.org/shared/study/SDY372) - Systems Biology Approach to Study Influenza Vaccine in Children with Autoimmunity (Juvenile Dermatomyositis JDM) 2012/2013 Cohort (see companion studies (SDY369, SDY376, SDY645). The Bcells panel 17 has subjects
+
+###MetaData
+MetaData is extracted from the ImmPort data schema by querying the local database. First we build a local SQLite database instance and then query the database. The table below shows the filtered out data. To retrieve this meta data, file_info, expsample_2_file_info, expsample_2_biosample, biosample, arm_2_subject and subject tables were queried from the database. The table below shows metadata for the files in SDY372 B-cell panel.
+
+```{r, include=FALSE}
+sdy <- "SDY372"
+##Set tab_dir to the folder where the study files are located
+studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_4"),sdy,"/Study")
+tab_dir <- file.path(studies_dir,"Tab")
+list.files(tab_dir)
+
+##Set db dir to the folder where the database file "ImmPort.sqlite" should be stored
+db_dir <- file.path(studies_dir,"Db")
+
+##Build a local SQLite ImmPort database instance
+#buildNewSqliteDb(tab_dir, db_dir)
+list.files(db_dir)
+
+sqlite_conn <- dbConnect(SQLite(), dbname=file.path(db_dir, "ImmPort.sqlite"))
+setImmPortDataSource(sqlite_conn)
+getListOfStudies()
+```
+
+
+```{r, include=FALSE, message=FALSE, warning=FALSE}
+fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsample_accession, b.file_info_id,
+                            c.biosample_accession, c.expsample_accession, 
+                            d.biosample_accession, d.study_time_collected, d.subject_accession, d.type,
+                            e.subject_accession, e.max_subject_age,  f.ethnicity, f.race, f.description
+                            FROM file_info a
+                            INNER JOIN expsample_2_file_info b
+                            ON a.file_info_id = b.file_info_id
+                            INNER JOIN expsample_2_biosample c
+                            ON c.expsample_accession = b.expsample_accession
+                            INNER JOIN biosample d
+                            ON d.biosample_accession = c.biosample_accession
+                            INNER JOIN arm_2_subject e
+                            ON e.subject_accession = d.subject_accession
+                            INNER JOIN subject f
+                            ON f.subject_accession = e.subject_accession
+                            AND a.name LIKE '%.fcs%'
+                            AND a.name NOT LIKE '%Compensation%';")
+fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
+```
+
+```{r, include=FALSE}
+fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,3,5)])
+header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_4/SDY372/Header_SDY372.xlsx")
+colnames(header_info)[1] <- "name" 
+mm_sdy372 <- merge(fcs_meta_Data, header_info, by="name")
+final_tab_sdy372_1 <- mm_sdy372[which(mm_sdy372$Panel == "4"),]
+#write.xlsx(final_tab_sdy372,"/Volumes/Samsung_T5/Immport_UH2/Companion_studies_4/SDY372/MetaData_Bcells_SDY372.xlsx", row.names=TRUE)
+final_tab_sdy372_2 <- mm_sdy372[which(mm_sdy372$Panel == "3"),]
+final_tab_sdy372 <- rbind(final_tab_sdy372_1,final_tab_sdy372_2)
+#write.xlsx(final_tab_sdy372_2,"/Volumes/Samsung_T5/Immport_UH2/Companion_studies_4/SDY372/MetaData_Bcells_SDY372_panel3.xlsx", row.names=TRUE)
+```
+
+```{r,echo=FALSE, results=TRUE}
+kable(final_tab_sdy372[,-c(13:15)])%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+
+All the files from SDY372 B-cell panel were used in the analysis. Table below shows subjects' data used in the analysis and the number of files in each visit. 0 represents missing data for that subject and visit
+```{r,warning=FALSE,message=FALSE,echo=FALSE, results=TRUE}
+kable(dcast(final_tab_sdy372[,c(1,5,6)],subject_accession~study_time_collected,fun.aggregate = length))%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Data Description: 
+There are 74 files from 17 subjects. Below is the data summary for the files, showing the number of files for each covariate.
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+lapply(final_tab_sdy372[,-c(1,2,3,4,8,12,13,14,15)],table)
+```
+
+###Antibody titer
+Antibody titer for SDY387: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
+```{r, include=FALSE}
+ab_titer_sdy372 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_4/SDY372/Study/Tab/SDY372-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_d_sdy372 <- dcast(ab_titer_sdy372,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
+ab_titer_d_sdy372$Geometric_mean <- apply(ab_titer_d_sdy372[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
+resp_sdy372 <- dcast(ab_titer_d_sdy372,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
+resp_sdy372$FoldChange <- resp_sdy372$`28`/(resp_sdy372$`0`+0.00001)
+resp_sdy372$responder0 <- cut(resp_sdy372$`0`, breaks = c(0,40,max(na.omit(resp_sdy372$`0`))), labels=c("NonResponder","Responder"))
+resp_sdy372$responder28 <- cut(resp_sdy372$`28`, breaks = c(0,40,max(na.omit(resp_sdy372$`28`))), labels=c("NonResponder","Responder"))
+resp_sdy372$responder90 <- cut(resp_sdy372$`90`, breaks = c(0,40,max(na.omit(resp_sdy372$`90`))), labels=c("NonResponder","Responder"))
+resp_sdy372$responderFC <- cut(resp_sdy372$FoldChange, breaks = c(0,4,max(na.omit(resp_sdy372$FoldChange))), labels = c("NonResponder","Responder"))
+resp_sdy372$responder_Day0_FC <- ifelse(resp_sdy372$responder0 == "Responder" | resp_sdy372$responderFC == "Responder","Responder","NonResponder")
+colnames(resp_sdy372)[1] <- "subject_accession"
+```
+
+```{r,echo=FALSE, results=TRUE}
+###Print the ab titer table
+kable(resp_sdy372)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder). ALl the subjects are responders. 
+```{r,echo=FALSE, results=TRUE}
+melt_response <- melt(resp_sdy372[,c(1:4,7)],id=c("subject_accession","responder28"))
+ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+###Cell Proportions:
+Gating co-ordinates for SDY372
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_config.png)
+
+
+Gating hierarchy used to identify the cell populations (example: SUB135772 at Day 7)
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_1.png)
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_2.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_3.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_4.png)
+
+Colors indicate responder or non-repsonder based on the titer values at Day 0. 
+```{r, include=FALSE}
+#####Read the files########
+sdy372 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_MemoryBcells.xlsx",sheet=5)[,-1]
+sdy372$study_time_collected <- paste0("Day_",sdy372$study_time_collected)
+melt_sdy372 <- melt(sdy372,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
+colnames(melt_sdy372)[6:7] <- c("CellType","CellProportion")
+cast_sdy372 <- dcast(melt_sdy372,subject_accession+max_subject_age+CellType+Study~study_time_collected,value.var='CellProportion',fun.aggregate = mean)
+colnames(resp_sdy372)[1] <- "subject_accession"
+data_sdy372 <- left_join(cast_sdy372, resp_sdy372, by='subject_accession')
+data_sdy372$Age_cat <- cut(data_sdy372$max_subject_age, breaks = c(0,60,120), labels = c("young","old"))
+melt_data_sdy372 <- melt(data_sdy372[,-c(14,16:18)],id=c("subject_accession","max_subject_age","CellType","Study","0","28","90","FoldChange","responder28","Age_cat"))
+```
+
+```{r, warning=FALSE, message=FALSE,echo=FALSE, results=TRUE}
+for(i in 1:length(unique(data_sdy372$CellType))){
+  data <- data_sdy372[data_sdy372$CellType == unique(data_sdy372$CellType)[i],]
+  #data$variable <- factor(data$variable,levels = c("Day_0","Day_1","Day_7","Day_28","Day_40"))
+  data_m <- melt_data_sdy372[melt_data_sdy372$CellType == unique(data_sdy372$CellType)[i],]
+  data_m$variable <- factor(data_m$variable,levels = c("Day_0","Day_1","Day_7","Day_28","Day_90"))
+p <- ggplot(na.omit(data_m),aes(x=as.factor(variable),y=value, group=subject_accession, color=responder28))+geom_line()+geom_point()+ggtitle(paste0("Cell Proportions across visits for ",unique(data_sdy372$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+print(p)
+  p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy372$CellType)[i]," at Day 0"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p2<-ggscatter(data,x="Day_7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy372$CellType)[i]," at Day 7"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p3<-ggscatter(data,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy372$CellType)[i]," at Day 28"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p4<-ggscatter(data,x="Day_90",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy372$CellType)[i]," at Day 90"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  grid.arrange(p1,p2,p3,p4, ncol=2)
+  }
+```
+
+##SDY180
+[SDY180](https://www.immport.org/shared/study/SDY180)
+There are 36 subjects, but some of them have NAs in ab titers. 
+
+###MetaData
+MetaData is extracted from the ImmPort data schema by querying the local database. First we build a local SQLite database instance and then query the database. The table below shows the filtered out data. To retrieve this meta data, file_info, expsample_2_file_info, expsample_2_biosample, biosample, arm_2_subject and subject tables were queried from the database. The table below shows metadata for the files in SDY180 B-cell panel.
+
+```{r, include=FALSE}
+sdy <- "SDY180"
+##Set tab_dir to the folder where the study files are located
+studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2"),sdy,"Study")
+tab_dir <- file.path(studies_dir,"Tab")
+list.files(tab_dir)
+
+##Set db dir to the folder where the database file "ImmPort.sqlite" should be stored
+db_dir <- file.path(studies_dir,"Db")
+
+##Build a local SQLite ImmPort database instance
+#buildNewSqliteDb(tab_dir, db_dir)
+list.files(db_dir)
+
+sqlite_conn <- dbConnect(SQLite(), dbname=file.path(db_dir, "ImmPort.sqlite"))
+setImmPortDataSource(sqlite_conn)
+getListOfStudies()
+```
+
+
+```{r, include=FALSE, message=FALSE, warning=FALSE}
+fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsample_accession, b.file_info_id,
+                            c.biosample_accession, c.expsample_accession, 
+                            d.biosample_accession, d.study_time_collected, d.subject_accession, d.type,
+                            e.subject_accession, e.max_subject_age,  f.ethnicity, f.race, f.description
+                            FROM file_info a
+                            INNER JOIN expsample_2_file_info b
+                            ON a.file_info_id = b.file_info_id
+                            INNER JOIN expsample_2_biosample c
+                            ON c.expsample_accession = b.expsample_accession
+                            INNER JOIN biosample d
+                            ON d.biosample_accession = c.biosample_accession
+                            INNER JOIN arm_2_subject e
+                            ON e.subject_accession = d.subject_accession
+                            INNER JOIN subject f
+                            ON f.subject_accession = e.subject_accession
+                            AND a.name LIKE '%.fcs%'
+                            AND a.name NOT LIKE '%Compensation%';")
+fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
+```
+
+
+```{r, include=FALSE}
+fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,3,5)])
+header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY180/Headers_SDY180.xlsx")
+colnames(header_info)[1] <- "name" 
+mm_sdy180 <- merge(fcs_meta_Data, header_info, by="name")
+final_tab_sdy180 <- mm_sdy180[which(mm_sdy180$Panel == "8" | mm_sdy180$Panel == "24" ),][,-c(10,11)]
+```
+
+```{r,echo=FALSE, results=TRUE}
+kable(final_tab_sdy180)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+All the files from SDY180 B-cell panel were used in the analysis. Table below shows subjects' data used in the analysis and the number of files in each visit. 0 represents missing data for that subject and visit
+```{r,warning=FALSE,message=FALSE,echo=FALSE, results=TRUE}
+kable(dcast(final_tab_sdy180[,c(1,5,6)],subject_accession~study_time_collected,fun.aggregate = length))%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Data Description: 
+There are 305 files from 36 subjects. Below is the data summary for the files, showing the number of files for each covariate.
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+lapply(final_tab_sdy180[,-c(1,2,3,4,8,10,11,12,13)],table)
+```
+
+###Antibody titer
+Antibody titer for SDY180: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
+```{r, include=FALSE}
+ab_titer_sdy180 <- read.table("/Volumes/Samsung_T5/Immport_UH2/SDY180/Study/Tab/SDY180-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_d_sdy180 <- dcast(ab_titer_sdy180,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
+ab_titer_d_sdy180$Geometric_mean <- apply(ab_titer_d_sdy180[,3:8],1,function(x) geometric.mean(x,na.rm=TRUE))
+resp_sdy180 <- dcast(ab_titer_d_sdy180,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
+#resp_sdy372$responder0 <- cut(resp_sdy372$`0`, breaks = c(0,40,max(na.omit(resp_sdy372$`0`))), labels=c("NonResponder","Responder"))
+resp_sdy180$responder28 <- cut(resp_sdy180$`28`, breaks = c(0,40,max(na.omit(resp_sdy180$`28`))), labels=c("NonResponder","Responder"))
+#resp_sdy372$responder90 <- cut(resp_sdy372$`90`, breaks = c(0,40,max(na.omit(resp_sdy372$`90`))), labels=c("NonResponder","Responder"))
+#resp_sdy372$responderFC <- cut(resp_sdy372$FoldChange, breaks = c(0,4,max(na.omit(resp_sdy372$FoldChange))), labels = c("NonResponder","Responder"))
+#resp_sdy372$responder_Day0_FC <- ifelse(resp_sdy372$responder0 == "Responder" | resp_sdy372$responderFC == "Responder","Responder","NonResponder")
+colnames(resp_sdy180)[1] <- "subject_accession"
+```
+
+```{r,echo=FALSE, results=TRUE}
+###Print the ab titer table
+kable(resp_sdy180)%>%
+  kable_styling() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder). ALl the subjects are responders. 
+```{r,echo=FALSE, results=TRUE}
+melt_response <- melt(resp_sdy180,id=c("subject_accession","responder28"))
+ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+```
+
+```{r,include=FALSE}
+resp_sdy180$`-7`[is.na(resp_sdy180$`-7`)] <- 0
+resp_sdy180$`0`[is.na(resp_sdy180$`0`)] <- 0
+resp_sdy180$`pre` <- resp_sdy180$`-7` + resp_sdy180$`0`
+resp_sdy180$FoldChange <- resp_sdy180$`28`/(resp_sdy180$`pre`+0.00001)
+```
+
+###Cell Proportions:
+Gating co-ordinates for SDY180
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_config.png)
+
+
+Gating hierarchy used to identify the cell populations (example: SUB119262 at Day -7, i.e. 7 days prior vaccination)
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_1.png)
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_2.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_3.png)
+
+
+![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_4.png)
+
+Colors indicate responder or non-repsonder based on the titer values at Day 0. 
+```{r, include=FALSE}
+#####Read the files########
+sdy180 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_MemoryBcells.xlsx",sheet=5)[,-1]
+sdy180$study_time_collected <- paste0("Day_",sdy180$study_time_collected)
+melt_sdy180 <- melt(sdy180,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
+colnames(melt_sdy180)[6:7] <- c("CellType","CellProportion")
+cast_sdy180 <- dcast(melt_sdy180,subject_accession+max_subject_age+CellType+Study~study_time_collected,value.var='CellProportion',fun.aggregate = mean)
+colnames(resp_sdy180)[1] <- "subject_accession"
+resp_sdy180 <- resp_sdy180[c("subject_accession","pre","-7","0","14","28","FoldChange","responder28")]
+data_sdy180 <- left_join(cast_sdy180[,-c(10,11)], resp_sdy180[,-c(3,4)], by='subject_accession')
+data_sdy180$Age_cat <- cut(data_sdy180$max_subject_age, breaks = c(0,60,120), labels = c("young","old"))
+melt_data_sdy180 <- melt(data_sdy180,id=c("subject_accession","max_subject_age","CellType","Study","pre","14","28","FoldChange","responder28","Age_cat"))
+```
+
+```{r, warning=FALSE, message=FALSE,echo=FALSE, results=TRUE}
+for(i in 1:length(unique(data_sdy180$CellType))){
+  data <- data_sdy180[data_sdy180$CellType == unique(data_sdy180$CellType)[i],]
+  #data$variable <- factor(data$variable,levels = c("Day_0","Day_1","Day_7","Day_28","Day_40"))
+  data_m <- melt_data_sdy180[melt_data_sdy180$CellType == unique(data_sdy180$CellType)[i],]
+  data_m$variable <- factor(data_m$variable,levels = c("Day_-7","Day_0","Day_0.5","Day_1","Day_7","Day10","Day28"))
+p <- ggplot(na.omit(data_m),aes(x=as.factor(variable),y=value, group=subject_accession, color=responder28))+geom_line()+geom_point()+ggtitle(paste0("Cell Proportions across visits for ",unique(data_sdy180$CellType)[i]))+xlab("Visit")+ylab("Cell Proportion")+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+print(p)
+  #p1<-ggscatter(data,x="Day_-7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+   #         cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy180$CellType)[i]," 7 days prior to vaccination"))+font("title",size=11)
+  
+  p2<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy180$CellType)[i]," at Day 0"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p3<-ggscatter(data,x="Day_0.5",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy180$CellType)[i]," at Day 0.5"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p4<-ggscatter(data,x="Day_1",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy180$CellType)[i]," at Day 1"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p5<-ggscatter(data,x="Day_7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy180$CellType)[i]," at Day 7"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p6<-ggscatter(data,x="Day_10",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy180$CellType)[i]," at Day 10"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  p7<-ggscatter(data,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = paste0(unique(data_sdy180$CellType)[i]," at Day 28"))+font("title",size=11)+theme(text=element_text(size=10,family="Times"))
+  
+  grid.arrange(p2,p3,p4,p5,p6,p7, ncol=2)
+  }
+```
+
+
+##Correlations
+Table shows pearson correlations calculated across all the studies
+```{r, include=FALSE}
+corr_all <- data.frame(Study = c(rep("SDY144",4),rep("SDY364",4),rep("SDY368",4),rep("SDY387",5),rep("SDY372",4),rep("SDY180",6)),Visit=c(rep(c("Day0","Day1","Day7","Day28"),3),c("Day0","Day7","Day28","Day90","Day180"),c("Day0","Day7","Day28","Day90"),c("Day0","Day0.5","Day1","Day7","Day10","Day28")), MemoryBcells=c("0.048","-0.076","0.56","0.34","0.043","0.12","0.2","0.35","0.16","0.098","0.14","0.39","-0.19","-0.32","-0.12","-0.28","0.29","0.14","0.3","0.14","0.31","0.23","0.57","0.013","0.33","0.15","0.27"),ClassSwitched_Bcells=c("0.13","0.044","0.53","0.36","0.025","0.044","0.13","0.35","0.21","0.15","0.27","0.5","-0.28","-0.2","-0.17","-0.15","0.69","0.14","0.31","0.00007","0.55","-0.12","-0.19","-0.18","0.24","-0.16","-0.42"),NonClassSwitched_Bcells=c("-0.22","-0.26","-0.063","0.015","0.081","0.2","0.32","0.17","-0.084","-0.11","-0.27","-0.21","0.14","-0.34","0.28","-0.27","-0.38","0.098","0.16","0.31","0.12","0.52","0.87","0.25","0.37","0.57","0.77"),Plasmablasts_PlasmaCells=c("0.24","-0.11","0.52","0.083","-0.06","-0.038","0.071","0.34","0.12","0.096","0.33","0.81","-0.25","-0.13","-0.17","-0.09","0.73","0.32","0.36","0.046","0.41","-0.3","-0.54","-0.26","0.4","-0.3","-0.57"),Plasmablasts=c("0.25","-0.079","0.57","0.1","-0.051","0.053","0.11","0.35","0.098","0.14","0.26","0.79","-0.28","-0.15","-0.19","-0.2","0.73","0.33","0.37","0.063","0.43","-0.26","-0.59","-0.38","0.35","-0.46","-0.47"),Plasmacells=c("-0.13","-0.21","0.44","-0.0065","-0.068","-0.14","-0.045","0.21","0.18","-0.031","0.22","0.82","0.021","0.047","0.21","0.09"," NA","0.15","0.26","-0.058","0.064","-0.26","0.07","-0.035","0.31","-0.24","-0.41"),NonMemoryBcells=c("-0.048","0.076","-0.56","-0.34","-0.043","-0.12","-0.2","-0.35","-0.16","0.098","-0.14","-0.39","0.19","0.32","0.22","0.28","-0.29","-0.14","-0.3","-0.14","-0.31","-0.23","-0.57","-0.013","-0.33","-0.15","-0.27"),DoubleNegative=c("0.48","0.76","-0.1","0.62","0.38","-0.032","0.022","0.31","0.17","0.22","0.24","0.19","-0.2","-0.067","-0.016","0.11","0.32","-0.23","-0.36","-0.31","-0.08","-0.59","-0.62","-0.24","-0.47","-0.44","-0.64"),Naive_Bcells=c("-0.34","0.64","-0.29","-0.63","-0.31","-0.0039","-0.065","-0.34","-0.19","-0.21","-0.24","-0.24","0.26","0.18","0.22","-0.028","-0.35","0.14","0.087","0.22","-0.38","0.48","0.41","0.25","0.29","0.42","0.51"),Translational_Bcells=c("-0.39","-0.49","-0.17","-0.25","-0.21","-0.17","-0.12","-0.062","0.29","0.16","0.11","0.21","-0.14","-0.35","-.12","-0.27","-0.63","0.23","0.098","0.067","0.11","-0.041","-0.21","0.12","0.1","-0.058","-0.33"))
+```
+
+```{r, message=FALSE,echo=FALSE, results=TRUE}
+kable(corr_all, align = "c") %>%
+  kable_styling(c("bordered"),full_width = F) %>%
+  column_spec(1, bold = T) %>%
+  collapse_rows(columns = 1:2, valign = "top")%>%
+  column_spec(1:11,border_right = T)
+```

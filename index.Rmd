@@ -1,7 +1,86 @@
 ---
-title: "Memory"
+title: "ImmPort Data Analysis"
 output: html_document
 ---
 
-Welcome page
-some text here!
+## Introduction
+<a href="https://www.immport.org/shared/home">ImmPort</a> is a publicly available database that hosts Immunology research data. 
+
+This re-analysis aims to:
+
+* identify cell populations from Influenza vaccine response studies on ImmPort database using DAFi autogating approach
+
+* mapping the meta-data using SQL queries to individual panels
+
+* identifying correlations between cell population percentages and ab-titer data
+
+* identifying reproducible longitudinal patterns for the cell populations across studies
+
+* modeling data using lmer to identify significant cohort-level differences for the longitudinal data
+
+## DAFi Auto-gating approach
+[DAFi: A Directed recursive data filtering and clustering approach](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23371) is a data-driven computational approach that utilizes the existing data clustering methods for effectively and reliably accomplishing the task of auto-gating for identifying user-defined and novel cell populations from multi-dimensional FCM data in an interpretable way. 
+
+## Influenza vaccine response studies on ImmPort database
+
+#### Study Summary
+There are 55 Influenza vaccine studies with flow cytometry data on ImmPort database. The studies are summarized in the following table (scroll to the right for more details). Studies highlighted in gray could not be used for the analysis. 
+
+Each study had multiple panels (based on the markers in the FCS files). However, the meta data did not have any information regarding the panels. The first step was to know the panel information and separate the FCS files based on the panel markers. The markers were extracted for each FCS file in each study, and the FCS files were grouped based on the markers studied. 
+
+```{r,include=FALSE}
+library("openxlsx")
+library(kableExtra)
+library(knitr)
+table_summary <- read.xlsx("./UH2_Projects_Aishwarya.xlsx")
+```
+
+```{r, echo=FALSE, results=TRUE}
+kable(table_summary) %>%
+  kable_styling(full_width = F,c("striped","bordered")) %>%
+  row_spec(1:55,hline_after = TRUE) %>%
+  row_spec(c(12,14:16,18:20,49),color="black",background = "gray") %>%
+  column_spec(1:ncol(table_summary),border_left = T, border_right = T) %>%
+  scroll_box(width = "100%", height = "400px")
+```
+
+\
+The table below shows more information for each study, including the meta data available, visit information, sample type, markers in different panels.
+```{r,include=FALSE}
+table_summary_2 <- read.xlsx("./Study_panel_headers.xlsx",sheet=2,skipEmptyRows = FALSE,fillMergedCells = TRUE)[-c(5,9,11,13,15,17,19,21,25,27,33,35,37,39,41,43,45,47,49,51,53,55,61,63,65,67,69,71,76,78),]
+```
+
+```{r, echo=FALSE, results=TRUE}
+kable(table_summary_2) %>%
+  kable_styling(full_width = F,c("striped","bordered")) %>%
+  row_spec(1:54,hline_after = TRUE) %>%
+  row_spec(c(12,14:16,18:20,49),color="black",background = "gray") %>%
+  column_spec(1:ncol(table_summary_2),border_left = T, border_right = T) %>%
+  scroll_box(width = "100%", height = "400px")
+```
+
+\
+The table below gives more information for each study.
+```{r,include=FALSE}
+table_summary_3 <- read.xlsx("./Study_panel_headers.xlsx",sheet=1,skipEmptyRows = FALSE,fillMergedCells = TRUE)[-c(5,9,11,13,15,17,19,21,25,27,33,35,37,39,41,43,45,47,49,51,53,55,61,63,65,67,69,71,76,78),]
+```
+
+```{r, echo=FALSE, results=TRUE}
+kable(table_summary_3) %>%
+  kable_styling(full_width = F,c("striped","bordered")) %>%
+  row_spec(1:54,hline_after = TRUE) %>%
+  row_spec(c(12,14:16,18:20,49),color="black",background = "gray") %>%
+  column_spec(1:ncol(table_summary_3),border_left = T, border_right = T) %>%
+  scroll_box(width = "100%", height = "400px")
+```
+
+
+#### SQL Querying for MetaData
+The ImmPort schema has 115 tables with subject information. For final subjects' meta data, file_info, expsample_2_file_info,  expsample_2_biosample, biosample, arm_2_subject and subject tables were queried. The meta data was later separated based on the panel markers idenfied in the previous step. A separate SQL query was used for each study, because they had different filtering identifiers. 
+
+## Gating Hierarchy
+There were no material for previous gating hierarchy used in the original studies. We used a common gating hierachy across the studies (with similar marker panels) based on prior knowledge gathered from studying other Influenza papers from ImmPort database. DAFi auto-gating was used for the gating analysis. The gating co-ordinates used and the gating strategy can be found in the individual reports.
+
+## Grant References
+* 
+* 

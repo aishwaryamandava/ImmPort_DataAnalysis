@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>SDY67</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">ImmPort Data Analysis</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="MemoryCD4_CD8.html">MemoryCD4_CD8</a>
+</li>
+<li>
+  <a href="MemoryBcells.html">MemoryBcells</a>
+</li>
+<li>
+  <a href="Tregs.html">T regs</a>
+</li>
+<li>
+  <a href="SDY67.html">SDY67</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">SDY67</h1>
+
+</div>
+
+
+<div id="section" class="section level1 tabset">
+<h1></h1>
+<div id="sdy67-b-cells-panel" class="section level2">
+<h2>SDY67: B-cells panel</h2>
+<p><a href="https://www.immport.org/shared/study/SDY67">SDY67</a> related published articles are <a href="https://www.ncbi.nlm.nih.gov/pubmed/25816015?dopt=Abstract">1</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27031986?dopt=Abstract">2</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441275?dopt=Abstract">3</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/29130882?dopt=Abstract">4</a></p>
+<div id="a-gating-hierarchy-and-cell-populations" class="section level4">
+<h4>A) Gating Hierarchy and Cell Populations</h4>
+<ul>
+<li>CD19+ CD3- Bcells</li>
+<li>IgD- CD27-</li>
+<li>IgD+ CD27-</li>
+<li>IgD- CD27+</li>
+<li>IgD+ CD27+ NonClassswitched</li>
+<li>Plasmablasts and Plasma cells</li>
+<li>Class switched memory cells</li>
+<li>Translational Bcells</li>
+<li>Naive Bcells</li>
+</ul>
+<div class="figure">
+<img src="/Volumes/Samsung_T5/Immport_UH2/SDY67/Bcell/fig.png" alt="B-cell panel gating hierarchy" />
+<p class="caption">B-cell panel gating hierarchy</p>
+</div>
+</div>
+<div id="b-metadata" class="section level4">
+<h4>B) Metadata</h4>
+<pre><code>##                           name file_info_id expsample_accession
+## 486 rk0425b_rk__004.527718.fcs       527718            ES845077
+## 487 rk0425b_rk__005.527725.fcs       527725            ES845078
+## 488 rk0425b_rk__006.527726.fcs       527726            ES845079
+## 489 rk0425b_rk__007.527727.fcs       527727            ES845080
+## 490 rk0425b_rk__008.527728.fcs       527728            ES845081
+## 491 rk0425b_rk__009.527729.fcs       527729            ES845082
+##     biosample_accession study_time_collected subject_accession type
+## 486            BS756158                    0         SUB113571 PBMC
+## 487            BS756159                    3         SUB113571 PBMC
+## 488            BS756160                   28         SUB113571 PBMC
+## 489            BS756161                   75         SUB113571 PBMC
+## 490            BS756162                    0         SUB113483 PBMC
+## 491            BS756163                    3         SUB113483 PBMC
+##     max_subject_age arm_accession                  description
+## 486              67        ARM544 150 healthy adults, 50-74 yo
+## 487              67        ARM544 150 healthy adults, 50-74 yo
+## 488              67        ARM544 150 healthy adults, 50-74 yo
+## 489              67        ARM544 150 healthy adults, 50-74 yo
+## 490              54        ARM544 150 healthy adults, 50-74 yo
+## 491              54        ARM544 150 healthy adults, 50-74 yo
+##                  ethnicity gender  race
+## 486 Not Hispanic or Latino Female White
+## 487 Not Hispanic or Latino Female White
+## 488 Not Hispanic or Latino Female White
+## 489 Not Hispanic or Latino Female White
+## 490 Not Hispanic or Latino   Male White
+## 491 Not Hispanic or Latino   Male White</code></pre>
+</div>
+<div id="c-merging-meta-data-and-cell-proportions" class="section level4 tabset">
+<h4>C) Merging meta data and Cell Proportions</h4>
+<p>The cell proportions are calculated with Live Leukocytes in population 1 as the parent.</p>
+<div id="description" class="section level5">
+<h5>Description</h5>
+<p>There are 621 FCS files from 149 subjects.</p>
+<pre><code>## $study_time_collected
+## 
+##   0   3  28  75 
+## 154 154 155 159 
+## 
+## $subject_accession
+## 
+## SUB113453 SUB113454 SUB113455 SUB113456 SUB113458 SUB113459 SUB113460 
+##         4         4         4         8         4         4         4 
+## SUB113461 SUB113462 SUB113463 SUB113464 SUB113465 SUB113466 SUB113467 
+##         4         4         4         4         4         3         4 
+## SUB113468 SUB113469 SUB113470 SUB113471 SUB113472 SUB113473 SUB113475 
+##         4         4         4         4         4         2         4 
+## SUB113476 SUB113477 SUB113478 SUB113479 SUB113480 SUB113481 SUB113482 
+##         4         4         4         4         4         4         8 
+## SUB113483 SUB113484 SUB113485 SUB113486 SUB113487 SUB113488 SUB113489 
+##         4         4         4         4         2         4         4 
+## SUB113491 SUB113492 SUB113494 SUB113495 SUB113496 SUB113497 SUB113498 
+##         8         4         4         4         4         3         4 
+## SUB113499 SUB113500 SUB113501 SUB113502 SUB113503 SUB113504 SUB113505 
+##         4         4         4         4         4         4         4 
+## SUB113506 SUB113507 SUB113508 SUB113509 SUB113510 SUB113512 SUB113513 
+##         8         4         4         4         4         8         4 
+## SUB113514 SUB113515 SUB113516 SUB113517 SUB113518 SUB113520 SUB113521 
+##         1         4         4         4         1         4         8 
+## SUB113522 SUB113523 SUB113524 SUB113525 SUB113526 SUB113527 SUB113528 
+##         4         8         4         4         4         4         4 
+## SUB113529 SUB113530 SUB113531 SUB113532 SUB113533 SUB113534 SUB113535 
+##         4         4         8         4         4         4         4 
+## SUB113536 SUB113537 SUB113538 SUB113539 SUB113540 SUB113541 SUB113542 
+##         4         4         4         4         4         4         4 
+## SUB113543 SUB113544 SUB113545 SUB113546 SUB113547 SUB113548 SUB113549 
+##         4         4         4         4         1         1         8 
+## SUB113550 SUB113551 SUB113552 SUB113553 SUB113554 SUB113555 SUB113556 
+##         4         1         4         8         4         4         4 
+## SUB113557 SUB113558 SUB113559 SUB113560 SUB113562 SUB113563 SUB113564 
+##         4         4         4         4         4         4         4 
+## SUB113565 SUB113566 SUB113567 SUB113568 SUB113569 SUB113570 SUB113571 
+##         4         4         4         2         4         4         4 
+## SUB113573 SUB113574 SUB113575 SUB113576 SUB113577 SUB113578 SUB113579 
+##         4         8         2         4         4         4         4 
+## SUB113580 SUB113581 SUB113582 SUB113583 SUB113584 SUB113585 SUB113586 
+##         4         4         4         4         4         4         8 
+## SUB113587 SUB113588 SUB113589 SUB113590 SUB113591 SUB113592 SUB113593 
+##         4         4         4         4         4         4         4 
+## SUB113594 SUB113595 SUB113596 SUB113598 SUB113599 SUB113600 SUB113601 
+##         4         2         3         3         4         4         4 
+## SUB113602 SUB113603 SUB113604 SUB113605 SUB113606 SUB113607 SUB113608 
+##         4         4         8         4         3         4         4 
+## SUB113610 SUB113611 
+##         4         8</code></pre>
+<pre><code>## $max_subject_age
+## 
+## 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 
+##  9  5  2  9  6 16  5 10  7 13  6  5  4  5  4  2  5  4  5  5  4  2  9  7 
+## 
+## $gender
+## 
+## Female   Male 
+##     93     56 
+## 
+## $race
+## 
+## Asian Other White 
+##     1     1   147 
+## 
+## $Age_cat
+## 
+## young   old 
+##    82    67</code></pre>
+</div>
+<div id="plots" class="section level5">
+<h5>Plots</h5>
+<pre><code>## Warning: Removed 8 rows containing non-finite values (stat_boxplot).</code></pre>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-8-1.png" width="100%" /></p>
+<pre><code>## Warning: Removed 8 rows containing non-finite values (stat_boxplot).</code></pre>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-8-2.png" width="100%" /></p>
+<pre><code>## Warning: Removed 8 rows containing non-finite values (stat_boxplot).</code></pre>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-8-3.png" width="100%" /></p>
+</div>
+</div>
+<div id="d-antibody-titer" class="section level4 tabset">
+<h4>D) Antibody titer</h4>
+<p><strong>seroprotection</strong> refers to those individuals with a titer of 1:40 or better. <strong>Seroconversion</strong> is defined as an increase in HI titer following vaccination of fourfold or greater. <strong>Multiplicity factor</strong> is an increase compared to baseline with 2.5 or greater.</p>
+<div id="hai" class="section level5">
+<h5>HAI</h5>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-10-1.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-10-2.png" width="60%" /></p>
+</div>
+<div id="nai" class="section level5">
+<h5>NAI</h5>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-11-1.png" width="60%" /></p>
+</div>
+</div>
+<div id="e-correlation-between-titer-and-cell-proportions" class="section level4">
+<h4>E) Correlation between titer and cell proportions</h4>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-14-1.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-2.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-3.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-4.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-5.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-6.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-7.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-8.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-9.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-10.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-11.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-12.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-13.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-14.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-15.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-16.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-17.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-14-18.png" width="60%" /></p>
+</div>
+</div>
+<div id="sdy67-dendritic-cells-panel" class="section level2">
+<h2>SDY67: Dendritic cells panel</h2>
+<p><a href="https://www.immport.org/shared/study/SDY67">SDY67</a> related published articles are <a href="https://www.ncbi.nlm.nih.gov/pubmed/25816015?dopt=Abstract">1</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27031986?dopt=Abstract">2</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441275?dopt=Abstract">3</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/29130882?dopt=Abstract">4</a></p>
+<div id="a-gating-hierarchy-and-cell-populations-1" class="section level4">
+<h4>A) Gating Hierarchy and Cell Populations</h4>
+<ul>
+<li>CD3+ CD56- Tcells</li>
+<li>CD3- CD56+ NK cells</li>
+<li>CD20+ Bcells</li>
+<li>CD16+ Neutrophils</li>
+<li>CD14+ Monocytes</li>
+<li>CD3- CD20- CD14- HLA-DR+ Dendritic cells</li>
+<li>CD11c- CD123+ pDC</li>
+<li>CD11c+ CD16- mDC</li>
+<li>CD11c+ CD16+ mDC</li>
+</ul>
+<p><img src="/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells1.png" alt="alt text" /> <img src="/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells2.png" alt="alt text" /> <img src="/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells3.png" alt="alt text" /></p>
+</div>
+<div id="b-metadata-1" class="section level4">
+<h4>B) Metadata</h4>
+<pre><code>##                         name file_info_id expsample_accession
+## 39 rk020911a__006.526956.fcs       526956            ES844630
+## 40 rk020911a__007.526957.fcs       526957            ES844631
+## 41 rk020911a__008.526958.fcs       526958            ES844632
+## 42 rk020911a__009.526959.fcs       526959            ES844633
+## 43 rk020911a__010.526960.fcs       526960            ES844634
+## 44 rk020911a__011.526961.fcs       526961            ES844635
+##    biosample_accession study_time_collected subject_accession type
+## 39            BS753675                    3         SUB113558 PBMC
+## 40            BS753676                   28         SUB113496 PBMC
+## 41            BS753677                    0         SUB113496 PBMC
+## 42            BS753678                    3         SUB113496 PBMC
+## 43            BS753679                   28         SUB113495 PBMC
+## 44            BS753680                    0         SUB113495 PBMC
+##    max_subject_age arm_accession                  description
+## 39              55        ARM544 150 healthy adults, 50-74 yo
+## 40              60        ARM544 150 healthy adults, 50-74 yo
+## 41              60        ARM544 150 healthy adults, 50-74 yo
+## 42              60        ARM544 150 healthy adults, 50-74 yo
+## 43              60        ARM544 150 healthy adults, 50-74 yo
+## 44              60        ARM544 150 healthy adults, 50-74 yo
+##                 ethnicity gender  race
+## 39 Not Hispanic or Latino Female White
+## 40 Not Hispanic or Latino Female White
+## 41 Not Hispanic or Latino Female White
+## 42 Not Hispanic or Latino Female White
+## 43 Not Hispanic or Latino   Male White
+## 44 Not Hispanic or Latino   Male White</code></pre>
+</div>
+<div id="c-merging-meta-data-and-cell-proportions-1" class="section level4 tabset">
+<h4>C) Merging meta data and Cell Proportions</h4>
+<p>The cell proportions are calculated with Live Leukocytes in population 1 as the parent.</p>
+<div id="description-1" class="section level5">
+<h5>Description</h5>
+<p>There are 439 FCS files from 147 subjects.</p>
+<pre><code>## $study_time_collected
+## 
+##   0   3  28 
+## 146 147 146 
+## 
+## $subject_accession
+## 
+## SUB113453 SUB113454 SUB113455 SUB113456 SUB113457 SUB113459 SUB113460 
+##         3         3         3         3         3         3         3 
+## SUB113461 SUB113462 SUB113463 SUB113464 SUB113465 SUB113466 SUB113467 
+##         3         3         3         3         3         3         3 
+## SUB113468 SUB113469 SUB113471 SUB113472 SUB113473 SUB113474 SUB113475 
+##         3         3         3         3         3         3         3 
+## SUB113477 SUB113478 SUB113479 SUB113480 SUB113481 SUB113482 SUB113484 
+##         3         3         3         3         3         3         3 
+## SUB113485 SUB113486 SUB113488 SUB113489 SUB113490 SUB113491 SUB113492 
+##         3         3         3         3         3         3         3 
+## SUB113493 SUB113494 SUB113495 SUB113496 SUB113497 SUB113498 SUB113499 
+##         2         3         3         3         3         3         3 
+## SUB113500 SUB113501 SUB113502 SUB113503 SUB113504 SUB113505 SUB113506 
+##         3         3         3         3         3         3         3 
+## SUB113507 SUB113508 SUB113509 SUB113510 SUB113511 SUB113512 SUB113513 
+##         3         3         3         3         3         3         3 
+## SUB113514 SUB113515 SUB113516 SUB113517 SUB113518 SUB113519 SUB113520 
+##         3         3         3         3         3         3         3 
+## SUB113521 SUB113522 SUB113523 SUB113524 SUB113525 SUB113526 SUB113528 
+##         3         3         3         3         3         3         3 
+## SUB113529 SUB113530 SUB113531 SUB113532 SUB113533 SUB113534 SUB113535 
+##         3         3         3         3         3         3         3 
+## SUB113536 SUB113537 SUB113538 SUB113539 SUB113540 SUB113541 SUB113542 
+##         3         3         3         3         3         3         3 
+## SUB113543 SUB113544 SUB113545 SUB113546 SUB113547 SUB113549 SUB113550 
+##         3         3         3         3         3         3         3 
+## SUB113551 SUB113552 SUB113553 SUB113554 SUB113555 SUB113556 SUB113557 
+##         3         3         3         3         3         3         3 
+## SUB113558 SUB113559 SUB113560 SUB113562 SUB113563 SUB113564 SUB113565 
+##         1         3         3         3         3         3         3 
+## SUB113566 SUB113567 SUB113568 SUB113569 SUB113570 SUB113572 SUB113573 
+##         3         3         3         3         3         3         3 
+## SUB113574 SUB113575 SUB113576 SUB113577 SUB113578 SUB113579 SUB113580 
+##         3         4         3         3         3         3         3 
+## SUB113581 SUB113582 SUB113583 SUB113584 SUB113585 SUB113586 SUB113587 
+##         3         3         3         3         3         3         3 
+## SUB113588 SUB113589 SUB113590 SUB113591 SUB113592 SUB113593 SUB113594 
+##         3         3         3         3         3         3         3 
+## SUB113596 SUB113597 SUB113598 SUB113599 SUB113600 SUB113601 SUB113602 
+##         3         3         3         3         3         3         3 
+## SUB113604 SUB113605 SUB113606 SUB113607 SUB113608 SUB113609 SUB113611 
+##         3         3         3         3         3         3         3</code></pre>
+<pre><code>## $max_subject_age
+## 
+## 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 
+## 10  5  2 10  4 16  5 11  7 14  6  4  4  4  4  2  6  2  4  4  5  2  9  7 
+## 
+## $gender
+## 
+## Female   Male 
+##     91     56 
+## 
+## $race
+## 
+## Asian Other White 
+##     1     1   145 
+## 
+## $Age_cat
+## 
+## young   old 
+##    84    63</code></pre>
+</div>
+<div id="plots-1" class="section level5">
+<h5>Plots</h5>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-22-1.png" width="100%" /><img src="SDY67_files/figure-html/unnamed-chunk-22-2.png" width="100%" /><img src="SDY67_files/figure-html/unnamed-chunk-22-3.png" width="100%" /></p>
+</div>
+</div>
+<div id="d-antibody-titer-1" class="section level4 tabset">
+<h4>D) Antibody titer</h4>
+<p><strong>seroprotection</strong> refers to those individuals with a titer of 1:40 or better. <strong>Seroconversion</strong> is defined as an increase in HI titer following vaccination of fourfold or greater. <strong>Multiplicity factor</strong> is an increase compared to baseline with 2.5 or greater.</p>
+<div id="hai-1" class="section level5">
+<h5>HAI</h5>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-24-1.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-24-2.png" width="60%" /></p>
+</div>
+<div id="nai-1" class="section level5">
+<h5>NAI</h5>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-25-1.png" width="60%" /></p>
+</div>
+</div>
+<div id="e-correlation-between-titer-and-cell-proportions-1" class="section level4">
+<h4>E) Correlation between titer and cell proportions</h4>
+<p><img src="SDY67_files/figure-html/unnamed-chunk-28-1.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-2.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-3.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-4.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-5.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-6.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-7.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-8.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-9.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-10.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-11.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-12.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-13.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-14.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-15.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-16.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-17.png" width="60%" /><img src="SDY67_files/figure-html/unnamed-chunk-28-18.png" width="60%" /></p>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

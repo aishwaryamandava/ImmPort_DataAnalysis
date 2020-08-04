@@ -1,12 +1,18 @@
 name: "Flow-Analysis-2020"
 output_dir: "docs"
 navbar:
-  title: "Memory"
+  title: "ImmPort Data Analysis"
   left:
   - text: "Home"
     href: index.html
-  - text: "FlowCytometry"
-    href: FlowCytometry.html
+  - text: "MemoryCD4_CD8"
+    href: MemoryCD4_CD8.html
+  - text: "MemoryBcells"
+    href: MemoryBcells.html
+  - text: "T regs"
+    href: Tregs.html
+  - text: "SDY67"
+    href: SDY67.html
 output:
   html_document:
           theme: cosmo
