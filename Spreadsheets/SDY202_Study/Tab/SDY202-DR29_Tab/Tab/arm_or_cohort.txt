@@ -1,0 +1,5 @@
+ARM_ACCESSION	DESCRIPTION	NAME	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM855	18-32 year old adults immunized intramuscularly with inactivated 2009 pandemic influenza A/H1N1 (pH1N1) vaccine	18-32 year old adults immunized intramuscularly with inactivated pH1N1 vaccine	SDY202		2883
+ARM857	>69 year old adults immunized intramuscularly with inactivated 2009 pandemic influenza A/H1N1 (pH1N1) vaccine	>69 year old adults immunized intramuscularly with inactivated pH1N1 vaccine	SDY202		2883
+ARM856	60-69 year old adults immunized intramuscularly with inactivated 2009 pandemic influenza A/H1N1 (pH1N1) vaccine	60-69 year old adults immunized intramuscularly inactivated pH1N1 vaccine	SDY202		2883
+ARM2215	Flow cytometry phenotyping technical control samples	Flow cytometry phenotyping technical control samples	SDY202	Experimental	2883

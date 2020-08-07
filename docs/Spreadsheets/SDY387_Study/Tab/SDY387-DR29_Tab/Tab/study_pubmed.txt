@@ -1,0 +1,2 @@
+STUDY_ACCESSION	PUBMED_ID	AUTHORS	DOI	ISSUE	JOURNAL	MONTH	PAGES	TITLE	YEAR	WORKSPACE_ID
+SDY387	23486778	Bentebibel SE(1), Lopez S, Obermoser G, Schmitt N, Mueller C, Harrod C, Flano E,  Mejias A, Albrecht RA, Blankenship D, Xu H, Pascual V, Banchereau J, Garcia-Sastre A, Palucka AK, Ramilo O, Ueno H.	10.1126/scitranslmed.3005191.	5 176	Sci Transl Med.	Mar	176ra32	Induction of ICOS+CXCR3+CXCR5+ TH cells correlates with antibody responses to influenza vaccination.	2013	2799

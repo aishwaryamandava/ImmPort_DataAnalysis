@@ -1,0 +1,65 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB114455			Other	Male	Asian		Homo sapiens			2771
+SUB114456			Other	Female	White		Homo sapiens			2771
+SUB114463			Other	Male	White		Homo sapiens			2771
+SUB114465			Other	Male	White		Homo sapiens			2771
+SUB114481			Other	Female	Asian		Homo sapiens			2771
+SUB114487			Other	Female	Asian		Homo sapiens			2771
+SUB114499			Other	Female	Asian		Homo sapiens			2771
+SUB114459			Other	Female	Asian		Homo sapiens			2771
+SUB114460			Other	Female	Asian		Homo sapiens			2771
+SUB114468			Other	Male	White		Homo sapiens			2771
+SUB114501			Other	Female	Asian		Homo sapiens			2771
+SUB114510			Other	Male	White		Homo sapiens			2771
+SUB114458			Other	Male	White		Homo sapiens			2771
+SUB114464			Other	Female	Asian		Homo sapiens			2771
+SUB114469			Other	Female	White		Homo sapiens			2771
+SUB114471			Other	Female	Asian		Homo sapiens			2771
+SUB114473			Other	Male	White		Homo sapiens			2771
+SUB114474			Other	Male	Black or African American		Homo sapiens			2771
+SUB114491			Other	Female	Black or African American		Homo sapiens			2771
+SUB114496			Other	Female	White		Homo sapiens			2771
+SUB114503			Other	Female	Black or African American		Homo sapiens			2771
+SUB114506			Other	Male	Asian		Homo sapiens			2771
+SUB114508			Hispanic or Latino	Female	Other	Hispanic	Homo sapiens			2771
+SUB114509			Other	Male	White		Homo sapiens			2771
+SUB114451			Other	Female	White		Homo sapiens			2771
+SUB114453			Other	Female	White		Homo sapiens			2771
+SUB114454			Other	Female	White		Homo sapiens			2771
+SUB114461			Other	Female	White		Homo sapiens			2771
+SUB114466			Other	Female	White		Homo sapiens			2771
+SUB114482			Other	Female	White		Homo sapiens			2771
+SUB114450			Other	Male	White		Homo sapiens			2771
+SUB114457			Other	Male	White		Homo sapiens			2771
+SUB114475			Other	Male	White		Homo sapiens			2771
+SUB114484			Other	Female	Other	Middle Eastern	Homo sapiens			2771
+SUB114490			Other	Female	White		Homo sapiens			2771
+SUB114505			Other	Female	White		Homo sapiens			2771
+SUB183275	Other		Not Specified	Not Specified	Not Specified		Homo sapiens			2771
+SUB114462			Hispanic or Latino	Female	Other	Hispanic	Homo sapiens			2771
+SUB114479			Other	Male	White		Homo sapiens			2771
+SUB114485			Other	Female	White		Homo sapiens			2771
+SUB114486			Other	Female	White		Homo sapiens			2771
+SUB114488			Other	Female	Black or African American		Homo sapiens			2771
+SUB114492			Other	Female	White		Homo sapiens			2771
+SUB114493			Other	Female	White		Homo sapiens			2771
+SUB114494			Other	Female	Asian		Homo sapiens			2771
+SUB114452			Other	Male	Asian		Homo sapiens			2771
+SUB114467			Other	Male	White		Homo sapiens			2771
+SUB114472			Other	Male	Asian		Homo sapiens			2771
+SUB114497			Other	Male	Asian		Homo sapiens			2771
+SUB114470			Other	Female	White		Homo sapiens			2771
+SUB114476			Other	Male	White		Homo sapiens			2771
+SUB114477			Other	Female	White		Homo sapiens			2771
+SUB114478			Other	Male	White		Homo sapiens			2771
+SUB114480			Other	Male	White		Homo sapiens			2771
+SUB114483			Other	Female	White		Homo sapiens			2771
+SUB114489			Other	Male	Asian		Homo sapiens			2771
+SUB114495			Other	Male	White		Homo sapiens			2771
+SUB114498			Other	Male	White		Homo sapiens			2771
+SUB114500			Other	Male	White		Homo sapiens			2771
+SUB114502			Other	Female	White		Homo sapiens			2771
+SUB114504			Other	Female	White		Homo sapiens			2771
+SUB114507			Other	Male	White		Homo sapiens			2771
+SUB114511			Other	Female	White		Homo sapiens			2771
+SUB114512			Other	Male	White		Homo sapiens			2771

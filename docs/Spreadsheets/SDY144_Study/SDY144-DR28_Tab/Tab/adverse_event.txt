@@ -1,0 +1,11 @@
+ADVERSE_EVENT_ACCESSION	CAUSALITY	DESCRIPTION	END_STUDY_DAY	END_TIME	LOCATION_OF_REACTION_PREFERRED	LOCATION_OF_REACTION_REPORTED	NAME_PREFERRED	NAME_REPORTED	ORGAN_OR_BODY_SYSTEM_PREFERRED	ORGAN_OR_BODY_SYSTEM_REPORTED	OTHER_ACTION_TAKEN	OUTCOME_PREFERRED	OUTCOME_REPORTED	RELATION_TO_NONSTUDY_TREATMENT	RELATION_TO_STUDY_TREATMENT	SEVERITY_PREFERRED	SEVERITY_REPORTED	START_STUDY_DAY	START_TIME	STUDY_ACCESSION	STUDY_TREATMENT_ACTION_TAKEN	SUBJECT_ACCESSION	WORKSPACE_ID
+AE68213								URI					Not_Specified		Not_Specified	Not Specified	Not_Specified	18		SDY144		SUB118174	2799
+AE68217			55					URI					Not_Specified		Not_Specified	Not Specified	Not_Specified	50		SDY144		SUB118183	2799
+AE68212								Mild Cough					Not_Specified		Not_Specified	Not Specified	Not_Specified	18		SDY144		SUB118171	2799
+AE68205			33					Sinusitis					Not_Specified		Not_Specified	Not Specified	Not_Specified	14		SDY144		SUB118153	2799
+AE68224			39					URI					Not_Specified		Not_Specified	Not Specified	Not_Specified	27		SDY144		SUB118176	2799
+AE68208								Strep Throat					Not_Specified		Not_Specified	Not Specified	Not_Specified	21		SDY144		SUB118161	2799
+AE68207								URI					Not_Specified		Not_Specified	Not Specified	Not_Specified	27		SDY144		SUB118158	2799
+AE68218			55					Fever and Congestion					Not_Specified		Not_Specified	Not Specified	Not_Specified	50		SDY144		SUB118183	2799
+AE68211								URI					Not_Specified		Not_Specified	Not Specified	Not_Specified	16		SDY144		SUB118168	2799
+AE68223			33					Viral illness					Not_Specified		Not_Specified	Not Specified	Not_Specified	15		SDY144		SUB118174	2799

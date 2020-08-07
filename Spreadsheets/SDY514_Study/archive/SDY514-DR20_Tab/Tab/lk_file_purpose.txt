@@ -1,0 +1,58 @@
+NAME	DESCRIPTION	LINK
+Adverse Event description	Adverse Event in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Archived	Files stored and not linked to descriptive data.	http://immport.org/immport-open/public/home/documentation
+Assessment Description	Assessment in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+CRF Description	Assessment CRF document.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C40988&ns=NCI_Thesaurus
+Clinical data	Clinical assessment result in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Control Sample description	Control Sample description.	http://immport.org/immport-open/public/home/documentation
+Custom assay description	Metadata for custom assay.	http://immport.org/immport-open/public/home/documentation
+Custom assay result	Custom assay result.	http://immport.org/immport-open/public/home/documentation
+CyTOF description	Metadata for flow cytometry assays.	http://immport.org/immport-open/public/home/documentation
+CyTOF result	CyTOF result.	http://immport.org/immport-open/public/home/documentation; https://en.wikipedia.org/wiki/Mass_cytometry
+ELISA description	Metadata for ELISA.	http://immport.org/immport-open/public/home/documentation
+ELISA result	Measurement values from ELISA assays.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16553&ns=NCI_Thesaurus
+ELISPOT description	Metadata for ELISpot assays.	http://immport.org/immport-open/public/home/documentation
+ELISPOT result	Measurement values from ELISpot assays.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C102632&ns=NCI_Thesaurus
+Experiment description	Experiment descriptions in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Flow cytometry compensation or control	Flow cytometry compensation or control files.	http://immport.org/immport-open/public/home/documentation;http://flowbook.denovosoftware.com/Flow_Book/Chapter_5%3A_Immunofluorescence_and_Colour_Compensation
+Flow cytometry description	Metadata for flow cytometry assays.	http://immport.org/immport-open/public/home/documentation
+Flow cytometry result	Flow cytometry result.	http://immport.org/immport-open/public/home/documentation;http://flowbook.denovosoftware.com/Flow_Book/Chapter_5%3A_Immunofluorescence_and_Colour_Compensation
+Gene expression description	Metadata for gene expression assays.	http://immport.org/immport-open/public/home/documentation
+Gene expression result	Measurement values from  Gene expression assays.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16608&ns=NCI_Thesaurus
+Genotyping description	Metadata for genotyping assays.	http://immport.org/immport-open/public/home/documentation
+Genotyping result	Measurement Genotyping result.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C45447&ns=NCI_Thesaurus
+HAI description	Metadata for HAI results.	http://immport.org/immport-open/public/home/documentation
+HAI result	HAI result.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C120688&ns=NCI_Thesaurus
+HLA description	Metadata for HLA typing result.	http://immport.org/immport-open/public/home/documentation
+HLA result	HLA result.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C71329&ns=NCI_Thesaurus
+Image Histology description	Metadata for histology results.	http://immport.org/immport-open/public/home/documentation
+Image Histology result	Image Histology assay result.	http://immport.org/immport-open/public/home/documentation;  https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16681&ns=NCI_Thesaurus
+Intervention description	Intervention in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+KIR description	Metadata for KIR result.	http://immport.org/immport-open/public/home/documentation
+KIR result	KIR result.	http://immport.org/immport-open/public/home/documentation
+Lab Test Panel description	Lab Test Panel in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Lab Test description	Lab Test in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+MBAA description	Metadata for Multiplex bead array assay.	http://immport.org/immport-open/public/home/documentation
+MBAA result	Result for Multiplex bead array assay.	http://immport.org/immport-open/public/home/documentation
+Mass spectrometry description	Metadata for mass spectrometry.	http://immport.org/immport-open/public/home/documentation
+Mass spectrometry result	Mass spectrometry result.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C17156&ns=NCI_Thesaurus
+Neutralizing antibody titer description	Metadata for neutralizing antibody assays.	http://immport.org/immport-open/public/home/documentation
+Neutralizing antibody titer result	Neutralizing antibody titer result.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C94196&ns=NCI_Thesaurus
+Other	Custom purpose.	http://immport.org/immport-open/public/home/documentation
+Protocol description	Metadata for protocol.	http://immport.org/immport-open/public/home/documentation
+Protocol	Protocol file.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C70817&ns=NCI_Thesaurus
+Q-PCR description	Metadata for Quantitative PCR.	http://immport.org/immport-open/public/home/documentation
+Q-PCR result	Quantitative PCR measurement.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C28408&ns=NCI_Thesaurus
+RNA sequencing description	Metadata for RNA sequencing assays.	http://immport.org/immport-open/public/home/documentation
+RNA sequencing result	Measurement RNA sequencing result.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurusnull=C45447=NCI_Thesaurus
+Reagent description	Reagent descriptions in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Sample description	Sample descriptions in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Standard Curve description	Standard Curve description.	http://immport.org/immport-open/public/home/documentation
+Study design	Study design templates.	http://immport.org/immport-open/public/home/documentation
+Subject description	Subject descriptions in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Substance Merge description	Substance Merge in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Treatment description	Treatment description.	http://immport.org/immport-open/public/home/documentation
+Virus neutralization result	Virus neutralization results.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C94196&ns=NCI_Thesaurus
+Virus neutralization	Metadata for virus neutralization results.	http://immport.org/immport-open/public/home/documentation
+Virus titer description	Metadata for virus titer.	http://immport.org/immport-open/public/home/documentation
+Virus titer result	Measurement of virus titer.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C67454&ns=NCI_Thesaurus

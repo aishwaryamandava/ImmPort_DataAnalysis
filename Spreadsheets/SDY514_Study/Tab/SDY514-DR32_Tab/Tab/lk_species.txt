@@ -1,0 +1,17 @@
+NAME	COMMON_NAME	LINK	TAXONOMY_ID
+Anas platyrhynchos	Mallard duck	http://www.ncbi.nlm.nih.gov/taxonomy/?term=8839[uid]	8839
+Drosophila melanogaster	Fruit Fly	http://www.ncbi.nlm.nih.gov/taxonomy/?term=7227[uid]	7227
+Gallus gallus	Chicken	http://www.ncbi.nlm.nih.gov/taxonomy/?term=9031[uid]	9031
+Homo sapiens	Human	http://www.ncbi.nlm.nih.gov/taxonomy/?term=9606[uid]	9606
+Macaca fascicularis	Macaca fascicularis	http://www.ncbi.nlm.nih.gov/taxonomy/?term=9541[uid]	9541
+Macaca mulatta	Rhesus macaque	http://www.ncbi.nlm.nih.gov/taxonomy/?term=9544[uid]	9544
+Mus musculus castaneus	Southeastern Asian house mouse	http://www.ncbi.nlm.nih.gov/taxonomy/?term=10091[uid]	10091
+Mus musculus	Mouse	http://www.ncbi.nlm.nih.gov/taxonomy/?term=10090[uid]	10090
+Mus spretus	Western wild mouse	http://www.ncbi.nlm.nih.gov/taxonomy/?term=10096[uid]	10096
+Mustela putorius furo	domestic ferret	http://www.ncbi.nlm.nih.gov/taxonomy/?term=9669[uid]	9669
+Rattus norvegicus	Rat	http://www.ncbi.nlm.nih.gov/taxonomy/?term=10116[uid]	10116
+Rattus rattus	Rat - Brown	http://www.ncbi.nlm.nih.gov/taxonomy/?term=10117[uid]	10117
+Sus scrofa domesticus	domestic pig	http://www.ncbi.nlm.nih.gov/taxonomy/?term=9825[uid]	9825
+Canis lupus familiaris	dog	https://www.ncbi.nlm.nih.gov/taxonomy/?term=9615[uid]	9615
+Pan troglodytes	Chimpanzee	https://www.ncbi.nlm.nih.gov/taxonomy/?term=9598[uid]	9598
+Aotus nancymaae	Ma's night monkey	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37293	37293

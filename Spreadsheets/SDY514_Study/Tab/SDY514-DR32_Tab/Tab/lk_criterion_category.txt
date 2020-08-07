@@ -1,0 +1,3 @@
+NAME	DESCRIPTION	LINK
+Exclusion	Exclusion Criterion used to evaluate whether a subject is a candidate for exclusion in a study.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C25370&ns=NCI_Thesaurus
+Inclusion	Inclusion Criterion used to evaluate whether a subject is a candidate for inclusion in a study.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C25532&ns=NCI_Thesaurus&key=810018085&b=1&n=null

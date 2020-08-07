@@ -1,0 +1,14 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL5185		BAY_PROTOCOL_000001.PTL5185.docx	study protocol	BAY_PROTOCOL_000001.docx	Clinical	2799
+PTL5187		BAY_PROTOCOL_00003.PTL5187.pdf	microarray protocol	BAY_PROTOCOL_00003.pdf	Assay	2799
+PTL5188		BAY_PROTOCOL_000004.PTL5188.docx	HAI protocol	BAY_PROTOCOL_000004.docx	Assay	2799
+PTL5803		Study Design.PTL5803.docx	StudyDesign	Study Design.docx	Not Specified	2799
+PTL5804		Flow Cytometry.PTL5804.docx	Flow	Flow Cytometry.docx	Not Specified	2799
+PTL5805		Microarray.PTL5805.docx	Microarray	Microarray.docx	Not Specified	2799
+PTL5806		HAI_Serology.PTL5806.docx	Serology	HAI_Serology.docx	Not Specified	2799
+PTL5807		Luminex.PTL5807.docx	Luminex	Luminex.docx	Not Specified	2799
+PTL7222		NanoString_GeneralSOP1.PTL7222.pdf	NanoString_GeneralSOP1	NanoString_GeneralSOP1.pdf	Not Specified	2799
+PTL7223		NanoString_GeneralSOP2.PTL7223.pdf	NanoString_GeneralSOP2	NanoString_GeneralSOP2.pdf	Not Specified	2799
+PTL7224		NanoString_GeneralSOP3.PTL7224.pdf	NanoString_GeneralSOP3	NanoString_GeneralSOP3.pdf	Not Specified	2799
+PTL7225		NanoString_GeneralSOP4.PTL7225.pdf	NanoString_GeneralSOP4	NanoString_GeneralSOP4.pdf	Not Specified	2799
+PTL8739		CBC.PTL8739.txt	CBC protocol	CBC.txt	Not Specified	2799

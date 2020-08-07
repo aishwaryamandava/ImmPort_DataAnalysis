@@ -45,7 +45,7 @@ GeneExpressionData = c("Yes (RNA-seq)","No","No","No","Yes (MA)","No","No","Yes 
 )
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(summary_table) %>%
   kable_styling(full_width = F) %>%
   row_spec(c(4,9),background = "gray") %>%
@@ -60,7 +60,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 sdy <- "SDY67"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY67_Study/"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -95,19 +95,19 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
                             AND a.name NOT LIKE '%Compensation%';")
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 head(fcs_meta_Data)
 ```
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY67/Header_SDY67.xlsx")                            
+header_info <- read.xlsx("./Spreadsheets/Header_SDY67.xlsx")                            
 colnames(header_info)[1] <- "name" 
 mm_sdy67 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy67 <- mm_sdy67[which(mm_sdy67$Panel == 1),]
 ```
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
-ab_titer_sdy67 <- read.delim("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
+ab_titer_sdy67 <- read.delim("./Spreadsheets/SDY67_Study/Tab/SDY67-DR29_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
 #ab_titer <- ab_titer[which(ab_titer$STUDY_TIME_COLLECTED == '0'),]
 ab_titer_d_sdy67 <- dcast(ab_titer_sdy67,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_PREFERRED,value.var='VALUE_REPORTED')
 ab_titer_d_sdy67$Geometric_mean <- apply(ab_titer_d_sdy67[,3:4],1,function(x) geometric.mean(x,na.rm=TRUE))
@@ -123,22 +123,22 @@ melt_response_sdy67 <- melt(resp_sdy67[,c(1,2,3,4,5,7,8)],id=c("subject_accessio
 
 Antibody titer for SDY67:
 Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Day28. Fold change is calculated as $\frac{"Geometric mean of Ab titer of all strains on Day 28"}{Geometric mean of Ab titer of all strains on Day 0}$. 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(resp_sdy67)%>%
   kable_styling() %>%
   scroll_box(width = "100%", height = "500px")
 ```
 
 Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder)
-```{r}
-ggplot(na.omit(melt_response_sdy67),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")
+```{r,echo=FALSE, results=TRUE}
+ggplot(na.omit(melt_response_sdy67),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+theme(text=element_text(size=10,family="Times"))
 ```
 
 Tregs population proportions: Plots below show the proportions of Tregs across time points. In each plot the colors indicate responder or non-responder based on ab-titer at each time point of titer. (> 40 is a responder)
 
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 #Reading the population percentages
-sdy <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Tregs/SDY67_Percentages.xlsx",sheet=5)
+sdy <- read.xlsx("./Spreadsheets/SDY67_Percentages.xlsx",sheet=5)
 colnames(sdy)[1] <- "name"
 sdy67 <- merge(sdy,final_tab_sdy67,by="name")[,-c(3,4,8,12,14,15,16)]
 sdy67$study_time_collected <- paste0("Day_",sdy67$study_time_collected)
@@ -152,7 +152,7 @@ melt_data_sdy67 <- melt(data_sdy67[,-c(14,15)],id=c("subject_accession","max_sub
 melt_data_sdy67$value <- as.numeric(melt_data_sdy67$value)
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 tab_sdy67 <- table(data_sdy67$Age_cat,data_sdy67$responder0)
 
 kable(tab_sdy67) %>%
@@ -160,33 +160,36 @@ kable(tab_sdy67) %>%
   column_spec(c(1:2),border_right = TRUE, border_left = TRUE)
 
 mlt_sdy67 <- melt(tab_sdy67)
-ggplot(mlt_sdy67,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")
+ggplot(mlt_sdy67,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")+theme(text=element_text(size=10,family="Times"))
 ```
 
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 melt_data_sdy67$variable <- factor(melt_data_sdy67$variable,levels = c("Day_0","Day_3","Day_28","Day_75"))
 
-ggplot(na.omit(melt_data_sdy67),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 28)")
+ggplot(na.omit(melt_data_sdy67),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 28)")+theme(text=element_text(size=10,family="Times"))
 
 
-ggplot(na.omit(melt_data_sdy67),aes(x=responder28,y=value, color=variable))+geom_boxplot()+xlab("Response at Day28")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day28")+facet_wrap(~Age_cat)
+ggplot(na.omit(melt_data_sdy67),aes(x=responder28,y=value, color=variable))+geom_boxplot()+xlab("Response at Day28")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day28")+facet_wrap(~Age_cat)+theme(text=element_text(size=10,family="Times"))
 ```
 
-```{r, include=FALSE, message=FALSE, warning=FALSE}
+```{r, include=FALSE, message=FALSE, warning=FALSE,echo=FALSE, results=TRUE}
 #p1<-ggscatter(data_sdy80,x=paste0("Day_-7"),y="FoldChange",add = "reg.line", conf.int = TRUE, 
  #           cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day -7")
   p2<-ggscatter(data_sdy67,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")+theme(text=element_text(size=10,family="Times"))
+
   p3<-ggscatter(data_sdy67,x="Day_3",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 3")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 3")+theme(text=element_text(size=10,family="Times"))
+  
   p4<-ggscatter(data_sdy67,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 28")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 28")+theme(text=element_text(size=10,family="Times"))
+  
  p5<-ggscatter(data_sdy67,x="Day_75",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 75")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 75")+theme(text=element_text(size=10,family="Times"))
 ``` 
 
-```{r, warning=FALSE, message=FALSE}
+```{r, warning=FALSE, message=FALSE,echo=FALSE, results=TRUE}
  grid.arrange(p2,p3,p4,p5, ncol=2)
 ```
 
@@ -198,7 +201,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 sdy <- "SDY80"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY80_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -234,7 +237,7 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
                             AND a.name NOT LIKE '%Compensation%';")
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(fcs_meta_Data)%>%
   kable_styling() %>%
   scroll_box(width = "100%", height = "500px")
@@ -245,7 +248,7 @@ kable(fcs_meta_Data)%>%
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(3,6)])
 
 #This file has the list of fcs files we have
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY80/Header_SDY80.xlsx",sheet=1) 
+header_info <- read.xlsx("./Spreadsheets/Header_SDY80.xlsx",sheet=1) 
 
 mm_sdy80 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy80 <- mm_sdy80[which(mm_sdy80$Panel == "1"),]
@@ -271,7 +274,7 @@ colnames(resp_sdy80)[1] <- "subject_accession"
 
 Antibody titer for SDY80: 
 Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{"Geometric mean of Ab titer of all strains on Day 28"}{Geometric mean of Ab titer of all strains on Day 0}$. 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 ###Print the ab titer table
 kable(resp_sdy80)%>%
   kable_styling() %>%
@@ -279,16 +282,16 @@ kable(resp_sdy80)%>%
 ```
 
 Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder)
-```{r}
+```{r,echo=FALSE, results=TRUE}
 melt_response <- melt(resp_sdy80[,c(1:6,10)],id=c("subject_accession","responder28"))
-ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")
+ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+theme(text=element_text(size=10,family="Times"))
 ```
 
 Tregs population proportions: 
 Plots below show the proportions of Tregs across time points. In each plot the colors indicate responder or non-responder based on ab-titer at each time point of titer. (> 40 is a responder)
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 #Reading the population percentages
-sdy80 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Tregs/SDY80_Percentages.xlsx",sheet=2)[,c(1:7)]
+sdy80 <- read.xlsx("./Spreadsheets/SDY80_Percentages.xlsx",sheet=2)[,c(1:7)]
 sdy80$Day <- paste0("Day_",sdy80$Day)
 cast_sdy80 <- dcast(sdy80,subject_accession+Age+Study~Day,value.var='Tregs',fun.aggregate = mean)
 #ggplot(sdy80,aes(x=Day,y=Tregs,group=subject_accession,color=subject_accession))+geom_line()
@@ -298,7 +301,7 @@ data_sdy80$Age_cat <- cut(data_sdy80$Age, breaks = c(0,60,120), labels = c("youn
 melt_data_sdy80 <- melt(data_sdy80[,-c(9,13,18,19)],id=c("subject_accession","Age","Study","0","7","28","FoldChange","responder0","responder7","responder28","Age_cat"))
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 tab_sdy80 <- table(data_sdy80$Age_cat,data_sdy80$responder0)
 
 kable(tab_sdy80) %>%
@@ -306,42 +309,52 @@ kable(tab_sdy80) %>%
   column_spec(c(1:2),border_right = TRUE, border_left = TRUE)
 
 mlt_sdy80 <- melt(tab_sdy80)
-ggplot(mlt_sdy80,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")
+ggplot(mlt_sdy80,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")+theme(text=element_text(size=10,family="Times"))
 
 ```
 
-```{r}
-ggplot(na.omit(melt_data_sdy80),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 0)")
-ggplot(na.omit(melt_data_sdy80),aes(x=variable,y=value,group=subject_accession,color=responder7))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 7)")
-ggplot(na.omit(melt_data_sdy80),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 28)")
+```{r,echo=FALSE, results=TRUE}
+ggplot(na.omit(melt_data_sdy80),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 0)")+theme(text=element_text(size=10,family="Times"))
 
-ggplot(na.omit(melt_data_sdy80),aes(x=responder0,y=value, color=variable))+geom_boxplot()+xlab("Response at Day0")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day0")+facet_wrap(~Age_cat)
-ggplot(na.omit(melt_data_sdy80),aes(x=responder7,y=value, color=variable))+geom_boxplot()+xlab("Response at Day7")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day7")+facet_wrap(~Age_cat)
-ggplot(na.omit(melt_data_sdy80),aes(x=responder28,y=value, color=variable))+geom_boxplot()+xlab("Response at Day28")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day28")+facet_wrap(~Age_cat)
+ggplot(na.omit(melt_data_sdy80),aes(x=variable,y=value,group=subject_accession,color=responder7))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 7)")+theme(text=element_text(size=10,family="Times"))
+
+ggplot(na.omit(melt_data_sdy80),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 28)")+theme(text=element_text(size=10,family="Times"))
+
+ggplot(na.omit(melt_data_sdy80),aes(x=responder0,y=value, color=variable))+geom_boxplot()+xlab("Response at Day0")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day0")+facet_wrap(~Age_cat)+theme(text=element_text(size=10,family="Times"))
+
+ggplot(na.omit(melt_data_sdy80),aes(x=responder7,y=value, color=variable))+geom_boxplot()+xlab("Response at Day7")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day7")+facet_wrap(~Age_cat)+theme(text=element_text(size=10,family="Times"))
+
+ggplot(na.omit(melt_data_sdy80),aes(x=responder28,y=value, color=variable))+geom_boxplot()+xlab("Response at Day28")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day28")+facet_wrap(~Age_cat)+theme(text=element_text(size=10,family="Times"))
 ```
 
 
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 p1<-ggscatter(data_sdy80,x=paste0("Day_-7"),y="FoldChange",add = "reg.line", conf.int = TRUE, 
-           cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day -7")
+           cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day -7")+theme(text=element_text(size=10,family="Times"))
+
   p2<-ggscatter(data_sdy80,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")+theme(text=element_text(size=10,family="Times"))
+  
   p3<-ggscatter(data_sdy80,x="Day_1",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 1")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 1")+theme(text=element_text(size=10,family="Times"))
+  
   p4<-ggscatter(data_sdy80,x="Day_7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 7")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 7")+theme(text=element_text(size=10,family="Times"))
+  
  p5<-ggscatter(data_sdy80,x="Day_70",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 70")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 70")+theme(text=element_text(size=10,family="Times"))
+ 
 ```
 
-```{r, include=TRUE, message=FALSE, warning=FALSE}
+```{r, message=FALSE, warning=FALSE,echo=FALSE, results=TRUE}
   grid.arrange(p2,p3,p4,p5, ncol=2)
 ```
 
 
-```{r, inlcude=TRUE, message=FALSE, warning=FALSE}
+```{r,  message=FALSE, warning=FALSE}
 #mod <- lmer()
 ```
+
 ##SDY404
 [SDY404](https://www.immport.org/shared/study/SDY404) Immunologic and genomic signatures of influenza vaccine response - 2011 (see companion studies SDY63, SDY400, SDY520). Realted published article can be accessed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4366602/pdf/jiu573.pdf).
 
@@ -349,7 +362,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 sdy <- "SDY404"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY404_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -384,21 +397,21 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
                             AND a.name NOT LIKE '%Compensation%';")
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(fcs_meta_Data)%>%
   kable_styling() %>%
   scroll_box(width = "100%", height = "500px")
 ```
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY404/Header_SDY404.xlsx")                            
+header_info <- read.xlsx("./Spreadsheets/Header_SDY404.xlsx")                            
 colnames(header_info)[1] <- "name" 
 mm_sdy404 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy404 <- mm_sdy404[which(mm_sdy404$Panel == 7),]
 ```
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
-ab_titer_sdy404 <- read.delim("/Volumes/Samsung_T5/Immport_UH2/SDY404/SDY404-DR29_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
+ab_titer_sdy404 <- read.delim("./Spreadsheets/SDY404_Study/Tab/SDY404-DR29_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
 #ab_titer <- ab_titer[which(ab_titer$STUDY_TIME_COLLECTED == '0'),]
 ab_titer_d_sdy404 <- dcast(ab_titer_sdy404,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_PREFERRED,value.var='VALUE_REPORTED')
 ab_titer_d_sdy404$Geometric_mean <- apply(ab_titer_d_sdy404[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
@@ -413,23 +426,23 @@ colnames(resp_sdy404)[1] <- "subject_accession"
 
 Antibody titer for SDY404:
 Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{"Geometric mean of Ab titer of all strains on Day 28"}{Geometric mean of Ab titer of all strains on Day 0}$. 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(resp_sdy404)%>%
   kable_styling() %>%
   scroll_box(width = "100%", height = "500px")
 ```
 
 Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder)
-```{r}
+```{r,echo=FALSE, results=TRUE}
 melt_response_sdy404 <- melt(resp_sdy404[,c(1,2,4,9,10)],id=c("subject_accession","responder0","responder28"))
 #ggplot(na.omit(melt_response_sdy404),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line()
-ggplot(na.omit(melt_response_sdy404),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")
+ggplot(na.omit(melt_response_sdy404),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+theme(text=element_text(size=10,family="Times"))
 ```
 
 Tregs population proportions: Plots below show the proportions of Tregs across time points. In each plot the colors indicate responder or non-responder based on ab-titer at each time point of titer. (> 40 is a responder)
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 #Reading the population percentages
-sdy404 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Tregs/SDY404_Percentages.xlsx",sheet=2)[,c(1:7)]
+sdy404 <- read.xlsx("./Spreadsheets/SDY404_Percentages.xlsx",sheet=2)[,c(1:7)]
 sdy404$Day <- paste0("Day_",sdy404$Day)
 cast_sdy404 <- dcast(sdy404,subject_accession+Age+Study~Day,value.var='Tregs',fun.aggregate = mean)
 #ggplot(sdy80,aes(x=Day,y=Tregs,group=subject_accession,color=subject_accession))+geom_line()
@@ -440,7 +453,7 @@ data_sdy404$Age_cat <- cut(data_sdy404$Age, breaks = c(0,60,120), labels = c("yo
 melt_data_sdy404 <- melt(data_sdy404[,-c(5,8:10,13,15,16,17,21,22)],id=c("subject_accession","Age","Study","0","28","FoldChange","responder0","responder28","Age_cat"))
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 tab_sdy404 <- table(data_sdy404$Age_cat,data_sdy404$responder0)
 
 kable(tab_sdy404) %>%
@@ -448,32 +461,37 @@ kable(tab_sdy404) %>%
   column_spec(c(1:2),border_right = TRUE, border_left = TRUE)
 
 mlt_sdy404 <- melt(tab_sdy404)
-ggplot(mlt_sdy404,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")
+ggplot(mlt_sdy404,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")+theme(text=element_text(size=10,family="Times"))
 ```
 
 
-```{r}
-ggplot(na.omit(melt_data_sdy404),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 0)")
-ggplot(na.omit(melt_data_sdy404),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 28)")
+```{r,echo=FALSE, results=TRUE}
+ggplot(na.omit(melt_data_sdy404),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 0)")+theme(text=element_text(size=10,family="Times"))
 
-ggplot(na.omit(melt_data_sdy404),aes(x=responder0,y=value, color=variable))+geom_boxplot()+xlab("Response at Day0")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day0")+facet_wrap(~Age_cat)
-ggplot(na.omit(melt_data_sdy404),aes(x=responder28,y=value, color=variable))+geom_boxplot()+xlab("Response at Day28")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day28")+facet_wrap(~Age_cat)
+ggplot(na.omit(melt_data_sdy404),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line(aes(linetype=Age_cat))+geom_point()+xlab("Day (for Cell proportion)")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points (Response based on Day 28)")+theme(text=element_text(size=10,family="Times"))
+
+ggplot(na.omit(melt_data_sdy404),aes(x=responder0,y=value, color=variable))+geom_boxplot()+xlab("Response at Day0")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day0")+facet_wrap(~Age_cat)+theme(text=element_text(size=10,family="Times"))
+
+ggplot(na.omit(melt_data_sdy404),aes(x=responder28,y=value, color=variable))+geom_boxplot()+xlab("Response at Day28")+ylab("Cell proportion")+ggtitle("Cell Proportions across time points for response at Day28")+facet_wrap(~Age_cat)+theme(text=element_text(size=10,family="Times"))
 ```
 
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 #p1<-ggscatter(data_sdy80,x=paste0("Day_-7"),y="FoldChange",add = "reg.line", conf.int = TRUE, 
  #           cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day -7")
   p2<-ggscatter(data_sdy404,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")+theme(text=element_text(size=10,family="Times"))
+
   p3<-ggscatter(data_sdy404,x="Day_2",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 2")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 2")+theme(text=element_text(size=10,family="Times"))
+  
   p4<-ggscatter(data_sdy404,x="Day_7",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 7")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 7")+theme(text=element_text(size=10,family="Times"))
+  
  p5<-ggscatter(data_sdy404,x="Day_28",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 28")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 28")+theme(text=element_text(size=10,family="Times"))
 ``` 
 
-```{r, warning=FALSE}
+```{r, warning=FALSE,echo=FALSE, results=TRUE}
  grid.arrange(p2,p3,p4,p5, ncol=2)
 ```
 
@@ -484,7 +502,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 sdy <- "SDY312"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_3/"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY312_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -519,7 +537,7 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
                             AND a.name NOT LIKE '%Compensation%';")
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(fcs_meta_Data)%>%
   kable_styling() %>%
   scroll_box(width = "100%", height = "500px")
@@ -531,7 +549,7 @@ Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(3,7)])
 
 #This file has the list of fcs files we have
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_3/SDY312/Header_SDY312.xlsx",sheet=1) 
+header_info <- read.xlsx("./Spreadsheets/Header_SDY312.xlsx",sheet=1) 
 colnames(header_info)[1] <- "name"
 mm_sdy312 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy312 <- mm_sdy312[which(mm_sdy312$Panel == "3"),]
@@ -540,7 +558,7 @@ final_tab_sdy312 <- mm_sdy312[which(mm_sdy312$Panel == "3"),]
 ```
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
-ab_titer_sdy312 <- read.delim("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_3/SDY312/Study/Tab/SDY312-DR29_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
+ab_titer_sdy312 <- read.delim("./Spreadsheets/SDY312_Study/Tab/SDY312-DR29_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
   #ab_titer <- ab_titer[which(ab_titer$STUDY_TIME_COLLECTED == '0'),]
 ab_titer_d_sdy312 <- dcast(ab_titer_sdy312[,-c(1:9,11,13,14,15,17,19)],SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
 ab_titer_d_sdy312$Geometric_mean <- apply(ab_titer_d_sdy312[,3:9],1,function(x) geometric.mean(x,na.rm=TRUE))
@@ -553,7 +571,7 @@ resp_sdy312$responder_Day0_FC <- ifelse(resp_sdy312$responder0 == "Responder" | 
 colnames(resp_sdy312)[1] <- "subject_accession"
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 ###Print the ab titer table
 kable(resp_sdy312)%>%
   kable_styling() %>%
@@ -561,16 +579,16 @@ kable(resp_sdy312)%>%
 ```
 
 Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder)
-```{r}
+```{r,echo=FALSE, results=TRUE}
 melt_response_sdy312 <- melt(resp_sdy312[,c(1:3,5,6)],id=c("subject_accession","responder0","responder28"))
 #ggplot(na.omit(melt_response_sdy312),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line()
-ggplot(na.omit(melt_response_sdy312),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")
+ggplot(na.omit(melt_response_sdy312),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+theme(text=element_text(size=10,family="Times"))
 ```
 
 Tregs population proportions: Plot below shows the proportions of Tregs. Colors indicate responder or non-responder based on ab-titer at Day 28. (> 40 is a responder)
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 #Reading the population percentages
-sdy312 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Tregs/SDY312_Tregs_proportions.xlsx",sheet=2)[,c(1:7)]
+sdy312 <- read.xlsx("./Spreadsheets/SDY312_Tregs_proportions.xlsx",sheet=2)[,c(1:7)]
 sdy312$Day <- paste0("Day_",sdy312$Day)
 cast_sdy312 <- dcast(sdy312,subject_accession+Age+Study~Day,value.var='Tregs',fun.aggregate = mean)
 #ggplot(sdy80,aes(x=Day,y=Tregs,group=subject_accession,color=subject_accession))+geom_line()
@@ -579,7 +597,7 @@ data_sdy312 <- left_join(cast_sdy312,resp_sdy312,by='subject_accession')
 data_sdy312$Age_cat <- cut(data_sdy312$Age, breaks = c(0,60,120), labels = c("young","old"))
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 tab_sdy312 <- table(data_sdy312$Age_cat,data_sdy312$responder28)
 
 kable(tab_sdy312) %>%
@@ -587,20 +605,20 @@ kable(tab_sdy312) %>%
   column_spec(c(1:2),border_right = TRUE, border_left = TRUE)
 
 mlt_sdy312 <- melt(tab_sdy312)
-ggplot(mlt_sdy312,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")
+ggplot(mlt_sdy312,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")+theme(text=element_text(size=10,family="Times"))
 
 ```
 
-```{r}
-ggplot(na.omit(data_sdy312),aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxplot()+xlab("Age")+ylab("Cell Proportion")+ggtitle("Boxplot of Cell Proportion at Day 0")
+```{r,echo=FALSE, results=TRUE}
+ggplot(na.omit(data_sdy312),aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxplot()+xlab("Age")+ylab("Cell Proportion")+ggtitle("Boxplot of Cell Proportion at Day 0")+theme(text=element_text(size=10,family="Times"))
 ```
 
 
-```{r, include=TRUE, message=FALSE, warning=FALSE}
+```{r, message=FALSE, warning=FALSE,echo=FALSE, results=TRUE}
 #p1<-ggscatter(data_sdy80,x=paste0("Day_-7"),y="FoldChange",add = "reg.line", conf.int = TRUE, 
  #           cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day -7")
 ggscatter(data_sdy312,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")+theme(text=element_text(size=10,family="Times"))
 ```
 
 
@@ -611,7 +629,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 sdy <- "SDY514"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY514_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -647,7 +665,7 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
 ```
 
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(fcs_meta_Data)%>%
   kable_styling() %>%
   scroll_box(width = "100%", height = "500px")
@@ -659,7 +677,7 @@ Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(3,7)])
 
 #This file has the list of fcs files we have
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY514/Header_SDY514.xlsx",sheet=1) 
+header_info <- read.xlsx("./Spreadsheets/Header_SDY514.xlsx",sheet=1) 
 colnames(header_info)[1] <- "name"
 mm_sdy514 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy514 <- mm_sdy514[which(mm_sdy514$Panel == "3"),]
@@ -668,7 +686,7 @@ final_tab_sdy514 <- mm_sdy514[which(mm_sdy514$Panel == "3"),]
 ```
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
-ab_titer_sdy514 <- read.delim("/Volumes/Samsung_T5/Immport_UH2/SDY514/Study/Tab/SDY514-DR32_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
+ab_titer_sdy514 <- read.delim("./Spreadsheets/SDY514_Study/Tab/SDY514-DR32_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
   #ab_titer <- ab_titer[which(ab_titer$STUDY_TIME_COLLECTED == '0'),]
 ab_titer_d_sdy514 <- dcast(ab_titer_sdy514[,-c(1:9,11,13,14,15,17,19)],SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
 ab_titer_d_sdy514$Geometric_mean <- apply(ab_titer_d_sdy514[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
@@ -681,7 +699,7 @@ resp_sdy514$responder_Day0_FC <- ifelse(resp_sdy514$responder0 == "Responder" | 
 colnames(resp_sdy514)[1] <- "subject_accession"
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 ###Print the ab titer table
 kable(resp_sdy514)%>%
   kable_styling() %>%
@@ -689,16 +707,16 @@ kable(resp_sdy514)%>%
 ```
 
 Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder)
-```{r}
+```{r,echo=FALSE, results=TRUE}
 melt_response_sdy514 <- melt(resp_sdy514[,c(1:3,5,6)],id=c("subject_accession","responder0","responder28"))
 #ggplot(na.omit(melt_response_sdy312),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line()
-ggplot(na.omit(melt_response_sdy514),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")
+ggplot(na.omit(melt_response_sdy514),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+theme(text=element_text(size=10,family="Times"))
 ```
 
 Tregs population proportions: Plot below shows the proportions of Tregs. Colors indicate responder or non-responder based on ab-titer at Day 28. (> 40 is a responder)
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 #Reading the population percentages
-sdy514 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Tregs/SDY514_Percentages.xlsx",sheet=3)[,c(1:7)]
+sdy514 <- read.xlsx("./Spreadsheets/SDY514_Percentages.xlsx",sheet=3)[,c(1:7)]
 sdy514$Day <- paste0("Day_",sdy514$Day)
 cast_sdy514 <- dcast(sdy514,subject_accession+Age+Study~Day,value.var='Tregs',fun.aggregate = mean)
 #ggplot(sdy80,aes(x=Day,y=Tregs,group=subject_accession,color=subject_accession))+geom_line()
@@ -707,7 +725,7 @@ data_sdy514 <- left_join(cast_sdy514,resp_sdy514,by='subject_accession')
 data_sdy514$Age_cat <- cut(data_sdy514$Age, breaks = c(0,60,120), labels = c("young","old"))
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 tab_sdy514 <- table(data_sdy514$Age_cat,data_sdy514$responder28)
 
 kable(tab_sdy514) %>%
@@ -715,12 +733,12 @@ kable(tab_sdy514) %>%
   column_spec(c(1:2),border_right = TRUE, border_left = TRUE)
 
 mlt_sdy514 <- melt(tab_sdy514)
-ggplot(mlt_sdy514,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")
+ggplot(mlt_sdy514,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")+theme(text=element_text(size=10,family="Times"))
 
 ```
 
-```{r}
-ggplot(na.omit(data_sdy514),aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxplot()+xlab("Age")+ylab("Cell Proportion")+ggtitle("Boxplot of Cell Proportion at Day 0")
+```{r,echo=FALSE, results=TRUE}
+ggplot(na.omit(data_sdy514),aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxplot()+xlab("Age")+ylab("Cell Proportion")+ggtitle("Boxplot of Cell Proportion at Day 0")+theme(text=element_text(size=10,family="Times"))
 ```
 
 
@@ -728,7 +746,7 @@ ggplot(na.omit(data_sdy514),aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxpl
 #p1<-ggscatter(data_sdy80,x=paste0("Day_-7"),y="FoldChange",add = "reg.line", conf.int = TRUE, 
  #           cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day -7")
 ggscatter(data_sdy514,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")+theme(text=element_text(size=10,family="Times"))+theme(text=element_text(size=10,family="Times"))
 ```
 
 
@@ -740,7 +758,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 sdy <- "SDY202"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY202_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -775,7 +793,7 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
                             AND a.name NOT LIKE '%Compensation%';")
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(fcs_meta_Data)%>%
   kable_styling() %>%
   scroll_box(width = "100%", height = "500px")
@@ -786,7 +804,7 @@ Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-
 ```{r,include=FALSE, message=FALSE, warning=FALSE}
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(3,7)])
 #This file has the list of fcs files we have
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY202/Header_SDY202.xlsx",sheet=1) 
+header_info <- read.xlsx("./Spreadsheets/Header_SDY202.xlsx",sheet=1) 
 colnames(header_info)[1] <- "name"
 mm_sdy202 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy202 <- mm_sdy202[which(mm_sdy202$Panel == "3"),]
@@ -795,7 +813,7 @@ final_tab_sdy202 <- mm_sdy202[which(mm_sdy202$Panel == "3"),]
 ```
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
-ab_titer_sdy202 <- read.delim("/Volumes/Samsung_T5/Immport_UH2/SDY202/Study/Tab/SDY202-DR29_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
+ab_titer_sdy202 <- read.delim("./Spreadsheets/SDY202_Study/Tab/SDY202-DR29_Tab/Tab/hai_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
   #ab_titer <- ab_titer[which(ab_titer$STUDY_TIME_COLLECTED == '0'),]
 ab_titer_d_sdy202 <- dcast(ab_titer_sdy202[,-c(1:9,11,13,14,15,18,19)],SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_PREFERRED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
 #ab_titer_d_sdy202$Geometric_mean <- apply(ab_titer_d_sdy202[,3],1,function(x) geometric.mean(x,na.rm=TRUE))
@@ -808,7 +826,7 @@ resp_sdy202$responder_Day0_FC <- ifelse(resp_sdy202$responder0 == "Responder" | 
 colnames(resp_sdy202)[1] <- "subject_accession"
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 ###Print the ab titer table
 kable(resp_sdy202)%>%
   kable_styling() %>%
@@ -816,16 +834,16 @@ kable(resp_sdy202)%>%
 ```
 
 Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder)
-```{r}
+```{r,echo=FALSE, results=TRUE}
 melt_response_sdy202 <- melt(resp_sdy202[,c(1:3,5,6)],id=c("subject_accession","responder0","responder28"))
 #ggplot(na.omit(melt_response_sdy312),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line()
-ggplot(na.omit(melt_response_sdy202),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")
+ggplot(na.omit(melt_response_sdy202),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+theme(text=element_text(size=10,family="Times"))
 ```
 
 Tregs population proportions: Plot below shows the proportions of Tregs. Colors indicate responder or non-responder based on ab-titer at Day 28. (> 40 is a responder)
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 #Reading the population percentages
-sdy202 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Tregs/SDY202_percentages.xlsx",sheet=2)[,c(1:7)]
+sdy202 <- read.xlsx("./Spreadsheets/SDY202_percentages.xlsx",sheet=2)[,c(1:7)]
 sdy202$Day <- paste0("Day_",sdy202$Day)
 cast_sdy202 <- dcast(na.omit(sdy202),subject_accession+Age+Study~Day,value.var='Tregs',fun.aggregate = mean)
 #ggplot(sdy80,aes(x=Day,y=Tregs,group=subject_accession,color=subject_accession))+geom_line()
@@ -834,7 +852,7 @@ data_sdy202 <- left_join(cast_sdy202,resp_sdy202,by='subject_accession')
 data_sdy202$Age_cat <- cut(data_sdy202$Age, breaks = c(0,60,120), labels = c("young","old"))
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 tab_sdy202 <- table(data_sdy202$Age_cat,data_sdy202$responder28)
 
 kable(tab_sdy202) %>%
@@ -842,20 +860,20 @@ kable(tab_sdy202) %>%
   column_spec(c(1:2),border_right = TRUE, border_left = TRUE)
 
 mlt_sdy202 <- melt(tab_sdy202)
-ggplot(mlt_sdy202,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")
+ggplot(mlt_sdy202,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")+theme(text=element_text(size=10,family="Times"))
 
 ```
 
-```{r}
-ggplot(na.omit(data_sdy202),aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxplot()+xlab("Age")+ylab("Cell Proportion")+ggtitle("Boxplot of Cell Proportion at Day 0")
+```{r,echo=FALSE, results=TRUE}
+ggplot(na.omit(data_sdy202),aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxplot()+xlab("Age")+ylab("Cell Proportion")+ggtitle("Boxplot of Cell Proportion at Day 0")+theme(text=element_text(size=10,family="Times"))
 ```
 
 
-```{r, include=TRUE, message=FALSE, warning=FALSE}
+```{r, echo=FALSE, results=TRUE, message=FALSE, warning=FALSE}
 #p1<-ggscatter(data_sdy80,x=paste0("Day_-7"),y="FoldChange",add = "reg.line", conf.int = TRUE, 
  #           cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day -7")
 ggscatter(data_sdy202,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")+theme(text=element_text(size=10,family="Times"))+theme(text=element_text(size=10,family="Times"))
 ```
 
 ##SDY739
@@ -865,7 +883,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 sdy <- "SDY739"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY739_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -900,7 +918,7 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
                             AND a.name NOT LIKE '%Compensation%';")
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 kable(fcs_meta_Data)%>%
   kable_styling() %>%
   scroll_box(width = "100%", height = "500px")
@@ -912,7 +930,7 @@ Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(3,7)])
 
 #This file has the list of fcs files we have
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY739/Header_SDY739.xlsx",sheet=1) 
+header_info <- read.xlsx("./Spreadsheets/Header_SDY739.xlsx",sheet=1) 
 colnames(header_info)[1] <- "name"
 mm_sdy739 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy739 <- mm_sdy739[which(mm_sdy739$Panel == "2"),]
@@ -921,7 +939,7 @@ final_tab_sdy739 <- mm_sdy739[which(mm_sdy739$Panel == "2"),]
 ```
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
-ab_titer_sdy739 <- read.delim("/Volumes/Samsung_T5/Immport_UH2/SDY739/Study/Tab/SDY739-DR32_Tab/Tab/neut_ab_titer_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
+ab_titer_sdy739 <- read.delim("./Spreadsheets/SDY739_Study/Tab/SDY739-DR32_Tab/Tab/neut_ab_titer_result.txt",stringsAsFactors = FALSE,sep="\t",header=TRUE)
   #ab_titer <- ab_titer[which(ab_titer$STUDY_TIME_COLLECTED == '0'),]
 ab_titer_d_sdy739 <- dcast(ab_titer_sdy739[,-c(1:9,11,13,14,15,17,19)],SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
 ab_titer_d_sdy739$Geometric_mean <- apply(ab_titer_d_sdy739[,3:4],1,function(x) geometric.mean(x,na.rm=TRUE))
@@ -934,7 +952,7 @@ resp_sdy739$responder_Day0_FC <- ifelse(resp_sdy739$responder0 == "Responder" | 
 colnames(resp_sdy739)[1] <- "subject_accession"
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 ###Print the ab titer table
 kable(resp_sdy739)%>%
   kable_styling() %>%
@@ -942,16 +960,16 @@ kable(resp_sdy739)%>%
 ```
 
 Line Plots for ab-titer across the time points. Colors indicate responder or non-responder based on Day28 titer (> 40 is a responder)
-```{r}
+```{r,echo=FALSE, results=TRUE}
 melt_response_sdy739 <- melt(resp_sdy739[,c(1:4,6,7)],id=c("subject_accession","responder0","responder28"))
 #ggplot(na.omit(melt_response_sdy312),aes(x=variable,y=value,group=subject_accession,color=responder0))+geom_line()
-ggplot(na.omit(melt_response_sdy739),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")
+ggplot(na.omit(melt_response_sdy739),aes(x=variable,y=value,group=subject_accession,color=responder28))+geom_line()+geom_point()+xlab("Day")+ylab("titer")+ggtitle("Antibody response across time points")+theme(text=element_text(size=10,family="Times"))
 ```
 
 Tregs population proportions: Plot below shows the proportions of Tregs. Colors indicate responder or non-responder based on ab-titer at Day 28. (> 40 is a responder)
 ```{r, include=FALSE, message=FALSE, warning=FALSE}
 #Reading the population percentages
-sdy739 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Tregs/SDY739_Percentages.xlsx",sheet=3)[,c(1:7)]
+sdy739 <- read.xlsx("./Spreadsheets/SDY739_Percentages.xlsx",sheet=3)[,c(1:7)]
 sdy739$Day <- paste0("Day_",sdy739$Day)
 cast_sdy739 <- dcast(na.omit(sdy739),subject_accession+Age+Study~Day,value.var='Tregs',fun.aggregate = mean)
 #ggplot(sdy80,aes(x=Day,y=Tregs,group=subject_accession,color=subject_accession))+geom_line()
@@ -960,7 +978,7 @@ data_sdy739 <- left_join(cast_sdy739,resp_sdy739,by='subject_accession')
 data_sdy739$Age_cat <- cut(data_sdy739$Age, breaks = c(0,60,120), labels = c("young","old"))
 ```
 
-```{r}
+```{r,echo=FALSE, results=TRUE}
 tab_sdy739 <- table(data_sdy739$Age_cat,data_sdy739$responder28)
 
 kable(tab_sdy739) %>%
@@ -968,20 +986,20 @@ kable(tab_sdy739) %>%
   column_spec(c(1:2),border_right = TRUE, border_left = TRUE)
 
 mlt_sdy739 <- melt(tab_sdy739)
-ggplot(mlt_sdy739,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")
+ggplot(mlt_sdy739,aes(x=Var2,y=value,fill=factor(Var1)))+geom_bar(stat="identity",width = 0.3,alpha=0.6)+xlab("Response")+ylab("Number of subjects")+scale_fill_manual(values=c("deepskyblue4","brown3"),name="Age")+theme(text=element_text(size=10,family="Times"))
 
 ```
 
-```{r}
-ggplot(data_sdy739,aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxplot()+xlab("Age")+ylab("Cell Proportion")+ggtitle("Boxplot of Cell Proportion at Day 0")
+```{r,echo=FALSE, results=TRUE}
+ggplot(data_sdy739,aes(x=Age_cat,y=Day_0,color=responder28))+geom_boxplot()+xlab("Age")+ylab("Cell Proportion")+ggtitle("Boxplot of Cell Proportion at Day 0")+theme(text=element_text(size=10,family="Times"))
 ```
 
 
-```{r, include=TRUE, message=FALSE, warning=FALSE}
+```{r, echo=FALSE, results=TRUE, message=FALSE, warning=FALSE}
 #p1<-ggscatter(data_sdy80,x=paste0("Day_-7"),y="FoldChange",add = "reg.line", conf.int = TRUE, 
  #           cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day -7")
 ggscatter(data_sdy739,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE, 
-            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")
+            cor.coef = TRUE, cor.method = "pearson",xlab="Cell Proportion", ylab="Ab Titer Fold Change",title = "Tregs at Day 0")+theme(text=element_text(size=10,family="Times"))
 ```
 
 
@@ -991,7 +1009,7 @@ Table shows pearson correlations calculated across all the studies
 corr_all <- data.frame(Study = c(rep("SDY67",4),rep("SDY80",4),rep("SDY404",4),rep("SDY312",1),rep("SDY514",1),rep("SDY202",1),rep("SDY739",1)),Visit=c(c("Day0","Day3","Day28","Day75"),c("Day0","Day1","Day7","Day70"),c("Day0","Day2","Day7","Day28"),rep(c("Day0"),4)),Tregs=c("-0.14","-0.18","-0.18","-0.13","0.51","0.12","0.032","0.072","0.011","-0.006","0.041","-0.034","-0.019","0.032","-0.047","-0.021"))
 ```
 
-```{r, message=FALSE}
+```{r, message=FALSE,echo=FALSE, results=TRUE}
 kable(corr_all, align = "c") %>%
   kable_styling(c("bordered"),full_width = F) %>%
   column_spec(1, bold = T) %>%

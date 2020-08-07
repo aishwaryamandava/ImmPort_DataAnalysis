@@ -1,0 +1,5 @@
+ARM_ACCESSION	DESCRIPTION	NAME	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM2130	60-79 year old adults immunized intramuscularly with Fluzone (TIV)	Group B	SDY312	Experimental	2883
+ARM2129	18-30 year old adults immunized intramuscularly with Fluzone (TIV)	Group A	SDY312	Experimental	2883
+ARM2131	80-90 year old adults immunized intramuscularly with Fluzone (TIV)	Group C	SDY312	Experimental	2883
+ARM2520	Phosphoflow cytometry control samples	Phosphoflow cytometry control samples	SDY312	Experimental	2883

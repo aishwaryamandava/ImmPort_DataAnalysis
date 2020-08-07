@@ -1,0 +1,3 @@
+ARM_ACCESSION	DESCRIPTION	NAME	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM3059	Healthy young individuals 30-40 years of age	Immune response to Influenza vaccination in aged populations - Year 4	SDY739		2634
+ARM3060	>=65 years of age	Immune response to Influenza vaccination in aged populations - Year 4	SDY739		2634

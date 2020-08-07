@@ -1,0 +1,24 @@
+ADVERSE_EVENT_ACCESSION	CAUSALITY	DESCRIPTION	END_STUDY_DAY	END_TIME	LOCATION_OF_REACTION_PREFERRED	LOCATION_OF_REACTION_REPORTED	NAME_PREFERRED	NAME_REPORTED	ORGAN_OR_BODY_SYSTEM_PREFERRED	ORGAN_OR_BODY_SYSTEM_REPORTED	OTHER_ACTION_TAKEN	OUTCOME_PREFERRED	OUTCOME_REPORTED	RELATION_TO_NONSTUDY_TREATMENT	RELATION_TO_STUDY_TREATMENT	SEVERITY_PREFERRED	SEVERITY_REPORTED	START_STUDY_DAY	START_TIME	STUDY_ACCESSION	STUDY_TREATMENT_ACTION_TAKEN	SUBJECT_ACCESSION	WORKSPACE_ID
+AE68230			33					Cough, runny nose					Not_Specified		Not_Specified	Not Specified	Not_Specified	27		SDY364		SUB135680	2799
+AE68235			10					Allergy related wheezing.					Not_Specified		Not_Specified	Not Specified	Not_Specified	5		SDY364		SUB135683	2799
+AE68240			17					Rhinorrhea and nasal congestion					Not_Specified		Not_Specified	Not Specified	Not_Specified	0		SDY364		SUB135684	2799
+AE68226			18					Otitis Media and asthma exacerbation					Not_Specified		Not_Specified	Not Specified	Not_Specified	-3		SDY364		SUB135674	2799
+AE68227			27					Hives					Not_Specified		Not_Specified	Not Specified	Not_Specified	22		SDY364		SUB135674	2799
+AE68232			15					Cough and URI symptoms					Not_Specified		Not_Specified	Not Specified	Not_Specified	4		SDY364		SUB135682	2799
+AE68234			1					Allergy related wheezing.					Not_Specified		Not_Specified	Not Specified	Not_Specified	0		SDY364		SUB135683	2799
+AE68238								URI - rhinnorrhea, nasal congestion, cough					Not_Specified		Not_Specified	Not Specified	Not_Specified	25		SDY364		SUB135684	2799
+AE68228			18					Rhinorrhea, cough, elevated temp					Not_Specified		Not_Specified	Not Specified	Not_Specified	6		SDY364		SUB135674	2799
+AE68241			5					Eye matting					Not_Specified		Not_Specified	Not Specified	Not_Specified	2		SDY364		SUB135684	2799
+AE68244			19					URI with red sclera					Not_Specified		Not_Specified	Not Specified	Not_Specified	15		SDY364		SUB135689	2799
+AE68246			1					Teething pain					Not_Specified		Not_Specified	Not Specified	Not_Specified	1		SDY364		SUB135693	2799
+AE68225			29					Sore muscles from gymnastics					Not_Specified		Not_Specified	Not Specified	Not_Specified	25		SDY364		SUB135673	2799
+AE68229			32					URI					Not_Specified		Not_Specified	Not Specified	Not_Specified	26		SDY364		SUB135677	2799
+AE68231			6					Fever ranging from 99 to 103 per mom.					Not_Specified		Not_Specified	Not Specified	Not_Specified	4		SDY364		SUB135682	2799
+AE68237			17					Bilateral Otitis Media					Not_Specified		Not_Specified	Not Specified	Not_Specified	7		SDY364		SUB135684	2799
+AE68243			18					Teething pain					Not_Specified		Not_Specified	Not Specified	Not_Specified	17		SDY364		SUB135689	2799
+AE68233			0					Runny nose					Not_Specified		Not_Specified	Not Specified	Not_Specified	-2		SDY364		SUB135682	2799
+AE68236			28					Nasal Congestion					Not_Specified		Not_Specified	Not Specified	Not_Specified	21		SDY364		SUB135683	2799
+AE68239								Red raised rash on arms and legs					Not_Specified		Not_Specified	Not Specified	Not_Specified	26		SDY364		SUB135684	2799
+AE68242			26					Cold symptoms					Not_Specified		Not_Specified	Not Specified	Not_Specified	12		SDY364		SUB135685	2799
+AE68245			23					Asthma attack - Pre-existing condition					Not_Specified		Not_Specified	Not Specified	Not_Specified	18		SDY364		SUB135692	2799
+AE68247			34					Teething pain					Not_Specified		Not_Specified	Not Specified	Not_Specified	34		SDY364		SUB135693	2799

@@ -1,0 +1,49 @@
+NAME	DESCRIPTION	LINK
+Bone	Skeletal element that is composed of bone tissue.	http://purl.obolibrary.org/obo/UBERON_0001474
+Carbohydrate	Any member of the class of organooxygen compounds that is a polyhydroxy-aldehyde or -ketone or a lactol resulting from their intramolecular condensation (monosaccharides); substances derived from these by reduction of the carbonyl group (alditols), by oxidation of one or more hydroxy groups to afford the corresponding aldehydes, ketones, or carboxylic acids, or by replacement of one or more hydroxy group(s) by a hydrogen atom; and polymeric products arising by intermolecular acetal formation between two or more such molecules (disaccharides, polysaccharides and oligosaccharides). Carbohydrates contain only carbon, hydrogen and oxygen atoms; prior to any oxidation or reduction, most have the empirical formula Cm(H2O)n. Compounds obtained from carbohydrates by substitution, etc., are known as carbohydrate derivatives and may contain other elements. Cyclitols are generally not regarded as carbohydrates.	http://purl.obolibrary.org/obo/CHEBI_16646
+Cell culture supernatant	Supernatant of a cell culture is a material entity which contains media, supplements, and secreted products of the cells and becomes the environment of cultivated cell.	http://purl.obolibrary.org/obo/OBI_1000023
+Cell	A material entity of anatomical origin (part of or deriving from an organism) that has as its parts a maximally connected cell compartment surrounded by a plasma membrane.	http://purl.obolibrary.org/obo/CL_0000000
+Colon	Last portion of the large intestine before it becomes the rectum.	http://purl.obolibrary.org/obo/UBERON_0001155
+DNA	High molecular weight, linear polymers, composed of nucleotides containing deoxyribose and linked by phosphodiester bonds; DNA contain the genetic information of organisms.	http://purl.obolibrary.org/obo/CHEBI_16991
+Ileum	The portion of the small intestine that extends from the jejunum to the colon.	http://purl.obolibrary.org/obo/UBERON_0002116
+Inguinal lymph node	The lymph nodes located in the groin area.	http://purl.obolibrary.org/obo/UBERON_0001542
+Jejunum	The portion of the small intestine that extends from the duodenum to the ileum.	http://purl.obolibrary.org/obo/UBERON_0002115
+Kidney	A paired organ of the urinary tract which has the production of urine as its primary function.	http://purl.obolibrary.org/obo/UBERON_0002113
+Lipid	'Lipids' is a loosely defined term for substances of biological origin that are soluble in nonpolar solvents. They consist of saponifiable lipids, such as glycerides (fats and oils) and phospholipids, as well as nonsaponifiable lipids, principally steroids.	http://purl.obolibrary.org/obo/CHEBI_18059
+Lung lymph node	Bronchopulmonary segment lymph node.	http://purl.obolibrary.org/obo/FMA_68286
+Lung	Respiration organ that develops as an oupocketing of the esophagus.	http://purl.obolibrary.org/obo/UBERON_0002048
+Lymph node	Any of the rounded masses of lymphoid tissue that are surrounded by a capsule of connective tissue, are distributed along the lymphatic vessels, and contain numerous lymphocytes which filter the flow of lymph.	http://purl.obolibrary.org/obo/UBERON_0000029
+Mesenteric lymph node	The lymph nodes located in the mesentery, of which there are 3 classes: ileocolic, juxtaintestinal mesenteric, and central superior group.	http://purl.obolibrary.org/obo/UBERON_0002509
+Not Specified	Sample Type is not specified or not received. If no Sample Type value is received, then this is the system default value.	
+Organ	Anatomical structure that performs a specific function or group of functions.	http://purl.obolibrary.org/obo/UBERON_0000062
+Other	A sample type that is not provided in the preferred values list.	
+PBMC	Peripheral Blood Mononuclear Cell- A leukocyte with a single non-segmented nucleus in the mature form.	http://purl.obolibrary.org/obo/CL_0000842
+Plasma	Body substance in liquid state contained in the lumen of arterial and venous trees, blood capillary and the cardiac chambers; constitutes the liquid phase of blood.	http://purl.obolibrary.org/obo/UBERON_0001969
+Protein	A biological macromolecule minimally consisting of one polypeptide chain synthesized at the ribosome.	http://purl.obolibrary.org/obo/CHEBI_36080
+RNA	High molecular weight, linear polymers, composed of nucleotides containing ribose and linked by phosphodiester bonds; RNA is central to the synthesis of proteins.	http://purl.obolibrary.org/obo/CHEBI_33697
+Saliva	A fluid produced in the oral cavity by salivary glands, typically used in predigestion, but also in other functions.	http://purl.obolibrary.org/obo/UBERON_0001836
+Serum	Body substance derived from plasma by the elimination of fibrinogen.	http://purl.obolibrary.org/obo/UBERON_0001977
+Skin of body	Nonparenchymatous organ that consists of the dermis and epidermis. Subdivisions of the skin surround various body parts; as a whole, the skin constitutes the external layer of the body.	http://purl.obolibrary.org/obo/UBERON_0002097
+Spleen	The organ that functions to filter blood and to store red corpuscles and platelets.	http://purl.obolibrary.org/obo/UBERON_0002106
+Synovial fluid	Transudate contained in the synovial cavity of joints, and in the cavity of tendon sheaths and bursae.	http://purl.obolibrary.org/obo/UBERON_0001090
+Synovial tissue	Thin, loose vascular connective tissue that makes up the membranes surrounding joints and the sheaths protecting tendons (particularly flexor tendons in the hands and feet) where they pass over bony prominences.	http://purl.obolibrary.org/obo/UBERON_0007616
+Thymus	Anatomical structure of largely lymphoid tissue that functions in cell-mediated immunity by being the site where T cells develop.	http://purl.obolibrary.org/obo/UBERON_0002370
+Tissue	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.	http://purl.obolibrary.org/obo/UBERON_0000479
+Tonsil	Either of the two small almond-shaped masses of lymph tissue found on either side of the oropharynx.	http://purl.obolibrary.org/obo/UBERON_0002372
+Urine	Excretion that is the output of a kidney.	http://purl.obolibrary.org/obo/UBERON_0001088
+Whole blood	Circulating body substance which consists of blood plasma and hemoglobin-carrying red blood cells. Excludes blood analogues (see UBERON:0000179 haemolymphatic fluid).	http://purl.obolibrary.org/obo/UBERON_0000178
+Dermis	The dermis is a layer of skin between the epidermis (with which it makes up the skin) and subcutaneous tissues, and is composed of two layers, the papillary and reticular dermis.	http://purl.obolibrary.org/obo/UBERON_0002067
+Bronchoalveolar Lavage Fluid	Bronchoalveolar lavage (BAL; informally, "bronchoalveolar washing") is a medical procedure in which a bronchoscope is passed through the mouth or nose into the lungs and fluid is squirted into a small part of the lung and then collected for examination.	https://en.wikipedia.org/wiki/Bronchoalveolar_lavage
+Bone Marrow	The soft tissue that fills the cavities of bones.	http://purl.obolibrary.org/obo/UBERON_0002371
+Brachial lymph node	The lymph nodes located along the brachial vein that receive drainage from most of the free upper limb and send efferent vessels to the central axillary lymph nodes.	http://purl.obolibrary.org/obo/UBERON_0002525
+Cervical lymph nodes	Lymph nodes found in the neck.	https://en.wikipedia.org/wiki/Cervical_lymph_nodes
+Colonic Lamina Propria	A lamina propria that is part of a colonic mucosa.	http://purl.obolibrary.org/obo/UBERON_0007177
+Epithelium	Portion of tissue, that consists of one or more layers of epithelial cells connected to each other by cell junctions and which is underlain by a basal lamina. Examples: simple squamous epithelium, glandular cuboidal epithelium, transitional epithelium, myoepitheliumCARO.	http://purl.obolibrary.org/obo/UBERON_0000483
+Gastric lamina propria	The closest term in Uberson is "Mucosa of the stomach" : The mucosal layer that lines the stomach. It consists of epithelium, lamina propria, and the muscularis mucosae.	http://purl.obolibrary.org/obo/UBERON_0001199
+Liver	An exocrine gland which secretes bile and functions in metabolism of protein and carbohydrate and fat, synthesizes substances involved in the clotting of the blood, synthesizes vitamin A, detoxifies poisonous substances, stores glycogen, and breaks down worn-out erythrocytesGO.	http://purl.obolibrary.org/obo/UBERON_0002107
+Popliteal lymph node	The lymph nodes which drain the legs; contained in the popliteal fossa.	http://purl.obolibrary.org/obo/UBERON_0001543
+Stomach	An expanded region of the vertebrate alimentary tract that serves as a food storage compartment and digestive organ. A stomach is lined, in whole or in part by a glandular epithelium.	http://purl.obolibrary.org/obo/UBERON_0000945
+T cell	CD3+	http://purl.obolibrary.org/obo/CL_0000084
+B cell	CD3-, CD19+, CD20+	http://purl.obolibrary.org/obo/CL_0000236
+Dendritic cell	CD3-, CD19, CD20, CD14-, CD16-, CD56-, HLA-DR+	http://purl.obolibrary.org/obo/CL_0000451
+Monocyte	CD3-, CD19, CD20, CD56-, CD14+	http://purl.obolibrary.org/obo/CL_0000576;http://purl.obolibrary.org/obo/CL_0000860

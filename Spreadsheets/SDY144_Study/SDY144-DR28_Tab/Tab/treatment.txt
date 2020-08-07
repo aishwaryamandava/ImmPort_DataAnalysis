@@ -1,0 +1,7 @@
+TREATMENT_ACCESSION	AMOUNT_UNIT	AMOUNT_VALUE	COMMENTS	DURATION_UNIT	DURATION_VALUE	NAME	TEMPERATURE_UNIT	TEMPERATURE_VALUE	WORKSPACE_ID
+TRT1166	Not Specified	Not_Specified		Not Specified	Not_Specified	SDY144-None	Not Specified	Not_Specified	2799
+TRT1332	Not Specified	Not_Specified		Not Specified	Not_Specified	NCH_2011_None	Not Specified	Not_Specified	2799
+TRT34	Not Specified	Not_Specified		Hours	12	T1	C	37	2799
+TRT35	Not Specified	Not_Specified		Minutes	30	T2	C	56	2799
+TRT36	ul	25		Minutes	30	T3	F	72	2799
+TRT37	ul	50		Not Specified	Not_Specified	T4	Not Specified	Not_Specified	2799

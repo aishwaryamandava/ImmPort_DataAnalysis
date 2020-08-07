@@ -1,0 +1,7 @@
+NAME	DESCRIPTION	LINK	SORT_ORDER
+Allergy Test Treatment	Compound Role is Allergy Test Treatment.	http://purl.bioontology.org/ontology/MEDDRA/10053462	1
+Concomitant Medication	Compound Role is Concomitant Medication.	http://www.semanticweb.org/ontologies/2012/0/Ontology1325521724189.owl#Concomitant_medication	2
+Intervention	Compound Role is Intervention.	http://www.ebi.ac.uk/efo/EFO_0002571	3
+Substance Use	Compound Role is Substance Use.	http://purl.bioontology.org/ontology/MEDDRA/10070964	6
+Other	Compound Role is Other.		5
+Not_Specified	Compound Role is not specified or not received. If no Compound Role value is received, then this is the system default value.		4

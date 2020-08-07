@@ -1,0 +1,4 @@
+NAME	LINK	DESCRIPTION	SORT_ORDER
+dbGAP	http://www.ncbi.nlm.nih.gov/gap	The database of Genotypes and Phenotypes (dbGaP) was developed to archive and distribute the results of studies that have investigated the interaction of genotype and phenotype.	1
+GEO	http://www.ncbi.nlm.nih.gov/geo/	GEO is a public functional genomics data repository supporting MIAME-compliant data submissions. Array- and sequence-based data are accepted. Tools are provided to help users query and download experiments and curated gene expression profiles.	2
+SRA	http://www.ncbi.nlm.nih.gov/sra	The Sequence Read Archive (SRA) stores raw sequencing data from the next generation of sequencing platforms including Roche 454 GS System, Illumina Genome Analyzer, Applied Biosystems SOLiD System, Helicos Heliscope, Complete Genomics, and Pacific Biosciences SMRT.	3

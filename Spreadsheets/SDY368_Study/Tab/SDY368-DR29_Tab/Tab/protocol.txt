@@ -1,0 +1,6 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL6797		Flow Cytometry.PTL6797.docx	NCH_2013_Flow	Flow Cytometry.docx	Not Specified	2799
+PTL6798		Hemagglutination Inhibition Assay and Virus Neutralization Assay.PTL6798.doc	NCH_2013_HAI	Hemagglutination Inhibition Assay and Virus Neutralization Assay.doc	Not Specified	2799
+PTL6799		Hemagglutination Inhibition Assay and Virus Neutralization Assay.PTL6799.doc	NCH_2013_VN	Hemagglutination Inhibition Assay and Virus Neutralization Assay.doc	Not Specified	2799
+PTL6800		Microarray.PTL6800.docx	NCH_2013_Microarray	Microarray.docx	Not Specified	2799
+PTL6801		NCH-2013-2014_Study Design.PTL6801.docx	NCH-2013-Clinical Samples	NCH-2013-2014_Study Design.docx	Not Specified	2799

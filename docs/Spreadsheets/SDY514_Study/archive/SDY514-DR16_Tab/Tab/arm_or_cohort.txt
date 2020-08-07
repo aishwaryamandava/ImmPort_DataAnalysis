@@ -1,0 +1,9 @@
+ARM_ACCESSION	DESCRIPTION	NAME	POPULATION_SELECTION_RULE	SORT_ORDER	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM2597	40-49 year old dizygotic twin pairs given  LAIV3	SLVP018_2009E	Eligible normal healthy volunteers	5	SDY514	Experimental	2883
+ARM2598	70-100 year old monozygotic or dizygotic twin pairs given  IIV3	SLVP018_2009F	Eligible normal healthy volunteers	6	SDY514	Experimental	2883
+ARM2595	18-30 year old dizygotic twin pairs given  LAIV3	SLVP018_2009C	Eligible normal healthy volunteers	3	SDY514	Experimental	2883
+ARM2593	8-17 year old monozygotic twins randomly assigned within pair to receive either IIV3 or LAIV3	SLVP018_2009A	Eligible normal healthy volunteers	1	SDY514	Experimental	2883
+ARM2599	70-100 year old non-twins given  IIV3	SLVP018_2009G	Eligible normal healthy volunteers	7	SDY514	Experimental	2883
+ARM2594	18-30 year old monozygotic twins pairs given  LAIV3	SLVP018_2009B	Eligible normal healthy volunteers	2	SDY514	Experimental	2883
+ARM2596	40-49 year old monozygotic twin pairs given  LAIV3	SLVP018_2009D	Eligible normal healthy volunteers	4	SDY514	Experimental	2883
+ARM2618	control samples	control samples	control samples	8	SDY514	Experimental	2883

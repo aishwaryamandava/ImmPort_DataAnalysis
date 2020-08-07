@@ -1,0 +1,40 @@
+REAGENT_ACCESSION	ANALYTE_PREFERRED	ANALYTE_REPORTED	ANTIBODY_REGISTRY_ID	CATALOG_NUMBER	CLONE_NAME	CONTACT	DESCRIPTION	IS_SET	LOT_NUMBER	MANUFACTURER	NAME	REPORTER_NAME	TYPE	WEBLINK	WORKSPACE_ID
+ESR12510				NA				N		Lampire Biological Laboratories	turkey blood in Alsevers		Hemagglutination Inhibition		2799
+ESR12511		Recombinant (6:2) influenza A virus A/Puerto Rico/8/1934: A/California/7/2009 HA, NA (H1N1)		NA				N		Unk	Recombinant (6:2) influenza A virus A/Puerto Rico/8/1934: A/California/7/2009 HA, NA (H1N1)		Hemagglutination Inhibition		2799
+ESR12512		Influenza A virus A/Perth/19/2009 (H3N2)		NA				N		Unk	Influenza A virus A/Perth/19/2009 (H3N2)		Hemagglutination Inhibition		2799
+ESR12513		Influenza B virus B/Brisbane/60/2008		NA				N		Unk	Influenza B virus B/Brisbane/60/2008		Hemagglutination Inhibition		2799
+ESR12516				NA				N		Lampire Biological Laboratories	turkey blood in Alsevers		Virus Neutralization		2799
+ESR12517		Recombinant (6:2) influenza A virus A/Puerto Rico/8/1934: A/California/7/2009 HA, NA (H1N1)		NA				N		Unk	Recombinant (6:2) influenza A virus A/Puerto Rico/8/1934: A/California/7/2009 HA, NA (H1N1)		Virus Neutralization		2799
+ESR12518		Influenza A virus A/Perth/19/2009 (H3N2)		NA				N		Unk	Influenza A virus A/Perth/19/2009 (H3N2)		Virus Neutralization		2799
+ESR12519		Influenza B virus B/Brisbane/60/2008		NA				N		Unk	Influenza B virus B/Brisbane/60/2008		Virus Neutralization		2799
+ESR12522				BD-103-0204				N		Illumina	GX-BeadChip HT12v4		Other		2799
+ESR12693	ANA813	IgD		555778	Anti-IgD			N		BD Biosciences	NCH-2010-FR-R1	FITC	Flow Cytometry		2799
+ESR12694	ANA807	CD24		555428	Anti-CD24			N		BD Biosciences	NCH-2010-FR-R2	PE	Flow Cytometry		2799
+ESR12695	ANA805	CD19		IM2708U	Anti-CD19			N		Beckman Coulter	NCH-2010-FR-R3	ECD	Flow Cytometry		2799
+ESR12696	ANA806	CD20		555624	Anti-CD20			N		BD Biosciences	NCH-2010-FR-R4	PC5	Flow Cytometry		2799
+ESR12697	ANA808	CD38		335790	Anti-CD38			N		BD Biosciences	NCH-2010-FR-R5	PC7	Flow Cytometry		2799
+ESR12698	ANA891	CD138		347207	Anti-CD138			N		BD Biosciences	NCH-2010-FR-R6	APC	Flow Cytometry		2799
+ESR12699	ANA804	CD14		557923	Anti-CD14			N		BD Biosciences	NCH-2010-FR-R7	A700	Flow Cytometry		2799
+ESR12700	ANA40	CD27		302816	Anti-CD27			N		BioLegend	NCH-2010-FR-R8	APC-Cy7	Flow Cytometry		2799
+ESR12701	ANA868	CD86		560357	Anti-CD86			N		BD Biosciences	NCH-2010-FR-R9	V450 (PB)	Flow Cytometry		2799
+ESR12702		Lin-1		340546	Anti-Lin-1			N		BD Biosciences	NCH-2010-FR-R10	FITC	Flow Cytometry		2799
+ESR12703		BDCA-2 (CD303)		130-090-511	Anti-BDCA-2 (CD303)			N		Miltenyi	NCH-2010-FR-R11	PE	Flow Cytometry		2799
+ESR12704	ANA860	CD2		CD0217	Anti-CD2			N		Invitrogen	NCH-2010-FR-R12	PE-TR (ECD)	Flow Cytometry		2799
+ESR12705	ANA814	CD11c		551077	Anti-CD11c			N		BD Biosciences	NCH-2010-FR-R13	PC5	Flow Cytometry		2799
+ESR12706	ANA895	CD1c		331515	Anti-CD1c			N		BioLegend	NCH-2010-FR-R14	PC7	Flow Cytometry		2799
+ESR12707		BDCA-3 (CD141)		130-090-907	Anti-BDCA-3 (CD141)			N		Miltenyi	NCH-2010-FR-R15	APC	Flow Cytometry		2799
+ESR12708	ANA812	HLA-DR		327014	Anti-HLA-DR			N		BioLegend	NCH-2010-FR-R16	A700	Flow Cytometry		2799
+ESR12709		CD45		MHCD4530	Anti-CD45			N		Invitrogen	NCH-2010-FR-R17	PO	Flow Cytometry		2799
+ESR12710	ANA78	CXCR5		558112	Anti-CXCR5			N		BD Biosciences	NCH-2010-FR-R18	A488 (FITC)	Flow Cytometry		2799
+ESR12711		CCR6 (CD196)		559562	Anti-CCR6 (CD196)			N		BD Biosciences	NCH-2010-FR-R19	PE	Flow Cytometry		2799
+ESR12712	ANA816	CD45RA		IM2711U	Anti-CD45RA			N		Beckman Coulter	NCH-2010-FR-R20	ECD	Flow Cytometry		2799
+ESR12713		CXCR3 (CD183)		551128	Anti-CXCR3 (CD183)			N		BD Biosciences	NCH-2010-FR-R21	PC5	Flow Cytometry		2799
+ESR12714		CCR7 (CD197)		557648	Anti-CCR7 (CD197)			N		BD Biosciences	NCH-2010-FR-R22	PC7	Flow Cytometry		2799
+ESR12715		ICOS (CD278)		313510	Anti-ICOS (CD278)			N		BioLegend	NCH-2010-FR-R23	APC	Flow Cytometry		2799
+ESR12716	ANA809	CD3		557943	Anti-CD3			N		BD Biosciences	NCH-2010-FR-R24	A700	Flow Cytometry		2799
+ESR12717	ANA810	CD8		641400	Anti-CD8			N		BD Biosciences	NCH-2010-FR-R25	APC-H7	Flow Cytometry		2799
+ESR12718	ANA41	CD4		558116	Anti-CD4			N		BD Biosciences	NCH-2010-FR-R26	PB	Flow Cytometry		2799
+ESR12725							NCH_2010 B-Cell Flow Panel (CD86)	Y			NCH_2010 B-Cell  (CD86)		Flow Cytometry		2799
+ESR12726							NCH_2010 Dendritic Cell Flow Panel	Y			NCH_2010 Dendritic Cell		Flow Cytometry		2799
+ESR12727							NCH_2010 Monocyte Flow Panel	Y			NCH_2010 Monocyte		Flow Cytometry		2799
+ESR12728							NCH_2010 TFH Flow Panel	Y			NCH_2010 TFH		Flow Cytometry		2799

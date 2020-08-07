@@ -1,0 +1,7 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL7599		T_cell_response_to_Influenza_vaccination_in_aged_populations_-_Vac2012.PTL7599.docx	T cell response to Influenza vaccination in aged populations - Vac2012	T_cell_response_to_Influenza_vaccination_in_aged_populations_-_Vac2012.docx	Not Specified	2634
+PTL7600		HumanHT-12 v4 Expression BeadChip Kit.PTL7600.txt	HumanHT-12 v4 Expression BeadChip Kit	HumanHT-12 v4 Expression BeadChip Kit.txt	Experiment	2634
+PTL8131		ELISA_Protocol_Vac2014.PTL8131.txt	ELISA_Protocol_Vac2014	ELISA_Protocol_Vac2014.txt	Not Specified	2634
+PTL8132		Microneutralization_Protocol_Vac2014.PTL8132.txt	Microneutralization_Protocol_Vac2014	Microneutralization_Protocol_Vac2014.txt	Not Specified	2634
+PTL8133		Virus_Purification_Protocol_Vac2014.PTL8133.txt	Virus_Purification_Protocol_Vac2014	Virus_Purification_Protocol_Vac2014.txt	Not Specified	2634
+PTL8220		PBMC_staining_FCM_2014.PTL8220.docx	Staining of PBMCs for flow cytometry	PBMC_staining_FCM_2014.docx	Assay	2634

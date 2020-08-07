@@ -1,0 +1,7 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL5503		STANPRO_GreenbergExperiment2Protocolv1.PTL5503.pdf	STANPRO_GreenbergExperiment2Protocolv1	STANPRO_GreenbergExperiment2Protocolv1.pdf	Assay	2883
+PTL5867		URMC_09-005.PTL5867.pdf	URMC_09-005	URMC_09-005.pdf	Not Specified	2883
+PTL6620	Neutralizing_Antibody_Titer	STANPRO_HAI_v1.PTL6620.docx	Hemagglutination Inhibition Assay	STANPRO_HAI_v1.docx	Assay	2883
+PTL7081		Assay Protocol Luminex.PTL7081.doc	51 plex protocol	Assay Protocol Luminex.doc	Assay	2883
+PTL7141		Phenotyping protocol-Pa.PTL7141.doc	Phenotyping protocol	Phenotyping protocol-Pa.doc	Assay	2883
+PTL7142		Phospho-flow Assay Protocol.PTL7142.doc	Phospho-flow Assay Protocol	Phospho-flow Assay Protocol.doc	Not Specified	2883

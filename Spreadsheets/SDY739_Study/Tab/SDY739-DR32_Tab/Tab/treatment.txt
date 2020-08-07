@@ -1,0 +1,4 @@
+TREATMENT_ACCESSION	AMOUNT_UNIT	AMOUNT_VALUE	COMMENTS	DURATION_UNIT	DURATION_VALUE	NAME	TEMPERATURE_UNIT	TEMPERATURE_VALUE	WORKSPACE_ID
+TRT1102	Not Specified	Not_Specified		Not Specified	Not_Specified	No Stim	Not Specified	Not_Specified	2634
+TRT1103	Not Specified	Not_Specified		Not Specified	Not_Specified	No Treatment	Not Specified	Not_Specified	2634
+TRT2360	Not Specified	0		Minutes	30	Heat inactivation of serum	C	56	2634

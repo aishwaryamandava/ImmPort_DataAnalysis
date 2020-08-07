@@ -1,0 +1,6 @@
+NAME	DESCRIPTION	LINK
+Acute/Recent onset	A short-term infection or disease characterized by a dramatic onset and rapid recovery. Primary infections fall under this category.	https://dst.liai.org/BcellDisc.html
+Chronic	A long-term infection or illness and partial remission.	https://dst.liai.org/BcellDisc.html
+Post	Recovery from an illness, including latent (potentially existing but not presently evident or realized) and remission (a period during which symptoms of disease disappear [complete remission]). Note that partial remission will be recorded as "chronic".	https://dst.liai.org/BcellDisc.html
+Other	Any disease stage that cannot be classified under the selections above will be classified under "other." Household contacts will be recorded as "other".	https://dst.liai.org/BcellDisc.html
+Unknown	Used when the disease stage is not clearly specified or known.	https://dst.liai.org/BcellDisc.html

@@ -1,0 +1,7 @@
+NAME	DESCRIPTON	LINK
+Co-Principal Investigator	A responsible party role played by a person responsible for the overall conduct of a study.	http://purl.obolibrary.org/obo/OBI_0000103
+Medical Monitor	Person employed by the sponsor or clinical research organization, who is responsible for determining that a clinical study is being conducted in accordance with the protocol. A monitor's duties may include, but are not limited to, helping to plan and initiate a trial, assessing the conduct of trial, assisting in data analysis, interpretation, and extrapolation. Monitor has medical authority for the checking data and documentation from the trial and for the evaluation of its safety aspects.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C51836&key=1517300889&b=1&n=null
+Other	A person having a Role that is some Other value not in CV Terms.	
+Principal Investigator	A responsible party role played by a person responsible for the overall conduct of a study.	http://purl.obolibrary.org/obo/OBI_0000103
+Site Manager	Someone (or something) that controls, directs, and organizes people, resources, or processes.	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70652
+Sub-Investigator	A worker role authorized to make study-related decisions and carry out tasks related to the study; this role occurs during the study timeline.	http://purl.obolibrary.org/obo/OBI_0000224

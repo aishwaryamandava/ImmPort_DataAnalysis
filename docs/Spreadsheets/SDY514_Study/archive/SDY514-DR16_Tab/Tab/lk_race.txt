@@ -1,0 +1,9 @@
+NAME	DESCRIPTION	LINK
+White	A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Asian	A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+American Indian or Alaska Native	A person having origins in any of the original peoples of North and South America (including Central America), and who maintains tribal affiliation or community attachment.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Native Hawaiian or Other Pacific Islander	A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Black or African American	A person having origins in any of the black racial groups of Africa. Terms such as "Haitian" or "Negro" can be used in addition to "Black or African American."	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Other	A person having a Race that is some Other value not in CV Terms.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Unknown	A person having a race that is Unknown.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Not_Specified	Race is not specified or not received. If no Race value is received, then this is the system default value.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm

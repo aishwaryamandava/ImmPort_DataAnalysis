@@ -1,0 +1,20 @@
+ARM_ACCESSION	SUBJECT_ACCESSION	AGE_EVENT	AGE_EVENT_SPECIFY	AGE_UNIT	MAX_SUBJECT_AGE	MIN_SUBJECT_AGE	SUBJECT_PHENOTYPE
+ARM2301	SUB135759	Age at enrollment		Years	10	10	Juvenile Dermatomyositis
+ARM2301	SUB135761	Age at enrollment		Years	13	13	Juvenile Dermatomyositis
+ARM2301	SUB135768	Age at enrollment		Years	7	7	Juvenile Dermatomyositis
+ARM2301	SUB135771	Age at enrollment		Years	9	9	Juvenile Dermatomyositis
+ARM2301	SUB135742	Age at enrollment		Years	11	11	Juvenile Dermatomyositis
+ARM2301	SUB135762	Age at enrollment		Years	17	17	Juvenile Dermatomyositis
+ARM2301	SUB135764	Age at enrollment		Years	17	17	Juvenile Dermatomyositis
+ARM2301	SUB135767	Age at enrollment		Years	7	7	Juvenile Dermatomyositis
+ARM2301	SUB135769	Age at enrollment		Years	6	6	Juvenile Dermatomyositis
+ARM2301	SUB135773	Age at enrollment		Years	17	17	Juvenile Dermatomyositis
+ARM2301	SUB135770	Age at enrollment		Years	6	6	Juvenile Dermatomyositis
+ARM2301	SUB135774	Age at enrollment		Years	16	16	Juvenile Dermatomyositis
+ARM2301	SUB135739	Age at enrollment		Years	10	10	Juvenile Dermatomyositis
+ARM2301	SUB135760	Age at enrollment		Years	13	13	Juvenile Dermatomyositis
+ARM2301	SUB135766	Age at enrollment		Years	12	12	Juvenile Dermatomyositis
+ARM2301	SUB135772	Age at enrollment		Years	7	7	Juvenile Dermatomyositis
+ARM2301	SUB135758	Age at enrollment		Years	14	14	Juvenile Dermatomyositis
+ARM2301	SUB135765	Age at enrollment		Years	12	12	Juvenile Dermatomyositis
+ARM2301	SUB135763	Age at enrollment		Years	13	13	Juvenile Dermatomyositis

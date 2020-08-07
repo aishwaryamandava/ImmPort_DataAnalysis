@@ -1,0 +1,2 @@
+STUDY_LINK_ID	NAME	STUDY_ACCESSION	TYPE	VALUE	WORKSPACE_ID
+454	H. Ertl's Laboratory	SDY739		http://wistar.org/lab/hildegund-cj-ertl-md	2634

@@ -1,0 +1,1320 @@
+FILE_INFO_ID	DETAIL	FILESIZE_BYTES	NAME	ORIGINAL_FILE_NAME	WORKSPACE_ID
+450594	Flow cytometry result	83363864	3283.450594.fcs	3283.fcs	2799
+450595	Flow cytometry result	86442406	3283.450595.txt	3283.txt	2799
+450596	Flow cytometry compensation or control	14109082	3344.450596.fcs	3344.fcs	2799
+450597	Flow cytometry compensation or control	13801400	3346.450597.fcs	3346.fcs	2799
+450598	Flow cytometry compensation or control	16512284	3348.450598.fcs	3348.fcs	2799
+450599	Flow cytometry compensation or control	16162369	3350.450599.fcs	3350.fcs	2799
+450600	Flow cytometry compensation or control	14142897	3352.450600.fcs	3352.fcs	2799
+450601	Flow cytometry compensation or control	28270713	3354.450601.fcs	3354.fcs	2799
+450602	Flow cytometry compensation or control	33051663	3356.450602.fcs	3356.fcs	2799
+450603	Flow cytometry compensation or control	19488789	3358.450603.fcs	3358.fcs	2799
+450604	Flow cytometry compensation or control	26145780	3360.450604.fcs	3360.fcs	2799
+450605	Flow cytometry compensation or control	34031880	3362.450605.fcs	3362.fcs	2799
+450606	Flow cytometry compensation or control	26082610	3364.450606.fcs	3364.fcs	2799
+450607	Flow cytometry result	72845350	3397.450607.fcs	3397.fcs	2799
+450608	Flow cytometry result	75627967	3397.450608.txt	3397.txt	2799
+450609	Flow cytometry compensation or control	17138141	3371.450609.fcs	3371.fcs	2799
+450610	Flow cytometry compensation or control	20291842	3374.450610.fcs	3374.fcs	2799
+450611	Flow cytometry compensation or control	18112173	3376.450611.fcs	3376.fcs	2799
+450612	Flow cytometry compensation or control	21626207	3378.450612.fcs	3378.fcs	2799
+450613	Flow cytometry compensation or control	19779609	3380.450613.fcs	3380.fcs	2799
+450614	Flow cytometry compensation or control	16369138	3382.450614.fcs	3382.fcs	2799
+450615	Flow cytometry compensation or control	14446363	3384.450615.fcs	3384.fcs	2799
+450616	Flow cytometry compensation or control	17068721	3386.450616.fcs	3386.fcs	2799
+450617	Flow cytometry compensation or control	6161932	3388.450617.fcs	3388.fcs	2799
+450618	Flow cytometry compensation or control	27581308	3390.450618.fcs	3390.fcs	2799
+450619	Flow cytometry compensation or control	29763094	3392.450619.fcs	3392.fcs	2799
+450620	Flow cytometry compensation or control	15660572	3394.450620.fcs	3394.fcs	2799
+450621	Flow cytometry result	75550667	2051.450621.fcs	2051.fcs	2799
+450622	Flow cytometry result	78137044	2051.450622.txt	2051.txt	2799
+450623	Flow cytometry compensation or control	17873062	2048.450623.fcs	2048.fcs	2799
+450624	Flow cytometry compensation or control	34196211	2118.450624.fcs	2118.fcs	2799
+450625	Flow cytometry compensation or control	13668510	2120.450625.fcs	2120.fcs	2799
+450626	Flow cytometry compensation or control	12176044	2122.450626.fcs	2122.fcs	2799
+450627	Flow cytometry compensation or control	12218214	2124.450627.fcs	2124.fcs	2799
+450628	Flow cytometry compensation or control	11047112	2126.450628.fcs	2126.fcs	2799
+450629	Flow cytometry compensation or control	10293604	2128.450629.fcs	2128.fcs	2799
+450630	Flow cytometry compensation or control	12829534	2130.450630.fcs	2130.fcs	2799
+450631	Flow cytometry compensation or control	20993814	2132.450631.fcs	2132.fcs	2799
+450632	Flow cytometry compensation or control	22387197	2134.450632.fcs	2134.fcs	2799
+450633	Flow cytometry compensation or control	19303199	2136.450633.fcs	2136.fcs	2799
+450634	Flow cytometry compensation or control	15082981	2138.450634.fcs	2138.fcs	2799
+450635	Flow cytometry result	105605064	2621.450635.fcs	2621.fcs	2799
+450636	Flow cytometry result	108011528	2621.450636.txt	2621.txt	2799
+450637	Flow cytometry compensation or control	7343086	2618.450637.fcs	2618.fcs	2799
+450638	Flow cytometry compensation or control	8230003	2684.450638.fcs	2684.fcs	2799
+450639	Flow cytometry compensation or control	13177414	2686.450639.fcs	2686.fcs	2799
+450640	Flow cytometry compensation or control	10226212	2688.450640.fcs	2688.fcs	2799
+450641	Flow cytometry compensation or control	11811438	2690.450641.fcs	2690.fcs	2799
+450642	Flow cytometry compensation or control	24429920	2692.450642.fcs	2692.fcs	2799
+450643	Flow cytometry compensation or control	9136380	2694.450643.fcs	2694.fcs	2799
+450644	Flow cytometry compensation or control	10681550	2696.450644.fcs	2696.fcs	2799
+450645	Flow cytometry compensation or control	10215678	2698.450645.fcs	2698.fcs	2799
+450646	Flow cytometry compensation or control	7673425	2700.450646.fcs	2700.fcs	2799
+450647	Flow cytometry compensation or control	11512167	2702.450647.fcs	2702.fcs	2799
+450648	Flow cytometry compensation or control	24233877	2704.450648.fcs	2704.fcs	2799
+450673	Flow cytometry result	61976912	3293.450673.fcs	3293.fcs	2799
+450674	Flow cytometry result	65646014	3293.450674.txt	3293.txt	2799
+450675	Flow cytometry result	43330358	3405.450675.fcs	3405.fcs	2799
+450676	Flow cytometry result	46173728	3405.450676.txt	3405.txt	2799
+450677	Flow cytometry result	65300687	2061.450677.fcs	2061.fcs	2799
+450678	Flow cytometry result	70529299	2061.450678.txt	2061.txt	2799
+450679	Flow cytometry result	64374353	2631.450679.fcs	2631.fcs	2799
+450680	Flow cytometry result	66268701	2631.450680.txt	2631.txt	2799
+450704	Flow cytometry compensation or control	12276433	3152.450704.fcs	3152.fcs	2799
+450705	Flow cytometry compensation or control	6610921	3212.450705.fcs	3212.fcs	2799
+450706	Flow cytometry compensation or control	15403407	3214.450706.fcs	3214.fcs	2799
+450707	Flow cytometry compensation or control	19444439	3216.450707.fcs	3216.fcs	2799
+450708	Flow cytometry compensation or control	15104080	3218.450708.fcs	3218.fcs	2799
+450709	Flow cytometry compensation or control	14716200	3220.450709.fcs	3220.fcs	2799
+450710	Flow cytometry compensation or control	20051548	3222.450710.fcs	3222.fcs	2799
+450711	Flow cytometry compensation or control	25692562	3224.450711.fcs	3224.fcs	2799
+450712	Flow cytometry compensation or control	19874480	3226.450712.fcs	3226.fcs	2799
+450713	Flow cytometry compensation or control	26010863	3228.450713.fcs	3228.fcs	2799
+450714	Flow cytometry compensation or control	32128283	3230.450714.fcs	3230.fcs	2799
+450715	Flow cytometry compensation or control	11920993	3232.450715.fcs	3232.fcs	2799
+450718	Flow cytometry compensation or control	8338334	2891.450718.fcs	2891.fcs	2799
+450719	Flow cytometry compensation or control	14471653	2894.450719.fcs	2894.fcs	2799
+450720	Flow cytometry compensation or control	14414740	2896.450720.fcs	2896.fcs	2799
+450721	Flow cytometry compensation or control	7443861	2898.450721.fcs	2898.fcs	2799
+450722	Flow cytometry compensation or control	8206688	2900.450722.fcs	2900.fcs	2799
+450723	Flow cytometry compensation or control	8824326	2902.450723.fcs	2902.fcs	2799
+450724	Flow cytometry compensation or control	8455426	2904.450724.fcs	2904.fcs	2799
+450725	Flow cytometry compensation or control	10390576	2906.450725.fcs	2906.fcs	2799
+450726	Flow cytometry compensation or control	9334464	2908.450726.fcs	2908.fcs	2799
+450727	Flow cytometry compensation or control	13778123	2910.450727.fcs	2910.fcs	2799
+450728	Flow cytometry compensation or control	14258753	2912.450728.fcs	2912.fcs	2799
+450729	Flow cytometry compensation or control	12599755	2914.450729.fcs	2914.fcs	2799
+450732	Flow cytometry compensation or control	10187685	2990.450732.fcs	2990.fcs	2799
+450733	Flow cytometry compensation or control	2411790	3044.450733.fcs	3044.fcs	2799
+450734	Flow cytometry compensation or control	15976773	3046.450734.fcs	3046.fcs	2799
+450735	Flow cytometry compensation or control	13316475	3048.450735.fcs	3048.fcs	2799
+450736	Flow cytometry compensation or control	8906549	3050.450736.fcs	3050.fcs	2799
+450737	Flow cytometry compensation or control	9277551	3052.450737.fcs	3052.fcs	2799
+450738	Flow cytometry compensation or control	7515263	3054.450738.fcs	3054.fcs	2799
+450739	Flow cytometry compensation or control	7106317	3056.450739.fcs	3056.fcs	2799
+450740	Flow cytometry compensation or control	14836349	3058.450740.fcs	3058.fcs	2799
+450741	Flow cytometry compensation or control	15479284	3060.450741.fcs	3060.fcs	2799
+450742	Flow cytometry compensation or control	9682290	3062.450742.fcs	3062.fcs	2799
+450743	Flow cytometry compensation or control	8674664	3064.450743.fcs	3064.fcs	2799
+450746	Flow cytometry compensation or control	10292345	3071.450746.fcs	3071.fcs	2799
+450747	Flow cytometry compensation or control	14250381	3125.450747.fcs	3125.fcs	2799
+450748	Flow cytometry compensation or control	15430864	3127.450748.fcs	3127.fcs	2799
+450749	Flow cytometry compensation or control	13704410	3129.450749.fcs	3129.fcs	2799
+450750	Flow cytometry compensation or control	13645396	3131.450750.fcs	3131.fcs	2799
+450751	Flow cytometry compensation or control	13211210	3133.450751.fcs	3133.fcs	2799
+450752	Flow cytometry compensation or control	14286222	3135.450752.fcs	3135.fcs	2799
+450753	Flow cytometry compensation or control	17583140	3137.450753.fcs	3137.fcs	2799
+450754	Flow cytometry compensation or control	16252988	3139.450754.fcs	3139.fcs	2799
+450755	Flow cytometry compensation or control	16849547	3141.450755.fcs	3141.fcs	2799
+450756	Flow cytometry compensation or control	20542769	3143.450756.fcs	3143.fcs	2799
+450757	Flow cytometry compensation or control	12808515	3145.450757.fcs	3145.fcs	2799
+450758	Flow cytometry result	27885655	3157.450758.fcs	3157.fcs	2799
+450759	Flow cytometry result	28968824	3157.450759.txt	3157.txt	2799
+450760	Flow cytometry result	63183650	2919.450760.fcs	2919.fcs	2799
+450761	Flow cytometry result	65956685	2919.450761.txt	2919.txt	2799
+450762	Flow cytometry result	38184508	2995.450762.fcs	2995.fcs	2799
+450763	Flow cytometry result	39643007	2995.450763.txt	2995.txt	2799
+450764	Flow cytometry result	41203325	3076.450764.fcs	3076.fcs	2799
+450765	Flow cytometry result	42849646	3076.450765.txt	3076.txt	2799
+450766	Flow cytometry result	35998945	3159.450766.fcs	3159.fcs	2799
+450767	Flow cytometry result	37935379	3159.450767.txt	3159.txt	2799
+450768	Flow cytometry result	6263570	2921.450768.fcs	2921.fcs	2799
+450769	Flow cytometry result	6609096	2921.450769.txt	2921.txt	2799
+450770	Flow cytometry result	46619364	2997.450770.fcs	2997.fcs	2799
+450771	Flow cytometry result	48817951	2997.450771.txt	2997.txt	2799
+450772	Flow cytometry result	46127681	3078.450772.fcs	3078.fcs	2799
+450773	Flow cytometry result	49156694	3078.450773.txt	3078.txt	2799
+450774	Flow cytometry result	24491849	3161.450774.fcs	3161.fcs	2799
+450775	Flow cytometry result	26511111	3161.450775.txt	3161.txt	2799
+450776	Flow cytometry result	33804318	2923.450776.fcs	2923.fcs	2799
+450777	Flow cytometry result	37190608	2923.450777.txt	2923.txt	2799
+450778	Flow cytometry result	26182508	2999.450778.fcs	2999.fcs	2799
+450779	Flow cytometry result	28234574	2999.450779.txt	2999.txt	2799
+450780	Flow cytometry result	36017101	3080.450780.fcs	3080.fcs	2799
+450781	Flow cytometry result	38140368	3080.450781.txt	3080.txt	2799
+450782	Flow cytometry result	91360395	122860.450782.fcs	122860.fcs	2799
+450783	Flow cytometry result	97010977	122860.450783.txt	122860.txt	2799
+450784	Flow cytometry compensation or control	9867917	122764.450784.fcs	122764.fcs	2799
+450785	Flow cytometry compensation or control	15049247	123010.450785.fcs	123010.fcs	2799
+450786	Flow cytometry compensation or control	15002874	123012.450786.fcs	123012.fcs	2799
+450787	Flow cytometry compensation or control	10255323	123014.450787.fcs	123014.fcs	2799
+450788	Flow cytometry compensation or control	15066258	123016.450788.fcs	123016.fcs	2799
+450789	Flow cytometry compensation or control	12719912	123018.450789.fcs	123018.fcs	2799
+450790	Flow cytometry compensation or control	15097736	123020.450790.fcs	123020.fcs	2799
+450791	Flow cytometry compensation or control	14752030	123022.450791.fcs	123022.fcs	2799
+450792	Flow cytometry compensation or control	12924390	123024.450792.fcs	123024.fcs	2799
+450793	Flow cytometry compensation or control	19901865	123026.450793.fcs	123026.fcs	2799
+450794	Flow cytometry compensation or control	18567507	123028.450794.fcs	123028.fcs	2799
+450795	Flow cytometry compensation or control	10838829	123030.450795.fcs	123030.fcs	2799
+450796	Flow cytometry result	52868525	122930.450796.fcs	122930.fcs	2799
+450797	Flow cytometry result	55192719	122930.450797.txt	122930.txt	2799
+450798	Flow cytometry result	55979708	3574.450798.fcs	3574.fcs	2799
+450799	Flow cytometry result	57662184	3574.450799.txt	3574.txt	2799
+450800	Flow cytometry compensation or control	10055463	3641.450800.fcs	3641.fcs	2799
+450801	Flow cytometry compensation or control	12880186	3643.450801.fcs	3643.fcs	2799
+450802	Flow cytometry compensation or control	12123412	3645.450802.fcs	3645.fcs	2799
+450803	Flow cytometry compensation or control	11474158	3647.450803.fcs	3647.fcs	2799
+450804	Flow cytometry compensation or control	10177732	3649.450804.fcs	3649.fcs	2799
+450805	Flow cytometry compensation or control	8662080	3651.450805.fcs	3651.fcs	2799
+450806	Flow cytometry compensation or control	11136878	3653.450806.fcs	3653.fcs	2799
+450807	Flow cytometry compensation or control	10671074	3655.450807.fcs	3655.fcs	2799
+450808	Flow cytometry compensation or control	12028553	3657.450808.fcs	3657.fcs	2799
+450809	Flow cytometry compensation or control	8173027	3659.450809.fcs	3659.fcs	2799
+450810	Flow cytometry compensation or control	7757960	3661.450810.fcs	3661.fcs	2799
+450811	Flow cytometry result	58165624	1942.450811.fcs	1942.fcs	2799
+450812	Flow cytometry result	60532936	1942.450812.txt	1942.txt	2799
+450813	Flow cytometry compensation or control	15875733	1939.450813.fcs	1939.fcs	2799
+450814	Flow cytometry compensation or control	10316855	2021.450814.fcs	2021.fcs	2799
+450815	Flow cytometry compensation or control	12519718	2023.450815.fcs	2023.fcs	2799
+450816	Flow cytometry compensation or control	10713160	2025.450816.fcs	2025.fcs	2799
+450817	Flow cytometry compensation or control	10215682	2027.450817.fcs	2027.fcs	2799
+450818	Flow cytometry compensation or control	10312644	2029.450818.fcs	2029.fcs	2799
+450819	Flow cytometry compensation or control	10304212	2031.450819.fcs	2031.fcs	2799
+450820	Flow cytometry compensation or control	10405402	2033.450820.fcs	2033.fcs	2799
+450821	Flow cytometry compensation or control	10483394	2035.450821.fcs	2035.fcs	2799
+450822	Flow cytometry compensation or control	14718361	2037.450822.fcs	2037.fcs	2799
+450823	Flow cytometry compensation or control	12471239	2039.450823.fcs	2039.fcs	2799
+450824	Flow cytometry compensation or control	11349781	2041.450824.fcs	2041.fcs	2799
+450907	Flow cytometry result	25970904	2716.450907.fcs	2716.fcs	2799
+450908	Flow cytometry result	27619108	2716.450908.txt	2716.txt	2799
+450909	Flow cytometry compensation or control	8764475	2711.450909.fcs	2711.fcs	2799
+450910	Flow cytometry compensation or control	6301047	2777.450910.fcs	2777.fcs	2799
+450911	Flow cytometry compensation or control	8197774	2779.450911.fcs	2779.fcs	2799
+450912	Flow cytometry compensation or control	7247064	2781.450912.fcs	2781.fcs	2799
+450913	Flow cytometry compensation or control	10701542	2783.450913.fcs	2783.fcs	2799
+450914	Flow cytometry compensation or control	7848596	2785.450914.fcs	2785.fcs	2799
+450915	Flow cytometry compensation or control	7559528	2787.450915.fcs	2787.fcs	2799
+450916	Flow cytometry compensation or control	8078102	2789.450916.fcs	2789.fcs	2799
+450917	Flow cytometry compensation or control	8097070	2791.450917.fcs	2791.fcs	2799
+450918	Flow cytometry compensation or control	7371913	2793.450918.fcs	2793.fcs	2799
+450919	Flow cytometry compensation or control	24090467	2795.450919.fcs	2795.fcs	2799
+450920	Flow cytometry compensation or control	10569821	2797.450920.fcs	2797.fcs	2799
+450921	Flow cytometry result	87590299	2427.450921.fcs	2427.fcs	2799
+450922	Flow cytometry result	90633496	2427.450922.txt	2427.txt	2799
+450923	Flow cytometry compensation or control	7825326	2422.450923.fcs	2422.fcs	2799
+450924	Flow cytometry result	18368616	2528.450924.fcs	2528.fcs	2799
+450925	Flow cytometry result	19106265	2528.450925.txt	2528.txt	2799
+450926	Flow cytometry compensation or control	5033301	2523.450926.fcs	2523.fcs	2799
+450927	Flow cytometry compensation or control	15336003	2591.450927.fcs	2591.fcs	2799
+450928	Flow cytometry compensation or control	10968230	2593.450928.fcs	2593.fcs	2799
+450929	Flow cytometry compensation or control	8073944	2595.450929.fcs	2595.fcs	2799
+450930	Flow cytometry compensation or control	7770402	2597.450930.fcs	2597.fcs	2799
+450931	Flow cytometry compensation or control	7806232	2599.450931.fcs	2599.fcs	2799
+450932	Flow cytometry compensation or control	7479492	2601.450932.fcs	2601.fcs	2799
+450933	Flow cytometry compensation or control	8813862	2603.450933.fcs	2603.fcs	2799
+450934	Flow cytometry compensation or control	7686078	2605.450934.fcs	2605.fcs	2799
+450935	Flow cytometry compensation or control	11661693	2607.450935.fcs	2607.fcs	2799
+450936	Flow cytometry compensation or control	7156971	2609.450936.fcs	2609.fcs	2799
+450937	Flow cytometry compensation or control	7538517	2611.450937.fcs	2611.fcs	2799
+450938	Flow cytometry result	110614344	2150.450938.fcs	2150.fcs	2799
+450939	Flow cytometry result	114186308	2150.450939.txt	2150.txt	2799
+450940	Flow cytometry compensation or control	8265885	2145.450940.fcs	2145.fcs	2799
+450941	Flow cytometry compensation or control	14807106	2231.450941.fcs	2231.fcs	2799
+450942	Flow cytometry compensation or control	13567326	2233.450942.fcs	2233.fcs	2799
+450943	Flow cytometry compensation or control	14775276	2235.450943.fcs	2235.fcs	2799
+450944	Flow cytometry compensation or control	21605206	2237.450944.fcs	2237.fcs	2799
+450945	Flow cytometry compensation or control	11834552	2239.450945.fcs	2239.fcs	2799
+450946	Flow cytometry compensation or control	13885636	2241.450946.fcs	2241.fcs	2799
+450947	Flow cytometry compensation or control	12407934	2243.450947.fcs	2243.fcs	2799
+450948	Flow cytometry compensation or control	15831322	2245.450948.fcs	2245.fcs	2799
+450949	Flow cytometry compensation or control	14043733	2247.450949.fcs	2247.fcs	2799
+450950	Flow cytometry compensation or control	22598003	2249.450950.fcs	2249.fcs	2799
+450951	Flow cytometry compensation or control	14130165	2251.450951.fcs	2251.fcs	2799
+450968	Flow cytometry result	26493008	2722.450968.fcs	2722.fcs	2799
+450969	Flow cytometry result	28302757	2722.450969.txt	2722.txt	2799
+450970	Flow cytometry result	74355255	2433.450970.fcs	2433.fcs	2799
+450971	Flow cytometry result	77667378	2433.450971.txt	2433.txt	2799
+450972	Flow cytometry result	51701400	2534.450972.fcs	2534.fcs	2799
+450973	Flow cytometry result	53260278	2534.450973.txt	2534.txt	2799
+450974	Flow cytometry result	43895532	2156.450974.fcs	2156.fcs	2799
+450975	Flow cytometry result	44852322	2156.450975.txt	2156.txt	2799
+451024	Flow cytometry result	87525739	122862.451024.fcs	122862.fcs	2799
+451025	Flow cytometry result	92055112	122862.451025.txt	122862.txt	2799
+451026	Flow cytometry compensation or control	9867917	122764.451026.fcs	122764.fcs	2799
+451027	Flow cytometry compensation or control	15049247	123010.451027.fcs	123010.fcs	2799
+451028	Flow cytometry compensation or control	15002874	123012.451028.fcs	123012.fcs	2799
+451029	Flow cytometry compensation or control	10255323	123014.451029.fcs	123014.fcs	2799
+451030	Flow cytometry compensation or control	15066258	123016.451030.fcs	123016.fcs	2799
+451031	Flow cytometry compensation or control	12719912	123018.451031.fcs	123018.fcs	2799
+451032	Flow cytometry compensation or control	15097736	123020.451032.fcs	123020.fcs	2799
+451033	Flow cytometry compensation or control	14752030	123022.451033.fcs	123022.fcs	2799
+451034	Flow cytometry compensation or control	12924390	123024.451034.fcs	123024.fcs	2799
+451035	Flow cytometry compensation or control	19901865	123026.451035.fcs	123026.fcs	2799
+451036	Flow cytometry compensation or control	18567507	123028.451036.fcs	123028.fcs	2799
+451037	Flow cytometry compensation or control	10838829	123030.451037.fcs	123030.fcs	2799
+451038	Flow cytometry result	42888913	122932.451038.fcs	122932.fcs	2799
+451039	Flow cytometry result	44178413	122932.451039.txt	122932.txt	2799
+451040	Flow cytometry result	72308616	3576.451040.fcs	3576.fcs	2799
+451041	Flow cytometry result	74871731	3576.451041.txt	3576.txt	2799
+451042	Flow cytometry compensation or control	10055463	3641.451042.fcs	3641.fcs	2799
+451043	Flow cytometry compensation or control	12880186	3643.451043.fcs	3643.fcs	2799
+451044	Flow cytometry compensation or control	12123412	3645.451044.fcs	3645.fcs	2799
+451045	Flow cytometry compensation or control	11474158	3647.451045.fcs	3647.fcs	2799
+451046	Flow cytometry compensation or control	10177732	3649.451046.fcs	3649.fcs	2799
+451047	Flow cytometry compensation or control	8662080	3651.451047.fcs	3651.fcs	2799
+451048	Flow cytometry compensation or control	11136878	3653.451048.fcs	3653.fcs	2799
+451049	Flow cytometry compensation or control	10671074	3655.451049.fcs	3655.fcs	2799
+451050	Flow cytometry compensation or control	12028553	3657.451050.fcs	3657.fcs	2799
+451051	Flow cytometry compensation or control	8173027	3659.451051.fcs	3659.fcs	2799
+451052	Flow cytometry compensation or control	7757960	3661.451052.fcs	3661.fcs	2799
+451053	Flow cytometry result	47456372	1944.451053.fcs	1944.fcs	2799
+451054	Flow cytometry result	49277549	1944.451054.txt	1944.txt	2799
+451055	Flow cytometry compensation or control	15875733	1939.451055.fcs	1939.fcs	2799
+451056	Flow cytometry compensation or control	10316855	2021.451056.fcs	2021.fcs	2799
+451057	Flow cytometry compensation or control	12519718	2023.451057.fcs	2023.fcs	2799
+451058	Flow cytometry compensation or control	10713160	2025.451058.fcs	2025.fcs	2799
+451059	Flow cytometry compensation or control	10215682	2027.451059.fcs	2027.fcs	2799
+451060	Flow cytometry compensation or control	10312644	2029.451060.fcs	2029.fcs	2799
+451061	Flow cytometry compensation or control	10304212	2031.451061.fcs	2031.fcs	2799
+451062	Flow cytometry compensation or control	10405402	2033.451062.fcs	2033.fcs	2799
+451063	Flow cytometry compensation or control	10483394	2035.451063.fcs	2035.fcs	2799
+451064	Flow cytometry compensation or control	14718361	2037.451064.fcs	2037.fcs	2799
+451065	Flow cytometry compensation or control	12471239	2039.451065.fcs	2039.fcs	2799
+451066	Flow cytometry compensation or control	11349781	2041.451066.fcs	2041.fcs	2799
+451067	Flow cytometry result	33890524	2724.451067.fcs	2724.fcs	2799
+451068	Flow cytometry result	36890258	2724.451068.txt	2724.txt	2799
+451069	Flow cytometry result	48615963	2435.451069.fcs	2435.fcs	2799
+451070	Flow cytometry result	50931520	2435.451070.txt	2435.txt	2799
+451071	Flow cytometry result	51246208	2536.451071.fcs	2536.fcs	2799
+451072	Flow cytometry result	53961764	2536.451072.txt	2536.txt	2799
+451073	Flow cytometry result	70092116	2158.451073.fcs	2158.fcs	2799
+451074	Flow cytometry result	71651251	2158.451074.txt	2158.txt	2799
+451075	Flow cytometry result	66515507	122866.451075.fcs	122866.fcs	2799
+451076	Flow cytometry result	67731185	122866.451076.txt	122866.txt	2799
+451077	Flow cytometry result	55813741	122936.451077.fcs	122936.fcs	2799
+451078	Flow cytometry result	57381393	122936.451078.txt	122936.txt	2799
+451079	Flow cytometry result	53887688	3578.451079.fcs	3578.fcs	2799
+451080	Flow cytometry result	55249686	3578.451080.txt	3578.txt	2799
+451081	Flow cytometry result	56597340	1948.451081.fcs	1948.fcs	2799
+451082	Flow cytometry result	57833842	1948.451082.txt	1948.txt	2799
+451118	Flow cytometry result	33644575	2811.451118.fcs	2811.fcs	2799
+451119	Flow cytometry result	35732438	2811.451119.txt	2811.txt	2799
+451120	Flow cytometry compensation or control	22374619	2804.451120.fcs	2804.fcs	2799
+451121	Flow cytometry compensation or control	8151871	2864.451121.fcs	2864.fcs	2799
+451122	Flow cytometry compensation or control	10942866	2866.451122.fcs	2866.fcs	2799
+451123	Flow cytometry compensation or control	11318088	2868.451123.fcs	2868.fcs	2799
+451124	Flow cytometry compensation or control	10361066	2870.451124.fcs	2870.fcs	2799
+451125	Flow cytometry compensation or control	7458344	2872.451125.fcs	2872.fcs	2799
+451126	Flow cytometry compensation or control	7194844	2874.451126.fcs	2874.fcs	2799
+451127	Flow cytometry compensation or control	7403542	2876.451127.fcs	2876.fcs	2799
+451128	Flow cytometry compensation or control	7439374	2878.451128.fcs	2878.fcs	2799
+451129	Flow cytometry compensation or control	8609309	2880.451129.fcs	2880.fcs	2799
+451130	Flow cytometry compensation or control	7146363	2882.451130.fcs	2882.fcs	2799
+451131	Flow cytometry compensation or control	6925021	2884.451131.fcs	2884.fcs	2799
+451132	Flow cytometry result	30072444	2265.451132.fcs	2265.fcs	2799
+451133	Flow cytometry result	32087161	2265.451133.txt	2265.txt	2799
+451134	Flow cytometry compensation or control	7126535	2258.451134.fcs	2258.fcs	2799
+451135	Flow cytometry compensation or control	3385962	2312.451135.fcs	2312.fcs	2799
+451136	Flow cytometry compensation or control	808350	2314.451136.fcs	2314.fcs	2799
+451137	Flow cytometry compensation or control	1015680	2316.451137.fcs	2316.fcs	2799
+451138	Flow cytometry compensation or control	7483782	2318.451138.fcs	2318.fcs	2799
+451139	Flow cytometry compensation or control	33023	2320.451139.fcs	2320.fcs	2799
+451140	Flow cytometry compensation or control	2164136	2322.451140.fcs	2322.fcs	2799
+451141	Flow cytometry compensation or control	5822542	2324.451141.fcs	2324.fcs	2799
+451142	Flow cytometry compensation or control	6051426	2326.451142.fcs	2326.fcs	2799
+451143	Flow cytometry compensation or control	1257693	2328.451143.fcs	2328.fcs	2799
+451144	Flow cytometry compensation or control	7260263	2330.451144.fcs	2330.fcs	2799
+451145	Flow cytometry compensation or control	7199129	2332.451145.fcs	2332.fcs	2799
+451146	Flow cytometry result	28747169	3242.451146.fcs	3242.fcs	2799
+451147	Flow cytometry result	31353602	3242.451147.txt	3242.txt	2799
+451148	Flow cytometry compensation or control	3431136	3239.451148.fcs	3239.fcs	2799
+451149	Flow cytometry compensation or control	4932955	3253.451149.fcs	3253.fcs	2799
+451150	Flow cytometry compensation or control	2274838	3255.451150.fcs	3255.fcs	2799
+451151	Flow cytometry compensation or control	5413512	3257.451151.fcs	3257.fcs	2799
+451152	Flow cytometry compensation or control	4028702	3259.451152.fcs	3259.fcs	2799
+451153	Flow cytometry compensation or control	2692224	3261.451153.fcs	3261.fcs	2799
+451154	Flow cytometry compensation or control	2319108	3263.451154.fcs	3263.fcs	2799
+451155	Flow cytometry compensation or control	2064046	3265.451155.fcs	3265.fcs	2799
+451156	Flow cytometry compensation or control	1796326	3267.451156.fcs	3267.fcs	2799
+451157	Flow cytometry compensation or control	2886157	3269.451157.fcs	3269.fcs	2799
+451158	Flow cytometry compensation or control	2066151	3271.451158.fcs	3271.fcs	2799
+451159	Flow cytometry compensation or control	1613949	3273.451159.fcs	3273.fcs	2799
+451203	Flow cytometry result	25808854	1790.451203.fcs	1790.fcs	2799
+451204	Flow cytometry result	27887311	1790.451204.txt	1790.txt	2799
+451205	Flow cytometry compensation or control	6802364	1785.451205.fcs	1785.fcs	2799
+451206	Flow cytometry compensation or control	6419026	1815.451206.fcs	1815.fcs	2799
+451207	Flow cytometry compensation or control	6933517	1817.451207.fcs	1817.fcs	2799
+451208	Flow cytometry compensation or control	7156963	1819.451208.fcs	1819.fcs	2799
+451209	Flow cytometry compensation or control	6941957	1821.451209.fcs	1821.fcs	2799
+451210	Flow cytometry compensation or control	6651047	1823.451210.fcs	1823.fcs	2799
+451211	Flow cytometry compensation or control	8714779	1825.451211.fcs	1825.fcs	2799
+451212	Flow cytometry compensation or control	6950389	1827.451212.fcs	1827.fcs	2799
+451213	Flow cytometry compensation or control	6676345	1829.451213.fcs	1829.fcs	2799
+451214	Flow cytometry compensation or control	6939840	1831.451214.fcs	1831.fcs	2799
+451215	Flow cytometry compensation or control	6349606	1833.451215.fcs	1833.fcs	2799
+451216	Flow cytometry compensation or control	7264476	1835.451216.fcs	1835.fcs	2799
+451217	Flow cytometry result	13670164	8641.451217.fcs	8641.fcs	2799
+451218	Flow cytometry result	15012050	8641.451218.txt	8641.txt	2799
+451219	Flow cytometry compensation or control	4123832	8608.451219.fcs	8608.fcs	2799
+451220	Flow cytometry result	52332211	21144.451220.fcs	21144.fcs	2799
+451221	Flow cytometry result	55976246	21144.451221.txt	21144.txt	2799
+451222	Flow cytometry compensation or control	9643533	21141.451222.fcs	21141.fcs	2799
+451223	Flow cytometry compensation or control	6802331	21181.451223.fcs	21181.fcs	2799
+451224	Flow cytometry compensation or control	6802334	21183.451224.fcs	21183.fcs	2799
+451225	Flow cytometry compensation or control	6802607	21185.451225.fcs	21185.fcs	2799
+451226	Flow cytometry compensation or control	6802336	21187.451226.fcs	21187.fcs	2799
+451227	Flow cytometry compensation or control	6802336	21189.451227.fcs	21189.fcs	2799
+451228	Flow cytometry compensation or control	6802336	21191.451228.fcs	21191.fcs	2799
+451229	Flow cytometry compensation or control	6802342	21193.451229.fcs	21193.fcs	2799
+451230	Flow cytometry compensation or control	6802338	21195.451230.fcs	21195.fcs	2799
+451231	Flow cytometry compensation or control	6802333	21197.451231.fcs	21197.fcs	2799
+451232	Flow cytometry compensation or control	6802339	21199.451232.fcs	21199.fcs	2799
+451233	Flow cytometry compensation or control	6802337	21201.451233.fcs	21201.fcs	2799
+451234	Flow cytometry result	23482109	9454.451234.fcs	9454.fcs	2799
+451235	Flow cytometry result	25058115	9454.451235.txt	9454.txt	2799
+451236	Flow cytometry compensation or control	2801261	9449.451236.fcs	9449.fcs	2799
+451237	Flow cytometry compensation or control	6802329	9487.451237.fcs	9487.fcs	2799
+451238	Flow cytometry compensation or control	6802332	9489.451238.fcs	9489.fcs	2799
+451239	Flow cytometry compensation or control	6802330	9491.451239.fcs	9491.fcs	2799
+451240	Flow cytometry compensation or control	6802334	9493.451240.fcs	9493.fcs	2799
+451241	Flow cytometry compensation or control	6802334	9495.451241.fcs	9495.fcs	2799
+451242	Flow cytometry compensation or control	6802334	9497.451242.fcs	9497.fcs	2799
+451243	Flow cytometry compensation or control	6528096	9499.451243.fcs	9499.fcs	2799
+451244	Flow cytometry compensation or control	6802336	9501.451244.fcs	9501.fcs	2799
+451245	Flow cytometry compensation or control	6802331	9503.451245.fcs	9503.fcs	2799
+451246	Flow cytometry compensation or control	6802337	9505.451246.fcs	9505.fcs	2799
+451247	Flow cytometry compensation or control	6802335	9507.451247.fcs	9507.fcs	2799
+451344	Flow cytometry compensation or control	1066508	1704.451344.fcs	1704.fcs	2799
+451345	Flow cytometry compensation or control	946459	1758.451345.fcs	1758.fcs	2799
+451346	Flow cytometry compensation or control	2304354	1760.451346.fcs	1760.fcs	2799
+451347	Flow cytometry compensation or control	1024048	1762.451347.fcs	1762.fcs	2799
+451348	Flow cytometry compensation or control	1591314	1764.451348.fcs	1764.fcs	2799
+451349	Flow cytometry compensation or control	1157196	1766.451349.fcs	1766.fcs	2799
+451350	Flow cytometry compensation or control	2099676	1768.451350.fcs	1768.fcs	2799
+451351	Flow cytometry compensation or control	787078	1770.451351.fcs	1770.fcs	2799
+451352	Flow cytometry compensation or control	833314	1772.451352.fcs	1772.fcs	2799
+451353	Flow cytometry compensation or control	822361	1774.451353.fcs	1774.fcs	2799
+451354	Flow cytometry compensation or control	748519	1776.451354.fcs	1776.fcs	2799
+451355	Flow cytometry compensation or control	830185	1778.451355.fcs	1778.fcs	2799
+451358	Flow cytometry result	5834103	1711.451358.fcs	1711.fcs	2799
+451359	Flow cytometry result	6525507	1711.451359.txt	1711.txt	2799
+472920	Flow cytometry result	83363864	3283.472920.fcs	3283.fcs	2799
+472921	Flow cytometry compensation or control	36390980	3331.472921.fcs	3331.fcs	2799
+472922	Flow cytometry compensation or control	14109082	3344.472922.fcs	3344.fcs	2799
+472923	Flow cytometry compensation or control	13801400	3346.472923.fcs	3346.fcs	2799
+472924	Flow cytometry compensation or control	16512284	3348.472924.fcs	3348.fcs	2799
+472925	Flow cytometry compensation or control	16162369	3350.472925.fcs	3350.fcs	2799
+472926	Flow cytometry compensation or control	14142897	3352.472926.fcs	3352.fcs	2799
+472927	Flow cytometry compensation or control	28270713	3354.472927.fcs	3354.fcs	2799
+472928	Flow cytometry compensation or control	33051663	3356.472928.fcs	3356.fcs	2799
+472929	Flow cytometry compensation or control	19488789	3358.472929.fcs	3358.fcs	2799
+472930	Flow cytometry compensation or control	26145780	3360.472930.fcs	3360.fcs	2799
+472931	Flow cytometry compensation or control	34031880	3362.472931.fcs	3362.fcs	2799
+472932	Flow cytometry compensation or control	26082610	3364.472932.fcs	3364.fcs	2799
+472933	Flow cytometry result	86442406	3283.472933.txt	3283.txt	2799
+472934	Flow cytometry result	52502200	3289.472934.fcs	3289.fcs	2799
+472935	Flow cytometry compensation or control	14295128	3337.472935.fcs	3337.fcs	2799
+472936	Flow cytometry result	57742761	3289.472936.txt	3289.txt	2799
+472937	Flow cytometry result	61976912	3293.472937.fcs	3293.fcs	2799
+472938	Flow cytometry compensation or control	14296148	3341.472938.fcs	3341.fcs	2799
+472939	Flow cytometry result	65646014	3293.472939.txt	3293.txt	2799
+472940	Flow cytometry result	97096670	3295.472940.fcs	3295.fcs	2799
+472941	Flow cytometry result	100343387	3295.472941.txt	3295.txt	2799
+472942	Flow cytometry result	48446342	3301.472942.fcs	3301.fcs	2799
+472943	Flow cytometry result	54102318	3301.472943.txt	3301.txt	2799
+472944	Flow cytometry result	42008646	3305.472944.fcs	3305.fcs	2799
+472945	Flow cytometry result	44751086	3305.472945.txt	3305.txt	2799
+472946	Flow cytometry result	94089491	3307.472946.fcs	3307.fcs	2799
+472947	Flow cytometry result	96802986	3307.472947.txt	3307.txt	2799
+472948	Flow cytometry result	52386656	3313.472948.fcs	3313.fcs	2799
+472949	Flow cytometry result	58081781	3313.472949.txt	3313.txt	2799
+472950	Flow cytometry result	27911007	3317.472950.fcs	3317.fcs	2799
+472951	Flow cytometry result	29789428	3317.472951.txt	3317.txt	2799
+472952	Flow cytometry result	75863377	3319.472952.fcs	3319.fcs	2799
+472953	Flow cytometry result	78243281	3319.472953.txt	3319.txt	2799
+472954	Flow cytometry result	53490832	3325.472954.fcs	3325.fcs	2799
+472955	Flow cytometry result	60080437	3325.472955.txt	3325.txt	2799
+472956	Flow cytometry result	13093664	3329.472956.fcs	3329.fcs	2799
+472957	Flow cytometry result	13963358	3329.472957.txt	3329.txt	2799
+472966	Flow cytometry result	72845350	3397.472966.fcs	3397.fcs	2799
+472967	Flow cytometry compensation or control	12238484	3437.472967.fcs	3437.fcs	2799
+472968	Flow cytometry compensation or control	17138141	3371.472968.fcs	3371.fcs	2799
+472969	Flow cytometry compensation or control	20291842	3374.472969.fcs	3374.fcs	2799
+472970	Flow cytometry compensation or control	18112173	3376.472970.fcs	3376.fcs	2799
+472971	Flow cytometry compensation or control	21626207	3378.472971.fcs	3378.fcs	2799
+472972	Flow cytometry compensation or control	19779609	3380.472972.fcs	3380.fcs	2799
+472973	Flow cytometry compensation or control	16369138	3382.472973.fcs	3382.fcs	2799
+472974	Flow cytometry compensation or control	14446363	3384.472974.fcs	3384.fcs	2799
+472975	Flow cytometry compensation or control	17068721	3386.472975.fcs	3386.fcs	2799
+472976	Flow cytometry compensation or control	6161932	3388.472976.fcs	3388.fcs	2799
+472977	Flow cytometry compensation or control	27581308	3390.472977.fcs	3390.fcs	2799
+472978	Flow cytometry compensation or control	29763094	3392.472978.fcs	3392.fcs	2799
+472979	Flow cytometry compensation or control	15660572	3394.472979.fcs	3394.fcs	2799
+472980	Flow cytometry result	75627967	3397.472980.txt	3397.txt	2799
+472981	Flow cytometry result	43330358	3405.472981.fcs	3405.fcs	2799
+472982	Flow cytometry compensation or control	11539852	3445.472982.fcs	3445.fcs	2799
+472983	Flow cytometry result	46173728	3405.472983.txt	3405.txt	2799
+472984	Flow cytometry result	49396436	3407.472984.fcs	3407.fcs	2799
+472985	Flow cytometry result	52033089	3407.472985.txt	3407.txt	2799
+472986	Flow cytometry result	45478072	3415.472986.fcs	3415.fcs	2799
+472987	Flow cytometry result	49024528	3415.472987.txt	3415.txt	2799
+472988	Flow cytometry result	44396665	3417.472988.fcs	3417.fcs	2799
+472989	Flow cytometry result	46794737	3417.472989.txt	3417.txt	2799
+472990	Flow cytometry result	53820922	3425.472990.fcs	3425.fcs	2799
+472991	Flow cytometry result	57412372	3425.472991.txt	3425.txt	2799
+472992	Flow cytometry result	41515767	3427.472992.fcs	3427.fcs	2799
+472993	Flow cytometry result	44603532	3427.472993.txt	3427.txt	2799
+472994	Flow cytometry result	39058043	3435.472994.fcs	3435.fcs	2799
+472995	Flow cytometry result	42083300	3435.472995.txt	3435.txt	2799
+473098	Flow cytometry result	105605064	2621.473098.fcs	2621.fcs	2799
+473099	Flow cytometry compensation or control	22115309	2669.473099.fcs	2669.fcs	2799
+473100	Flow cytometry compensation or control	7343086	2618.473100.fcs	2618.fcs	2799
+473101	Flow cytometry compensation or control	8230003	2684.473101.fcs	2684.fcs	2799
+473102	Flow cytometry compensation or control	13177414	2686.473102.fcs	2686.fcs	2799
+473103	Flow cytometry compensation or control	10226212	2688.473103.fcs	2688.fcs	2799
+473104	Flow cytometry compensation or control	11811438	2690.473104.fcs	2690.fcs	2799
+473105	Flow cytometry compensation or control	24429920	2692.473105.fcs	2692.fcs	2799
+473106	Flow cytometry compensation or control	9136380	2694.473106.fcs	2694.fcs	2799
+473107	Flow cytometry compensation or control	10681550	2696.473107.fcs	2696.fcs	2799
+473108	Flow cytometry compensation or control	10215678	2698.473108.fcs	2698.fcs	2799
+473109	Flow cytometry compensation or control	7673425	2700.473109.fcs	2700.fcs	2799
+473110	Flow cytometry compensation or control	11512167	2702.473110.fcs	2702.fcs	2799
+473111	Flow cytometry compensation or control	24233877	2704.473111.fcs	2704.fcs	2799
+473112	Flow cytometry result	108011528	2621.473112.txt	2621.txt	2799
+473113	Flow cytometry result	41452505	2627.473113.fcs	2627.fcs	2799
+473114	Flow cytometry compensation or control	10100525	2675.473114.fcs	2675.fcs	2799
+473115	Flow cytometry result	44414454	2627.473115.txt	2627.txt	2799
+473116	Flow cytometry result	64374353	2631.473116.fcs	2631.fcs	2799
+473117	Flow cytometry compensation or control	13903697	2679.473117.fcs	2679.fcs	2799
+473118	Flow cytometry result	66268701	2631.473118.txt	2631.txt	2799
+473119	Flow cytometry result	93689989	2633.473119.fcs	2633.fcs	2799
+473120	Flow cytometry result	96559688	2633.473120.txt	2633.txt	2799
+473121	Flow cytometry result	39655131	2639.473121.fcs	2639.fcs	2799
+473122	Flow cytometry result	43260843	2639.473122.txt	2639.txt	2799
+473123	Flow cytometry result	68043975	2643.473123.fcs	2643.fcs	2799
+473124	Flow cytometry result	70356591	2643.473124.txt	2643.txt	2799
+473125	Flow cytometry result	100286444	2645.473125.fcs	2645.fcs	2799
+473126	Flow cytometry result	102705720	2645.473126.txt	2645.txt	2799
+473127	Flow cytometry result	41425644	2651.473127.fcs	2651.fcs	2799
+473128	Flow cytometry result	44960136	2651.473128.txt	2651.txt	2799
+473129	Flow cytometry result	64209928	2655.473129.fcs	2655.fcs	2799
+473130	Flow cytometry result	66745805	2655.473130.txt	2655.txt	2799
+473131	Flow cytometry result	98518845	2657.473131.fcs	2657.fcs	2799
+473132	Flow cytometry result	100935009	2657.473132.txt	2657.txt	2799
+473133	Flow cytometry result	42217157	2663.473133.fcs	2663.fcs	2799
+473134	Flow cytometry result	45907606	2663.473134.txt	2663.txt	2799
+473135	Flow cytometry result	59136441	2667.473135.fcs	2667.fcs	2799
+473136	Flow cytometry result	61389132	2667.473136.txt	2667.txt	2799
+473142	Flow cytometry result	41203325	3076.473142.fcs	3076.fcs	2799
+473143	Flow cytometry compensation or control	18085811	3116.473143.fcs	3116.fcs	2799
+473144	Flow cytometry compensation or control	10292345	3071.473144.fcs	3071.fcs	2799
+473145	Flow cytometry compensation or control	14250381	3125.473145.fcs	3125.fcs	2799
+473146	Flow cytometry compensation or control	15430864	3127.473146.fcs	3127.fcs	2799
+473147	Flow cytometry compensation or control	13704410	3129.473147.fcs	3129.fcs	2799
+473148	Flow cytometry compensation or control	13645396	3131.473148.fcs	3131.fcs	2799
+473149	Flow cytometry compensation or control	13211210	3133.473149.fcs	3133.fcs	2799
+473150	Flow cytometry compensation or control	14286222	3135.473150.fcs	3135.fcs	2799
+473151	Flow cytometry compensation or control	17583140	3137.473151.fcs	3137.fcs	2799
+473152	Flow cytometry compensation or control	16252988	3139.473152.fcs	3139.fcs	2799
+473153	Flow cytometry compensation or control	16849547	3141.473153.fcs	3141.fcs	2799
+473154	Flow cytometry compensation or control	20542769	3143.473154.fcs	3143.fcs	2799
+473155	Flow cytometry compensation or control	12808515	3145.473155.fcs	3145.fcs	2799
+473156	Flow cytometry result	42849646	3076.473156.txt	3076.txt	2799
+473157	Flow cytometry result	46127681	3078.473157.fcs	3078.fcs	2799
+473158	Flow cytometry compensation or control	25003247	3118.473158.fcs	3118.fcs	2799
+473159	Flow cytometry result	49156694	3078.473159.txt	3078.txt	2799
+473160	Flow cytometry result	36017101	3080.473160.fcs	3080.fcs	2799
+473161	Flow cytometry compensation or control	9912415	3120.473161.fcs	3120.fcs	2799
+473162	Flow cytometry result	38140368	3080.473162.txt	3080.txt	2799
+473163	Flow cytometry result	43387963	3086.473163.fcs	3086.fcs	2799
+473164	Flow cytometry result	45393387	3086.473164.txt	3086.txt	2799
+473165	Flow cytometry result	46657471	3088.473165.fcs	3088.fcs	2799
+473166	Flow cytometry result	50928968	3088.473166.txt	3088.txt	2799
+473167	Flow cytometry result	33928891	3090.473167.fcs	3090.fcs	2799
+473168	Flow cytometry result	36635076	3090.473168.txt	3090.txt	2799
+473169	Flow cytometry result	59800032	3096.473169.fcs	3096.fcs	2799
+473170	Flow cytometry result	61917783	3096.473170.txt	3096.txt	2799
+473171	Flow cytometry result	52680840	3098.473171.fcs	3098.fcs	2799
+473172	Flow cytometry result	56283670	3098.473172.txt	3098.txt	2799
+473173	Flow cytometry result	39847880	3100.473173.fcs	3100.fcs	2799
+473174	Flow cytometry result	42156203	3100.473174.txt	3100.txt	2799
+473175	Flow cytometry result	61235639	3106.473175.fcs	3106.fcs	2799
+473176	Flow cytometry result	65902635	3106.473176.txt	3106.txt	2799
+473177	Flow cytometry result	59899710	3108.473177.fcs	3108.fcs	2799
+473178	Flow cytometry result	62455803	3108.473178.txt	3108.txt	2799
+473179	Flow cytometry result	38060898	3110.473179.fcs	3110.fcs	2799
+473180	Flow cytometry result	40653569	3110.473180.txt	3110.txt	2799
+473184	Flow cytometry result	25970904	2716.473184.fcs	2716.fcs	2799
+473185	Flow cytometry compensation or control	12192232	2764.473185.fcs	2764.fcs	2799
+473186	Flow cytometry compensation or control	8764475	2711.473186.fcs	2711.fcs	2799
+473187	Flow cytometry compensation or control	6301047	2777.473187.fcs	2777.fcs	2799
+473188	Flow cytometry compensation or control	8197774	2779.473188.fcs	2779.fcs	2799
+473189	Flow cytometry compensation or control	7247064	2781.473189.fcs	2781.fcs	2799
+473190	Flow cytometry compensation or control	10701542	2783.473190.fcs	2783.fcs	2799
+473191	Flow cytometry compensation or control	7848596	2785.473191.fcs	2785.fcs	2799
+473192	Flow cytometry compensation or control	7559528	2787.473192.fcs	2787.fcs	2799
+473193	Flow cytometry compensation or control	8078102	2789.473193.fcs	2789.fcs	2799
+473194	Flow cytometry compensation or control	8097070	2791.473194.fcs	2791.fcs	2799
+473195	Flow cytometry compensation or control	7371913	2793.473195.fcs	2793.fcs	2799
+473196	Flow cytometry compensation or control	24090467	2795.473196.fcs	2795.fcs	2799
+473197	Flow cytometry compensation or control	10569821	2797.473197.fcs	2797.fcs	2799
+473198	Flow cytometry result	27619108	2716.473198.txt	2716.txt	2799
+473199	Flow cytometry result	26493008	2722.473199.fcs	2722.fcs	2799
+473200	Flow cytometry compensation or control	13286760	2770.473200.fcs	2770.fcs	2799
+473201	Flow cytometry result	28302757	2722.473201.txt	2722.txt	2799
+473202	Flow cytometry result	33890524	2724.473202.fcs	2724.fcs	2799
+473203	Flow cytometry compensation or control	8346560	2772.473203.fcs	2772.fcs	2799
+473204	Flow cytometry result	36890258	2724.473204.txt	2724.txt	2799
+473205	Flow cytometry result	17190746	2728.473205.fcs	2728.fcs	2799
+473206	Flow cytometry result	18509332	2728.473206.txt	2728.txt	2799
+473207	Flow cytometry result	22058730	2734.473207.fcs	2734.fcs	2799
+473208	Flow cytometry result	23818561	2734.473208.txt	2734.txt	2799
+473209	Flow cytometry result	25938606	2736.473209.fcs	2736.fcs	2799
+473210	Flow cytometry result	28723167	2736.473210.txt	2736.txt	2799
+473211	Flow cytometry result	22294279	2740.473211.fcs	2740.fcs	2799
+473212	Flow cytometry result	23676814	2740.473212.txt	2740.txt	2799
+473213	Flow cytometry result	36042043	2746.473213.fcs	2746.fcs	2799
+473214	Flow cytometry result	38638190	2746.473214.txt	2746.txt	2799
+473215	Flow cytometry result	25419899	2748.473215.fcs	2748.fcs	2799
+473216	Flow cytometry result	28204718	2748.473216.txt	2748.txt	2799
+473217	Flow cytometry result	31464004	2752.473217.fcs	2752.fcs	2799
+473218	Flow cytometry result	33681093	2752.473218.txt	2752.txt	2799
+473219	Flow cytometry result	18926436	2758.473219.fcs	2758.fcs	2799
+473220	Flow cytometry result	20426478	2758.473220.txt	2758.txt	2799
+473221	Flow cytometry result	29145952	2760.473221.fcs	2760.fcs	2799
+473222	Flow cytometry result	32520605	2760.473222.txt	2760.txt	2799
+473228	Flow cytometry result	27885655	3157.473228.fcs	3157.fcs	2799
+473229	Flow cytometry compensation or control	27206485	3197.473229.fcs	3197.fcs	2799
+473230	Flow cytometry compensation or control	12276433	3152.473230.fcs	3152.fcs	2799
+473231	Flow cytometry compensation or control	6610921	3212.473231.fcs	3212.fcs	2799
+473232	Flow cytometry compensation or control	15403407	3214.473232.fcs	3214.fcs	2799
+473233	Flow cytometry compensation or control	19444439	3216.473233.fcs	3216.fcs	2799
+473234	Flow cytometry compensation or control	15104080	3218.473234.fcs	3218.fcs	2799
+473235	Flow cytometry compensation or control	14716200	3220.473235.fcs	3220.fcs	2799
+473236	Flow cytometry compensation or control	20051548	3222.473236.fcs	3222.fcs	2799
+473237	Flow cytometry compensation or control	25692562	3224.473237.fcs	3224.fcs	2799
+473238	Flow cytometry compensation or control	19874480	3226.473238.fcs	3226.fcs	2799
+473239	Flow cytometry compensation or control	26010863	3228.473239.fcs	3228.fcs	2799
+473240	Flow cytometry compensation or control	32128283	3230.473240.fcs	3230.fcs	2799
+473241	Flow cytometry compensation or control	11920993	3232.473241.fcs	3232.fcs	2799
+473242	Flow cytometry result	28968824	3157.473242.txt	3157.txt	2799
+473243	Flow cytometry result	61042216	3187.473243.fcs	3187.fcs	2799
+473244	Flow cytometry result	63748798	3187.473244.txt	3187.txt	2799
+473245	Flow cytometry result	49008707	3167.473245.fcs	3167.fcs	2799
+473246	Flow cytometry result	51832881	3167.473246.txt	3167.txt	2799
+473247	Flow cytometry result	58455438	3177.473247.fcs	3177.fcs	2799
+473248	Flow cytometry result	61250067	3177.473248.txt	3177.txt	2799
+473249	Flow cytometry result	35998945	3159.473249.fcs	3159.fcs	2799
+473250	Flow cytometry compensation or control	13991161	3199.473250.fcs	3199.fcs	2799
+473251	Flow cytometry result	37935379	3159.473251.txt	3159.txt	2799
+473252	Flow cytometry result	24921636	3189.473252.fcs	3189.fcs	2799
+473253	Flow cytometry result	27122162	3189.473253.txt	3189.txt	2799
+473254	Flow cytometry result	29040303	3169.473254.fcs	3169.fcs	2799
+473255	Flow cytometry result	31317277	3169.473255.txt	3169.txt	2799
+473256	Flow cytometry result	26023314	3179.473256.fcs	3179.fcs	2799
+473257	Flow cytometry result	28022465	3179.473257.txt	3179.txt	2799
+473258	Flow cytometry result	24491849	3161.473258.fcs	3161.fcs	2799
+473259	Flow cytometry compensation or control	7680217	3201.473259.fcs	3201.fcs	2799
+473260	Flow cytometry result	26511111	3161.473260.txt	3161.txt	2799
+473261	Flow cytometry result	28969268	3191.473261.fcs	3191.fcs	2799
+473262	Flow cytometry result	31966799	3191.473262.txt	3191.txt	2799
+473263	Flow cytometry result	26809359	3171.473263.fcs	3171.fcs	2799
+473264	Flow cytometry result	29838676	3171.473264.txt	3171.txt	2799
+473265	Flow cytometry result	31120322	3181.473265.fcs	3181.fcs	2799
+473266	Flow cytometry result	34077097	3181.473266.txt	3181.txt	2799
+473270	Flow cytometry result	63183650	2919.473270.fcs	2919.fcs	2799
+473271	Flow cytometry compensation or control	30932306	2949.473271.fcs	2949.fcs	2799
+473272	Flow cytometry compensation or control	8338334	2891.473272.fcs	2891.fcs	2799
+473273	Flow cytometry compensation or control	14471653	2894.473273.fcs	2894.fcs	2799
+473274	Flow cytometry compensation or control	14414740	2896.473274.fcs	2896.fcs	2799
+473275	Flow cytometry compensation or control	7443861	2898.473275.fcs	2898.fcs	2799
+473276	Flow cytometry compensation or control	8206688	2900.473276.fcs	2900.fcs	2799
+473277	Flow cytometry compensation or control	8824326	2902.473277.fcs	2902.fcs	2799
+473278	Flow cytometry compensation or control	8455426	2904.473278.fcs	2904.fcs	2799
+473279	Flow cytometry compensation or control	10390576	2906.473279.fcs	2906.fcs	2799
+473280	Flow cytometry compensation or control	9334464	2908.473280.fcs	2908.fcs	2799
+473281	Flow cytometry compensation or control	13778123	2910.473281.fcs	2910.fcs	2799
+473282	Flow cytometry compensation or control	14258753	2912.473282.fcs	2912.fcs	2799
+473283	Flow cytometry compensation or control	12599755	2914.473283.fcs	2914.fcs	2799
+473284	Flow cytometry result	65956685	2919.473284.txt	2919.txt	2799
+473285	Flow cytometry result	6263570	2921.473285.fcs	2921.fcs	2799
+473286	Flow cytometry compensation or control	18432138	2951.473286.fcs	2951.fcs	2799
+473287	Flow cytometry result	6609096	2921.473287.txt	2921.txt	2799
+473288	Flow cytometry result	33804318	2923.473288.fcs	2923.fcs	2799
+473289	Flow cytometry compensation or control	9671018	2953.473289.fcs	2953.fcs	2799
+473290	Flow cytometry result	37190608	2923.473290.txt	2923.txt	2799
+473291	Flow cytometry result	55814425	2929.473291.fcs	2929.fcs	2799
+473292	Flow cytometry result	58210100	2929.473292.txt	2929.txt	2799
+473293	Flow cytometry result	50443378	2931.473293.fcs	2931.fcs	2799
+473294	Flow cytometry result	53546806	2931.473294.txt	2931.txt	2799
+473295	Flow cytometry result	38664281	2933.473295.fcs	2933.fcs	2799
+473296	Flow cytometry result	43159102	2933.473296.txt	2933.txt	2799
+473297	Flow cytometry result	66324774	2939.473297.fcs	2939.fcs	2799
+473298	Flow cytometry result	68892891	2939.473298.txt	2939.txt	2799
+473299	Flow cytometry result	49727742	2941.473299.fcs	2941.fcs	2799
+473300	Flow cytometry result	52643121	2941.473300.txt	2941.txt	2799
+473301	Flow cytometry result	36465293	2943.473301.fcs	2943.fcs	2799
+473302	Flow cytometry result	40147962	2943.473302.txt	2943.txt	2799
+473303	Flow cytometry result	60699058	2959.473303.fcs	2959.fcs	2799
+473304	Flow cytometry result	63335570	2959.473304.txt	2959.txt	2799
+473305	Flow cytometry result	47178958	2961.473305.fcs	2961.fcs	2799
+473306	Flow cytometry result	50170086	2961.473306.txt	2961.txt	2799
+473307	Flow cytometry result	31796746	2963.473307.fcs	2963.fcs	2799
+473308	Flow cytometry result	35709052	2963.473308.txt	2963.txt	2799
+473404	Flow cytometry result	110614344	2150.473404.fcs	2150.fcs	2799
+473405	Flow cytometry compensation or control	33835644	2198.473405.fcs	2198.fcs	2799
+473406	Flow cytometry compensation or control	8265885	2145.473406.fcs	2145.fcs	2799
+473407	Flow cytometry compensation or control	14807106	2231.473407.fcs	2231.fcs	2799
+473408	Flow cytometry compensation or control	13567326	2233.473408.fcs	2233.fcs	2799
+473409	Flow cytometry compensation or control	14775276	2235.473409.fcs	2235.fcs	2799
+473410	Flow cytometry compensation or control	21605206	2237.473410.fcs	2237.fcs	2799
+473411	Flow cytometry compensation or control	11834552	2239.473411.fcs	2239.fcs	2799
+473412	Flow cytometry compensation or control	13885636	2241.473412.fcs	2241.fcs	2799
+473413	Flow cytometry compensation or control	12407934	2243.473413.fcs	2243.fcs	2799
+473414	Flow cytometry compensation or control	15831322	2245.473414.fcs	2245.fcs	2799
+473415	Flow cytometry compensation or control	14043733	2247.473415.fcs	2247.fcs	2799
+473416	Flow cytometry compensation or control	22598003	2249.473416.fcs	2249.fcs	2799
+473417	Flow cytometry compensation or control	14130165	2251.473417.fcs	2251.fcs	2799
+473418	Flow cytometry result	114186308	2150.473418.txt	2150.txt	2799
+473419	Flow cytometry result	43895532	2156.473419.fcs	2156.fcs	2799
+473420	Flow cytometry compensation or control	23100688	2204.473420.fcs	2204.fcs	2799
+473421	Flow cytometry result	44852322	2156.473421.txt	2156.txt	2799
+473422	Flow cytometry result	70092116	2158.473422.fcs	2158.fcs	2799
+473423	Flow cytometry compensation or control	18892508	2206.473423.fcs	2206.fcs	2799
+473424	Flow cytometry result	71651251	2158.473424.txt	2158.txt	2799
+473425	Flow cytometry result	78397102	2162.473425.fcs	2162.fcs	2799
+473426	Flow cytometry result	80843659	2162.473426.txt	2162.txt	2799
+473427	Flow cytometry result	38527274	2168.473427.fcs	2168.fcs	2799
+473428	Flow cytometry result	39719437	2168.473428.txt	2168.txt	2799
+473429	Flow cytometry result	65633434	2170.473429.fcs	2170.fcs	2799
+473430	Flow cytometry result	67622960	2170.473430.txt	2170.txt	2799
+473431	Flow cytometry result	102266391	2174.473431.fcs	2174.fcs	2799
+473432	Flow cytometry result	105542443	2174.473432.txt	2174.txt	2799
+473433	Flow cytometry result	64283971	2180.473433.fcs	2180.fcs	2799
+473434	Flow cytometry result	66832895	2180.473434.txt	2180.txt	2799
+473435	Flow cytometry result	71312927	2182.473435.fcs	2182.fcs	2799
+473436	Flow cytometry result	73596646	2182.473436.txt	2182.txt	2799
+473437	Flow cytometry result	126015784	2186.473437.fcs	2186.fcs	2799
+473438	Flow cytometry result	130508509	2186.473438.txt	2186.txt	2799
+473439	Flow cytometry result	58960312	2192.473439.fcs	2192.fcs	2799
+473440	Flow cytometry result	61343840	2192.473440.txt	2192.txt	2799
+473441	Flow cytometry result	33874152	2194.473441.fcs	2194.fcs	2799
+473442	Flow cytometry result	34948895	2194.473442.txt	2194.txt	2799
+473459	Flow cytometry result	58165624	1942.473459.fcs	1942.fcs	2799
+473460	Flow cytometry compensation or control	14781995	1998.473460.fcs	1998.fcs	2799
+473461	Flow cytometry compensation or control	15875733	1939.473461.fcs	1939.fcs	2799
+473462	Flow cytometry compensation or control	10316855	2021.473462.fcs	2021.fcs	2799
+473463	Flow cytometry compensation or control	12519718	2023.473463.fcs	2023.fcs	2799
+473464	Flow cytometry compensation or control	10713160	2025.473464.fcs	2025.fcs	2799
+473465	Flow cytometry compensation or control	10215682	2027.473465.fcs	2027.fcs	2799
+473466	Flow cytometry compensation or control	10312644	2029.473466.fcs	2029.fcs	2799
+473467	Flow cytometry compensation or control	10304212	2031.473467.fcs	2031.fcs	2799
+473468	Flow cytometry compensation or control	10405402	2033.473468.fcs	2033.fcs	2799
+473469	Flow cytometry compensation or control	10483394	2035.473469.fcs	2035.fcs	2799
+473470	Flow cytometry compensation or control	14718361	2037.473470.fcs	2037.fcs	2799
+473471	Flow cytometry compensation or control	12471239	2039.473471.fcs	2039.fcs	2799
+473472	Flow cytometry compensation or control	11349781	2041.473472.fcs	2041.fcs	2799
+473473	Flow cytometry result	60532936	1942.473473.txt	1942.txt	2799
+473474	Flow cytometry result	57433051	1984.473474.fcs	1984.fcs	2799
+473475	Flow cytometry result	59749132	1984.473475.txt	1984.txt	2799
+473476	Flow cytometry result	51126809	1956.473476.fcs	1956.fcs	2799
+473477	Flow cytometry result	52998664	1956.473477.txt	1956.txt	2799
+473478	Flow cytometry result	61810898	1970.473478.fcs	1970.fcs	2799
+473479	Flow cytometry result	64395806	1970.473479.txt	1970.txt	2799
+473480	Flow cytometry result	47456372	1944.473480.fcs	1944.fcs	2799
+473481	Flow cytometry compensation or control	8591412	2002.473481.fcs	2002.fcs	2799
+473482	Flow cytometry result	49277549	1944.473482.txt	1944.txt	2799
+473483	Flow cytometry result	68373639	1986.473483.fcs	1986.fcs	2799
+473484	Flow cytometry result	70961525	1986.473484.txt	1986.txt	2799
+473485	Flow cytometry result	47906873	1958.473485.fcs	1958.fcs	2799
+473486	Flow cytometry result	50111987	1958.473486.txt	1958.txt	2799
+473487	Flow cytometry result	68093350	1972.473487.fcs	1972.fcs	2799
+473488	Flow cytometry result	70429737	1972.473488.txt	1972.txt	2799
+473489	Flow cytometry result	31254148	1946.473489.fcs	1946.fcs	2799
+473490	Flow cytometry compensation or control	19477667	2000.473490.fcs	2000.fcs	2799
+473491	Flow cytometry result	33097058	1946.473491.txt	1946.txt	2799
+473492	Flow cytometry result	29399507	1988.473492.fcs	1988.fcs	2799
+473493	Flow cytometry result	31465218	1988.473493.txt	1988.txt	2799
+473494	Flow cytometry result	29429709	1960.473494.fcs	1960.fcs	2799
+473495	Flow cytometry result	31438996	1960.473495.txt	1960.txt	2799
+473496	Flow cytometry result	30027834	1974.473496.fcs	1974.fcs	2799
+473497	Flow cytometry result	32078754	1974.473497.txt	1974.txt	2799
+473498	Flow cytometry result	56597340	1948.473498.fcs	1948.fcs	2799
+473499	Flow cytometry compensation or control	11214579	2004.473499.fcs	2004.fcs	2799
+473500	Flow cytometry result	57833842	1948.473500.txt	1948.txt	2799
+473501	Flow cytometry result	47441063	1990.473501.fcs	1990.fcs	2799
+473502	Flow cytometry result	48940568	1990.473502.txt	1990.txt	2799
+473503	Flow cytometry result	49292237	1962.473503.fcs	1962.fcs	2799
+473504	Flow cytometry result	51055784	1962.473504.txt	1962.txt	2799
+473505	Flow cytometry result	48852886	1976.473505.fcs	1976.fcs	2799
+473506	Flow cytometry result	50517529	1976.473506.txt	1976.txt	2799
+473613	Flow cytometry result	75550667	2051.473613.fcs	2051.fcs	2799
+473614	Flow cytometry compensation or control	16153651	2099.473614.fcs	2099.fcs	2799
+473615	Flow cytometry compensation or control	17873062	2048.473615.fcs	2048.fcs	2799
+473616	Flow cytometry compensation or control	34196211	2118.473616.fcs	2118.fcs	2799
+473617	Flow cytometry compensation or control	13668510	2120.473617.fcs	2120.fcs	2799
+473618	Flow cytometry compensation or control	12176044	2122.473618.fcs	2122.fcs	2799
+473619	Flow cytometry compensation or control	12218214	2124.473619.fcs	2124.fcs	2799
+473620	Flow cytometry compensation or control	11047112	2126.473620.fcs	2126.fcs	2799
+473621	Flow cytometry compensation or control	10293604	2128.473621.fcs	2128.fcs	2799
+473622	Flow cytometry compensation or control	12829534	2130.473622.fcs	2130.fcs	2799
+473623	Flow cytometry compensation or control	20993814	2132.473623.fcs	2132.fcs	2799
+473624	Flow cytometry compensation or control	22387197	2134.473624.fcs	2134.fcs	2799
+473625	Flow cytometry compensation or control	19303199	2136.473625.fcs	2136.fcs	2799
+473626	Flow cytometry compensation or control	15082981	2138.473626.fcs	2138.fcs	2799
+473627	Flow cytometry result	78137044	2051.473627.txt	2051.txt	2799
+473628	Flow cytometry result	81670183	2087.473628.fcs	2087.fcs	2799
+473629	Flow cytometry result	83322287	2087.473629.txt	2087.txt	2799
+473630	Flow cytometry result	74161565	2063.473630.fcs	2063.fcs	2799
+473631	Flow cytometry result	76668198	2063.473631.txt	2063.txt	2799
+473632	Flow cytometry result	76355854	2075.473632.fcs	2075.fcs	2799
+473633	Flow cytometry result	78374642	2075.473633.txt	2075.txt	2799
+473634	Flow cytometry result	39725683	2057.473634.fcs	2057.fcs	2799
+473635	Flow cytometry compensation or control	9608107	2105.473635.fcs	2105.fcs	2799
+473636	Flow cytometry result	43271043	2057.473636.txt	2057.txt	2799
+473637	Flow cytometry result	38894103	2093.473637.fcs	2093.fcs	2799
+473638	Flow cytometry result	42863452	2093.473638.txt	2093.txt	2799
+473639	Flow cytometry result	38807209	2069.473639.fcs	2069.fcs	2799
+473640	Flow cytometry result	42649984	2069.473640.txt	2069.txt	2799
+473641	Flow cytometry result	39854338	2081.473641.fcs	2081.fcs	2799
+473642	Flow cytometry result	43698506	2081.473642.txt	2081.txt	2799
+473643	Flow cytometry result	65300687	2061.473643.fcs	2061.fcs	2799
+473644	Flow cytometry compensation or control	21764127	2109.473644.fcs	2109.fcs	2799
+473645	Flow cytometry result	70529299	2061.473645.txt	2061.txt	2799
+473646	Flow cytometry result	67092275	2097.473646.fcs	2097.fcs	2799
+473647	Flow cytometry result	73170919	2097.473647.txt	2097.txt	2799
+473648	Flow cytometry result	74924253	2073.473648.fcs	2073.fcs	2799
+473649	Flow cytometry result	81825788	2073.473649.txt	2073.txt	2799
+473650	Flow cytometry result	82589074	2085.473650.fcs	2085.fcs	2799
+473651	Flow cytometry result	88713500	2085.473651.txt	2085.txt	2799
+473656	Flow cytometry result	33644575	2811.473656.fcs	2811.fcs	2799
+473657	Flow cytometry compensation or control	9716060	2851.473657.fcs	2851.fcs	2799
+473658	Flow cytometry compensation or control	22374619	2804.473658.fcs	2804.fcs	2799
+473659	Flow cytometry compensation or control	8151871	2864.473659.fcs	2864.fcs	2799
+473660	Flow cytometry compensation or control	10942866	2866.473660.fcs	2866.fcs	2799
+473661	Flow cytometry compensation or control	11318088	2868.473661.fcs	2868.fcs	2799
+473662	Flow cytometry compensation or control	10361066	2870.473662.fcs	2870.fcs	2799
+473663	Flow cytometry compensation or control	7458344	2872.473663.fcs	2872.fcs	2799
+473664	Flow cytometry compensation or control	7194844	2874.473664.fcs	2874.fcs	2799
+473665	Flow cytometry compensation or control	7403542	2876.473665.fcs	2876.fcs	2799
+473666	Flow cytometry compensation or control	7439374	2878.473666.fcs	2878.fcs	2799
+473667	Flow cytometry compensation or control	8609309	2880.473667.fcs	2880.fcs	2799
+473668	Flow cytometry compensation or control	7146363	2882.473668.fcs	2882.fcs	2799
+473669	Flow cytometry compensation or control	6925021	2884.473669.fcs	2884.fcs	2799
+473670	Flow cytometry result	35732438	2811.473670.txt	2811.txt	2799
+473671	Flow cytometry result	50530939	2841.473671.fcs	2841.fcs	2799
+473672	Flow cytometry result	54841136	2841.473672.txt	2841.txt	2799
+473673	Flow cytometry result	44330845	2821.473673.fcs	2821.fcs	2799
+473674	Flow cytometry result	48359123	2821.473674.txt	2821.txt	2799
+473675	Flow cytometry result	51248686	2831.473675.fcs	2831.fcs	2799
+473676	Flow cytometry result	55492618	2831.473676.txt	2831.txt	2799
+475989	Flow cytometry result	91360395	122860.475989.fcs	122860.fcs	2799
+475990	Flow cytometry compensation or control	21679058	122916.475990.fcs	122916.fcs	2799
+475991	Flow cytometry compensation or control	9867917	122764.475991.fcs	122764.fcs	2799
+475992	Flow cytometry compensation or control	15049247	123010.475992.fcs	123010.fcs	2799
+475993	Flow cytometry compensation or control	15002874	123012.475993.fcs	123012.fcs	2799
+475994	Flow cytometry compensation or control	10255323	123014.475994.fcs	123014.fcs	2799
+475995	Flow cytometry compensation or control	15066258	123016.475995.fcs	123016.fcs	2799
+475996	Flow cytometry compensation or control	12719912	123018.475996.fcs	123018.fcs	2799
+475997	Flow cytometry compensation or control	15097736	123020.475997.fcs	123020.fcs	2799
+475998	Flow cytometry compensation or control	14752030	123022.475998.fcs	123022.fcs	2799
+475999	Flow cytometry compensation or control	12924390	123024.475999.fcs	123024.fcs	2799
+476000	Flow cytometry compensation or control	19901865	123026.476000.fcs	123026.fcs	2799
+476001	Flow cytometry compensation or control	18567507	123028.476001.fcs	123028.fcs	2799
+476002	Flow cytometry compensation or control	10838829	123030.476002.fcs	123030.fcs	2799
+476003	Flow cytometry result	97010977	122860.476003.txt	122860.txt	2799
+476004	Flow cytometry result	87525739	122862.476004.fcs	122862.fcs	2799
+476005	Flow cytometry compensation or control	20196183	122920.476005.fcs	122920.fcs	2799
+476006	Flow cytometry result	92055112	122862.476006.txt	122862.txt	2799
+476007	Flow cytometry result	82632799	122864.476007.fcs	122864.fcs	2799
+476008	Flow cytometry compensation or control	26406016	122988.476008.fcs	122988.fcs	2799
+476009	Flow cytometry result	85257586	122864.476009.txt	122864.txt	2799
+476010	Flow cytometry result	66515507	122866.476010.fcs	122866.fcs	2799
+476011	Flow cytometry compensation or control	17647746	122922.476011.fcs	122922.fcs	2799
+476012	Flow cytometry result	67731185	122866.476012.txt	122866.txt	2799
+476013	Flow cytometry result	92055424	122874.476013.fcs	122874.fcs	2799
+476014	Flow cytometry result	97973047	122874.476014.txt	122874.txt	2799
+476015	Flow cytometry result	88626048	122876.476015.fcs	122876.fcs	2799
+476016	Flow cytometry result	93543720	122876.476016.txt	122876.txt	2799
+476017	Flow cytometry result	85430796	122878.476017.fcs	122878.fcs	2799
+476018	Flow cytometry result	88117161	122878.476018.txt	122878.txt	2799
+476019	Flow cytometry result	63120948	122880.476019.fcs	122880.fcs	2799
+476020	Flow cytometry result	64503683	122880.476020.txt	122880.txt	2799
+476021	Flow cytometry result	94059993	122888.476021.fcs	122888.fcs	2799
+476022	Flow cytometry result	99858603	122888.476022.txt	122888.txt	2799
+476023	Flow cytometry result	92991509	122890.476023.fcs	122890.fcs	2799
+476024	Flow cytometry result	98074739	122890.476024.txt	122890.txt	2799
+476025	Flow cytometry result	84999741	122892.476025.fcs	122892.fcs	2799
+476026	Flow cytometry result	87715397	122892.476026.txt	122892.txt	2799
+476027	Flow cytometry result	62408849	122894.476027.fcs	122894.fcs	2799
+476028	Flow cytometry result	63903925	122894.476028.txt	122894.txt	2799
+476029	Flow cytometry result	94150902	122902.476029.fcs	122902.fcs	2799
+476030	Flow cytometry result	100534742	122902.476030.txt	122902.txt	2799
+476031	Flow cytometry result	84472054	122904.476031.fcs	122904.fcs	2799
+476032	Flow cytometry result	89873344	122904.476032.txt	122904.txt	2799
+476033	Flow cytometry result	75336594	122906.476033.fcs	122906.fcs	2799
+476034	Flow cytometry result	78376673	122906.476034.txt	122906.txt	2799
+476035	Flow cytometry result	63382534	122908.476035.fcs	122908.fcs	2799
+476036	Flow cytometry result	64881104	122908.476036.txt	122908.txt	2799
+476037	Flow cytometry result	52868525	122930.476037.fcs	122930.fcs	2799
+476038	Flow cytometry compensation or control	19321436	122986.476038.fcs	122986.fcs	2799
+476039	Flow cytometry result	55192719	122930.476039.txt	122930.txt	2799
+476040	Flow cytometry result	42888913	122932.476040.fcs	122932.fcs	2799
+476041	Flow cytometry result	44178413	122932.476041.txt	122932.txt	2799
+476042	Flow cytometry result	55813741	122936.476042.fcs	122936.fcs	2799
+476043	Flow cytometry compensation or control	12818596	122992.476043.fcs	122992.fcs	2799
+476044	Flow cytometry result	57381393	122936.476044.txt	122936.txt	2799
+476045	Flow cytometry result	92401890	122944.476045.fcs	122944.fcs	2799
+476046	Flow cytometry result	96079969	122944.476046.txt	122944.txt	2799
+476047	Flow cytometry result	65022982	122946.476047.fcs	122946.fcs	2799
+476048	Flow cytometry result	67758201	122946.476048.txt	122946.txt	2799
+476049	Flow cytometry result	55495706	122950.476049.fcs	122950.fcs	2799
+476050	Flow cytometry result	57084525	122950.476050.txt	122950.txt	2799
+476051	Flow cytometry result	83423507	122958.476051.fcs	122958.fcs	2799
+476052	Flow cytometry result	86899284	122958.476052.txt	122958.txt	2799
+476053	Flow cytometry result	68024363	122960.476053.fcs	122960.fcs	2799
+476054	Flow cytometry result	70385503	122960.476054.txt	122960.txt	2799
+476055	Flow cytometry result	56009647	122964.476055.fcs	122964.fcs	2799
+476056	Flow cytometry result	58076078	122964.476056.txt	122964.txt	2799
+476057	Flow cytometry result	61381980	122972.476057.fcs	122972.fcs	2799
+476058	Flow cytometry result	64152331	122972.476058.txt	122972.txt	2799
+476059	Flow cytometry result	33341228	122974.476059.fcs	122974.fcs	2799
+476060	Flow cytometry result	34866640	122974.476060.txt	122974.txt	2799
+476061	Flow cytometry result	53893004	122978.476061.fcs	122978.fcs	2799
+476062	Flow cytometry result	55840576	122978.476062.txt	122978.txt	2799
+476098	Flow cytometry result	38184508	2995.476098.fcs	2995.fcs	2799
+476099	Flow cytometry compensation or control	16853082	3035.476099.fcs	3035.fcs	2799
+476100	Flow cytometry compensation or control	10187685	2990.476100.fcs	2990.fcs	2799
+476101	Flow cytometry compensation or control	2411790	3044.476101.fcs	3044.fcs	2799
+476102	Flow cytometry compensation or control	15976773	3046.476102.fcs	3046.fcs	2799
+476103	Flow cytometry compensation or control	13316475	3048.476103.fcs	3048.fcs	2799
+476104	Flow cytometry compensation or control	8906549	3050.476104.fcs	3050.fcs	2799
+476105	Flow cytometry compensation or control	9277551	3052.476105.fcs	3052.fcs	2799
+476106	Flow cytometry compensation or control	7515263	3054.476106.fcs	3054.fcs	2799
+476107	Flow cytometry compensation or control	7106317	3056.476107.fcs	3056.fcs	2799
+476108	Flow cytometry compensation or control	14836349	3058.476108.fcs	3058.fcs	2799
+476109	Flow cytometry compensation or control	15479284	3060.476109.fcs	3060.fcs	2799
+476110	Flow cytometry compensation or control	9682290	3062.476110.fcs	3062.fcs	2799
+476111	Flow cytometry compensation or control	8674664	3064.476111.fcs	3064.fcs	2799
+476112	Flow cytometry result	39643007	2995.476112.txt	2995.txt	2799
+476113	Flow cytometry result	38261065	3025.476113.fcs	3025.fcs	2799
+476114	Flow cytometry result	40238767	3025.476114.txt	3025.txt	2799
+476115	Flow cytometry result	38475278	3005.476115.fcs	3005.fcs	2799
+476116	Flow cytometry result	40681641	3005.476116.txt	3005.txt	2799
+476117	Flow cytometry result	39129435	3015.476117.fcs	3015.fcs	2799
+476118	Flow cytometry result	40989024	3015.476118.txt	3015.txt	2799
+476119	Flow cytometry result	46619364	2997.476119.fcs	2997.fcs	2799
+476120	Flow cytometry compensation or control	18429056	3037.476120.fcs	3037.fcs	2799
+476121	Flow cytometry result	48817951	2997.476121.txt	2997.txt	2799
+476122	Flow cytometry result	45350745	3027.476122.fcs	3027.fcs	2799
+476123	Flow cytometry result	48376536	3027.476123.txt	3027.txt	2799
+476124	Flow cytometry result	39001190	3007.476124.fcs	3007.fcs	2799
+476125	Flow cytometry result	41977328	3007.476125.txt	3007.txt	2799
+476126	Flow cytometry result	47800523	3017.476126.fcs	3017.fcs	2799
+476127	Flow cytometry result	50734970	3017.476127.txt	3017.txt	2799
+476128	Flow cytometry result	26182508	2999.476128.fcs	2999.fcs	2799
+476129	Flow cytometry compensation or control	10090346	3039.476129.fcs	3039.fcs	2799
+476130	Flow cytometry result	28234574	2999.476130.txt	2999.txt	2799
+476131	Flow cytometry result	23664389	3029.476131.fcs	3029.fcs	2799
+476132	Flow cytometry result	26037231	3029.476132.txt	3029.txt	2799
+476133	Flow cytometry result	23256130	3009.476133.fcs	3009.fcs	2799
+476134	Flow cytometry result	25630558	3009.476134.txt	3009.txt	2799
+476135	Flow cytometry result	25633067	3019.476135.fcs	3019.fcs	2799
+476136	Flow cytometry result	27726152	3019.476136.txt	3019.txt	2799
+476140	Flow cytometry result	28747169	3242.476140.fcs	3242.fcs	2799
+476141	Flow cytometry compensation or control	7818433	3250.476141.fcs	3250.fcs	2799
+476142	Flow cytometry compensation or control	3431136	3239.476142.fcs	3239.fcs	2799
+476143	Flow cytometry compensation or control	4932955	3253.476143.fcs	3253.fcs	2799
+476144	Flow cytometry compensation or control	2274838	3255.476144.fcs	3255.fcs	2799
+476145	Flow cytometry compensation or control	5413512	3257.476145.fcs	3257.fcs	2799
+476146	Flow cytometry compensation or control	4028702	3259.476146.fcs	3259.fcs	2799
+476147	Flow cytometry compensation or control	2692224	3261.476147.fcs	3261.fcs	2799
+476148	Flow cytometry compensation or control	2319108	3263.476148.fcs	3263.fcs	2799
+476149	Flow cytometry compensation or control	2064046	3265.476149.fcs	3265.fcs	2799
+476150	Flow cytometry compensation or control	1796326	3267.476150.fcs	3267.fcs	2799
+476151	Flow cytometry compensation or control	2886157	3269.476151.fcs	3269.fcs	2799
+476152	Flow cytometry compensation or control	2066151	3271.476152.fcs	3271.fcs	2799
+476153	Flow cytometry compensation or control	1613949	3273.476153.fcs	3273.fcs	2799
+476154	Flow cytometry result	31353602	3242.476154.txt	3242.txt	2799
+476155	Flow cytometry result	30884945	3248.476155.fcs	3248.fcs	2799
+476156	Flow cytometry result	33829305	3248.476156.txt	3248.txt	2799
+476157	Flow cytometry result	30096699	3244.476157.fcs	3244.fcs	2799
+476158	Flow cytometry result	31562929	3244.476158.txt	3244.txt	2799
+476159	Flow cytometry result	36421784	3246.476159.fcs	3246.fcs	2799
+476160	Flow cytometry result	38720723	3246.476160.txt	3246.txt	2799
+476162	Flow cytometry result	55979708	3574.476162.fcs	3574.fcs	2799
+476163	Flow cytometry compensation or control	19316995	3622.476163.fcs	3622.fcs	2799
+476164	Flow cytometry compensation or control	10055463	3641.476164.fcs	3641.fcs	2799
+476165	Flow cytometry compensation or control	12880186	3643.476165.fcs	3643.fcs	2799
+476166	Flow cytometry compensation or control	12123412	3645.476166.fcs	3645.fcs	2799
+476167	Flow cytometry compensation or control	11474158	3647.476167.fcs	3647.fcs	2799
+476168	Flow cytometry compensation or control	10177732	3649.476168.fcs	3649.fcs	2799
+476169	Flow cytometry compensation or control	8662080	3651.476169.fcs	3651.fcs	2799
+476170	Flow cytometry compensation or control	11136878	3653.476170.fcs	3653.fcs	2799
+476171	Flow cytometry compensation or control	10671074	3655.476171.fcs	3655.fcs	2799
+476172	Flow cytometry compensation or control	12028553	3657.476172.fcs	3657.fcs	2799
+476173	Flow cytometry compensation or control	8173027	3659.476173.fcs	3659.fcs	2799
+476174	Flow cytometry compensation or control	7757960	3661.476174.fcs	3661.fcs	2799
+476175	Flow cytometry result	57662184	3574.476175.txt	3574.txt	2799
+476176	Flow cytometry result	72308616	3576.476176.fcs	3576.fcs	2799
+476177	Flow cytometry compensation or control	21388752	3624.476177.fcs	3624.fcs	2799
+476178	Flow cytometry result	74871731	3576.476178.txt	3576.txt	2799
+476179	Flow cytometry result	53887688	3578.476179.fcs	3578.fcs	2799
+476180	Flow cytometry compensation or control	11019091	3626.476180.fcs	3626.fcs	2799
+476181	Flow cytometry result	55249686	3578.476181.txt	3578.txt	2799
+476182	Flow cytometry result	87970377	3586.476182.fcs	3586.fcs	2799
+476183	Flow cytometry result	90460788	3586.476183.txt	3586.txt	2799
+476184	Flow cytometry result	45204905	3588.476184.fcs	3588.fcs	2799
+476185	Flow cytometry result	47475372	3588.476185.txt	3588.txt	2799
+476186	Flow cytometry result	75814493	3590.476186.fcs	3590.fcs	2799
+476187	Flow cytometry result	79486937	3590.476187.txt	3590.txt	2799
+476188	Flow cytometry result	78057946	3598.476188.fcs	3598.fcs	2799
+476189	Flow cytometry result	80448897	3598.476189.txt	3598.txt	2799
+476190	Flow cytometry result	105958686	3600.476190.fcs	3600.fcs	2799
+476191	Flow cytometry result	109771175	3600.476191.txt	3600.txt	2799
+476192	Flow cytometry result	53355042	3602.476192.fcs	3602.fcs	2799
+476193	Flow cytometry result	55355626	3602.476193.txt	3602.txt	2799
+476194	Flow cytometry result	66983255	3610.476194.fcs	3610.fcs	2799
+476195	Flow cytometry result	68984472	3610.476195.txt	3610.txt	2799
+476196	Flow cytometry result	82487600	3612.476196.fcs	3612.fcs	2799
+476197	Flow cytometry result	86151158	3612.476197.txt	3612.txt	2799
+476198	Flow cytometry result	52050727	3614.476198.fcs	3614.fcs	2799
+476199	Flow cytometry result	53730118	3614.476199.txt	3614.txt	2799
+476204	Flow cytometry result	5834103	1711.476204.fcs	1711.fcs	2799
+476205	Flow cytometry compensation or control	3118759	1751.476205.fcs	1751.fcs	2799
+476206	Flow cytometry compensation or control	1066508	1704.476206.fcs	1704.fcs	2799
+476207	Flow cytometry compensation or control	946459	1758.476207.fcs	1758.fcs	2799
+476208	Flow cytometry compensation or control	2304354	1760.476208.fcs	1760.fcs	2799
+476209	Flow cytometry compensation or control	1024048	1762.476209.fcs	1762.fcs	2799
+476210	Flow cytometry compensation or control	1591314	1764.476210.fcs	1764.fcs	2799
+476211	Flow cytometry compensation or control	1157196	1766.476211.fcs	1766.fcs	2799
+476212	Flow cytometry compensation or control	2099676	1768.476212.fcs	1768.fcs	2799
+476213	Flow cytometry compensation or control	787078	1770.476213.fcs	1770.fcs	2799
+476214	Flow cytometry compensation or control	833314	1772.476214.fcs	1772.fcs	2799
+476215	Flow cytometry compensation or control	822361	1774.476215.fcs	1774.fcs	2799
+476216	Flow cytometry compensation or control	748519	1776.476216.fcs	1776.fcs	2799
+476217	Flow cytometry compensation or control	830185	1778.476217.fcs	1778.fcs	2799
+476218	Flow cytometry result	6525507	1711.476218.txt	1711.txt	2799
+476219	Flow cytometry result	5228701	1721.476219.fcs	1721.fcs	2799
+476220	Flow cytometry result	5908901	1721.476220.txt	1721.txt	2799
+476221	Flow cytometry result	6306566	1731.476221.fcs	1731.fcs	2799
+476222	Flow cytometry result	7124169	1731.476222.txt	1731.txt	2799
+476223	Flow cytometry result	5297303	1741.476223.fcs	1741.fcs	2799
+476224	Flow cytometry result	6017844	1741.476224.txt	1741.txt	2799
+476230	Flow cytometry result	33941078	916.476230.fcs	916.fcs	2799
+476231	Flow cytometry compensation or control	10748146	932.476231.fcs	932.fcs	2799
+476232	Flow cytometry compensation or control	2027861	941.476232.fcs	941.fcs	2799
+476233	Flow cytometry compensation or control	6802348	943.476233.fcs	943.fcs	2799
+476234	Flow cytometry compensation or control	2122178	945.476234.fcs	945.fcs	2799
+476235	Flow cytometry compensation or control	1678216	947.476235.fcs	947.fcs	2799
+476236	Flow cytometry compensation or control	1686710	949.476236.fcs	949.fcs	2799
+476237	Flow cytometry compensation or control	1444290	951.476237.fcs	951.fcs	2799
+476238	Flow cytometry compensation or control	1041668	953.476238.fcs	953.fcs	2799
+476239	Flow cytometry compensation or control	1627688	955.476239.fcs	955.fcs	2799
+476240	Flow cytometry compensation or control	1374723	957.476240.fcs	957.fcs	2799
+476241	Flow cytometry compensation or control	1607765	959.476241.fcs	959.fcs	2799
+476242	Flow cytometry compensation or control	1523511	961.476242.fcs	961.fcs	2799
+476243	Flow cytometry result	35731754	916.476243.txt	916.txt	2799
+476244	Flow cytometry result	41200692	920.476244.fcs	920.fcs	2799
+476245	Flow cytometry result	42697530	920.476245.txt	920.txt	2799
+476246	Flow cytometry result	36167805	924.476246.fcs	924.fcs	2799
+476247	Flow cytometry result	37903695	924.476247.txt	924.txt	2799
+476248	Flow cytometry result	36013166	928.476248.fcs	928.fcs	2799
+476249	Flow cytometry result	37500103	928.476249.txt	928.txt	2799
+476260	Flow cytometry result	25909808	1115.476260.fcs	1115.fcs	2799
+476261	Flow cytometry compensation or control	6878544	1147.476261.fcs	1147.fcs	2799
+476262	Flow cytometry compensation or control	6626607	1110.476262.fcs	1110.fcs	2799
+476263	Flow cytometry compensation or control	6802621	1158.476263.fcs	1158.fcs	2799
+476264	Flow cytometry compensation or control	10782936	1160.476264.fcs	1160.fcs	2799
+476265	Flow cytometry compensation or control	6802622	1162.476265.fcs	1162.fcs	2799
+476266	Flow cytometry compensation or control	6802632	1164.476266.fcs	1164.fcs	2799
+476267	Flow cytometry compensation or control	6802360	1166.476267.fcs	1166.fcs	2799
+476268	Flow cytometry compensation or control	6802360	1168.476268.fcs	1168.fcs	2799
+476269	Flow cytometry compensation or control	6802366	1170.476269.fcs	1170.fcs	2799
+476270	Flow cytometry compensation or control	6802362	1172.476270.fcs	1172.fcs	2799
+476271	Flow cytometry compensation or control	6802357	1174.476271.fcs	1174.fcs	2799
+476272	Flow cytometry compensation or control	6802629	1176.476272.fcs	1176.fcs	2799
+476273	Flow cytometry compensation or control	5485337	1178.476273.fcs	1178.fcs	2799
+476274	Flow cytometry result	27859684	1115.476274.txt	1115.txt	2799
+476275	Flow cytometry result	30117106	1123.476275.fcs	1123.fcs	2799
+476276	Flow cytometry result	32084673	1123.476276.txt	1123.txt	2799
+476277	Flow cytometry result	29444583	1131.476277.fcs	1131.fcs	2799
+476278	Flow cytometry result	31516491	1131.476278.txt	1131.txt	2799
+476279	Flow cytometry result	24905916	1139.476279.fcs	1139.fcs	2799
+476280	Flow cytometry result	26972569	1139.476280.txt	1139.txt	2799
+476287	Flow cytometry result	39797252	1188.476287.fcs	1188.fcs	2799
+476288	Flow cytometry compensation or control	9668863	1196.476288.fcs	1196.fcs	2799
+476289	Flow cytometry compensation or control	3925463	1185.476289.fcs	1185.fcs	2799
+476290	Flow cytometry compensation or control	3244786	1205.476290.fcs	1205.fcs	2799
+476291	Flow cytometry compensation or control	6571009	1207.476291.fcs	1207.fcs	2799
+476292	Flow cytometry compensation or control	6740191	1209.476292.fcs	1209.fcs	2799
+476293	Flow cytometry compensation or control	5470573	1211.476293.fcs	1211.fcs	2799
+476294	Flow cytometry compensation or control	757419	1213.476294.fcs	1213.fcs	2799
+476295	Flow cytometry compensation or control	5662395	1215.476295.fcs	1215.fcs	2799
+476296	Flow cytometry compensation or control	5200749	1217.476296.fcs	1217.fcs	2799
+476297	Flow cytometry compensation or control	5850009	1219.476297.fcs	1219.fcs	2799
+476298	Flow cytometry compensation or control	6802344	1221.476298.fcs	1221.fcs	2799
+476299	Flow cytometry compensation or control	6802350	1223.476299.fcs	1223.fcs	2799
+476300	Flow cytometry compensation or control	3602948	1225.476300.fcs	1225.fcs	2799
+476301	Flow cytometry result	41300125	1188.476301.txt	1188.txt	2799
+476302	Flow cytometry result	43303333	1190.476302.fcs	1190.fcs	2799
+476303	Flow cytometry result	44708248	1190.476303.txt	1190.txt	2799
+476304	Flow cytometry result	46502662	1192.476304.fcs	1192.fcs	2799
+476305	Flow cytometry result	48118291	1192.476305.txt	1192.txt	2799
+476306	Flow cytometry result	50660924	1194.476306.fcs	1194.fcs	2799
+476307	Flow cytometry result	51885636	1194.476307.txt	1194.txt	2799
+477215	Flow cytometry result	25808854	1790.477215.fcs	1790.fcs	2799
+477216	Flow cytometry compensation or control	7049658	1806.477216.fcs	1806.fcs	2799
+477217	Flow cytometry compensation or control	6802364	1785.477217.fcs	1785.fcs	2799
+477218	Flow cytometry compensation or control	6419026	1815.477218.fcs	1815.fcs	2799
+477219	Flow cytometry compensation or control	6933517	1817.477219.fcs	1817.fcs	2799
+477220	Flow cytometry compensation or control	7156963	1819.477220.fcs	1819.fcs	2799
+477221	Flow cytometry compensation or control	6941957	1821.477221.fcs	1821.fcs	2799
+477222	Flow cytometry compensation or control	6651047	1823.477222.fcs	1823.fcs	2799
+477223	Flow cytometry compensation or control	8714779	1825.477223.fcs	1825.fcs	2799
+477224	Flow cytometry compensation or control	6950389	1827.477224.fcs	1827.fcs	2799
+477225	Flow cytometry compensation or control	6676345	1829.477225.fcs	1829.fcs	2799
+477226	Flow cytometry compensation or control	6939840	1831.477226.fcs	1831.fcs	2799
+477227	Flow cytometry compensation or control	6349606	1833.477227.fcs	1833.fcs	2799
+477228	Flow cytometry compensation or control	7264476	1835.477228.fcs	1835.fcs	2799
+477229	Flow cytometry result	27887311	1790.477229.txt	1790.txt	2799
+477230	Flow cytometry result	27780397	1794.477230.fcs	1794.fcs	2799
+477231	Flow cytometry result	29841887	1794.477231.txt	1794.txt	2799
+477232	Flow cytometry result	28363493	1798.477232.fcs	1798.fcs	2799
+477233	Flow cytometry result	30688491	1798.477233.txt	1798.txt	2799
+477234	Flow cytometry result	28728917	1802.477234.fcs	1802.fcs	2799
+477235	Flow cytometry result	31055096	1802.477235.txt	1802.txt	2799
+477238	Flow cytometry result	13670164	8641.477238.fcs	8641.fcs	2799
+477239	Flow cytometry compensation or control	7283508	8665.477239.fcs	8665.fcs	2799
+477240	Flow cytometry compensation or control	4123832	8608.477240.fcs	8608.fcs	2799
+477241	Flow cytometry result	15012050	8641.477241.txt	8641.txt	2799
+477242	Flow cytometry result	23394371	8647.477242.fcs	8647.fcs	2799
+477243	Flow cytometry result	25881490	8647.477243.txt	8647.txt	2799
+477244	Flow cytometry result	22766387	8653.477244.fcs	8653.fcs	2799
+477245	Flow cytometry result	25427340	8653.477245.txt	8653.txt	2799
+477246	Flow cytometry result	20931671	8659.477246.fcs	8659.fcs	2799
+477247	Flow cytometry result	23458991	8659.477247.txt	8659.txt	2799
+477253	Flow cytometry result	23482109	9454.477253.fcs	9454.fcs	2799
+477254	Flow cytometry compensation or control	6209801	9478.477254.fcs	9478.fcs	2799
+477255	Flow cytometry compensation or control	2801261	9449.477255.fcs	9449.fcs	2799
+477256	Flow cytometry compensation or control	6802329	9487.477256.fcs	9487.fcs	2799
+477257	Flow cytometry compensation or control	6802332	9489.477257.fcs	9489.fcs	2799
+477258	Flow cytometry compensation or control	6802330	9491.477258.fcs	9491.fcs	2799
+477259	Flow cytometry compensation or control	6802334	9493.477259.fcs	9493.fcs	2799
+477260	Flow cytometry compensation or control	6802334	9495.477260.fcs	9495.fcs	2799
+477261	Flow cytometry compensation or control	6802334	9497.477261.fcs	9497.fcs	2799
+477262	Flow cytometry compensation or control	6528096	9499.477262.fcs	9499.fcs	2799
+477263	Flow cytometry compensation or control	6802336	9501.477263.fcs	9501.fcs	2799
+477264	Flow cytometry compensation or control	6802331	9503.477264.fcs	9503.fcs	2799
+477265	Flow cytometry compensation or control	6802337	9505.477265.fcs	9505.fcs	2799
+477266	Flow cytometry compensation or control	6802335	9507.477266.fcs	9507.fcs	2799
+477267	Flow cytometry result	25058115	9454.477267.txt	9454.txt	2799
+477268	Flow cytometry result	26646764	9460.477268.fcs	9460.fcs	2799
+477269	Flow cytometry result	28240641	9460.477269.txt	9460.txt	2799
+477270	Flow cytometry result	26085624	9466.477270.fcs	9466.fcs	2799
+477271	Flow cytometry result	28041756	9466.477271.txt	9466.txt	2799
+477272	Flow cytometry result	27718840	9472.477272.fcs	9472.fcs	2799
+477273	Flow cytometry result	29499595	9472.477273.txt	9472.txt	2799
+477276	Flow cytometry result	41429168	10313.477276.fcs	10313.fcs	2799
+477277	Flow cytometry compensation or control	8017773	10368.477277.fcs	10368.fcs	2799
+477278	Flow cytometry compensation or control	6405359	10308.477278.fcs	10308.fcs	2799
+477279	Flow cytometry compensation or control	6802330	10375.477279.fcs	10375.fcs	2799
+477280	Flow cytometry compensation or control	6802333	10377.477280.fcs	10377.fcs	2799
+477281	Flow cytometry compensation or control	6802331	10379.477281.fcs	10379.fcs	2799
+477282	Flow cytometry compensation or control	6802335	10381.477282.fcs	10381.fcs	2799
+477283	Flow cytometry compensation or control	6802335	10383.477283.fcs	10383.fcs	2799
+477284	Flow cytometry compensation or control	6802335	10385.477284.fcs	10385.fcs	2799
+477285	Flow cytometry compensation or control	6802341	10387.477285.fcs	10387.fcs	2799
+477286	Flow cytometry compensation or control	6802337	10389.477286.fcs	10389.fcs	2799
+477287	Flow cytometry compensation or control	6802332	10391.477287.fcs	10391.fcs	2799
+477288	Flow cytometry compensation or control	6802338	10393.477288.fcs	10393.fcs	2799
+477289	Flow cytometry compensation or control	6802336	10395.477289.fcs	10395.fcs	2799
+477290	Flow cytometry result	44480699	10313.477290.txt	10313.txt	2799
+477291	Flow cytometry result	46429142	10321.477291.fcs	10321.fcs	2799
+477292	Flow cytometry result	50312162	10321.477292.txt	10321.txt	2799
+477293	Flow cytometry result	34039879	10329.477293.fcs	10329.fcs	2799
+477294	Flow cytometry result	38059806	10329.477294.txt	10329.txt	2799
+477295	Flow cytometry result	42154525	10360.477295.fcs	10360.fcs	2799
+477296	Flow cytometry result	45788802	10360.477296.txt	10360.txt	2799
+477301	Flow cytometry result	15377726	10585.477301.fcs	10585.fcs	2799
+477302	Flow cytometry compensation or control	4404054	10599.477302.fcs	10599.fcs	2799
+477303	Flow cytometry compensation or control	1517669	10580.477303.fcs	10580.fcs	2799
+477304	Flow cytometry compensation or control	6802331	10634.477304.fcs	10634.fcs	2799
+477305	Flow cytometry compensation or control	6802334	10636.477305.fcs	10636.fcs	2799
+477306	Flow cytometry compensation or control	6802332	10638.477306.fcs	10638.fcs	2799
+477307	Flow cytometry compensation or control	6802336	10640.477307.fcs	10640.fcs	2799
+477308	Flow cytometry compensation or control	6802336	10642.477308.fcs	10642.fcs	2799
+477309	Flow cytometry compensation or control	6802336	10644.477309.fcs	10644.fcs	2799
+477310	Flow cytometry compensation or control	6802342	10646.477310.fcs	10646.fcs	2799
+477311	Flow cytometry compensation or control	6802338	10648.477311.fcs	10648.fcs	2799
+477312	Flow cytometry compensation or control	6802333	10650.477312.fcs	10650.fcs	2799
+477313	Flow cytometry compensation or control	6802339	10652.477313.fcs	10652.fcs	2799
+477314	Flow cytometry compensation or control	6802337	10654.477314.fcs	10654.fcs	2799
+477315	Flow cytometry result	16955109	10585.477315.txt	10585.txt	2799
+477316	Flow cytometry result	17542509	10589.477316.fcs	10589.fcs	2799
+477317	Flow cytometry result	19219888	10589.477317.txt	10589.txt	2799
+477318	Flow cytometry result	18593853	10593.477318.fcs	10593.fcs	2799
+477319	Flow cytometry result	20438838	10593.477319.txt	10593.txt	2799
+477320	Flow cytometry result	21189133	10597.477320.fcs	10597.fcs	2799
+477321	Flow cytometry result	22876276	10597.477321.txt	10597.txt	2799
+477323	Flow cytometry result	52332211	21144.477323.fcs	21144.fcs	2799
+477324	Flow cytometry compensation or control	23509695	21160.477324.fcs	21160.fcs	2799
+477325	Flow cytometry compensation or control	9643533	21141.477325.fcs	21141.fcs	2799
+477326	Flow cytometry compensation or control	6802331	21181.477326.fcs	21181.fcs	2799
+477327	Flow cytometry compensation or control	6802334	21183.477327.fcs	21183.fcs	2799
+477328	Flow cytometry compensation or control	6802607	21185.477328.fcs	21185.fcs	2799
+477329	Flow cytometry compensation or control	6802336	21187.477329.fcs	21187.fcs	2799
+477330	Flow cytometry compensation or control	6802336	21189.477330.fcs	21189.fcs	2799
+477331	Flow cytometry compensation or control	6802336	21191.477331.fcs	21191.fcs	2799
+477332	Flow cytometry compensation or control	6802342	21193.477332.fcs	21193.fcs	2799
+477333	Flow cytometry compensation or control	6802338	21195.477333.fcs	21195.fcs	2799
+477334	Flow cytometry compensation or control	6802333	21197.477334.fcs	21197.fcs	2799
+477335	Flow cytometry compensation or control	6802339	21199.477335.fcs	21199.fcs	2799
+477336	Flow cytometry compensation or control	6802337	21201.477336.fcs	21201.fcs	2799
+477337	Flow cytometry result	55976246	21144.477337.txt	21144.txt	2799
+477338	Flow cytometry result	64916430	21148.477338.fcs	21148.fcs	2799
+477339	Flow cytometry result	68624995	21148.477339.txt	21148.txt	2799
+477340	Flow cytometry result	69391846	21152.477340.fcs	21152.fcs	2799
+477341	Flow cytometry result	73510467	21152.477341.txt	21152.txt	2799
+477342	Flow cytometry result	81323458	21156.477342.fcs	21156.fcs	2799
+477343	Flow cytometry result	86128816	21156.477343.txt	21156.txt	2799
+477352	Flow cytometry result	87590299	2427.477352.fcs	2427.fcs	2799
+477353	Flow cytometry compensation or control	30774563	2475.477353.fcs	2475.fcs	2799
+477354	Flow cytometry compensation or control	7825326	2422.477354.fcs	2422.fcs	2799
+477355	Flow cytometry result	90633496	2427.477355.txt	2427.txt	2799
+477356	Flow cytometry result	74355255	2433.477356.fcs	2433.fcs	2799
+477357	Flow cytometry compensation or control	29875059	2481.477357.fcs	2481.fcs	2799
+477358	Flow cytometry result	77667378	2433.477358.txt	2433.txt	2799
+477359	Flow cytometry result	48615963	2435.477359.fcs	2435.fcs	2799
+477360	Flow cytometry compensation or control	15200727	2483.477360.fcs	2483.fcs	2799
+477361	Flow cytometry result	50931520	2435.477361.txt	2435.txt	2799
+477362	Flow cytometry result	83527641	2439.477362.fcs	2439.fcs	2799
+477363	Flow cytometry result	86840248	2439.477363.txt	2439.txt	2799
+477364	Flow cytometry result	73620313	2445.477364.fcs	2445.fcs	2799
+477365	Flow cytometry result	78241728	2445.477365.txt	2445.txt	2799
+477366	Flow cytometry result	59082797	2447.477366.fcs	2447.fcs	2799
+477367	Flow cytometry result	62916288	2447.477367.txt	2447.txt	2799
+477368	Flow cytometry result	98921886	2451.477368.fcs	2451.fcs	2799
+477369	Flow cytometry result	102623067	2451.477369.txt	2451.txt	2799
+477370	Flow cytometry result	65820710	2457.477370.fcs	2457.fcs	2799
+477371	Flow cytometry result	69290708	2457.477371.txt	2457.txt	2799
+477372	Flow cytometry result	61520322	2459.477372.fcs	2459.fcs	2799
+477373	Flow cytometry result	65279783	2459.477373.txt	2459.txt	2799
+477374	Flow cytometry result	100724151	2463.477374.fcs	2463.fcs	2799
+477375	Flow cytometry result	104952335	2463.477375.txt	2463.txt	2799
+477376	Flow cytometry result	65475603	2469.477376.fcs	2469.fcs	2799
+477377	Flow cytometry result	69774461	2469.477377.txt	2469.txt	2799
+477378	Flow cytometry result	62461367	2471.477378.fcs	2471.fcs	2799
+477379	Flow cytometry result	66720661	2471.477379.txt	2471.txt	2799
+477422	Flow cytometry result	18368616	2528.477422.fcs	2528.fcs	2799
+477423	Flow cytometry compensation or control	29426400	2576.477423.fcs	2576.fcs	2799
+477424	Flow cytometry compensation or control	5033301	2523.477424.fcs	2523.fcs	2799
+477425	Flow cytometry compensation or control	15336003	2591.477425.fcs	2591.fcs	2799
+477426	Flow cytometry compensation or control	10968230	2593.477426.fcs	2593.fcs	2799
+477427	Flow cytometry compensation or control	8073944	2595.477427.fcs	2595.fcs	2799
+477428	Flow cytometry compensation or control	7770402	2597.477428.fcs	2597.fcs	2799
+477429	Flow cytometry compensation or control	7806232	2599.477429.fcs	2599.fcs	2799
+477430	Flow cytometry compensation or control	7479492	2601.477430.fcs	2601.fcs	2799
+477431	Flow cytometry compensation or control	8813862	2603.477431.fcs	2603.fcs	2799
+477432	Flow cytometry compensation or control	7686078	2605.477432.fcs	2605.fcs	2799
+477433	Flow cytometry compensation or control	11661693	2607.477433.fcs	2607.fcs	2799
+477434	Flow cytometry compensation or control	7156971	2609.477434.fcs	2609.fcs	2799
+477435	Flow cytometry compensation or control	7538517	2611.477435.fcs	2611.fcs	2799
+477436	Flow cytometry result	19106265	2528.477436.txt	2528.txt	2799
+477437	Flow cytometry result	41663096	2564.477437.fcs	2564.fcs	2799
+477438	Flow cytometry result	43309937	2564.477438.txt	2564.txt	2799
+477439	Flow cytometry result	34544118	2540.477439.fcs	2540.fcs	2799
+477440	Flow cytometry result	36039470	2540.477440.txt	2540.txt	2799
+477441	Flow cytometry result	42585727	2552.477441.fcs	2552.fcs	2799
+477442	Flow cytometry result	44429814	2552.477442.txt	2552.txt	2799
+477443	Flow cytometry result	51701400	2534.477443.fcs	2534.fcs	2799
+477444	Flow cytometry compensation or control	26058156	2582.477444.fcs	2582.fcs	2799
+477445	Flow cytometry result	53260278	2534.477445.txt	2534.txt	2799
+477446	Flow cytometry result	47290436	2570.477446.fcs	2570.fcs	2799
+477447	Flow cytometry result	49412118	2570.477447.txt	2570.txt	2799
+477448	Flow cytometry result	57681254	2546.477448.fcs	2546.fcs	2799
+477449	Flow cytometry result	59881928	2546.477449.txt	2546.txt	2799
+477450	Flow cytometry result	47294657	2558.477450.fcs	2558.fcs	2799
+477451	Flow cytometry result	49282676	2558.477451.txt	2558.txt	2799
+477452	Flow cytometry result	51246208	2536.477452.fcs	2536.fcs	2799
+477453	Flow cytometry compensation or control	26895372	2584.477453.fcs	2584.fcs	2799
+477454	Flow cytometry result	53961764	2536.477454.txt	2536.txt	2799
+477455	Flow cytometry result	35320668	2572.477455.fcs	2572.fcs	2799
+477456	Flow cytometry result	38282729	2572.477456.txt	2572.txt	2799
+477457	Flow cytometry result	44986742	2548.477457.fcs	2548.fcs	2799
+477458	Flow cytometry result	48123499	2548.477458.txt	2548.txt	2799
+477459	Flow cytometry result	45230247	2560.477459.fcs	2560.fcs	2799
+477460	Flow cytometry result	48137403	2560.477460.txt	2560.txt	2799
+477535	Flow cytometry result	30072444	2265.477535.fcs	2265.fcs	2799
+477536	Flow cytometry compensation or control	4471972	2305.477536.fcs	2305.fcs	2799
+477537	Flow cytometry compensation or control	7126535	2258.477537.fcs	2258.fcs	2799
+477538	Flow cytometry compensation or control	3385962	2312.477538.fcs	2312.fcs	2799
+477539	Flow cytometry compensation or control	808350	2314.477539.fcs	2314.fcs	2799
+477540	Flow cytometry compensation or control	1015680	2316.477540.fcs	2316.fcs	2799
+477541	Flow cytometry compensation or control	7483782	2318.477541.fcs	2318.fcs	2799
+477542	Flow cytometry compensation or control	33023	2320.477542.fcs	2320.fcs	2799
+477543	Flow cytometry compensation or control	2164136	2322.477543.fcs	2322.fcs	2799
+477544	Flow cytometry compensation or control	5822542	2324.477544.fcs	2324.fcs	2799
+477545	Flow cytometry compensation or control	6051426	2326.477545.fcs	2326.fcs	2799
+477546	Flow cytometry compensation or control	1257693	2328.477546.fcs	2328.fcs	2799
+477547	Flow cytometry compensation or control	7260263	2330.477547.fcs	2330.fcs	2799
+477548	Flow cytometry compensation or control	7199129	2332.477548.fcs	2332.fcs	2799
+477549	Flow cytometry result	32087161	2265.477549.txt	2265.txt	2799
+477550	Flow cytometry result	25133120	2295.477550.fcs	2295.fcs	2799
+477551	Flow cytometry result	27174654	2295.477551.txt	2295.txt	2799
+477552	Flow cytometry result	579758	2275.477552.fcs	2275.fcs	2799
+477553	Flow cytometry result	634046	2275.477553.txt	2275.txt	2799
+477554	Flow cytometry result	24688475	2285.477554.fcs	2285.fcs	2799
+477555	Flow cytometry result	26642058	2285.477555.txt	2285.txt	2799
+477659	Flow cytometry result	38184508	2995.477659.fcs	2995.fcs	2799
+477660	Flow cytometry compensation or control	27206485	3197.477660.fcs	3197.fcs	2799
+477661	Flow cytometry compensation or control	12276433	3152.477661.fcs	3152.fcs	2799
+477662	Flow cytometry compensation or control	6610921	3212.477662.fcs	3212.fcs	2799
+477663	Flow cytometry compensation or control	15403407	3214.477663.fcs	3214.fcs	2799
+477664	Flow cytometry compensation or control	19444439	3216.477664.fcs	3216.fcs	2799
+477665	Flow cytometry compensation or control	15104080	3218.477665.fcs	3218.fcs	2799
+477666	Flow cytometry compensation or control	14716200	3220.477666.fcs	3220.fcs	2799
+477667	Flow cytometry compensation or control	20051548	3222.477667.fcs	3222.fcs	2799
+477668	Flow cytometry compensation or control	25692562	3224.477668.fcs	3224.fcs	2799
+477669	Flow cytometry compensation or control	19874480	3226.477669.fcs	3226.fcs	2799
+477670	Flow cytometry compensation or control	26010863	3228.477670.fcs	3228.fcs	2799
+477671	Flow cytometry compensation or control	32128283	3230.477671.fcs	3230.fcs	2799
+477672	Flow cytometry compensation or control	11920993	3232.477672.fcs	3232.fcs	2799
+477673	Flow cytometry result	39643007	2995.477673.txt	2995.txt	2799
+477674	Flow cytometry result	58455438	3177.477674.fcs	3177.fcs	2799
+477675	Flow cytometry compensation or control	18085811	3116.477675.fcs	3116.fcs	2799
+477676	Flow cytometry compensation or control	10292345	3071.477676.fcs	3071.fcs	2799
+477677	Flow cytometry compensation or control	14250381	3125.477677.fcs	3125.fcs	2799
+477678	Flow cytometry compensation or control	15430864	3127.477678.fcs	3127.fcs	2799
+477679	Flow cytometry compensation or control	13704410	3129.477679.fcs	3129.fcs	2799
+477680	Flow cytometry compensation or control	13645396	3131.477680.fcs	3131.fcs	2799
+477681	Flow cytometry compensation or control	13211210	3133.477681.fcs	3133.fcs	2799
+477682	Flow cytometry compensation or control	14286222	3135.477682.fcs	3135.fcs	2799
+477683	Flow cytometry compensation or control	17583140	3137.477683.fcs	3137.fcs	2799
+477684	Flow cytometry compensation or control	16252988	3139.477684.fcs	3139.fcs	2799
+477685	Flow cytometry compensation or control	16849547	3141.477685.fcs	3141.fcs	2799
+477686	Flow cytometry compensation or control	20542769	3143.477686.fcs	3143.fcs	2799
+477687	Flow cytometry compensation or control	12808515	3145.477687.fcs	3145.fcs	2799
+477688	Flow cytometry result	61250067	3177.477688.txt	3177.txt	2799
+477754	Flow cytometry workspace	966340	Flu Vaccine 2011 10-27-11.477754.xml	Flu Vaccine 2011 10-27-11.xml	2799
+477755	Flow cytometry workspace	1156489	Flu Vaccine 2011 10-28-11.477755.xml	Flu Vaccine 2011 10-28-11.xml	2799
+477756	Flow cytometry workspace	1163919	Flu Vaccine 2011 11-29-11.477756.xml	Flu Vaccine 2011 11-29-11.xml	2799
+477757	Flow cytometry workspace	1100282	Flu Vaccine 2011 11-3-11.477757.xml	Flu Vaccine 2011 11-3-11.xml	2799
+477758	Flow cytometry workspace	1028260	nchvk_11_1_11_day0.477758.xml	nchvk_11_1_11_day0.xml	2799
+477759	Flow cytometry workspace	1534619	Flu Vaccine 2011 11-2-11.477759.xml	Flu Vaccine 2011 11-2-11.xml	2799
+477760	Flow cytometry workspace	985247	Flu Vaccine 2011 11-28-11.477760.xml	Flu Vaccine 2011 11-28-11.xml	2799
+477761	Flow cytometry workspace	926813	Flu Vaccine 2011 11-7-11.477761.xml	Flu Vaccine 2011 11-7-11.xml	2799
+477762	Flow cytometry workspace	3311278	Flu Vaccine 2011,3a, 11-16-11.477762.xml	Flu Vaccine 2011,3a, 11-16-11.xml	2799
+477763	Flow cytometry workspace	1131067	Flu Vaccine 2011 12-15-11.477763.xml	Flu Vaccine 2011 12-15-11.xml	2799
+477764	Flow cytometry workspace	1327445	Flu Vaccine 2011 11-22-11.477764.xml	Flu Vaccine 2011 11-22-11.xml	2799
+477765	Flow cytometry workspace	1085091	Flu Vaccine 2011 11-10-11_nchvk_11_10_11_day0.477765.xml	Flu Vaccine 2011 11-10-11_nchvk_11_10_11_day0.xml	2799
+477766	Flow cytometry workspace	1240726	Flu Vaccine 2011 11-11-11.477766.xml	Flu Vaccine 2011 11-11-11.xml	2799
+477767	Flow cytometry workspace	1124370	Flu Vaccine 2011 12-8-11.477767.xml	Flu Vaccine 2011 12-8-11.xml	2799
+477768	Flow cytometry workspace	1493619	Flu Vaccine 2011 11-17-11.477768.xml	Flu Vaccine 2011 11-17-11.xml	2799
+477769	Flow cytometry workspace	1070693	Flu Vaccine 2011 12-6-11.477769.xml	Flu Vaccine 2011 12-6-11.xml	2799
+477770	Flow cytometry workspace	952857	Flu Vaccine 2011 12-7-11.477770.xml	Flu Vaccine 2011 12-7-11.xml	2799
+477771	Flow cytometry workspace	901534	Flu Vaccine 2011 1-3-12.477771.xml	Flu Vaccine 2011 1-3-12.xml	2799
+477772	Flow cytometry workspace	513340	Flu Vaccine 2011 12-14-11.477772.xml	Flu Vaccine 2011 12-14-11.xml	2799
+477773	Flow cytometry workspace	864051	Flu vaccine 2011 1-26-12.477773.xml	Flu vaccine 2011 1-26-12.xml	2799
+477774	Flow cytometry workspace	723430	Flu vaccine 2011,3a, 1-27-2012.477774.xml	Flu vaccine 2011,3a, 1-27-2012.xml	2799
+477775	Flow cytometry workspace	1052493	Flu vaccine 2011,3a, 2-23-2012.477775.xml	Flu vaccine 2011,3a, 2-23-2012.xml	2799
+477776	Flow cytometry workspace	754651	Flu vaccine 2011,3a, 2-2-2012.477776.xml	Flu vaccine 2011,3a, 2-2-2012.xml	2799
+477777	Flow cytometry workspace	1313705	Flu vaccine 2011,3a, 2-9-2012.477777.xml	Flu vaccine 2011,3a, 2-9-2012.xml	2799
+477778	Flow cytometry workspace	836264	Flu Vaccine 2011 1-19-12.477778.xml	Flu Vaccine 2011 1-19-12.xml	2799
+477779	Flow cytometry workspace	799236	Flu Vaccine - 2011 1-11-12.477779.xml	Flu Vaccine - 2011 1-11-12.xml	2799
+477780	Flow cytometry workspace	568103	Flu vaccine 2011,3a, 2-10-2012.477780.xml	Flu vaccine 2011,3a, 2-10-2012.xml	2799
+477781	Flow cytometry workspace	596677	Flu Vaccine 2011 1-24-12.477781.xml	Flu Vaccine 2011 1-24-12.xml	2799
+477782	Flow cytometry workspace	240826495	NCH Healthy_2011_2012_IMMP.477782.xml	NCH Healthy_2011_2012_IMMP.xml	2799
+703259	Illumina BeadArray	66730870	SDY144_EXP13603_microarray.703259.tsv	SDY144_EXP13603_microarray.tsv	2799

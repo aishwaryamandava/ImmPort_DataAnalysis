@@ -1,0 +1,23 @@
+ADVERSE_EVENT_ACCESSION	CAUSALITY	DESCRIPTION	END_STUDY_DAY	END_TIME	LOCATION_OF_REACTION_PREFERRED	LOCATION_OF_REACTION_REPORTED	NAME_PREFERRED	NAME_REPORTED	ORGAN_OR_BODY_SYSTEM_PREFERRED	ORGAN_OR_BODY_SYSTEM_REPORTED	OTHER_ACTION_TAKEN	OUTCOME_PREFERRED	OUTCOME_REPORTED	RELATION_TO_NONSTUDY_TREATMENT	RELATION_TO_STUDY_TREATMENT	SEVERITY_PREFERRED	SEVERITY_REPORTED	START_STUDY_DAY	START_TIME	STUDY_ACCESSION	STUDY_TREATMENT_ACTION_TAKEN	SUBJECT_ACCESSION	WORKSPACE_ID
+AE68255			185					Strep throat					Not_Specified		Not_Specified	Not Specified	Not_Specified	169		SDY387		SUB135869	2799
+AE68258								Viral illness, cold, fever					Not_Specified		Not_Specified	Not Specified	Not_Specified	91		SDY387		SUB135873	2799
+AE68260			175					Sinus infection					Not_Specified		Not_Specified	Not Specified	Not_Specified	171		SDY387		SUB135877	2799
+AE68261			133					Sinus infection					Not_Specified		Not_Specified	Not Specified	Not_Specified	119		SDY387		SUB135878	2799
+AE68269			97					Strep throat					Not_Specified		Not_Specified	Not Specified	Not_Specified	88		SDY387		SUB135881	2799
+AE68254			78					Strep					Not_Specified		Not_Specified	Not Specified	Not_Specified	68		SDY387		SUB135867	2799
+AE68257			90					Viral illness, cold, fever					Not_Specified		Not_Specified	Not Specified	Not_Specified	88		SDY387		SUB135872	2799
+AE68271			-327					Strep throat					Not_Specified		Not_Specified	Not Specified	Not_Specified	27		SDY387		SUB135883	2799
+AE68253								URI					Not_Specified		Not_Specified	Not Specified	Not_Specified	22		SDY387		SUB135865	2799
+AE68256								URI					Not_Specified		Not_Specified	Not Specified	Not_Specified	14		SDY387		SUB135871	2799
+AE68266			186					Sinus infection					Not_Specified		Not_Specified	Not Specified	Not_Specified	175		SDY387		SUB135879	2799
+AE68259								BOM					Not_Specified		Not_Specified	Not Specified	Not_Specified	16		SDY387		SUB135875	2799
+AE68262								Sinusitis					Not_Specified		Not_Specified	Not Specified	Not_Specified	80		SDY387		SUB135878	2799
+AE68263								Strep throat					Not_Specified		Not_Specified	Not Specified	Not_Specified	19		SDY387		SUB135878	2799
+AE68265								Sinus infection					Not_Specified		Not_Specified	Not Specified	Not_Specified	16		SDY387		SUB135879	2799
+AE68274			97					URI symptoms					Not_Specified		Not_Specified	Not Specified	Not_Specified	83		SDY387		SUB135885	2799
+AE68264								Pink eye					Not_Specified		Not_Specified	Not Specified	Not_Specified	16		SDY387		SUB135879	2799
+AE68267								FX right arm					Not_Specified		Not_Specified	Not Specified	Not_Specified	70		SDY387		SUB135880	2799
+AE68270			0					Runny nose					Not_Specified		Not_Specified	Not Specified	Not_Specified	-7		SDY387		SUB135882	2799
+AE68272			97					Strep throat					Not_Specified		Not_Specified	Not Specified	Not_Specified	87		SDY387		SUB135883	2799
+AE68268			163					Sore throat, headache, fever					Not_Specified		Not_Specified	Not Specified	Not_Specified	161		SDY387		SUB135880	2799
+AE68273			42					Sinusitis					Not_Specified		Not_Specified	Not Specified	Not_Specified	33		SDY387		SUB135885	2799

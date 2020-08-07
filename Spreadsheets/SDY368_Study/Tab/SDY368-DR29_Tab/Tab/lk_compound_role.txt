@@ -1,0 +1,5 @@
+NAME	DESCRIPTION	LINK
+Concomitant Medication	Compound Role is Concomitant Medication.	http://www.semanticweb.org/ontologies/2012/0/Ontology1325521724189.owl#Concomitant_medication
+Intervention	Compound Role is Intervention.	http://www.ebi.ac.uk/efo/EFO_0002571
+Other	Compound Role is Other.	
+Substance Use	Compound Role is Substance Use.	http://purl.bioontology.org/ontology/MEDDRA/10070964

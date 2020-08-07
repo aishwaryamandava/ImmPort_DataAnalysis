@@ -1,0 +1,9 @@
+ARM_ACCESSION	DESCRIPTION	NAME	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM2593	8-17 year old monozygotic twins randomly assigned within pair to receive either IIV3 or LAIV3	SLVP018_2009A	SDY514	Experimental	2883
+ARM2594	18-30 year old monozygotic twins pairs given  LAIV3	SLVP018_2009B	SDY514	Experimental	2883
+ARM2595	18-30 year old dizygotic twin pairs given  LAIV3	SLVP018_2009C	SDY514	Experimental	2883
+ARM2596	40-49 year old monozygotic twin pairs given  LAIV3	SLVP018_2009D	SDY514	Experimental	2883
+ARM2597	40-49 year old dizygotic twin pairs given  LAIV3	SLVP018_2009E	SDY514	Experimental	2883
+ARM2598	70-100 year old monozygotic or dizygotic twin pairs given  IIV3	SLVP018_2009F	SDY514	Experimental	2883
+ARM2599	70-100 year old non-twins given  IIV3	SLVP018_2009G	SDY514	Experimental	2883
+ARM2618	control samples	control samples	SDY514	Experimental	2883

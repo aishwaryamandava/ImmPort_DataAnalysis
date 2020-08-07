@@ -1,0 +1,5 @@
+EXPERIMENT_ACCESSION	DESCRIPTION	MEASUREMENT_TECHNIQUE	NAME	STUDY_ACCESSION	WORKSPACE_ID
+EXP13359		Transcription profiling by array	Illumina microarray Expression PBMC Year2	SDY404	2668
+EXP13360	antibody titer test	Hemagglutination Inhibition	HAI Year2	SDY404	2668
+EXP13702	B and T Cell	Transcription profiling by array	Illumina microarray Expression B and T Cell Year2	SDY404	2668
+EXP13917		Flow Cytometry	Flu_FCM_year2	SDY404	2668

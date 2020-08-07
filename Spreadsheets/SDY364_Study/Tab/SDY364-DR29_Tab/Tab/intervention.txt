@@ -1,0 +1,38 @@
+INTERVENTION_ACCESSION	COMPOUND_NAME_REPORTED	COMPOUND_ROLE	DOSE	DOSE_FREQ_PER_INTERVAL	DOSE_REPORTED	DOSE_UNITS	DURATION	DURATION_UNIT	END_DAY	END_TIME	FORMULATION	IS_ONGOING	NAME_PREFERRED	NAME_REPORTED	REPORTED_INDICATION	ROUTE_OF_ADMIN_PREFERRED	ROUTE_OF_ADMIN_REPORTED	START_DAY	START_TIME	STATUS	STUDY_ACCESSION	SUBJECT_ACCESSION	WORKSPACE_ID
+SM148980	Sudafed	Concomitant Medication		PRN	UNK									Sudafed				0			SDY364	SUB135683	2799
+SM148994	Claritin	Concomitant Medication			UNK									Claritin				0			SDY364	SUB135673	2799
+SM149017	Tylenol	Concomitant Medication	0.8		0.8 ml	ml								Tylenol				1			SDY364	SUB135693	2799
+SM149019	Albuterol	Concomitant Medication		PRN	UNK									Albuterol			inhaler	0			SDY364	SUB135676	2799
+SM149046	Claritin	Concomitant Medication	10	daily	10 mg	mg								Claritin				0			SDY364	SUB135671	2799
+SM149048	Nasonex	Concomitant Medication			UNK									Nasonex				0			SDY364	SUB135671	2799
+SM148965	Prilosec	Concomitant Medication	10	daily	10 mg	mg								Prilosec				0			SDY364	SUB135674	2799
+SM148970	Omnicef	Concomitant Medication		BID	UNK				38					Omnicef				28			SDY364	SUB135684	2799
+SM148971	Ibuprofen	Concomitant Medication			UNK									Ibuprofen				33			SDY364	SUB135689	2799
+SM148972	Cyprofloxin	Concomitant Medication			3%									Cyprofloxin			eye drops	33			SDY364	SUB135689	2799
+SM148983	Albuterol	Concomitant Medication			UNK									Albuterol			inhaler	7			SDY364	SUB135683	2799
+SM149037	Prednisone	Concomitant Medication			UNK									Prednisone				33			SDY364	SUB135692	2799
+SM149038	Albuterol	Concomitant Medication			UNK									Albuterol				33			SDY364	SUB135692	2799
+SM148964	Singulair	Concomitant Medication	4	daily	4 mg	mg								Singulair				0			SDY364	SUB135674	2799
+SM148966	Zyrtec	Concomitant Medication		daily	UNK				28					Zyrtec				0			SDY364	SUB135674	2799
+SM149014	Milk	Concomitant Medication			UNK									Milk				0			SDY364	SUB135688	2799
+SM149015	Claritin	Concomitant Medication			UNK									Claritin				0			SDY364	SUB135688	2799
+SM149049	Advair	Concomitant Medication			UNK									Advair				0			SDY364	SUB135671	2799
+SM148949	Benadryl	Concomitant Medication		QHS	UNK									Benadryl				28			SDY364	SUB135677	2799
+SM148981	Albuterol	Concomitant Medication			UNK									Albuterol			aerosol	1			SDY364	SUB135683	2799
+SM148993	Advil	Concomitant Medication	200		200 mg	mg								Advil				25			SDY364	SUB135673	2799
+SM149047	Probiotic	Concomitant Medication			UNK									Probiotic				0			SDY364	SUB135671	2799
+SM148950	Sudafed	Concomitant Medication		daily	UNK									Sudafed				28			SDY364	SUB135677	2799
+SM148963	Flovent	Concomitant Medication	2	daily	2 puffs	puffs								Flovent				0			SDY364	SUB135674	2799
+SM148978	OTC nasal spray	Concomitant Medication			UNK									OTC nasal spray			nasal spray	28			SDY364	SUB135683	2799
+SM149016	Tylenol	Concomitant Medication			UNK									Tylenol				34			SDY364	SUB135693	2799
+SM149039	Thyroid	Concomitant Medication	125	daily	125 mcg	mcg								Thyroid				0			SDY364	SUB135692	2799
+SM148961	Augmentin	Concomitant Medication			UNK									Augmentin				28			SDY364	SUB135674	2799
+SM149050	Solodyn	Concomitant Medication			UNK									Solodyn				0			SDY364	SUB135671	2799
+SM149051	Zoloft	Concomitant Medication			UNK									Zoloft				0			SDY364	SUB135671	2799
+SM148948	Advil PM	Concomitant Medication		QHS	UNK									Advil PM				28			SDY364	SUB135677	2799
+SM148982	Albuterol	Concomitant Medication			UNK									Albuterol			inhaler	1			SDY364	SUB135683	2799
+SM149007	Zyrtec	Concomitant Medication			UNK									Zyrtec				0			SDY364	SUB135672	2799
+SM149040	Flovent	Concomitant Medication	2	twice daily	2 puffs	puffs								Flovent				0			SDY364	SUB135692	2799
+SM148937	Ibuprofen	Concomitant Medication			UNK									Ibuprofen				7			SDY364	SUB135682	2799
+SM148962	Orapred	Concomitant Medication			UNK									Orapred				28			SDY364	SUB135674	2799
+SM148979	Elavil	Concomitant Medication		QHS	30 mg									Elavil				0			SDY364	SUB135683	2799

@@ -1,0 +1,34 @@
+INTERVENTION_ACCESSION	COMPOUND_NAME_REPORTED	COMPOUND_ROLE	DOSE	DOSE_FREQ_PER_INTERVAL	DOSE_REPORTED	DOSE_UNITS	DURATION	DURATION_UNIT	END_DAY	END_TIME	FORMULATION	IS_ONGOING	NAME_PREFERRED	NAME_REPORTED	REPORTED_INDICATION	ROUTE_OF_ADMIN_PREFERRED	ROUTE_OF_ADMIN_REPORTED	START_DAY	START_TIME	STATUS	STUDY_ACCESSION	SUBJECT_ACCESSION	WORKSPACE_ID
+SM148877	Methotrexate	Concomitant Medication			UNK									Methotrexate	immunosuppressants			0			SDY372	SUB135769	2799
+SM148882	Prednisone	Concomitant Medication	1	daily	1 mg	mg								Prednisone	Steroid		Oral	119			SDY372	SUB135771	2799
+SM148887	Methotrexate	Concomitant Medication	20	weekly	20 mg	mg								Methotrexate	immunosuppressants			91			SDY372	SUB135772	2799
+SM148892	CellCept	Concomitant Medication	1000	bid	1000 mg	mg								CellCept	immunosuppressants			90			SDY372	SUB135774	2799
+SM148862	CellCept	Concomitant Medication	750	bid	750 mg	mg								CellCept	immunosuppressants			0			SDY372	SUB135761	2799
+SM148863	CellCept	Concomitant Medication	750	bid	750 mg	mg								CellCept	immunosuppressants			133			SDY372	SUB135761	2799
+SM148869	Methotrexate	Concomitant Medication			UNK									Methotrexate	immunosuppressants			0			SDY372	SUB135765	2799
+SM148879	Methotrexate	Concomitant Medication	15	weekly	15 mg	mg								Methotrexate	immunosuppressants			0			SDY372	SUB135770	2799
+SM148880	Methotrexate	Concomitant Medication	15	weekly	15 mg	mg								Methotrexate	immunosuppressants			120			SDY372	SUB135770	2799
+SM148884	Methotrexate	Concomitant Medication	15	weekly	15 mg	mg								Methotrexate	immunosuppressants			119			SDY372	SUB135771	2799
+SM148890	Methotrexate	Concomitant Medication	25	weekly	25 mg	mg								Methotrexate	immunosuppressants			0			SDY372	SUB135773	2799
+SM148894	Methotrexate	Concomitant Medication	20	weekly	20 mg	mg								Methotrexate	immunosuppressants			90			SDY372	SUB135774	2799
+SM148870	Methotrexate	Concomitant Medication	20	weekly	20 mg	mg								Methotrexate	immunosuppressants			84			SDY372	SUB135765	2799
+SM148872	Plaquenil	Concomitant Medication	20	weekly	20 mg	mg								Plaquenil				0			SDY372	SUB135768	2799
+SM148874	CellCept	Concomitant Medication	400	bid	400 mg	mg								CellCept	immunosuppressants			119			SDY372	SUB135769	2799
+SM148883	Methotrexate	Concomitant Medication			UNK									Methotrexate	immunosuppressants			0			SDY372	SUB135771	2799
+SM148885	Prednisone	Concomitant Medication	6	daily	6 mg	mg								Prednisone	Steroid		Oral	0			SDY372	SUB135772	2799
+SM148886	Methotrexate	Concomitant Medication	20	weekly	20 mg	mg								Methotrexate	immunosuppressants			0			SDY372	SUB135772	2799
+SM148888	CellCept	Concomitant Medication	1000	bid	1000 mg	mg								CellCept	immunosuppressants			0			SDY372	SUB135773	2799
+SM148889	CellCept	Concomitant Medication	1000	bid	1000 mg	mg								CellCept	immunosuppressants			110			SDY372	SUB135773	2799
+SM148891	Methotrexate	Concomitant Medication	25	weekly	25 mg	mg								Methotrexate	immunosuppressants			110			SDY372	SUB135773	2799
+SM148866	Methotrexate	Concomitant Medication	2.5	weekly	2.5 mg	mg								Methotrexate	immunosuppressants			82			SDY372	SUB135762	2799
+SM148868	Prednisone	Concomitant Medication	3	daily	3 mg	mg								Prednisone	Steroid		Oral	84			SDY372	SUB135765	2799
+SM148875	Prednisone	Concomitant Medication			UNK									Prednisone	Steroid		Oral	0			SDY372	SUB135769	2799
+SM148878	Methotrexate	Concomitant Medication	15	daily	15 mg	mg								Methotrexate	immunosuppressants			119			SDY372	SUB135769	2799
+SM148881	Prednisone	Concomitant Medication			UNK									Prednisone	Steroid		Oral	0			SDY372	SUB135771	2799
+SM148864	Methotrexate	Concomitant Medication	25	weekly	25 mg	mg								Methotrexate	immunosuppressants			0			SDY372	SUB135761	2799
+SM148867	Prednisone	Concomitant Medication	6	daily	6 mg	mg								Prednisone	Steroid		Oral	0			SDY372	SUB135765	2799
+SM148871	Methotrexate	Concomitant Medication	17.5	weekly	17.5 mg	mg								Methotrexate	immunosuppressants			56			SDY372	SUB135767	2799
+SM148873	Plaquenil	Concomitant Medication	15	weekly	15 mg	mg								Plaquenil				111			SDY372	SUB135768	2799
+SM148876	Prednisone	Concomitant Medication	6	daily	6 mg	mg								Prednisone	Steroid		Oral	119			SDY372	SUB135769	2799
+SM148865	Methotrexate	Concomitant Medication	25	weekly	25 mg	mg								Methotrexate	immunosuppressants			133			SDY372	SUB135761	2799
+SM148893	Prednisone	Concomitant Medication	10	daily	10 mg	mg								Prednisone	Steroid		Oral	90			SDY372	SUB135774	2799

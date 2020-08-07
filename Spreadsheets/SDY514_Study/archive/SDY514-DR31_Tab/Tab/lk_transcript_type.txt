@@ -1,0 +1,4 @@
+NAME	DESCRIPTION	LINK
+lincRNA	lincRNA	
+mRNA	mRNA	
+snRNA	snRNA	

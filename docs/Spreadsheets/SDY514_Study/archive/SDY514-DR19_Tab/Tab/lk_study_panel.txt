@@ -1,0 +1,18 @@
+NAME	DESCRIPTION	VISIBLE	COLLAPSIBLE
+arm_or_cohorts	Arm_or_Cohort panel block (within Summary) for display of data existence in ARM_OR_COHORT table. Panel used for DB audit only, and not used by front-end.	N	N
+publications	Publications panel block (within Summary) for display of data existence in STUDY_PUBMED_INFO table. Panel used for DB audit only, and not used by front-end.	N	N
+resources	Resources panel block (within Summary) for display of data existence in STUDY_LINK table. Panel used for DB audit only, and not used by front-end.	N	N
+subject	Subject panel block for display of data existence in ARM_OR_COHORT_2_SUBJ_ORG_INFO table.	N	Y
+adverseevents	Adverse Events panel block for display of data existence in ADVERSE_EVENT table.	N	Y
+assessments	Assessments panel block for display of data existence in ASSESSMENT_PANEL table.	N	Y
+conmeds	Concomitant Medications panel block for display of data existence in V_CON_MEDS view.	N	Y
+demographics	Summary panel block for display of data existence in V_STUDY_DEMOGRAPHICS view.	N	Y
+documentation	Documentation panel block for display of data existence in STUDY_2_PROTOCOL linkage table.	N	N
+glossary	Glossary panel block for display of data existience in GLOSSARY table.	N	N
+inclusionExclusion	Summary panel block for display of data existence in INCLUSION_EXCLUSION table.	N	N
+labtests	Lab Tests panel block for display of data existence in LAB_TEST_PANEL table.	N	Y
+mechassays	Mechanistic Assays panel block for display of data existence in MECHANISTIC_ASSAYS column in V_STUDY_SUMMARY view.	N	Y
+summary	Summary panel block for display of STUDY table records.	Y	N
+treatments	Treatments panel block for display of data existence in V_INTERVENTIONS_TLEVEL_SUMMARY view.	N	Y
+substanceUse	Substance_Use panel for display of data existence in Substance_Merge table. Panel used by front-end.	N	Y
+study_files	Study Files panel block for display of study files loaded into STUDY_FILE table for study.	N	Y

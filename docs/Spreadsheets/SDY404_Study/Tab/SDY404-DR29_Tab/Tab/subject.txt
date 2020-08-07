@@ -1,0 +1,73 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB120459			Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB120460			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120463			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120465			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120468			Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB120476			Not Hispanic or Latino	Male	Other	white and asian	Homo sapiens			2668
+SUB120429			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120434			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120438			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120439			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120480			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120483			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120484			Not Hispanic or Latino	Male	Black or African American		Homo sapiens			2668
+SUB120486		age rounded down to 90 by ImmPort submission tool	Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120420			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120447			Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120448			Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB120453			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120461			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120475			Not Hispanic or Latino	Male	Asian		Homo sapiens			2668
+SUB120422			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120445			Not Hispanic or Latino	Male	Unknown		Homo sapiens			2668
+SUB120446			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120454			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120469			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120473			Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120437			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120451			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120419			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120421			Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB120424			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120435			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120466			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120487			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120452			Hispanic or Latino	Female	Other	hispanic/african american	Homo sapiens			2668
+SUB120455			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120457			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120458			Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120471			Not Hispanic or Latino	Female	Asian		Homo sapiens			2668
+SUB120472			Not Hispanic or Latino	Male	Asian		Homo sapiens			2668
+SUB120417			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120418			Not Hispanic or Latino	Male	Other	part african and irish	Homo sapiens			2668
+SUB120443			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120477			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120444			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120450			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120426			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120427			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120432			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120433			Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120436			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120482			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120423			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120449			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120474			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120425			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120428			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120430			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120431			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120478			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120485			Not Hispanic or Latino	Female	Black or African American		Homo sapiens			2668
+SUB120488			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120456			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120462			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120464			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120467			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120470			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120440			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120441			Not Hispanic or Latino	Male	White		Homo sapiens			2668
+SUB120442			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120479			Not Hispanic or Latino	Female	White		Homo sapiens			2668
+SUB120481		age rounded down to 90 by ImmPort submission tool	Not Hispanic or Latino	Male	White		Homo sapiens			2668

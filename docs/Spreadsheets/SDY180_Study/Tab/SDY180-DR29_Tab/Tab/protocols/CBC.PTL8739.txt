@@ -1,0 +1,3 @@
+Isolation of WBC Subsets
+
+Neutrophils were first separated from mononuclear cells by Ficoll gradient centrifugation, followed by hypotonic lysis of red blood cells in KHCO3 and NH4Cl and finally purified by negative selection by using the EasySep Human Neutrophil Enrichment Kit (Stemcell); monocytes (CD14+) and T lymphocytes positive for the CD4 and CD8 antigen were sequentially isolated from PBMC by using Dynabeads (Invitrogen) according to the manufacturer’s instructions.

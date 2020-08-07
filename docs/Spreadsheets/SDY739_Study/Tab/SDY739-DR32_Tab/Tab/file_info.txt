@@ -1,0 +1,570 @@
+FILE_INFO_ID	DETAIL	FILESIZE_BYTES	NAME	ORIGINAL_FILE_NAME	WORKSPACE_ID
+604066	Flow cytometry result	131845517	PBMC_111-001-vac2014-Visit1.604066.fcs	PBMC_111-001-vac2014-Visit1.fcs	2634
+604067	Flow cytometry result	6343426	PBMC_vac2014_Panel1_Tfr_Set1_Visit1.604067.wsp	PBMC_vac2014_Panel1_Tfr_Set1_Visit1.wsp	2634
+604068	Flow cytometry compensation or control	3413	Acquisition-defined-copy_panel1.604068.csv	Acquisition-defined-copy_panel1.csv	2634
+604069	Flow cytometry result	106003889	PBMC_111-001-vac2014-Visit2.604069.fcs	PBMC_111-001-vac2014-Visit2.fcs	2634
+604070	Flow cytometry result	6307778	PBMC_vac2014_Panel1_Tfr_Set1_Visit2.604070.wsp	PBMC_vac2014_Panel1_Tfr_Set1_Visit2.wsp	2634
+604071	Flow cytometry result	140561589	PBMC_111-001-vac2014-Visit1_Panel2.604071.fcs	PBMC_111-001-vac2014-Visit1_Panel2.fcs	2634
+604072	Flow cytometry result	6546230	PBMC_vac2014_Panel2_Set1_Visit1.604072.wsp	PBMC_vac2014_Panel2_Set1_Visit1.wsp	2634
+604073	Flow cytometry compensation or control	3213	Acquisition-defined-copy_panel2.604073.csv	Acquisition-defined-copy_panel2.csv	2634
+604074	Flow cytometry result	117438218	PBMC_111-001-vac2014-Visit2_Panel2.604074.fcs	PBMC_111-001-vac2014-Visit2_Panel2.fcs	2634
+604075	Flow cytometry result	7970566	PBMC_vac2014_Panel2_Set1_Visit2.604075.wsp	PBMC_vac2014_Panel2_Set1_Visit2.wsp	2634
+604076	Flow cytometry result	120772238	PBMC_111-001-vac2014-Visit1_panel3.604076.fcs	PBMC_111-001-vac2014-Visit1_panel3.fcs	2634
+604077	Flow cytometry result	5829767	PBMC_vac2014_Panel3_Set1_Visit1.604077.wsp	PBMC_vac2014_Panel3_Set1_Visit1.wsp	2634
+604078	Flow cytometry compensation or control	3389	Acquisition-defined-copy_panel3.604078.csv	Acquisition-defined-copy_panel3.csv	2634
+604079	Flow cytometry result	122245207	PBMC_111-001-vac2014-Visit2_panel3.604079.fcs	PBMC_111-001-vac2014-Visit2_panel3.fcs	2634
+604080	Flow cytometry result	5828572	PBMC_vac2014_Panel3_Set1_Visit2.604080.wsp	PBMC_vac2014_Panel3_Set1_Visit2.wsp	2634
+604081	Flow cytometry result	175381852	PBMC_111-003-vac2014-Visit1.604081.fcs	PBMC_111-003-vac2014-Visit1.fcs	2634
+604082	Flow cytometry result	134785564	PBMC_111-003-vac2014-Visit2.604082.fcs	PBMC_111-003-vac2014-Visit2.fcs	2634
+604083	Flow cytometry result	102798287	PBMC_111-003-vac2014-Visit1_Panel2.604083.fcs	PBMC_111-003-vac2014-Visit1_Panel2.fcs	2634
+604084	Flow cytometry result	2463432	PBMC_vac2014_Panel2_Set10_Visit1.604084.wsp	PBMC_vac2014_Panel2_Set10_Visit1.wsp	2634
+604085	Flow cytometry result	98598767	PBMC_111-003-vac2014-Visit2_Panel2.604085.fcs	PBMC_111-003-vac2014-Visit2_Panel2.fcs	2634
+604086	Flow cytometry result	2471011	PBMC_vac2014_Panel2_Set10_Visit2.604086.wsp	PBMC_vac2014_Panel2_Set10_Visit2.wsp	2634
+604087	Flow cytometry result	67347871	PBMC_111-003-vac2014-Visit1_restain_panel3.604087.fcs	PBMC_111-003-vac2014-Visit1_restain_panel3.fcs	2634
+604088	Flow cytometry result	70905911	PBMC_111-003-vac2014-Visit2_panel3.604088.fcs	PBMC_111-003-vac2014-Visit2_panel3.fcs	2634
+604089	Flow cytometry result	97313268	PBMC_111-004-vac2014-Visit1.604089.fcs	PBMC_111-004-vac2014-Visit1.fcs	2634
+604090	Flow cytometry result	6091940	PBMC_vac2014_Panel1_Tfr_Set6_Visit1.604090.wsp	PBMC_vac2014_Panel1_Tfr_Set6_Visit1.wsp	2634
+604091	Flow cytometry result	137641576	PBMC_111-004-vac2014-Visit2.604091.fcs	PBMC_111-004-vac2014-Visit2.fcs	2634
+604092	Flow cytometry result	6128684	PBMC_vac2014_Panel1_Tfr_Set6_Visit2.604092.wsp	PBMC_vac2014_Panel1_Tfr_Set6_Visit2.wsp	2634
+604093	Flow cytometry result	165830011	PBMC_111-004-vac2014-Visit1_Panel2.604093.fcs	PBMC_111-004-vac2014-Visit1_Panel2.fcs	2634
+604094	Flow cytometry result	7957236	PBMC_vac2014_Panel2_Set6_Visit1.604094.wsp	PBMC_vac2014_Panel2_Set6_Visit1.wsp	2634
+604095	Flow cytometry result	121420504	PBMC_111-004-vac2014-Visit2_Panel2.604095.fcs	PBMC_111-004-vac2014-Visit2_Panel2.fcs	2634
+604096	Flow cytometry result	7957620	PBMC_vac2014_Panel2_Set6_Visit2.604096.wsp	PBMC_vac2014_Panel2_Set6_Visit2.wsp	2634
+604097	Flow cytometry result	117928118	PBMC_111-004-vac2014-Visit1_panel3.604097.fcs	PBMC_111-004-vac2014-Visit1_panel3.fcs	2634
+604098	Flow cytometry result	5705290	PBMC_vac2014_Panel3_Set6_Visit1.604098.wsp	PBMC_vac2014_Panel3_Set6_Visit1.wsp	2634
+604099	Flow cytometry result	167039165	PBMC_111-004-vac2014-Visit2_panel3.604099.fcs	PBMC_111-004-vac2014-Visit2_panel3.fcs	2634
+604100	Flow cytometry result	5696041	PBMC_vac2014_Panel3_Set6_Visit2.604100.wsp	PBMC_vac2014_Panel3_Set6_Visit2.wsp	2634
+604101	Flow cytometry result	159403837	PBMC_111-005-vac2014-Visit1.604101.fcs	PBMC_111-005-vac2014-Visit1.fcs	2634
+604102	Flow cytometry result	116684081	PBMC_111-005-vac2014-Visit2.604102.fcs	PBMC_111-005-vac2014-Visit2.fcs	2634
+604103	Flow cytometry result	126077947	PBMC_111-005-vac2014-Visit1_Panel2.604103.fcs	PBMC_111-005-vac2014-Visit1_Panel2.fcs	2634
+604104	Flow cytometry result	99956618	PBMC_111-005-vac2014-Visit2_Panel2.604104.fcs	PBMC_111-005-vac2014-Visit2_Panel2.fcs	2634
+604105	Flow cytometry result	118881302	PBMC_111-005-vac2014-Visit1_panel3.604105.fcs	PBMC_111-005-vac2014-Visit1_panel3.fcs	2634
+604106	Flow cytometry result	133883453	PBMC_111-005-vac2014-Visit2_panel3.604106.fcs	PBMC_111-005-vac2014-Visit2_panel3.fcs	2634
+604107	Flow cytometry result	123976509	PBMC_111-021-vac2014-Visit1.604107.fcs	PBMC_111-021-vac2014-Visit1.fcs	2634
+604108	Flow cytometry result	6193994	PBMC_vac2014_Panel1_Tfr_Set4_Visit1.604108.wsp	PBMC_vac2014_Panel1_Tfr_Set4_Visit1.wsp	2634
+604109	Flow cytometry result	145558525	PBMC_111-021-vac2014-Visit2.604109.fcs	PBMC_111-021-vac2014-Visit2.fcs	2634
+604110	Flow cytometry result	6150273	PBMC_vac2014_Panel1_Tfr_Set4_Visit2.604110.wsp	PBMC_vac2014_Panel1_Tfr_Set4_Visit2.wsp	2634
+604111	Flow cytometry result	107451914	PBMC_111-021-vac2014-Visit1_Panel2.604111.fcs	PBMC_111-021-vac2014-Visit1_Panel2.fcs	2634
+604112	Flow cytometry result	7957504	PBMC_vac2014_Panel2_Set4_Visit1.604112.wsp	PBMC_vac2014_Panel2_Set4_Visit1.wsp	2634
+604113	Flow cytometry result	184005674	PBMC_111-021-vac2014-Visit2_Panel2.604113.fcs	PBMC_111-021-vac2014-Visit2_Panel2.fcs	2634
+604114	Flow cytometry result	7957566	PBMC_vac2014_Panel2_Set4_Visit2.604114.wsp	PBMC_vac2014_Panel2_Set4_Visit2.wsp	2634
+604115	Flow cytometry result	108335911	PBMC_111-021-vac2014-Visit1_panel3.604115.fcs	PBMC_111-021-vac2014-Visit1_panel3.fcs	2634
+604116	Flow cytometry result	5721729	PBMC_vac2014_Panel3_Set4_Visit1.604116.wsp	PBMC_vac2014_Panel3_Set4_Visit1.wsp	2634
+604117	Flow cytometry result	146518613	PBMC_111-021-vac2014-Visit2_panel3.604117.fcs	PBMC_111-021-vac2014-Visit2_panel3.fcs	2634
+604118	Flow cytometry result	5708578	PBMC_vac2014_Panel3_Set4_Visit2.604118.wsp	PBMC_vac2014_Panel3_Set4_Visit2.wsp	2634
+604119	Flow cytometry result	192915458	PBMC_111-022-vac2014-Visit1.604119.fcs	PBMC_111-022-vac2014-Visit1.fcs	2634
+604120	Flow cytometry result	6078565	PBMC_vac2014_Panel1_Tfr_Set3_Visit1.604120.wsp	PBMC_vac2014_Panel1_Tfr_Set3_Visit1.wsp	2634
+604121	Flow cytometry result	160669535	PBMC_111-022-vac2014-Visit2.604121.fcs	PBMC_111-022-vac2014-Visit2.fcs	2634
+604122	Flow cytometry result	6078893	PBMC_vac2014_Panel1_Tfr_Set3_Visit2.604122.wsp	PBMC_vac2014_Panel1_Tfr_Set3_Visit2.wsp	2634
+604123	Flow cytometry result	188156630	PBMC_111-022-vac2014-Visit1_Panel2.604123.fcs	PBMC_111-022-vac2014-Visit1_Panel2.fcs	2634
+604124	Flow cytometry result	7965999	PBMC_vac2014_Panel2_Set3_Visit1.604124.wsp	PBMC_vac2014_Panel2_Set3_Visit1.wsp	2634
+604125	Flow cytometry result	143035041	PBMC_111-022-vac2014-Visit2_Panel2.604125.fcs	PBMC_111-022-vac2014-Visit2_Panel2.fcs	2634
+604126	Flow cytometry result	7957488	PBMC_vac2014_Panel2_Set3_Visit2.604126.wsp	PBMC_vac2014_Panel2_Set3_Visit2.wsp	2634
+604127	Flow cytometry result	124056626	PBMC_111-022-vac2014-Visit1_panel3.604127.fcs	PBMC_111-022-vac2014-Visit1_panel3.fcs	2634
+604128	Flow cytometry result	5696002	PBMC_vac2014_Panel3_Set3_Visit1.604128.wsp	PBMC_vac2014_Panel3_Set3_Visit1.wsp	2634
+604129	Flow cytometry result	176978413	PBMC_111-022-vac2014-Visit2_panel3.604129.fcs	PBMC_111-022-vac2014-Visit2_panel3.fcs	2634
+604130	Flow cytometry result	5696036	PBMC_vac2014_Panel3_Set3_Visit2.604130.wsp	PBMC_vac2014_Panel3_Set3_Visit2.wsp	2634
+604131	Flow cytometry result	168488465	PBMC_111-023-vac2014-Visit1.604131.fcs	PBMC_111-023-vac2014-Visit1.fcs	2634
+604132	Flow cytometry result	6078306	PBMC_vac2014_Panel1_Tfr_Set5_Visit1.604132.wsp	PBMC_vac2014_Panel1_Tfr_Set5_Visit1.wsp	2634
+604133	Flow cytometry result	130302353	PBMC_111-023-vac2014-Visit2.604133.fcs	PBMC_111-023-vac2014-Visit2.fcs	2634
+604134	Flow cytometry result	6093086	PBMC_vac2014_Panel1_Tfr_Set5_Visit2.604134.wsp	PBMC_vac2014_Panel1_Tfr_Set5_Visit2.wsp	2634
+604135	Flow cytometry result	161219786	PBMC_111-023-vac2014-Visit1_Panel2.604135.fcs	PBMC_111-023-vac2014-Visit1_Panel2.fcs	2634
+604136	Flow cytometry result	7958351	PBMC_vac2014_Panel2_Set5_Visit1.604136.wsp	PBMC_vac2014_Panel2_Set5_Visit1.wsp	2634
+604137	Flow cytometry result	125083658	PBMC_111-023-vac2014-Visit2_Panel2.604137.fcs	PBMC_111-023-vac2014-Visit2_Panel2.fcs	2634
+604138	Flow cytometry result	7963410	PBMC_vac2014_Panel2_Set5_Visit2.604138.wsp	PBMC_vac2014_Panel2_Set5_Visit2.wsp	2634
+604139	Flow cytometry result	123739061	PBMC_111-023-vac2014-Visit1_panel3.604139.fcs	PBMC_111-023-vac2014-Visit1_panel3.fcs	2634
+604140	Flow cytometry result	5695737	PBMC_vac2014_Panel3_Set5_Visit1.604140.wsp	PBMC_vac2014_Panel3_Set5_Visit1.wsp	2634
+604141	Flow cytometry result	115665173	PBMC_111-023-vac2014-Visit2_panel3.604141.fcs	PBMC_111-023-vac2014-Visit2_panel3.fcs	2634
+604142	Flow cytometry result	5735169	PBMC_vac2014_Panel3_Set5_Visit2.604142.wsp	PBMC_vac2014_Panel3_Set5_Visit2.wsp	2634
+604143	Flow cytometry result	171689585	PBMC_111-024-vac2014-Visit1.604143.fcs	PBMC_111-024-vac2014-Visit1.fcs	2634
+604144	Flow cytometry result	118518737	PBMC_111-024-vac2014-Visit2.604144.fcs	PBMC_111-024-vac2014-Visit2.fcs	2634
+604145	Flow cytometry result	161222186	PBMC_111-024-vac2014-Visit1_Panel2.604145.fcs	PBMC_111-024-vac2014-Visit1_Panel2.fcs	2634
+604146	Flow cytometry result	121201322	PBMC_111-024-vac2014-Visit2_Panel2.604146.fcs	PBMC_111-024-vac2014-Visit2_Panel2.fcs	2634
+604147	Flow cytometry result	146766871	PBMC_111-024-vac2014-Visit1_panel3.604147.fcs	PBMC_111-024-vac2014-Visit1_panel3.fcs	2634
+604148	Flow cytometry result	106718551	PBMC_111-024-vac2014-Visit2_panel3.604148.fcs	PBMC_111-024-vac2014-Visit2_panel3.fcs	2634
+604149	Flow cytometry result	122318459	PBMC_111-025-vac2014-Visit1.604149.fcs	PBMC_111-025-vac2014-Visit1.fcs	2634
+604150	Flow cytometry result	6127388	PBMC_vac2014_Panel1_Tfr_Set7_Visit1.604150.wsp	PBMC_vac2014_Panel1_Tfr_Set7_Visit1.wsp	2634
+604151	Flow cytometry result	108704764	PBMC_111-025-vac2014-Visit2.604151.fcs	PBMC_111-025-vac2014-Visit2.fcs	2634
+604152	Flow cytometry result	6128307	PBMC_vac2014_Panel1_Tfr_Set7_Visit2.604152.wsp	PBMC_vac2014_Panel1_Tfr_Set7_Visit2.wsp	2634
+604153	Flow cytometry result	112656204	PBMC_111-025-vac2014-Visit1_Panel2.604153.fcs	PBMC_111-025-vac2014-Visit1_Panel2.fcs	2634
+604154	Flow cytometry result	7976254	PBMC_vac2014_Panel2_Set7_Visit1.604154.wsp	PBMC_vac2014_Panel2_Set7_Visit1.wsp	2634
+604155	Flow cytometry result	91332724	PBMC_111-025-vac2014-Visit2_Panel2.604155.fcs	PBMC_111-025-vac2014-Visit2_Panel2.fcs	2634
+604156	Flow cytometry result	7958262	PBMC_vac2014_Panel2_Set7_Visit2.604156.wsp	PBMC_vac2014_Panel2_Set7_Visit2.wsp	2634
+604157	Flow cytometry result	109776831	PBMC_111-025-vac2014-Visit1_panel3.604157.fcs	PBMC_111-025-vac2014-Visit1_panel3.fcs	2634
+604158	Flow cytometry result	5829809	PBMC_vac2014_Panel3_Set7_Visit1.604158.wsp	PBMC_vac2014_Panel3_Set7_Visit1.wsp	2634
+604159	Flow cytometry result	75730684	PBMC_111-025-vac2014-Visit2_panel3.604159.fcs	PBMC_111-025-vac2014-Visit2_panel3.fcs	2634
+604160	Flow cytometry result	5710495	PBMC_vac2014_Panel3_Set7_Visit2.604160.wsp	PBMC_vac2014_Panel3_Set7_Visit2.wsp	2634
+604161	Flow cytometry result	107560743	PBMC_111-035-vac2014-Visit1.604161.fcs	PBMC_111-035-vac2014-Visit1.fcs	2634
+604162	Flow cytometry result	147513326	PBMC_111-035-vac2014-Visit2.604162.fcs	PBMC_111-035-vac2014-Visit2.fcs	2634
+604163	Flow cytometry result	107669175	PBMC_111-035-vac2014-Visit1_Panel2.604163.fcs	PBMC_111-035-vac2014-Visit1_Panel2.fcs	2634
+604164	Flow cytometry result	149301662	PBMC_111-035-vac2014-Visit2_Panel2.604164.fcs	PBMC_111-035-vac2014-Visit2_Panel2.fcs	2634
+604165	Flow cytometry result	118373618	PBMC_111-035-vac2014-Visit1_panel3.604165.fcs	PBMC_111-035-vac2014-Visit1_panel3.fcs	2634
+604166	Flow cytometry result	158394482	PBMC_111-035-vac2014-Visit2_panel3.604166.fcs	PBMC_111-035-vac2014-Visit2_panel3.fcs	2634
+604167	Flow cytometry result	139642907	PBMC_111-038-vac2014-Visit1.604167.fcs	PBMC_111-038-vac2014-Visit1.fcs	2634
+604168	Flow cytometry result	180203068	PBMC_111-038-vac2014-Visit2.604168.fcs	PBMC_111-038-vac2014-Visit2.fcs	2634
+604169	Flow cytometry result	127409562	PBMC_111-038-vac2014-Visit1_Panel2.604169.fcs	PBMC_111-038-vac2014-Visit1_Panel2.fcs	2634
+604170	Flow cytometry result	148690708	PBMC_111-038-vac2014-Visit2_Panel2.604170.fcs	PBMC_111-038-vac2014-Visit2_Panel2.fcs	2634
+604171	Flow cytometry result	105902751	PBMC_111-038-vac2014-Visit1_panel3.604171.fcs	PBMC_111-038-vac2014-Visit1_panel3.fcs	2634
+604172	Flow cytometry result	106988092	PBMC_111-038-vac2014-Visit2_panel3.604172.fcs	PBMC_111-038-vac2014-Visit2_panel3.fcs	2634
+604173	Flow cytometry result	155122300	PBMC_111-039-vac2014-Visit1.604173.fcs	PBMC_111-039-vac2014-Visit1.fcs	2634
+604174	Flow cytometry result	4300485	PBMC_vac2014_Panel1_Tfr_Set8_Visit1.604174.wsp	PBMC_vac2014_Panel1_Tfr_Set8_Visit1.wsp	2634
+604175	Flow cytometry result	236031388	PBMC_111-039-vac2014-Visit2.604175.fcs	PBMC_111-039-vac2014-Visit2.fcs	2634
+604176	Flow cytometry result	4325169	PBMC_vac2014_Panel1_Tfr_Set8_Visit2.604176.wsp	PBMC_vac2014_Panel1_Tfr_Set8_Visit2.wsp	2634
+604177	Flow cytometry result	123739439	PBMC_111-039-vac2014-Visit1_Panel2.604177.fcs	PBMC_111-039-vac2014-Visit1_Panel2.fcs	2634
+604178	Flow cytometry result	5622143	PBMC_vac2014_Panel2_Set8_Visit1.604178.wsp	PBMC_vac2014_Panel2_Set8_Visit1.wsp	2634
+604179	Flow cytometry result	199168847	PBMC_111-039-vac2014-Visit2_Panel2.604179.fcs	PBMC_111-039-vac2014-Visit2_Panel2.fcs	2634
+604180	Flow cytometry result	5603202	PBMC_vac2014_Panel2_Set8_Visit2.604180.wsp	PBMC_vac2014_Panel2_Set8_Visit2.wsp	2634
+604181	Flow cytometry result	112572215	PBMC_111-039-vac2014-Visit1_panel3.604181.fcs	PBMC_111-039-vac2014-Visit1_panel3.fcs	2634
+604182	Flow cytometry result	4028167	PBMC_vac2014_Panel3_Set8_Visit1.604182.wsp	PBMC_vac2014_Panel3_Set8_Visit1.wsp	2634
+604183	Flow cytometry result	202149335	PBMC_111-039-vac2014-Visit2_panel3.604183.fcs	PBMC_111-039-vac2014-Visit2_panel3.fcs	2634
+604184	Flow cytometry result	4028095	PBMC_vac2014_Panel3_Set8_Visit2.604184.wsp	PBMC_vac2014_Panel3_Set8_Visit2.wsp	2634
+604185	Flow cytometry result	127596796	PBMC_111-041-vac2014-Visit1.604185.fcs	PBMC_111-041-vac2014-Visit1.fcs	2634
+604186	Flow cytometry result	199011772	PBMC_111-041-vac2014-Visit2.604186.fcs	PBMC_111-041-vac2014-Visit2.fcs	2634
+604187	Flow cytometry result	148069684	PBMC_111-041-vac2014-Visit1_Panel2.604187.fcs	PBMC_111-041-vac2014-Visit1_Panel2.fcs	2634
+604188	Flow cytometry result	182299060	PBMC_111-041-vac2014-Visit2_Panel2.604188.fcs	PBMC_111-041-vac2014-Visit2_Panel2.fcs	2634
+604189	Flow cytometry result	136046716	PBMC_111-041-vac2014-Visit1_panel3.604189.fcs	PBMC_111-041-vac2014-Visit1_panel3.fcs	2634
+604190	Flow cytometry result	169959772	PBMC_111-041-vac2014-Visit2_panel3.604190.fcs	PBMC_111-041-vac2014-Visit2_panel3.fcs	2634
+604191	Flow cytometry result	130307150	PBMC_111-043-vac2014-Visit1.604191.fcs	PBMC_111-043-vac2014-Visit1.fcs	2634
+604192	Flow cytometry result	177693608	PBMC_111-043-vac2014-Visit2.604192.fcs	PBMC_111-043-vac2014-Visit2.fcs	2634
+604193	Flow cytometry result	126767415	PBMC_111-043-vac2014-Visit1_Panel2.604193.fcs	PBMC_111-043-vac2014-Visit1_Panel2.fcs	2634
+604194	Flow cytometry result	175101157	PBMC_111-043-vac2014-Visit2_Panel2.604194.fcs	PBMC_111-043-vac2014-Visit2_Panel2.fcs	2634
+604195	Flow cytometry result	101353394	PBMC_111-043-vac2014-Visit1_panel3.604195.fcs	PBMC_111-043-vac2014-Visit1_panel3.fcs	2634
+604196	Flow cytometry result	178256498	PBMC_111-043-vac2014-Visit2_panel3.604196.fcs	PBMC_111-043-vac2014-Visit2_panel3.fcs	2634
+604197	Flow cytometry result	84166780	PBMC_111-045-vac2014-Visit1.604197.fcs	PBMC_111-045-vac2014-Visit1.fcs	2634
+604198	Flow cytometry result	185187772	PBMC_111-045-vac2014-Visit2.604198.fcs	PBMC_111-045-vac2014-Visit2.fcs	2634
+604199	Flow cytometry result	84703631	PBMC_111-045-vac2014-Visit1_Panel2.604199.fcs	PBMC_111-045-vac2014-Visit1_Panel2.fcs	2634
+604200	Flow cytometry result	3154266	PBMC_vac2014_Panel2_Set9_Visit1.604200.wsp	PBMC_vac2014_Panel2_Set9_Visit1.wsp	2634
+604201	Flow cytometry result	161119823	PBMC_111-045-vac2014-Visit2_Panel2.604201.fcs	PBMC_111-045-vac2014-Visit2_Panel2.fcs	2634
+604202	Flow cytometry result	2463600	PBMC_vac2014_Panel2_Set9_Visit2.604202.wsp	PBMC_vac2014_Panel2_Set9_Visit2.wsp	2634
+604203	Flow cytometry result	49920599	PBMC_111-045-vac2014-Visit1_panel3.604203.fcs	PBMC_111-045-vac2014-Visit1_panel3.fcs	2634
+604204	Flow cytometry result	1694117	PBMC_vac2014_Panel3_Set9_Visit1.604204.wsp	PBMC_vac2014_Panel3_Set9_Visit1.wsp	2634
+604205	Flow cytometry result	153318551	PBMC_111-045-vac2014-Visit2_panel3.604205.fcs	PBMC_111-045-vac2014-Visit2_panel3.fcs	2634
+604206	Flow cytometry result	1694135	PBMC_vac2014_Panel3_Set9_Visit2.604206.wsp	PBMC_vac2014_Panel3_Set9_Visit2.wsp	2634
+604207	Flow cytometry result	117380349	PBMC_111-046-vac2014-Visit1.604207.fcs	PBMC_111-046-vac2014-Visit1.fcs	2634
+604208	Flow cytometry result	137987293	PBMC_111-046-vac2014-Visit2.604208.fcs	PBMC_111-046-vac2014-Visit2.fcs	2634
+604209	Flow cytometry result	119099690	PBMC_111-046-vac2014-Visit1_Panel2.604209.fcs	PBMC_111-046-vac2014-Visit1_Panel2.fcs	2634
+604210	Flow cytometry result	137519018	PBMC_111-046-vac2014-Visit2_Panel2.604210.fcs	PBMC_111-046-vac2014-Visit2_Panel2.fcs	2634
+604211	Flow cytometry result	115382263	PBMC_111-046-vac2014-Visit1_panel3.604211.fcs	PBMC_111-046-vac2014-Visit1_panel3.fcs	2634
+604212	Flow cytometry result	117086839	PBMC_111-046-vac2014-Visit2_panel3.604212.fcs	PBMC_111-046-vac2014-Visit2_panel3.fcs	2634
+604213	Flow cytometry result	125018109	PBMC_111-047-vac2014-Visit1.604213.fcs	PBMC_111-047-vac2014-Visit1.fcs	2634
+604214	Flow cytometry result	158022685	PBMC_111-047-vac2014-Visit2.604214.fcs	PBMC_111-047-vac2014-Visit2.fcs	2634
+604215	Flow cytometry result	131269034	PBMC_111-047-vac2014-Visit1_Panel2.604215.fcs	PBMC_111-047-vac2014-Visit1_Panel2.fcs	2634
+604216	Flow cytometry result	147573578	PBMC_111-047-vac2014-Visit2_Panel2.604216.fcs	PBMC_111-047-vac2014-Visit2_Panel2.fcs	2634
+604217	Flow cytometry result	76669302	PBMC_111-047-vac2014-Visit1_panel3.604217.fcs	PBMC_111-047-vac2014-Visit1_panel3.fcs	2634
+604218	Flow cytometry result	97767894	PBMC_111-047-vac2014-Visit2_panel3.604218.fcs	PBMC_111-047-vac2014-Visit2_panel3.fcs	2634
+604219	Flow cytometry result	132641848	PBMC_111-048-vac2014-Visit1.604219.fcs	PBMC_111-048-vac2014-Visit1.fcs	2634
+604220	Flow cytometry result	119779090	PBMC_111-048-vac2014-Visit2.604220.fcs	PBMC_111-048-vac2014-Visit2.fcs	2634
+604221	Flow cytometry result	143132544	PBMC_111-048-vac2014-Visit1_Panel2.604221.fcs	PBMC_111-048-vac2014-Visit1_Panel2.fcs	2634
+604222	Flow cytometry result	151934059	PBMC_111-048-vac2014-Visit2_Panel2.604222.fcs	PBMC_111-048-vac2014-Visit2_Panel2.fcs	2634
+604223	Flow cytometry result	115039325	PBMC_111-048-vac2014-Visit1_panel3.604223.fcs	PBMC_111-048-vac2014-Visit1_panel3.fcs	2634
+604224	Flow cytometry result	138681053	PBMC_111-048-vac2014-Visit2_panel3.604224.fcs	PBMC_111-048-vac2014-Visit2_panel3.fcs	2634
+604225	Flow cytometry result	127903955	PBMC_111-049-vac2014-Visit1.604225.fcs	PBMC_111-049-vac2014-Visit1.fcs	2634
+604226	Flow cytometry result	162395740	PBMC_111-049-vac2014-Visit2.604226.fcs	PBMC_111-049-vac2014-Visit2.fcs	2634
+604227	Flow cytometry result	137233434	PBMC_111-049-vac2014-Visit1_Panel2.604227.fcs	PBMC_111-049-vac2014-Visit1_Panel2.fcs	2634
+604228	Flow cytometry result	158654932	PBMC_111-049-vac2014-Visit2_Panel2.604228.fcs	PBMC_111-049-vac2014-Visit2_Panel2.fcs	2634
+604229	Flow cytometry result	120392895	PBMC_111-049-vac2014-Visit1_panel3.604229.fcs	PBMC_111-049-vac2014-Visit1_panel3.fcs	2634
+604230	Flow cytometry result	116809564	PBMC_111-049-vac2014-Visit2_panel3.604230.fcs	PBMC_111-049-vac2014-Visit2_panel3.fcs	2634
+604231	Flow cytometry result	141115318	PBMC_111-050-vac2014-Visit1.604231.fcs	PBMC_111-050-vac2014-Visit1.fcs	2634
+604232	Flow cytometry result	173067264	PBMC_111-050-vac2014-Visit2.604232.fcs	PBMC_111-050-vac2014-Visit2.fcs	2634
+604233	Flow cytometry result	221850561	PBMC_111-050-vac2014-Visit1_Panel2.604233.fcs	PBMC_111-050-vac2014-Visit1_Panel2.fcs	2634
+604234	Flow cytometry result	149137871	PBMC_111-050-vac2014-Visit2_Panel2.604234.fcs	PBMC_111-050-vac2014-Visit2_Panel2.fcs	2634
+604235	Flow cytometry result	237412822	PBMC_111-050-vac2014-Visit1_panel3.604235.fcs	PBMC_111-050-vac2014-Visit1_panel3.fcs	2634
+604236	Flow cytometry result	120134553	PBMC_111-050-vac2014-Visit2_panel3.604236.fcs	PBMC_111-050-vac2014-Visit2_panel3.fcs	2634
+604237	Flow cytometry result	187284458	PBMC_111-051-vac2014-Visit1.604237.fcs	PBMC_111-051-vac2014-Visit1.fcs	2634
+604238	Flow cytometry result	83768525	PBMC_111-051-vac2014-Visit2.604238.fcs	PBMC_111-051-vac2014-Visit2.fcs	2634
+604239	Flow cytometry result	169836540	PBMC_111-051-vac2014-Visit1_Panel2.604239.fcs	PBMC_111-051-vac2014-Visit1_Panel2.fcs	2634
+604240	Flow cytometry result	134064429	PBMC_111-051-vac2014-Visit2_Panel2.604240.fcs	PBMC_111-051-vac2014-Visit2_Panel2.fcs	2634
+604241	Flow cytometry result	174674196	PBMC_111-051-vac2014-Visit1_panel3.604241.fcs	PBMC_111-051-vac2014-Visit1_panel3.fcs	2634
+604242	Flow cytometry result	70950077	PBMC_111-051-vac2014-Visit2_panel3.604242.fcs	PBMC_111-051-vac2014-Visit2_panel3.fcs	2634
+604243	Flow cytometry result	160693745	PBMC_111-052-vac2014-Visit1.604243.fcs	PBMC_111-052-vac2014-Visit1.fcs	2634
+604244	Flow cytometry result	7626535	PBMC_vac2014_Panel1_Tfr_Set2_Visit1.604244.wsp	PBMC_vac2014_Panel1_Tfr_Set2_Visit1.wsp	2634
+604245	Flow cytometry result	141596465	PBMC_111-052-vac2014-Visit2.604245.fcs	PBMC_111-052-vac2014-Visit2.fcs	2634
+604246	Flow cytometry result	7087358	PBMC_vac2014_Panel1_Tfr_Set2_Visit2.604246.wsp	PBMC_vac2014_Panel1_Tfr_Set2_Visit2.wsp	2634
+604247	Flow cytometry result	97234195	PBMC_111-052-vac2014-Visit1_Panel2.604247.fcs	PBMC_111-052-vac2014-Visit1_Panel2.fcs	2634
+604248	Flow cytometry result	8069377	PBMC_vac2014_Panel2_Set2_Visit1.604248.wsp	PBMC_vac2014_Panel2_Set2_Visit1.wsp	2634
+604249	Flow cytometry result	155819594	PBMC_111-052-vac2014-Visit2_Panel2.604249.fcs	PBMC_111-052-vac2014-Visit2_Panel2.fcs	2634
+604250	Flow cytometry result	7963935	PBMC_vac2014_Panel2_Set2_Visit2.604250.wsp	PBMC_vac2014_Panel2_Set2_Visit2.wsp	2634
+604251	Flow cytometry result	77838583	PBMC_111-052-vac2014-Visit1_panel3.604251.fcs	PBMC_111-052-vac2014-Visit1_panel3.fcs	2634
+604252	Flow cytometry result	5813068	PBMC_vac2014_Panel3_Set2_Visit1.604252.wsp	PBMC_vac2014_Panel3_Set2_Visit1.wsp	2634
+604253	Flow cytometry result	127634743	PBMC_111-052-vac2014-Visit2_panel3.604253.fcs	PBMC_111-052-vac2014-Visit2_panel3.fcs	2634
+604254	Flow cytometry result	5702292	PBMC_vac2014_Panel3_Set2_Visit2.604254.wsp	PBMC_vac2014_Panel3_Set2_Visit2.wsp	2634
+604255	Flow cytometry result	125257841	PBMC_111-053-vac2014-Visit1.604255.fcs	PBMC_111-053-vac2014-Visit1.fcs	2634
+604256	Flow cytometry result	128980941	PBMC_111-053-vac2014-Visit2.604256.fcs	PBMC_111-053-vac2014-Visit2.fcs	2634
+604257	Flow cytometry result	111463123	PBMC_111-053-vac2014-Visit1_Panel2.604257.fcs	PBMC_111-053-vac2014-Visit1_Panel2.fcs	2634
+604258	Flow cytometry result	156300170	PBMC_111-053-vac2014-Visit2_Panel2.604258.fcs	PBMC_111-053-vac2014-Visit2_Panel2.fcs	2634
+604259	Flow cytometry result	106792280	PBMC_111-053-vac2014-Visit1_panel3.604259.fcs	PBMC_111-053-vac2014-Visit1_panel3.fcs	2634
+604260	Flow cytometry result	148980920	PBMC_111-053-vac2014-Visit2_panel3.604260.fcs	PBMC_111-053-vac2014-Visit2_panel3.fcs	2634
+604261	Flow cytometry result	108802385	PBMC_111-054-vac2014-Visit1.604261.fcs	PBMC_111-054-vac2014-Visit1.fcs	2634
+604262	Flow cytometry result	134515505	PBMC_111-054-vac2014-Visit2.604262.fcs	PBMC_111-054-vac2014-Visit2.fcs	2634
+604263	Flow cytometry result	76749619	PBMC_111-054-vac2014-Visit1_Panel2.604263.fcs	PBMC_111-054-vac2014-Visit1_Panel2.fcs	2634
+604264	Flow cytometry result	193769354	PBMC_111-054-vac2014-Visit2_Panel2.604264.fcs	PBMC_111-054-vac2014-Visit2_Panel2.fcs	2634
+604265	Flow cytometry result	125318717	PBMC_111-054-vac2014-Visit1_panel3.604265.fcs	PBMC_111-054-vac2014-Visit1_panel3.fcs	2634
+604266	Flow cytometry result	155601533	PBMC_111-054-vac2014-Visit2_panel3.604266.fcs	PBMC_111-054-vac2014-Visit2_panel3.fcs	2634
+604267	Flow cytometry result	99619261	PBMC_111-055-vac2014-Visit1.604267.fcs	PBMC_111-055-vac2014-Visit1.fcs	2634
+604268	Flow cytometry result	110545841	PBMC_111-055-vac2014-Visit2.604268.fcs	PBMC_111-055-vac2014-Visit2.fcs	2634
+604269	Flow cytometry result	91136923	PBMC_111-055-vac2014-Visit1_Panel2.604269.fcs	PBMC_111-055-vac2014-Visit1_Panel2.fcs	2634
+604270	Flow cytometry result	111670346	PBMC_111-055-vac2014-Visit2_Panel2.604270.fcs	PBMC_111-055-vac2014-Visit2_Panel2.fcs	2634
+604271	Flow cytometry result	106634966	PBMC_111-055-vac2014-Visit1_panel3.604271.fcs	PBMC_111-055-vac2014-Visit1_panel3.fcs	2634
+604272	Flow cytometry result	127432733	PBMC_111-055-vac2014-Visit2_panel3.604272.fcs	PBMC_111-055-vac2014-Visit2_panel3.fcs	2634
+604273	Flow cytometry result	126235645	PBMC_111-056-vac2014-Visit1.604273.fcs	PBMC_111-056-vac2014-Visit1.fcs	2634
+604274	Flow cytometry result	125150417	PBMC_111-056-vac2014-Visit2.604274.fcs	PBMC_111-056-vac2014-Visit2.fcs	2634
+604275	Flow cytometry result	112294363	PBMC_111-056-vac2014-Visit1_Panel2.604275.fcs	PBMC_111-056-vac2014-Visit1_Panel2.fcs	2634
+604276	Flow cytometry result	139834219	PBMC_111-056-vac2014-Visit2_Panel2.604276.fcs	PBMC_111-056-vac2014-Visit2_Panel2.fcs	2634
+604277	Flow cytometry result	102728171	PBMC_111-056-vac2014-Visit1_panel3.604277.fcs	PBMC_111-056-vac2014-Visit1_panel3.fcs	2634
+604278	Flow cytometry result	151171442	PBMC_111-056-vac2014-Visit2_panel3.604278.fcs	PBMC_111-056-vac2014-Visit2_panel3.fcs	2634
+604279	Flow cytometry result	100080347	PBMC_111-057-vac2014-Visit1.604279.fcs	PBMC_111-057-vac2014-Visit1.fcs	2634
+604280	Flow cytometry result	164028028	PBMC_111-057-vac2014-Visit2.604280.fcs	PBMC_111-057-vac2014-Visit2.fcs	2634
+604281	Flow cytometry result	124024218	PBMC_111-057-vac2014-Visit1_Panel2.604281.fcs	PBMC_111-057-vac2014-Visit1_Panel2.fcs	2634
+604282	Flow cytometry result	140739028	PBMC_111-057-vac2014-Visit2_Panel2.604282.fcs	PBMC_111-057-vac2014-Visit2_Panel2.fcs	2634
+604283	Flow cytometry result	98847711	PBMC_111-057-vac2014-Visit1_panel3.604283.fcs	PBMC_111-057-vac2014-Visit1_panel3.fcs	2634
+604284	Flow cytometry result	123436060	PBMC_111-057-vac2014-Visit2_panel3.604284.fcs	PBMC_111-057-vac2014-Visit2_panel3.fcs	2634
+604285	Flow cytometry result	159616540	PBMC_111-058-vac2014-Visit1.604285.fcs	PBMC_111-058-vac2014-Visit1.fcs	2634
+604286	Flow cytometry result	131202364	PBMC_111-058-vac2014-Visit2.604286.fcs	PBMC_111-058-vac2014-Visit2.fcs	2634
+604287	Flow cytometry result	165049780	PBMC_111-058-vac2014-Visit1_Panel2.604287.fcs	PBMC_111-058-vac2014-Visit1_Panel2.fcs	2634
+604288	Flow cytometry result	159568571	PBMC_111-058-vac2014-Visit2_Panel2.604288.fcs	PBMC_111-058-vac2014-Visit2_Panel2.fcs	2634
+604289	Flow cytometry result	133902556	PBMC_111-058-vac2014-Visit1_panel3.604289.fcs	PBMC_111-058-vac2014-Visit1_panel3.fcs	2634
+604290	Flow cytometry result	134340316	PBMC_111-058-vac2014-Visit2_panel3.604290.fcs	PBMC_111-058-vac2014-Visit2_panel3.fcs	2634
+604291	Flow cytometry result	99413033	PBMC_222-001-vac2014-Visit1.604291.fcs	PBMC_222-001-vac2014-Visit1.fcs	2634
+604292	Flow cytometry result	178420162	PBMC_222-001-vac2014-Visit2.604292.fcs	PBMC_222-001-vac2014-Visit2.fcs	2634
+604293	Flow cytometry result	104409452	PBMC_222-001-vac2014-Visit1_Panel2.604293.fcs	PBMC_222-001-vac2014-Visit1_Panel2.fcs	2634
+604294	Flow cytometry result	165656451	PBMC_222-001-vac2014-Visit2_Panel2.604294.fcs	PBMC_222-001-vac2014-Visit2_Panel2.fcs	2634
+604295	Flow cytometry result	127311893	PBMC_222-001-vac2014-Visit1_panel3.604295.fcs	PBMC_222-001-vac2014-Visit1_panel3.fcs	2634
+604296	Flow cytometry result	117901932	PBMC_222-001-vac2014-Visit2_panel3.604296.fcs	PBMC_222-001-vac2014-Visit2_panel3.fcs	2634
+604297	Flow cytometry result	193673069	PBMC_222-003-vac2014-Visit1.604297.fcs	PBMC_222-003-vac2014-Visit1.fcs	2634
+604298	Flow cytometry result	98604689	PBMC_222-003-vac2014-Visit2.604298.fcs	PBMC_222-003-vac2014-Visit2.fcs	2634
+604299	Flow cytometry result	180491349	PBMC_222-003-vac2014-Visit1_Panel2.604299.fcs	PBMC_222-003-vac2014-Visit1_Panel2.fcs	2634
+604300	Flow cytometry result	121314026	PBMC_222-003-vac2014-Visit2_Panel2.604300.fcs	PBMC_222-003-vac2014-Visit2_Panel2.fcs	2634
+604301	Flow cytometry result	164125333	PBMC_222-003-vac2014-Visit1_panel3.604301.fcs	PBMC_222-003-vac2014-Visit1_panel3.fcs	2634
+604302	Flow cytometry result	191013533	PBMC_222-003-vac2014-Visit2_panel3.604302.fcs	PBMC_222-003-vac2014-Visit2_panel3.fcs	2634
+604303	Flow cytometry result	142734737	PBMC_222-004-vac2014-Visit1.604303.fcs	PBMC_222-004-vac2014-Visit1.fcs	2634
+604304	Flow cytometry result	141879544	PBMC_222-004-vac2014-Visit2.604304.fcs	PBMC_222-004-vac2014-Visit2.fcs	2634
+604305	Flow cytometry result	153372288	PBMC_222-004-vac2014-Visit1_Panel2.604305.fcs	PBMC_222-004-vac2014-Visit1_Panel2.fcs	2634
+604306	Flow cytometry result	168017543	PBMC_222-004-vac2014-Visit2_Panel2.604306.fcs	PBMC_222-004-vac2014-Visit2_Panel2.fcs	2634
+604307	Flow cytometry result	126280157	PBMC_222-004-vac2014-Visit1_panel3.604307.fcs	PBMC_222-004-vac2014-Visit1_panel3.fcs	2634
+604308	Flow cytometry result	144077405	PBMC_222-004-vac2014-Visit2_panel3.604308.fcs	PBMC_222-004-vac2014-Visit2_panel3.fcs	2634
+604309	Flow cytometry result	113691692	PBMC_222-006-vac2014-Visit1.604309.fcs	PBMC_222-006-vac2014-Visit1.fcs	2634
+604310	Flow cytometry result	125482387	PBMC_222-006-vac2014-Visit2.604310.fcs	PBMC_222-006-vac2014-Visit2.fcs	2634
+604311	Flow cytometry result	120966230	PBMC_222-006-vac2014-Visit1_Panel2.604311.fcs	PBMC_222-006-vac2014-Visit1_Panel2.fcs	2634
+604312	Flow cytometry result	115280317	PBMC_222-006-vac2014-Visit2_Panel2.604312.fcs	PBMC_222-006-vac2014-Visit2_Panel2.fcs	2634
+604313	Flow cytometry result	134383037	PBMC_222-006-vac2014-Visit1_panel3.604313.fcs	PBMC_222-006-vac2014-Visit1_panel3.fcs	2634
+604314	Flow cytometry result	99960989	PBMC_222-006-vac2014-Visit2_panel3.604314.fcs	PBMC_222-006-vac2014-Visit2_panel3.fcs	2634
+604315	Flow cytometry result	284948081	PBMC_222-010-vac2014-Visit1.604315.fcs	PBMC_222-010-vac2014-Visit1.fcs	2634
+604316	Flow cytometry result	115938833	PBMC_222-010-vac2014-Visit2.604316.fcs	PBMC_222-010-vac2014-Visit2.fcs	2634
+604317	Flow cytometry result	274805258	PBMC_222-010-vac2014-Visit1_Panel2.604317.fcs	PBMC_222-010-vac2014-Visit1_Panel2.fcs	2634
+604318	Flow cytometry result	100402250	PBMC_222-010-vac2014-Visit2_Panel2.604318.fcs	PBMC_222-010-vac2014-Visit2_Panel2.fcs	2634
+604319	Flow cytometry result	300995958	PBMC_222-010-vac2014-Visit1_panel3.604319.fcs	PBMC_222-010-vac2014-Visit1_panel3.fcs	2634
+604320	Flow cytometry result	102776118	PBMC_222-010-vac2014-Visit2_panel3.604320.fcs	PBMC_222-010-vac2014-Visit2_panel3.fcs	2634
+604321	Flow cytometry result	97486771	PBMC_222-011-vac2014-Visit1.604321.fcs	PBMC_222-011-vac2014-Visit1.fcs	2634
+604322	Flow cytometry result	138336493	PBMC_222-011-vac2014-Visit2.604322.fcs	PBMC_222-011-vac2014-Visit2.fcs	2634
+604323	Flow cytometry result	72952512	PBMC_222-011-vac2014-Visit1_Panel2.604323.fcs	PBMC_222-011-vac2014-Visit1_Panel2.fcs	2634
+604324	Flow cytometry result	136123733	PBMC_222-011-vac2014-Visit2_Panel2.604324.fcs	PBMC_222-011-vac2014-Visit2_Panel2.fcs	2634
+604325	Flow cytometry result	92111933	PBMC_222-011-vac2014-Visit1_panel3.604325.fcs	PBMC_222-011-vac2014-Visit1_panel3.fcs	2634
+604326	Flow cytometry result	128521661	PBMC_222-011-vac2014-Visit2_panel3.604326.fcs	PBMC_222-011-vac2014-Visit2_panel3.fcs	2634
+604327	Flow cytometry result	157970197	PBMC_222-013-vac2014-Visit1.604327.fcs	PBMC_222-013-vac2014-Visit1.fcs	2634
+604328	Flow cytometry result	175874129	PBMC_222-013-vac2014-Visit2.604328.fcs	PBMC_222-013-vac2014-Visit2.fcs	2634
+604329	Flow cytometry result	123335320	PBMC_222-013-vac2014-Visit1_Panel2.604329.fcs	PBMC_222-013-vac2014-Visit1_Panel2.fcs	2634
+604330	Flow cytometry result	149131562	PBMC_222-013-vac2014-Visit2_Panel2.604330.fcs	PBMC_222-013-vac2014-Visit2_Panel2.fcs	2634
+604331	Flow cytometry result	134872025	PBMC_222-013-vac2014-Visit1_panel3.604331.fcs	PBMC_222-013-vac2014-Visit1_panel3.fcs	2634
+604332	Flow cytometry result	141982013	PBMC_222-013-vac2014-Visit2_panel3.604332.fcs	PBMC_222-013-vac2014-Visit2_panel3.fcs	2634
+604333	Flow cytometry result	144706600	PBMC_222-017-vac2014-Visit1.604333.fcs	PBMC_222-017-vac2014-Visit1.fcs	2634
+604334	Flow cytometry result	131510991	PBMC_222-017-vac2014-Visit2.604334.fcs	PBMC_222-017-vac2014-Visit2.fcs	2634
+604335	Flow cytometry result	139719266	PBMC_222-017-vac2014-Visit1_Panel2.604335.fcs	PBMC_222-017-vac2014-Visit1_Panel2.fcs	2634
+604336	Flow cytometry result	121364329	PBMC_222-017-vac2014-Visit2_Panel2.604336.fcs	PBMC_222-017-vac2014-Visit2_Panel2.fcs	2634
+604337	Flow cytometry result	107677012	PBMC_222-017-vac2014-Visit1_panel3.604337.fcs	PBMC_222-017-vac2014-Visit1_panel3.fcs	2634
+604338	Flow cytometry result	106221940	PBMC_222-017-vac2014-Visit2_panel3.604338.fcs	PBMC_222-017-vac2014-Visit2_panel3.fcs	2634
+604339	Flow cytometry result	174386716	PBMC_222-025-vac2014-Visit1.604339.fcs	PBMC_222-025-vac2014-Visit1.fcs	2634
+604340	Flow cytometry result	71069500	PBMC_222-025-vac2014-Visit2.604340.fcs	PBMC_222-025-vac2014-Visit2.fcs	2634
+604341	Flow cytometry result	179643700	PBMC_222-025-vac2014-Visit1_Panel2.604341.fcs	PBMC_222-025-vac2014-Visit1_Panel2.fcs	2634
+604342	Flow cytometry result	67092256	PBMC_222-025-vac2014-Visit2_Panel2.604342.fcs	PBMC_222-025-vac2014-Visit2_Panel2.fcs	2634
+604343	Flow cytometry result	118366108	PBMC_222-025-vac2014-Visit1_panel3.604343.fcs	PBMC_222-025-vac2014-Visit1_panel3.fcs	2634
+604344	Flow cytometry result	51790396	PBMC_222-025-vac2014-Visit2_panel3.604344.fcs	PBMC_222-025-vac2014-Visit2_panel3.fcs	2634
+604345	Flow cytometry result	111834711	PBMC_222-031-vac2014-Visit1.604345.fcs	PBMC_222-031-vac2014-Visit1.fcs	2634
+604346	Flow cytometry result	126007708	PBMC_222-031-vac2014-Visit2.604346.fcs	PBMC_222-031-vac2014-Visit2.fcs	2634
+604347	Flow cytometry result	123321039	PBMC_222-031-vac2014-Visit1_Panel2.604347.fcs	PBMC_222-031-vac2014-Visit1_Panel2.fcs	2634
+604348	Flow cytometry result	153664367	PBMC_222-031-vac2014-Visit2_Panel2.604348.fcs	PBMC_222-031-vac2014-Visit2_Panel2.fcs	2634
+604349	Flow cytometry result	104610845	PBMC_222-031-vac2014-Visit1_panel3.604349.fcs	PBMC_222-031-vac2014-Visit1_panel3.fcs	2634
+604350	Flow cytometry result	119205527	PBMC_222-031-vac2014-Visit2_panel3.604350.fcs	PBMC_222-031-vac2014-Visit2_panel3.fcs	2634
+604351	Flow cytometry result	181425340	PBMC_222-034-vac2014-Visit1.604351.fcs	PBMC_222-034-vac2014-Visit1.fcs	2634
+604352	Flow cytometry result	99380860	PBMC_222-034-vac2014-Visit2.604352.fcs	PBMC_222-034-vac2014-Visit2.fcs	2634
+604353	Flow cytometry result	144804448	PBMC_222-034-vac2014-Visit1_Panel2.604353.fcs	PBMC_222-034-vac2014-Visit1_Panel2.fcs	2634
+604354	Flow cytometry result	136034846	PBMC_222-034-vac2014-Visit2_Panel2.604354.fcs	PBMC_222-034-vac2014-Visit2_Panel2.fcs	2634
+604355	Flow cytometry result	116429020	PBMC_222-034-vac2014-Visit1_panel3.604355.fcs	PBMC_222-034-vac2014-Visit1_panel3.fcs	2634
+604356	Flow cytometry result	86112412	PBMC_222-034-vac2014-Visit2_panel3.604356.fcs	PBMC_222-034-vac2014-Visit2_panel3.fcs	2634
+604357	Flow cytometry result	123579927	PBMC_222-038-vac2014-Visit1.604357.fcs	PBMC_222-038-vac2014-Visit1.fcs	2634
+604358	Flow cytometry result	122835196	PBMC_222-038-vac2014-Visit2.604358.fcs	PBMC_222-038-vac2014-Visit2.fcs	2634
+604359	Flow cytometry result	92420090	PBMC_222-038-vac2014-Visit1_Panel2.604359.fcs	PBMC_222-038-vac2014-Visit1_Panel2.fcs	2634
+604360	Flow cytometry result	147453652	PBMC_222-038-vac2014-Visit2_Panel2.604360.fcs	PBMC_222-038-vac2014-Visit2_Panel2.fcs	2634
+604361	Flow cytometry result	127109597	PBMC_222-038-vac2014-Visit1_panel3.604361.fcs	PBMC_222-038-vac2014-Visit1_panel3.fcs	2634
+604362	Flow cytometry result	132168988	PBMC_222-038-vac2014-Visit2_panel3.604362.fcs	PBMC_222-038-vac2014-Visit2_panel3.fcs	2634
+604363	Flow cytometry result	118467159	PBMC_222-039-vac2014-Visit1.604363.fcs	PBMC_222-039-vac2014-Visit1.fcs	2634
+604364	Flow cytometry result	121672540	PBMC_222-039-vac2014-Visit2.604364.fcs	PBMC_222-039-vac2014-Visit2.fcs	2634
+604365	Flow cytometry result	117052652	PBMC_222-039-vac2014-Visit1_Panel2.604365.fcs	PBMC_222-039-vac2014-Visit1_Panel2.fcs	2634
+604366	Flow cytometry result	124263796	PBMC_222-039-vac2014-Visit2_Panel2.604366.fcs	PBMC_222-039-vac2014-Visit2_Panel2.fcs	2634
+604367	Flow cytometry result	121096829	PBMC_222-039-vac2014-Visit1_panel3.604367.fcs	PBMC_222-039-vac2014-Visit1_panel3.fcs	2634
+604368	Flow cytometry result	112345756	PBMC_222-039-vac2014-Visit2_panel3.604368.fcs	PBMC_222-039-vac2014-Visit2_panel3.fcs	2634
+604369	Flow cytometry result	123415685	PBMC_222-044-vac2014-Visit1.604369.fcs	PBMC_222-044-vac2014-Visit1.fcs	2634
+604370	Flow cytometry result	88249156	PBMC_222-044-vac2014-Visit2.604370.fcs	PBMC_222-044-vac2014-Visit2.fcs	2634
+604371	Flow cytometry result	117814212	PBMC_222-044-vac2014-Visit1_Panel2.604371.fcs	PBMC_222-044-vac2014-Visit1_Panel2.fcs	2634
+604372	Flow cytometry result	103547276	PBMC_222-044-vac2014-Visit2_Panel2.604372.fcs	PBMC_222-044-vac2014-Visit2_Panel2.fcs	2634
+604373	Flow cytometry result	154403412	PBMC_222-044-vac2014-Visit1_panel3.604373.fcs	PBMC_222-044-vac2014-Visit1_panel3.fcs	2634
+604374	Flow cytometry result	82092509	PBMC_222-044-vac2014-Visit2_panel3.604374.fcs	PBMC_222-044-vac2014-Visit2_panel3.fcs	2634
+604375	Flow cytometry result	105799491	PBMC_222-045-vac2014-Visit1.604375.fcs	PBMC_222-045-vac2014-Visit1.fcs	2634
+604376	Flow cytometry result	73602918	PBMC_222-045-vac2014-Visit2.604376.fcs	PBMC_222-045-vac2014-Visit2.fcs	2634
+604377	Flow cytometry result	119815932	PBMC_222-045-vac2014-Visit1_Panel2.604377.fcs	PBMC_222-045-vac2014-Visit1_Panel2.fcs	2634
+604378	Flow cytometry result	72444812	PBMC_222-045-vac2014-Visit2_Panel2.604378.fcs	PBMC_222-045-vac2014-Visit2_Panel2.fcs	2634
+604379	Flow cytometry result	126578702	PBMC_222-045-vac2014-Visit1_panel3.604379.fcs	PBMC_222-045-vac2014-Visit1_panel3.fcs	2634
+604380	Flow cytometry result	68575831	PBMC_222-045-vac2014-Visit2_panel3.604380.fcs	PBMC_222-045-vac2014-Visit2_panel3.fcs	2634
+604381	Flow cytometry result	90614104	PBMC_222-048-vac2014-Visit1.604381.fcs	PBMC_222-048-vac2014-Visit1.fcs	2634
+604382	Flow cytometry result	202361570	PBMC_222-048-vac2014-Visit2.604382.fcs	PBMC_222-048-vac2014-Visit2.fcs	2634
+604383	Flow cytometry result	87602629	PBMC_222-048-vac2014-Visit1_Panel2.604383.fcs	PBMC_222-048-vac2014-Visit1_Panel2.fcs	2634
+604384	Flow cytometry result	214445603	PBMC_222-048-vac2014-Visit2_Panel2.604384.fcs	PBMC_222-048-vac2014-Visit2_Panel2.fcs	2634
+604385	Flow cytometry result	84367512	PBMC_222-048-vac2014-Visit1_panel3.604385.fcs	PBMC_222-048-vac2014-Visit1_panel3.fcs	2634
+604386	Flow cytometry result	166298061	PBMC_222-048-vac2014-Visit2_panel3.604386.fcs	PBMC_222-048-vac2014-Visit2_panel3.fcs	2634
+604387	Flow cytometry result	108285977	PBMC_222-049-vac2014-Visit1.604387.fcs	PBMC_222-049-vac2014-Visit1.fcs	2634
+604388	Flow cytometry result	186450529	PBMC_222-049-vac2014-Visit2.604388.fcs	PBMC_222-049-vac2014-Visit2.fcs	2634
+604389	Flow cytometry result	113416180	PBMC_222-049-vac2014-Visit1_Panel2.604389.fcs	PBMC_222-049-vac2014-Visit1_Panel2.fcs	2634
+604390	Flow cytometry result	181514644	PBMC_222-049-vac2014-Visit2_Panel2.604390.fcs	PBMC_222-049-vac2014-Visit2_Panel2.fcs	2634
+604391	Flow cytometry result	111001318	PBMC_222-049-vac2014-Visit1_panel3.604391.fcs	PBMC_222-049-vac2014-Visit1_panel3.fcs	2634
+604392	Flow cytometry result	174016925	PBMC_222-049-vac2014-Visit2_panel3.604392.fcs	PBMC_222-049-vac2014-Visit2_panel3.fcs	2634
+604393	Flow cytometry result	137626741	PBMC_222-052-vac2014-Visit1.604393.fcs	PBMC_222-052-vac2014-Visit1.fcs	2634
+604394	Flow cytometry result	141809873	PBMC_222-052-vac2014-Visit2.604394.fcs	PBMC_222-052-vac2014-Visit2.fcs	2634
+604395	Flow cytometry result	154754872	PBMC_222-052-vac2014-Visit1_Panel2.604395.fcs	PBMC_222-052-vac2014-Visit1_Panel2.fcs	2634
+604396	Flow cytometry result	132466730	PBMC_222-052-vac2014-Visit2_Panel2.604396.fcs	PBMC_222-052-vac2014-Visit2_Panel2.fcs	2634
+604397	Flow cytometry result	133191161	PBMC_222-052-vac2014-Visit1_panel3.604397.fcs	PBMC_222-052-vac2014-Visit1_panel3.fcs	2634
+604398	Flow cytometry result	154831421	PBMC_222-052-vac2014-Visit2_panel3.604398.fcs	PBMC_222-052-vac2014-Visit2_panel3.fcs	2634
+604399	Flow cytometry result	208977450	PBMC_222-053-vac2014-Visit1.604399.fcs	PBMC_222-053-vac2014-Visit1.fcs	2634
+604400	Flow cytometry result	59550857	PBMC_222-053-vac2014-Visit2.604400.fcs	PBMC_222-053-vac2014-Visit2.fcs	2634
+604401	Flow cytometry result	177000746	PBMC_222-053-vac2014-Visit1_Panel2.604401.fcs	PBMC_222-053-vac2014-Visit1_Panel2.fcs	2634
+604402	Flow cytometry result	70118954	PBMC_222-053-vac2014-Visit2_Panel2.604402.fcs	PBMC_222-053-vac2014-Visit2_Panel2.fcs	2634
+604403	Flow cytometry result	143539065	PBMC_222-053-vac2014-Visit1_panel3.604403.fcs	PBMC_222-053-vac2014-Visit1_panel3.fcs	2634
+604404	Flow cytometry result	49206773	PBMC_222-053-vac2014-Visit2_panel3.604404.fcs	PBMC_222-053-vac2014-Visit2_panel3.fcs	2634
+604405	Flow cytometry result	121455639	PBMC_222-056-vac2014-Visit1.604405.fcs	PBMC_222-056-vac2014-Visit1.fcs	2634
+604406	Flow cytometry result	169791004	PBMC_222-056-vac2014-Visit2.604406.fcs	PBMC_222-056-vac2014-Visit2.fcs	2634
+604407	Flow cytometry result	124662266	PBMC_222-056-vac2014-Visit1_Panel2.604407.fcs	PBMC_222-056-vac2014-Visit1_Panel2.fcs	2634
+604408	Flow cytometry result	143113684	PBMC_222-056-vac2014-Visit2_Panel2.604408.fcs	PBMC_222-056-vac2014-Visit2_Panel2.fcs	2634
+604409	Flow cytometry result	105841013	PBMC_222-056-vac2014-Visit1_panel3.604409.fcs	PBMC_222-056-vac2014-Visit1_panel3.fcs	2634
+604410	Flow cytometry result	141873916	PBMC_222-056-vac2014-Visit2_panel3.604410.fcs	PBMC_222-056-vac2014-Visit2_panel3.fcs	2634
+604411	Flow cytometry result	129986285	PBMC_222-057-vac2014-Visit1.604411.fcs	PBMC_222-057-vac2014-Visit1.fcs	2634
+604412	Flow cytometry result	83950193	PBMC_222-057-vac2014-Visit2.604412.fcs	PBMC_222-057-vac2014-Visit2.fcs	2634
+604413	Flow cytometry result	118339125	PBMC_222-057-vac2014-Visit1_Panel2.604413.fcs	PBMC_222-057-vac2014-Visit1_Panel2.fcs	2634
+604414	Flow cytometry result	121796042	PBMC_222-057-vac2014-Visit2_Panel2.604414.fcs	PBMC_222-057-vac2014-Visit2_Panel2.fcs	2634
+604415	Flow cytometry result	128819413	PBMC_222-057-vac2014-Visit1_panel3.604415.fcs	PBMC_222-057-vac2014-Visit1_panel3.fcs	2634
+604416	Flow cytometry result	110765309	PBMC_222-057-vac2014-Visit2_panel3.604416.fcs	PBMC_222-057-vac2014-Visit2_panel3.fcs	2634
+604417	Flow cytometry result	115944202	PBMC_222-058-vac2014-Visit1.604417.fcs	PBMC_222-058-vac2014-Visit1.fcs	2634
+604418	Flow cytometry result	80449673	PBMC_222-058-vac2014-Visit2.604418.fcs	PBMC_222-058-vac2014-Visit2.fcs	2634
+604419	Flow cytometry result	77246737	PBMC_222-058-vac2014-Visit1_Panel2.604419.fcs	PBMC_222-058-vac2014-Visit1_Panel2.fcs	2634
+604420	Flow cytometry result	118597638	PBMC_222-058-vac2014-Visit2_Panel2.604420.fcs	PBMC_222-058-vac2014-Visit2_Panel2.fcs	2634
+604421	Flow cytometry result	117372496	PBMC_222-058-vac2014-Visit1_panel3.604421.fcs	PBMC_222-058-vac2014-Visit1_panel3.fcs	2634
+604422	Flow cytometry result	126048629	PBMC_222-058-vac2014-Visit2_panel3.604422.fcs	PBMC_222-058-vac2014-Visit2_panel3.fcs	2634
+604423	Flow cytometry result	95993588	PBMC_222-059-vac2014-Visit1.604423.fcs	PBMC_222-059-vac2014-Visit1.fcs	2634
+604424	Flow cytometry result	92341756	PBMC_222-059-vac2014-Visit2.604424.fcs	PBMC_222-059-vac2014-Visit2.fcs	2634
+604425	Flow cytometry result	97142431	PBMC_222-059-vac2014-Visit1_Panel2.604425.fcs	PBMC_222-059-vac2014-Visit1_Panel2.fcs	2634
+604426	Flow cytometry result	102505763	PBMC_222-059-vac2014-Visit2_Panel2.604426.fcs	PBMC_222-059-vac2014-Visit2_Panel2.fcs	2634
+604427	Flow cytometry result	87208006	PBMC_222-059-vac2014-Visit1_panel3.604427.fcs	PBMC_222-059-vac2014-Visit1_panel3.fcs	2634
+604428	Flow cytometry result	99128285	PBMC_222-059-vac2014-Visit2_panel3.604428.fcs	PBMC_222-059-vac2014-Visit2_panel3.fcs	2634
+604429	Flow cytometry result	107972184	PBMC_222-060-vac2014-Visit1.604429.fcs	PBMC_222-060-vac2014-Visit1.fcs	2634
+604430	Flow cytometry result	119166063	PBMC_222-060-vac2014-Visit2.604430.fcs	PBMC_222-060-vac2014-Visit2.fcs	2634
+604431	Flow cytometry result	90296588	PBMC_222-060-vac2014-Visit1_Panel2.604431.fcs	PBMC_222-060-vac2014-Visit1_Panel2.fcs	2634
+604432	Flow cytometry result	140123472	PBMC_222-060-vac2014-Visit2_Panel2.604432.fcs	PBMC_222-060-vac2014-Visit2_Panel2.fcs	2634
+604433	Flow cytometry result	95439073	PBMC_222-060-vac2014-Visit1_panel3.604433.fcs	PBMC_222-060-vac2014-Visit1_panel3.fcs	2634
+604434	Flow cytometry result	120017720	PBMC_222-060-vac2014-Visit2_panel3.604434.fcs	PBMC_222-060-vac2014-Visit2_panel3.fcs	2634
+604435	Flow cytometry result	174602305	PBMC_222-061-vac2014-Visit1.604435.fcs	PBMC_222-061-vac2014-Visit1.fcs	2634
+604436	Flow cytometry result	120103480	PBMC_222-061-vac2014-Visit2.604436.fcs	PBMC_222-061-vac2014-Visit2.fcs	2634
+604437	Flow cytometry result	123253632	PBMC_222-061-vac2014-Visit1_Panel2.604437.fcs	PBMC_222-061-vac2014-Visit1_Panel2.fcs	2634
+604438	Flow cytometry result	165963410	PBMC_222-061-vac2014-Visit2_Panel2.604438.fcs	PBMC_222-061-vac2014-Visit2_Panel2.fcs	2634
+604439	Flow cytometry result	113249501	PBMC_222-061-vac2014-Visit1_panel3.604439.fcs	PBMC_222-061-vac2014-Visit1_panel3.fcs	2634
+604440	Flow cytometry result	192335025	PBMC_222-061-vac2014-Visit2_panel3.604440.fcs	PBMC_222-061-vac2014-Visit2_panel3.fcs	2634
+604441	Flow cytometry result	129025468	PBMC_222-062-vac2014-Visit1.604441.fcs	PBMC_222-062-vac2014-Visit1.fcs	2634
+604442	Flow cytometry result	102499603	PBMC_222-062-vac2014-Visit2.604442.fcs	PBMC_222-062-vac2014-Visit2.fcs	2634
+604443	Flow cytometry result	93670454	PBMC_222-062-vac2014-Visit1_Panel2.604443.fcs	PBMC_222-062-vac2014-Visit1_Panel2.fcs	2634
+604444	Flow cytometry result	86581670	PBMC_222-062-vac2014-Visit2_Panel2.604444.fcs	PBMC_222-062-vac2014-Visit2_Panel2.fcs	2634
+604445	Flow cytometry result	106288829	PBMC_222-062-vac2014-Visit1_panel3.604445.fcs	PBMC_222-062-vac2014-Visit1_panel3.fcs	2634
+604446	Flow cytometry result	138603729	PBMC_222-062-vac2014-Visit2_panel3.604446.fcs	PBMC_222-062-vac2014-Visit2_panel3.fcs	2634
+604447	Flow cytometry result	142991797	PBMC_222-063-vac2014-Visit1.604447.fcs	PBMC_222-063-vac2014-Visit1.fcs	2634
+604448	Flow cytometry result	154371761	PBMC_222-063-vac2014-Visit2.604448.fcs	PBMC_222-063-vac2014-Visit2.fcs	2634
+604449	Flow cytometry result	156341272	PBMC_222-063-vac2014-Visit1_Panel2.604449.fcs	PBMC_222-063-vac2014-Visit1_Panel2.fcs	2634
+604450	Flow cytometry result	143174858	PBMC_222-063-vac2014-Visit2_Panel2.604450.fcs	PBMC_222-063-vac2014-Visit2_Panel2.fcs	2634
+604451	Flow cytometry result	141316889	PBMC_222-063-vac2014-Visit1_panel3.604451.fcs	PBMC_222-063-vac2014-Visit1_panel3.fcs	2634
+604452	Flow cytometry result	168555677	PBMC_222-063-vac2014-Visit2_panel3.604452.fcs	PBMC_222-063-vac2014-Visit2_panel3.fcs	2634
+604453	Flow cytometry result	126479531	PBMC_222-064-vac2014-Visit1.604453.fcs	PBMC_222-064-vac2014-Visit1.fcs	2634
+604454	Flow cytometry result	118218759	PBMC_222-064-vac2014-Visit2.604454.fcs	PBMC_222-064-vac2014-Visit2.fcs	2634
+604455	Flow cytometry result	152571663	PBMC_222-064-vac2014-Visit1_Panel2.604455.fcs	PBMC_222-064-vac2014-Visit1_Panel2.fcs	2634
+604456	Flow cytometry result	123030913	PBMC_222-064-vac2014-Visit2_Panel2.604456.fcs	PBMC_222-064-vac2014-Visit2_Panel2.fcs	2634
+604457	Flow cytometry result	145423601	PBMC_222-064-vac2014-Visit1_panel3.604457.fcs	PBMC_222-064-vac2014-Visit1_panel3.fcs	2634
+604458	Flow cytometry result	125584565	PBMC_222-064-vac2014-Visit2_panel3.604458.fcs	PBMC_222-064-vac2014-Visit2_panel3.fcs	2634
+604459	Flow cytometry result	166247919	PBMC_222-065-vac2014-Visit1.604459.fcs	PBMC_222-065-vac2014-Visit1.fcs	2634
+604460	Flow cytometry result	115903977	PBMC_222-065-vac2014-Visit2.604460.fcs	PBMC_222-065-vac2014-Visit2.fcs	2634
+604461	Flow cytometry result	141185568	PBMC_222-065-vac2014-Visit1_Panel2.604461.fcs	PBMC_222-065-vac2014-Visit1_Panel2.fcs	2634
+604462	Flow cytometry result	152002032	PBMC_222-065-vac2014-Visit2_Panel2.604462.fcs	PBMC_222-065-vac2014-Visit2_Panel2.fcs	2634
+604463	Flow cytometry result	140887638	PBMC_222-065-vac2014-Visit1_panel3.604463.fcs	PBMC_222-065-vac2014-Visit1_panel3.fcs	2634
+604464	Flow cytometry result	145335466	PBMC_222-065-vac2014-Visit2_panel3.604464.fcs	PBMC_222-065-vac2014-Visit2_panel3.fcs	2634
+604465	Flow cytometry result	166296863	PBMC_222-066-vac2014-Visit1.604465.fcs	PBMC_222-066-vac2014-Visit1.fcs	2634
+604466	Flow cytometry result	131843441	PBMC_222-066-vac2014-Visit2.604466.fcs	PBMC_222-066-vac2014-Visit2.fcs	2634
+604467	Flow cytometry result	150169858	PBMC_222-066-vac2014-Visit1_Panel2.604467.fcs	PBMC_222-066-vac2014-Visit1_Panel2.fcs	2634
+604468	Flow cytometry result	115515397	PBMC_222-066-vac2014-Visit2_Panel2.604468.fcs	PBMC_222-066-vac2014-Visit2_Panel2.fcs	2634
+604469	Flow cytometry result	128190829	PBMC_222-066-vac2014-Visit1_panel3.604469.fcs	PBMC_222-066-vac2014-Visit1_panel3.fcs	2634
+604470	Flow cytometry result	113396594	PBMC_222-066-vac2014-Visit2_panel3.604470.fcs	PBMC_222-066-vac2014-Visit2_panel3.fcs	2634
+604471	Flow cytometry result	110475064	PBMC_222-067-vac2014-Visit1.604471.fcs	PBMC_222-067-vac2014-Visit1.fcs	2634
+604472	Flow cytometry result	178312721	PBMC_222-067-vac2014-Visit2.604472.fcs	PBMC_222-067-vac2014-Visit2.fcs	2634
+604473	Flow cytometry result	135131474	PBMC_222-067-vac2014-Visit1_Panel2.604473.fcs	PBMC_222-067-vac2014-Visit1_Panel2.fcs	2634
+604474	Flow cytometry result	99151350	PBMC_222-067-vac2014-Visit2_Panel2.604474.fcs	PBMC_222-067-vac2014-Visit2_Panel2.fcs	2634
+604475	Flow cytometry result	119616753	PBMC_222-067-vac2014-Visit1_panel3.604475.fcs	PBMC_222-067-vac2014-Visit1_panel3.fcs	2634
+604476	Flow cytometry result	96604253	PBMC_222-067-vac2014-Visit2_panel3.604476.fcs	PBMC_222-067-vac2014-Visit2_panel3.fcs	2634
+604477	Flow cytometry result	137806771	PBMC_222-068-vac2014-Visit1.604477.fcs	PBMC_222-068-vac2014-Visit1.fcs	2634
+604478	Flow cytometry result	158731505	PBMC_222-068-vac2014-Visit2.604478.fcs	PBMC_222-068-vac2014-Visit2.fcs	2634
+604479	Flow cytometry result	124590854	PBMC_222-068-vac2014-Visit1_Panel2.604479.fcs	PBMC_222-068-vac2014-Visit1_Panel2.fcs	2634
+604480	Flow cytometry result	125992360	PBMC_222-068-vac2014-Visit2_Panel2.604480.fcs	PBMC_222-068-vac2014-Visit2_Panel2.fcs	2634
+604481	Flow cytometry result	107534673	PBMC_222-068-vac2014-Visit1_panel3.604481.fcs	PBMC_222-068-vac2014-Visit1_panel3.fcs	2634
+604482	Flow cytometry result	88365416	PBMC_222-068-vac2014-Visit2_panel3.604482.fcs	PBMC_222-068-vac2014-Visit2_panel3.fcs	2634
+604483	Flow cytometry result	100891017	PBMC_222-069-vac2014-Visit1.604483.fcs	PBMC_222-069-vac2014-Visit1.fcs	2634
+604484	Flow cytometry result	87184554	PBMC_222-069-vac2014-Visit2.604484.fcs	PBMC_222-069-vac2014-Visit2.fcs	2634
+604485	Flow cytometry result	130701074	PBMC_222-069-vac2014-Visit1_Panel2.604485.fcs	PBMC_222-069-vac2014-Visit1_Panel2.fcs	2634
+604486	Flow cytometry result	118996086	PBMC_222-069-vac2014-Visit2_Panel2.604486.fcs	PBMC_222-069-vac2014-Visit2_Panel2.fcs	2634
+604487	Flow cytometry result	120103304	PBMC_222-069-vac2014-Visit1_panel3.604487.fcs	PBMC_222-069-vac2014-Visit1_panel3.fcs	2634
+604488	Flow cytometry result	96325780	PBMC_222-069-vac2014-Visit2_panel3.604488.fcs	PBMC_222-069-vac2014-Visit2_panel3.fcs	2634
+604489	Flow cytometry result	156893494	PBMC_222-070-vac2014-Visit1.604489.fcs	PBMC_222-070-vac2014-Visit1.fcs	2634
+604490	Flow cytometry result	169193533	PBMC_222-070-vac2014-Visit2.604490.fcs	PBMC_222-070-vac2014-Visit2.fcs	2634
+604491	Flow cytometry result	98706506	PBMC_222-070-vac2014-Visit1_Panel2.604491.fcs	PBMC_222-070-vac2014-Visit1_Panel2.fcs	2634
+604492	Flow cytometry result	159631466	PBMC_222-070-vac2014-Visit2_Panel2.604492.fcs	PBMC_222-070-vac2014-Visit2_Panel2.fcs	2634
+604493	Flow cytometry result	125253076	PBMC_222-070-vac2014-Visit1_panel3.604493.fcs	PBMC_222-070-vac2014-Visit1_panel3.fcs	2634
+604494	Flow cytometry result	115835284	PBMC_222-070-vac2014-Visit2_panel3.604494.fcs	PBMC_222-070-vac2014-Visit2_panel3.fcs	2634
+604495	Flow cytometry result	135451407	PBMC_222-071-vac2014-Visit1.604495.fcs	PBMC_222-071-vac2014-Visit1.fcs	2634
+604496	Flow cytometry result	110665356	PBMC_222-071-vac2014-Visit2.604496.fcs	PBMC_222-071-vac2014-Visit2.fcs	2634
+604497	Flow cytometry result	119659865	PBMC_222-071-vac2014-Visit1_Panel2.604497.fcs	PBMC_222-071-vac2014-Visit1_Panel2.fcs	2634
+604498	Flow cytometry result	119853539	PBMC_222-071-vac2014-Visit2_Panel2.604498.fcs	PBMC_222-071-vac2014-Visit2_Panel2.fcs	2634
+604499	Flow cytometry result	120318102	PBMC_222-071-vac2014-Visit1_panel3.604499.fcs	PBMC_222-071-vac2014-Visit1_panel3.fcs	2634
+604500	Flow cytometry result	147509718	PBMC_222-071-vac2014-Visit2_panel3.604500.fcs	PBMC_222-071-vac2014-Visit2_panel3.fcs	2634
+608528	Flow cytometry result	124669574	Visit 1_111-001.608528.fcs	Visit 1_111-001.fcs	2634
+608529	Flow cytometry compensation or control	303231	Compensation Controls_APC-Cy7 Stained Control.608529.fcs	Compensation Controls_APC-Cy7 Stained Control.fcs	2634
+608530	Flow cytometry compensation or control	303242	Compensation Controls_Alexa Fluor 700 Stained Control.608530.fcs	Compensation Controls_Alexa Fluor 700 Stained Control.fcs	2634
+608531	Flow cytometry compensation or control	603229	Compensation Controls_AmCyan Stained Control.608531.fcs	Compensation Controls_AmCyan Stained Control.fcs	2634
+608532	Flow cytometry compensation or control	303225	Compensation Controls_FITC Stained Control.608532.fcs	Compensation Controls_FITC Stained Control.fcs	2634
+608533	Flow cytometry compensation or control	303229	Compensation Controls_PE-Cy7 Stained Control.608533.fcs	Compensation Controls_PE-Cy7 Stained Control.fcs	2634
+608534	Flow cytometry compensation or control	303226	Compensation Controls_PE-Gr Stained Control.608534.fcs	Compensation Controls_PE-Gr Stained Control.fcs	2634
+608535	Flow cytometry compensation or control	303241	Compensation Controls_Pacific Blue Stained Control.608535.fcs	Compensation Controls_Pacific Blue Stained Control.fcs	2634
+608536	Flow cytometry compensation or control	303236	Compensation Controls_PerCP-Cy5-5 Stained Control.608536.fcs	Compensation Controls_PerCP-Cy5-5 Stained Control.fcs	2634
+608537	Flow cytometry compensation or control	303234	Compensation Controls_Qdot 565 Stained Control.608537.fcs	Compensation Controls_Qdot 565 Stained Control.fcs	2634
+608538	Flow cytometry compensation or control	303233	Compensation Controls_Qdot 605 Stained Control.608538.fcs	Compensation Controls_Qdot 605 Stained Control.fcs	2634
+608539	Flow cytometry compensation or control	303233	Compensation Controls_Qdot 655 Stained Control.608539.fcs	Compensation Controls_Qdot 655 Stained Control.fcs	2634
+608540	Flow cytometry compensation or control	303234	Compensation Controls_Qdot 800 Stained Control.608540.fcs	Compensation Controls_Qdot 800 Stained Control.fcs	2634
+608541	Flow cytometry compensation or control	303219	Compensation Controls_Unstained Control.608541.fcs	Compensation Controls_Unstained Control.fcs	2634
+608542	Flow cytometry result	119907795	Visit 2_111-001.608542.fcs	Visit 2_111-001.fcs	2634
+608543	Flow cytometry result	234904300	Visit 1_111-004.608543.fcs	Visit 1_111-004.fcs	2634
+608544	Flow cytometry result	384472530	Visit 2_111-004.608544.fcs	Visit 2_111-004.fcs	2634
+608545	Flow cytometry result	157476260	Visit 1_111-005.608545.fcs	Visit 1_111-005.fcs	2634
+608546	Flow cytometry result	169066110	Visit 2_111-005.608546.fcs	Visit 2_111-005.fcs	2634
+608547	Flow cytometry result	267116508	Visit 1_111-021.608547.fcs	Visit 1_111-021.fcs	2634
+608548	Flow cytometry result	191022035	Visit 2_111-021.608548.fcs	Visit 2_111-021.fcs	2634
+608549	Flow cytometry result	128007587	Visit 1_111-022.608549.fcs	Visit 1_111-022.fcs	2634
+608550	Flow cytometry result	190210349	Visit 2_111-022.608550.fcs	Visit 2_111-022.fcs	2634
+608551	Flow cytometry result	184364663	Visit 1_111-023.608551.fcs	Visit 1_111-023.fcs	2634
+608552	Flow cytometry result	264847616	Visit 2_111-023.608552.fcs	Visit 2_111-023.fcs	2634
+608553	Flow cytometry result	158066459	Visit 1_111-024.608553.fcs	Visit 1_111-024.fcs	2634
+608554	Flow cytometry result	376092996	Visit 2_111-024.608554.fcs	Visit 2_111-024.fcs	2634
+608555	Flow cytometry result	269730010	Visit 1_111-025.608555.fcs	Visit 1_111-025.fcs	2634
+608556	Flow cytometry result	185572891	Visit 2_111-025.608556.fcs	Visit 2_111-025.fcs	2634
+608557	Flow cytometry result	96813203	Visit 1_111-035.608557.fcs	Visit 1_111-035.fcs	2634
+608558	Flow cytometry result	309937486	Visit 2_111-035.608558.fcs	Visit 2_111-035.fcs	2634
+608559	Flow cytometry result	192483914	Visit 1_111-038.608559.fcs	Visit 1_111-038.fcs	2634
+608560	Flow cytometry result	169774186	Visit 2_111-038.608560.fcs	Visit 2_111-038.fcs	2634
+608561	Flow cytometry result	61357477	Visit 1_111-039.608561.fcs	Visit 1_111-039.fcs	2634
+608562	Flow cytometry result	126866081	Visit 2_111-039.608562.fcs	Visit 2_111-039.fcs	2634
+608563	Flow cytometry result	34449955	Visit 1_111-041.608563.fcs	Visit 1_111-041.fcs	2634
+608564	Flow cytometry result	88304691	Visit 2_111-041.608564.fcs	Visit 2_111-041.fcs	2634
+608565	Flow cytometry result	185132946	Visit 1_111-043.608565.fcs	Visit 1_111-043.fcs	2634
+608566	Flow cytometry result	277846225	Visit 2_111-043.608566.fcs	Visit 2_111-043.fcs	2634
+608567	Flow cytometry result	77303367	Visit 1_111-045.608567.fcs	Visit 1_111-045.fcs	2634
+608568	Flow cytometry result	231461139	Visit 2_111-045.608568.fcs	Visit 2_111-045.fcs	2634
+608569	Flow cytometry result	230470594	Visit 1_111-048.608569.fcs	Visit 1_111-048.fcs	2634
+608570	Flow cytometry result	539743365	Visit 2_111-048.608570.fcs	Visit 2_111-048.fcs	2634
+608571	Flow cytometry result	195017678	Visit 1_111-049.608571.fcs	Visit 1_111-049.fcs	2634
+608572	Flow cytometry result	339771191	Visit 2_111-049.608572.fcs	Visit 2_111-049.fcs	2634
+608573	Flow cytometry result	228233791	Visit 1_111-050.608573.fcs	Visit 1_111-050.fcs	2634
+608574	Flow cytometry result	394493580	Visit 2_111-050.608574.fcs	Visit 2_111-050.fcs	2634
+608575	Flow cytometry result	125989249	Visit 1_111-051.608575.fcs	Visit 1_111-051.fcs	2634
+608576	Flow cytometry result	176451120	Visit 2_111-051.608576.fcs	Visit 2_111-051.fcs	2634
+608577	Flow cytometry result	276389439	Visit 1_111-052.608577.fcs	Visit 1_111-052.fcs	2634
+608578	Flow cytometry result	80857906	Visit 2_111-052.608578.fcs	Visit 2_111-052.fcs	2634
+608579	Flow cytometry result	274290927	Visit 1_111-053.608579.fcs	Visit 1_111-053.fcs	2634
+608580	Flow cytometry result	277785838	Visit 2_111-053.608580.fcs	Visit 2_111-053.fcs	2634
+608581	Flow cytometry result	306200895	Visit 1_111-054.608581.fcs	Visit 1_111-054.fcs	2634
+608582	Flow cytometry result	235191182	Visit 2_111-054.608582.fcs	Visit 2_111-054.fcs	2634
+608583	Flow cytometry result	161558980	Visit 1_111-055.608583.fcs	Visit 1_111-055.fcs	2634
+608584	Flow cytometry result	201017952	Visit 1_111-056.608584.fcs	Visit 1_111-056.fcs	2634
+608585	Flow cytometry result	349076898	Visit 1_111-057.608585.fcs	Visit 1_111-057.fcs	2634
+608586	Flow cytometry result	321967051	Visit 2_111-057.608586.fcs	Visit 2_111-057.fcs	2634
+608587	Flow cytometry result	21840217	Visit 1_111-058.608587.fcs	Visit 1_111-058.fcs	2634
+608588	Flow cytometry result	179650002	Visit 2_111-058.608588.fcs	Visit 2_111-058.fcs	2634
+608589	Flow cytometry result	127219775	Visit 1_222-001.608589.fcs	Visit 1_222-001.fcs	2634
+608590	Flow cytometry result	83020714	Visit 2_222-001.608590.fcs	Visit 2_222-001.fcs	2634
+608591	Flow cytometry result	274879926	Visit 1_222-003.608591.fcs	Visit 1_222-003.fcs	2634
+608592	Flow cytometry result	221284347	Visit 2_222-003.608592.fcs	Visit 2_222-003.fcs	2634
+608593	Flow cytometry result	255399287	Visit 1_222-004.608593.fcs	Visit 1_222-004.fcs	2634
+608594	Flow cytometry result	131217710	Visit 2_222-004.608594.fcs	Visit 2_222-004.fcs	2634
+608595	Flow cytometry result	160447623	Visit 1_222-006.608595.fcs	Visit 1_222-006.fcs	2634
+608596	Flow cytometry result	266544374	Visit 2_222-006.608596.fcs	Visit 2_222-006.fcs	2634
+608597	Flow cytometry result	146642595	Visit 1_222-010.608597.fcs	Visit 1_222-010.fcs	2634
+608598	Flow cytometry result	297284872	Visit 2_222-010.608598.fcs	Visit 2_222-010.fcs	2634
+608599	Flow cytometry result	157357454	Visit 1_222-011.608599.fcs	Visit 1_222-011.fcs	2634
+608600	Flow cytometry result	127459054	Visit 1_222-013.608600.fcs	Visit 1_222-013.fcs	2634
+608601	Flow cytometry result	158276376	Visit 2_222-013.608601.fcs	Visit 2_222-013.fcs	2634
+608602	Flow cytometry result	263550536	Visit 1_222-017.608602.fcs	Visit 1_222-017.fcs	2634
+608603	Flow cytometry result	218005226	Visit 2_222-017.608603.fcs	Visit 2_222-017.fcs	2634
+608604	Flow cytometry result	209428835	Visit 1_222-025.608604.fcs	Visit 1_222-025.fcs	2634
+608605	Flow cytometry result	246647428	Visit 2_222-025.608605.fcs	Visit 2_222-025.fcs	2634
+608606	Flow cytometry result	351233117	Visit 1_222-031.608606.fcs	Visit 1_222-031.fcs	2634
+608607	Flow cytometry result	77421115	Visit 2_222-031.608607.fcs	Visit 2_222-031.fcs	2634
+608608	Flow cytometry result	195430570	Visit 1_222-034.608608.fcs	Visit 1_222-034.fcs	2634
+608609	Flow cytometry result	228589467	Visit 2_222-034.608609.fcs	Visit 2_222-034.fcs	2634
+608610	Flow cytometry result	215114325	Visit 1_222-038.608610.fcs	Visit 1_222-038.fcs	2634
+608611	Flow cytometry result	70803520	Visit 2_222-038.608611.fcs	Visit 2_222-038.fcs	2634
+608612	Flow cytometry result	185282177	Visit 1_222-039.608612.fcs	Visit 1_222-039.fcs	2634
+608613	Flow cytometry result	66901803	Visit 2_222-039.608613.fcs	Visit 2_222-039.fcs	2634
+608614	Flow cytometry result	45908116	Visit 1_222-044.608614.fcs	Visit 1_222-044.fcs	2634
+608615	Flow cytometry result	123118431	Visit 2_222-044.608615.fcs	Visit 2_222-044.fcs	2634
+608616	Flow cytometry result	93371563	Visit 1_222-045.608616.fcs	Visit 1_222-045.fcs	2634
+608617	Flow cytometry result	124466900	Visit 2_222-045.608617.fcs	Visit 2_222-045.fcs	2634
+608618	Flow cytometry result	243559472	Visit 1_222-046.608618.fcs	Visit 1_222-046.fcs	2634
+608619	Flow cytometry result	75278747	Visit 2_222-046.608619.fcs	Visit 2_222-046.fcs	2634
+608620	Flow cytometry result	151571200	Visit 1_222-047.608620.fcs	Visit 1_222-047.fcs	2634
+608621	Flow cytometry result	89742383	Visit 2_222-047.608621.fcs	Visit 2_222-047.fcs	2634
+608622	Flow cytometry result	192923796	Visit 1_222-048.608622.fcs	Visit 1_222-048.fcs	2634
+608623	Flow cytometry result	215413211	Visit 2_222-048.608623.fcs	Visit 2_222-048.fcs	2634
+608624	Flow cytometry result	128099520	Visit 1_222-049.608624.fcs	Visit 1_222-049.fcs	2634
+608625	Flow cytometry result	224640675	Visit 2_222-049.608625.fcs	Visit 2_222-049.fcs	2634
+608626	Flow cytometry result	110757370	Visit 1_222-052.608626.fcs	Visit 1_222-052.fcs	2634
+608627	Flow cytometry result	162150932	Visit 2_222-052.608627.fcs	Visit 2_222-052.fcs	2634
+608628	Flow cytometry result	200682851	Visit 1_222-053.608628.fcs	Visit 1_222-053.fcs	2634
+608629	Flow cytometry result	338802000	Visit 2_222-053.608629.fcs	Visit 2_222-053.fcs	2634
+608630	Flow cytometry result	256147313	Visit 1_222-056.608630.fcs	Visit 1_222-056.fcs	2634
+608631	Flow cytometry result	63297601	Visit 2_222-056.608631.fcs	Visit 2_222-056.fcs	2634
+608632	Flow cytometry result	188976746	Visit 1_222-057.608632.fcs	Visit 1_222-057.fcs	2634
+608633	Flow cytometry result	259716559	Visit 2_222-057.608633.fcs	Visit 2_222-057.fcs	2634
+608634	Flow cytometry result	245852866	Visit 1_222-058.608634.fcs	Visit 1_222-058.fcs	2634
+608635	Flow cytometry result	298067375	Visit 2_222-058.608635.fcs	Visit 2_222-058.fcs	2634
+608636	Flow cytometry result	106666257	Visit 1_222-059.608636.fcs	Visit 1_222-059.fcs	2634
+608637	Flow cytometry result	191993127	Visit 2_222-059.608637.fcs	Visit 2_222-059.fcs	2634
+608638	Flow cytometry result	196064525	Visit 1_222-060.608638.fcs	Visit 1_222-060.fcs	2634
+608639	Flow cytometry result	118769027	Visit 2_222-060.608639.fcs	Visit 2_222-060.fcs	2634
+608640	Flow cytometry result	228820295	Visit 1_222-061.608640.fcs	Visit 1_222-061.fcs	2634
+608641	Flow cytometry result	260805229	Visit 2_222-061.608641.fcs	Visit 2_222-061.fcs	2634
+608642	Flow cytometry result	101569163	Visit 1_222-062.608642.fcs	Visit 1_222-062.fcs	2634
+608643	Flow cytometry result	153572877	Visit 2_222-062.608643.fcs	Visit 2_222-062.fcs	2634
+608644	Flow cytometry result	250224894	Visit 1_222-063.608644.fcs	Visit 1_222-063.fcs	2634
+608645	Flow cytometry result	273589428	Visit 2_222-063.608645.fcs	Visit 2_222-063.fcs	2634
+608646	Flow cytometry result	121054610	Visit 1_222-064.608646.fcs	Visit 1_222-064.fcs	2634
+608647	Flow cytometry result	147255084	Visit 2_222-064.608647.fcs	Visit 2_222-064.fcs	2634
+608648	Flow cytometry result	102639340	Visit 1_222-065.608648.fcs	Visit 1_222-065.fcs	2634
+608649	Flow cytometry result	182683005	Visit 2_222-065.608649.fcs	Visit 2_222-065.fcs	2634
+608650	Flow cytometry result	72389981	Visit 1_222-066.608650.fcs	Visit 1_222-066.fcs	2634
+608651	Flow cytometry result	263533719	Visit 2_222-066.608651.fcs	Visit 2_222-066.fcs	2634
+608652	Flow cytometry result	173514897	Visit 1_222-067.608652.fcs	Visit 1_222-067.fcs	2634
+608653	Flow cytometry result	354582327	Visit 2_222-067.608653.fcs	Visit 2_222-067.fcs	2634
+608654	Flow cytometry result	224883753	Visit 1_222-068.608654.fcs	Visit 1_222-068.fcs	2634
+608655	Flow cytometry result	308575423	Visit 2_222-068.608655.fcs	Visit 2_222-068.fcs	2634
+608656	Flow cytometry result	95680818	Visit 1_222-069.608656.fcs	Visit 1_222-069.fcs	2634
+608657	Flow cytometry result	149577875	Visit 2_222-069.608657.fcs	Visit 2_222-069.fcs	2634
+608658	Flow cytometry result	270231539	Visit 1_222-070.608658.fcs	Visit 1_222-070.fcs	2634
+608659	Flow cytometry result	296227467	Visit 2_222-070.608659.fcs	Visit 2_222-070.fcs	2634
+608660	Flow cytometry result	216551878	Visit 1_222-071.608660.fcs	Visit 1_222-071.fcs	2634
+703424	Illumina BeadArray	28989787	SDY739_EXP14794_microarray.703424.tsv	SDY739_EXP14794_microarray.tsv	2634

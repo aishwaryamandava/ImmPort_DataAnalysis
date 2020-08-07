@@ -1,0 +1,80 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB120321			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120335			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142467	Other		Not Hispanic or Latino	Female	Other		Homo sapiens			2883
+SUB142468	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142471	Other		Not Hispanic or Latino	Female	Other		Homo sapiens			2883
+SUB120349			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120353			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120361			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120364			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120367			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120323			Other	Male	White		Homo sapiens			2883
+SUB120325			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120328			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120330			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120333			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120336			Not Hispanic or Latino	Female	Other	African American	Homo sapiens			2883
+SUB120339			Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142466	Europe		Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB142482	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142484	Europe		Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120348			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120375			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120324			Other	Male	White		Homo sapiens			2883
+SUB142474	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142480	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120343			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120344			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120345			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120350			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120362			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120370			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120373			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120327			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB142465	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142469	Other		Not Hispanic or Latino	Female	Other		Homo sapiens			2883
+SUB142470	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142472	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142481	Europe		Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120358			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120359			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120368			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120376			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120331			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120334			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120337			Not Hispanic or Latino	Female	Other	African American	Homo sapiens			2883
+SUB120347			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120351			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120352			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120363			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120365			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120366			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120369			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120322			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120340			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB142479	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120346			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120356			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120377			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120378			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120326			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120338			Not Hispanic or Latino	Female	Other	African American	Homo sapiens			2883
+SUB142473	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142475	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB142476	Europe		Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB142477	Europe		Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB142483	Europe		Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120342			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120355			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120372			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB143424	None of the Above		Not Specified	Not Specified	Not Specified		Homo sapiens			2883
+SUB120329			Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB120332			Not Hispanic or Latino	Male	Other	African American	Homo sapiens			2883
+SUB142478	Europe		Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120341			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120354			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120357			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120360			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120371			Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB120374			Not Hispanic or Latino	Male	White		Homo sapiens			2883

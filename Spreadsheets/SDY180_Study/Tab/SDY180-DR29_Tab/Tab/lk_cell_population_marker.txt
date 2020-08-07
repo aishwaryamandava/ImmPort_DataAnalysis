@@ -1,0 +1,7 @@
+NAME	DESCRIPTION	LINK
+viable	In flow cytometry, live cells are distinguished from dead cells or debris by several measures.  The non-debris gate is often set on FSC vs SSC plot position. Propidium iodide and Annexin V are commonly used to detect apoptotic cells by their binding to cellular components that are intracellular in viable cells.	https://en.wikipedia.org/wiki/Annexin_A5; https://en.wikipedia.org/wiki/Propidium_iodide
+singlet	When Area Scaling is set properly, the value of A = H for a singlet event.	https://www.researchgate.net/post/How_does_FSC-A_vs_FSC-H_indicate_the_singlets_in_a_FACS_data
+lymphocyte	A lymphocyte is a leukocyte commonly found in the blood and lymph that has the characteristics of a large nucleus, a neutral staining cytoplasm, and prominent heterochromatin. Lymphocyte gate is often set on FSC vs SSC plot position.	http://purl.obolibrary.org/obo/CL_0000542
+monocyte	Myeloid mononuclear recirculating leukocyte that can act as a precursor of tissue macrophages, osteoclasts and some populations of tissue dendritic cells.  Monocyte  gate is often set on FSC vs SSC plot position.	http://www.ontobee.org/ontology/CL?iri=http://purl.obolibrary.org/obo/CL_0000576
+intact	Intact gate is often set on FSC vs SSC plot position.	https://www.biology-online.org/dictionary/Intact
+granulocyte	A leukocyte with abundant granules in the cytoplasm. Granulocye gate is often set on FSC vs SSC plot position.	http://purl.obolibrary.org/obo/CL_0000094

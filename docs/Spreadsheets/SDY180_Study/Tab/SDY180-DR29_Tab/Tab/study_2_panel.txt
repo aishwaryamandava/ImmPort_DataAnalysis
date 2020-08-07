@@ -1,0 +1,12 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY180	arm or cohorts
+SDY180	demographics
+SDY180	documentation
+SDY180	inclusionExclusion
+SDY180	labtests
+SDY180	mechassays
+SDY180	publications
+SDY180	resources
+SDY180	study files
+SDY180	subject
+SDY180	summary

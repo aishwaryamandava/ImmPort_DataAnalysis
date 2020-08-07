@@ -1,0 +1,10 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY404	arm or cohorts
+SDY404	demographics
+SDY404	documentation
+SDY404	inclusionExclusion
+SDY404	mechassays
+SDY404	publications
+SDY404	study files
+SDY404	subject
+SDY404	summary

@@ -1,0 +1,2 @@
+STUDY_LINK_ID	NAME	STUDY_ACCESSION	TYPE	VALUE	WORKSPACE_ID
+331	NIH Reporter 5U01AI089859-05	SDY67		http://projectreporter.nih.gov/project_info_details.cfm?aid=8695082	2510

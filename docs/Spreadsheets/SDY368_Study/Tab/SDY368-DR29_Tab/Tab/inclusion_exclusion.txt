@@ -1,0 +1,5 @@
+CRITERION_ACCESSION	CRITERION	CRITERION_CATEGORY	STUDY_ACCESSION	WORKSPACE_ID
+CRIT2565	Between the ages of 6 months and 18 years.	Inclusion	SDY368	2799
+CRIT2562	Has not had flu vaccine for this season	Inclusion	SDY368	2799
+CRIT2563	Not allergic to eggs	Inclusion	SDY368	2799
+CRIT2564	No flu like symptoms on day of vaccine	Inclusion	SDY368	2799

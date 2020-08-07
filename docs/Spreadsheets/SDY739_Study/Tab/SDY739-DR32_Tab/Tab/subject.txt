@@ -1,0 +1,66 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB123370			Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB156410	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168689	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB123382			Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB156451	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB168691	North Africa;Sub-Saharan Africa		Not Hispanic or Latino	Not Specified	Black or African American		Homo sapiens			2634
+SUB168700	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB123366			Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB123368			Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB156411	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB156412	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168293	Europe		Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB168687	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168688	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB123385			Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB168301	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168698	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB123369			Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168297	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB156453	North America		Not Hispanic or Latino	Male	Black or African American		Homo sapiens			2634
+SUB156454	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168693	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168695	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168697	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168699	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB156408	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168289	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168299	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB123387			Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB123391			Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB123398			Not Hispanic or Latino	Female	Black or African American		Homo sapiens			2634
+SUB156445	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB156450	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168694	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168703	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168685	North Africa;Sub-Saharan Africa		Not Hispanic or Latino	Not Specified	Black or African American		Homo sapiens			2634
+SUB156444	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB156455	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB168288	Europe		Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB168292	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168294	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168683	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168684	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB123384			Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB123392			Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB123394			Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB123406			Not Hispanic or Latino	Female	American Indian or Alaska Native		Homo sapiens			2634
+SUB156437	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168696	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168702	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168287	North Africa;Sub-Saharan Africa		Not Hispanic or Latino	Male	Black or African American		Homo sapiens			2634
+SUB168291	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168686	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168690	South-East Asia;South-West Asia		Not Hispanic or Latino	Not Specified	Asian		Homo sapiens			2634
+SUB156452	North America		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168302	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168692	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168701	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB156409	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB168296	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168682	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB156440	North America		Not Hispanic or Latino	Male	White		Homo sapiens			2634
+SUB168300	Europe		Not Hispanic or Latino	Female	White		Homo sapiens			2634
+SUB168704	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634
+SUB168705	Europe		Not Hispanic or Latino	Not Specified	White		Homo sapiens			2634

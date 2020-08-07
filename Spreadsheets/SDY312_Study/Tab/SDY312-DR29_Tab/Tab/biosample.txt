@@ -1,0 +1,694 @@
+BIOSAMPLE_ACCESSION	DESCRIPTION	NAME	PLANNED_VISIT_ACCESSION	STUDY_ACCESSION	STUDY_TIME_COLLECTED	STUDY_TIME_COLLECTED_UNIT	STUDY_TIME_T0_EVENT	STUDY_TIME_T0_EVENT_SPECIFY	SUBJECT_ACCESSION	SUBTYPE	TYPE	WORKSPACE_ID
+BS716804			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134292	PBMCs	PBMC	2883
+BS716811			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134299	PBMCs	PBMC	2883
+BS716821			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134310	PBMCs	PBMC	2883
+BS716832			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134321	PBMCs	PBMC	2883
+BS716833			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134322	PBMCs	PBMC	2883
+BS716775			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134248	PBMCs	PBMC	2883
+BS716784			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134268	PBMCs	PBMC	2883
+BS716787			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134272	PBMCs	PBMC	2883
+BS716793			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134280	PBMCs	PBMC	2883
+BS716766			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134240	PBMCs	PBMC	2883
+BS716773			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134246	PBMCs	PBMC	2883
+BS714448			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134314		Serum	2883
+BS714452			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134319		Serum	2883
+BS714454			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134321		Serum	2883
+BS714508			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134293		Serum	2883
+BS714459			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134326		Serum	2883
+BS714532			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134320		Serum	2883
+BS714468			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134243		Serum	2883
+BS714469			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134244		Serum	2883
+BS714470			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134245		Serum	2883
+BS714402			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134260		Serum	2883
+BS714404			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134262		Serum	2883
+BS714415			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134278		Serum	2883
+BS714417			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134280		Serum	2883
+BS714418			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134281		Serum	2883
+BS714419			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134282		Serum	2883
+BS714421			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134285		Serum	2883
+BS714426			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134290		Serum	2883
+BS714481			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134260		Serum	2883
+BS714491			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134274		Serum	2883
+BS714495			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134279		Serum	2883
+BS714443			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134309		Serum	2883
+BS714357			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134298		Other	2883
+BS714364			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134308		Other	2883
+BS714370			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134315		Other	2883
+BS714311			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134239		Other	2883
+BS714317			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134248		Other	2883
+BS714325			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134260		Other	2883
+BS714333			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134269		Other	2883
+BS714338			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134277		Other	2883
+BS714340			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134279		Other	2883
+BS714343			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134282		Other	2883
+BS749935			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134309		PBMC	2883
+BS749946			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134238		PBMC	2883
+BS749953			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134282		PBMC	2883
+BS749955			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134291		PBMC	2883
+BS749971			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134317		PBMC	2883
+BS749904			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB142927		PBMC	2883
+BS749911			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134252		PBMC	2883
+BS747805			PV3362	SDY312	7	Days	Time of enrollment		SUB134266		Serum	2883
+BS747821			PV2933	SDY312	28	Days	Time of enrollment		SUB134274		Serum	2883
+BS747678			PV2933	SDY312	28	Days	Time of enrollment		SUB134309		Serum	2883
+BS747690			PV2932	SDY312	0	Days	Time of enrollment		SUB134314		Serum	2883
+BS747699			PV2932	SDY312	0	Days	Time of enrollment		SUB134318		Serum	2883
+BS747714			PV2932	SDY312	0	Days	Time of enrollment		SUB134323		Serum	2883
+BS747841			PV3362	SDY312	7	Days	Time of enrollment		SUB134282		Serum	2883
+BS747846			PV2932	SDY312	0	Days	Time of enrollment		SUB134285		Serum	2883
+BS747849			PV2932	SDY312	0	Days	Time of enrollment		SUB134286		Serum	2883
+BS747858			PV2933	SDY312	28	Days	Time of enrollment		SUB134289		Serum	2883
+BS747862			PV2932	SDY312	0	Days	Time of enrollment		SUB134291		Serum	2883
+BS747721			PV3362	SDY312	7	Days	Time of enrollment		SUB134325		Serum	2883
+BS747726			PV2933	SDY312	28	Days	Time of enrollment		SUB134266		Serum	2883
+BS747730			PV2932	SDY312	0	Days	Time of enrollment		SUB134237		Serum	2883
+BS747731			PV3362	SDY312	7	Days	Time of enrollment		SUB134237		Serum	2883
+BS747743			PV3362	SDY312	7	Days	Time of enrollment		SUB116449		Serum	2883
+BS747882			PV2933	SDY312	28	Days	Time of enrollment		SUB134298		Serum	2883
+BS747901			PV3362	SDY312	7	Days	Time of enrollment		SUB134307		Serum	2883
+BS747906			PV2932	SDY312	0	Days	Time of enrollment		SUB134303		Serum	2883
+BS747776			PV3362	SDY312	7	Days	Time of enrollment		SUB134252		Serum	2883
+BS747777			PV2933	SDY312	28	Days	Time of enrollment		SUB134252		Serum	2883
+BS747778			PV2932	SDY312	0	Days	Time of enrollment		SUB134254		Serum	2883
+BS747787			PV2932	SDY312	0	Days	Time of enrollment		SUB134259		Serum	2883
+BS965335			PV2933	SDY312	0	Days	Time of enrollment		SUB134325		Plasma	2883
+BS965340			PV2933	SDY312	0	Days	Time of enrollment		SUB134242		Plasma	2883
+BS965344			PV2933	SDY312	0	Days	Time of enrollment		SUB134248		Plasma	2883
+BS965345			PV2933	SDY312	0	Days	Time of enrollment		SUB134250		Plasma	2883
+BS965346			PV2933	SDY312	0	Days	Time of enrollment		SUB134254		Plasma	2883
+BS965361			PV2933	SDY312	0	Days	Time of enrollment		SUB134280		Plasma	2883
+BS965363			PV2933	SDY312	0	Days	Time of enrollment		SUB134282		Plasma	2883
+BS965372			PV2933	SDY312	0	Days	Time of enrollment		SUB134298		Plasma	2883
+BS965374			PV2933	SDY312	0	Days	Time of enrollment		SUB134301		Plasma	2883
+BS965382			PV2933	SDY312	0	Days	Time of enrollment		SUB134320		Plasma	2883
+BS965383			PV2933	SDY312	0	Days	Time of enrollment		SUB134321		Plasma	2883
+BS965386			PV2933	SDY312	0	Days	Time of enrollment		SUB134237		Plasma	2883
+BS965394			PV2933	SDY312	0	Days	Time of enrollment		SUB134272		Plasma	2883
+BS965396			PV2933	SDY312	0	Days	Time of enrollment		SUB134277		Plasma	2883
+BS965403			PV2933	SDY312	0	Days	Time of enrollment		SUB134302		Plasma	2883
+BS965405			PV2933	SDY312	0	Days	Time of enrollment		SUB134305		Plasma	2883
+BS965409			PV2933	SDY312	0	Days	Time of enrollment		SUB134314		Plasma	2883
+BS965411			PV2933	SDY312	0	Days	Time of enrollment		SUB134319		Plasma	2883
+BS965412			PV2933	SDY312	0	Days	Time of enrollment		SUB134323		Plasma	2883
+BS716797			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134285	PBMCs	PBMC	2883
+BS716798			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134286	PBMCs	PBMC	2883
+BS716814			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134302	PBMCs	PBMC	2883
+BS716782			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134264	PBMCs	PBMC	2883
+BS716783			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134266	PBMCs	PBMC	2883
+BS716786			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134270	PBMCs	PBMC	2883
+BS716789			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134275	PBMCs	PBMC	2883
+BS716774			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134247	PBMCs	PBMC	2883
+BS714447			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134313		Serum	2883
+BS714513			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134299		Serum	2883
+BS714517			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134303		Serum	2883
+BS714392			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134246		Serum	2883
+BS714458			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134325		Serum	2883
+BS714533			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134321		Serum	2883
+BS714535			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134323		Serum	2883
+BS714395			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134249		Serum	2883
+BS714411			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134273		Serum	2883
+BS714420			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134283		Serum	2883
+BS714424			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134288		Serum	2883
+BS714427			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134291		Serum	2883
+BS714429			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134293		Serum	2883
+BS714480			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134259		Serum	2883
+BS714484			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134263		Serum	2883
+BS714538			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134326		Serum	2883
+BS714488			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134270		Serum	2883
+BS714489			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134272		Serum	2883
+BS714438			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134303		Serum	2883
+BS714356			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134297		Other	2883
+BS714365			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134310		Other	2883
+BS714369			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134314		Other	2883
+BS714373			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134318		Other	2883
+BS714308			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134236		Other	2883
+BS714312			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134240		Other	2883
+BS714313			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134242		Other	2883
+BS714319			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134250		Other	2883
+BS714326			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134261		Other	2883
+BS714327			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134262		Other	2883
+BS714347			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134287		Other	2883
+BS714349			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134289		Other	2883
+BS714350			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134290		Other	2883
+BS749916			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134263		PBMC	2883
+BS749919			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134274		PBMC	2883
+BS749924			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134286		PBMC	2883
+BS749940			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134321		PBMC	2883
+BS749961			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134312		PBMC	2883
+BS749962			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134314		PBMC	2883
+BS749952			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134281		PBMC	2883
+BS749966			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134266		PBMC	2883
+BS749967			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134240		PBMC	2883
+BS749968			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134294		PBMC	2883
+BS749912			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134254		PBMC	2883
+BS747800			PV2933	SDY312	28	Days	Time of enrollment		SUB134263		Serum	2883
+BS747824			PV2933	SDY312	28	Days	Time of enrollment		SUB134275		Serum	2883
+BS747825			PV2932	SDY312	0	Days	Time of enrollment		SUB134277		Serum	2883
+BS747676			PV2932	SDY312	0	Days	Time of enrollment		SUB134309		Serum	2883
+BS747692			PV2933	SDY312	28	Days	Time of enrollment		SUB134314		Serum	2883
+BS747700			PV3362	SDY312	7	Days	Time of enrollment		SUB134318		Serum	2883
+BS747701			PV2933	SDY312	28	Days	Time of enrollment		SUB134318		Serum	2883
+BS747705			PV2932	SDY312	0	Days	Time of enrollment		SUB134320		Serum	2883
+BS747712			PV3362	SDY312	7	Days	Time of enrollment		SUB134322		Serum	2883
+BS747847			PV3362	SDY312	7	Days	Time of enrollment		SUB134285		Serum	2883
+BS747857			PV3362	SDY312	7	Days	Time of enrollment		SUB134289		Serum	2883
+BS747861			PV2933	SDY312	28	Days	Time of enrollment		SUB134290		Serum	2883
+BS747716			PV2933	SDY312	28	Days	Time of enrollment		SUB134323		Serum	2883
+BS747728			PV3362	SDY312	7	Days	Time of enrollment		SUB134236		Serum	2883
+BS747737			PV3362	SDY312	7	Days	Time of enrollment		SUB134239		Serum	2883
+BS747741			PV2933	SDY312	28	Days	Time of enrollment		SUB134240		Serum	2883
+BS747742			PV2932	SDY312	0	Days	Time of enrollment		SUB116449		Serum	2883
+BS747745			PV2932	SDY312	0	Days	Time of enrollment		SUB134241		Serum	2883
+BS747750			PV2933	SDY312	28	Days	Time of enrollment		SUB134242		Serum	2883
+BS747875			PV2933	SDY312	28	Days	Time of enrollment		SUB134295		Serum	2883
+BS747880			PV2932	SDY312	0	Days	Time of enrollment		SUB134298		Serum	2883
+BS747885			PV2933	SDY312	28	Days	Time of enrollment		SUB134299		Serum	2883
+BS747894			PV2933	SDY312	28	Days	Time of enrollment		SUB134302		Serum	2883
+BS747903			PV2932	SDY312	0	Days	Time of enrollment		SUB134308		Serum	2883
+BS747866			PV3362	SDY312	7	Days	Time of enrollment		SUB134292		Serum	2883
+BS747755			PV3362	SDY312	7	Days	Time of enrollment		SUB134244		Serum	2883
+BS747766			PV2932	SDY312	0	Days	Time of enrollment		SUB134248		Serum	2883
+BS747768			PV2933	SDY312	28	Days	Time of enrollment		SUB134248		Serum	2883
+BS747780			PV2933	SDY312	28	Days	Time of enrollment		SUB134254		Serum	2883
+BS747793			PV3362	SDY312	7	Days	Time of enrollment		SUB134261		Serum	2883
+BS965342			PV2933	SDY312	0	Days	Time of enrollment		SUB134244		Plasma	2883
+BS965353			PV2933	SDY312	0	Days	Time of enrollment		SUB134266		Plasma	2883
+BS965357			PV2933	SDY312	0	Days	Time of enrollment		SUB134273		Plasma	2883
+BS965364			PV2933	SDY312	0	Days	Time of enrollment		SUB134286		Plasma	2883
+BS965365			PV2933	SDY312	0	Days	Time of enrollment		SUB134288		Plasma	2883
+BS965367			PV2933	SDY312	0	Days	Time of enrollment		SUB134290		Plasma	2883
+BS965388			PV2933	SDY312	0	Days	Time of enrollment		SUB134241		Plasma	2883
+BS965392			PV2933	SDY312	0	Days	Time of enrollment		SUB134252		Plasma	2883
+BS965395			PV2933	SDY312	0	Days	Time of enrollment		SUB134275		Plasma	2883
+BS965399			PV2933	SDY312	0	Days	Time of enrollment		SUB134287		Plasma	2883
+BS965400			PV2933	SDY312	0	Days	Time of enrollment		SUB134291		Plasma	2883
+BS965407			PV2933	SDY312	0	Days	Time of enrollment		SUB134311		Plasma	2883
+BS716820			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134309	PBMCs	PBMC	2883
+BS716823			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134312	PBMCs	PBMC	2883
+BS716828			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134317	PBMCs	PBMC	2883
+BS716777			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134250	PBMCs	PBMC	2883
+BS716791			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134278	PBMCs	PBMC	2883
+BS716771			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134244	PBMCs	PBMC	2883
+BS716772			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134245	PBMCs	PBMC	2883
+BS714502			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134287		Serum	2883
+BS714503			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134288		Serum	2883
+BS714455			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134322		Serum	2883
+BS714516			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134302		Serum	2883
+BS714518			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134304		Serum	2883
+BS714383			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134238		Serum	2883
+BS714393			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134247		Serum	2883
+BS714461			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134237		Serum	2883
+BS714531			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134319		Serum	2883
+BS714471			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134246		Serum	2883
+BS714473			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134248		Serum	2883
+BS714398			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134254		Serum	2883
+BS714401			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134259		Serum	2883
+BS714414			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134277		Serum	2883
+BS714422			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134286		Serum	2883
+BS714497			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134281		Serum	2883
+BS714358			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134299		Other	2883
+BS714360			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134301		Other	2883
+BS714309			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134237		Other	2883
+BS714315			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134245		Other	2883
+BS714323			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134257		Other	2883
+BS714332			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134268		Other	2883
+BS714348			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134288		Other	2883
+BS749917			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134268		PBMC	2883
+BS749920			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134277		PBMC	2883
+BS749923			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134285		PBMC	2883
+BS749928			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134296		PBMC	2883
+BS749932			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134301		PBMC	2883
+BS749936			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134310		PBMC	2883
+BS749950			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134275		PBMC	2883
+BS749956			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134293		PBMC	2883
+BS749965			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134247		PBMC	2883
+BS749969			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134295		PBMC	2883
+BS749907			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134245		PBMC	2883
+BS749915			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134260		PBMC	2883
+BS747797			PV2933	SDY312	28	Days	Time of enrollment		SUB134262		Serum	2883
+BS747803			PV2933	SDY312	28	Days	Time of enrollment		SUB134264		Serum	2883
+BS747808			PV3362	SDY312	7	Days	Time of enrollment		SUB134269		Serum	2883
+BS747815			PV2933	SDY312	28	Days	Time of enrollment		SUB134272		Serum	2883
+BS747828			PV2932	SDY312	0	Days	Time of enrollment		SUB134278		Serum	2883
+BS747831			PV2932	SDY312	0	Days	Time of enrollment		SUB134279		Serum	2883
+BS747689			PV2933	SDY312	28	Days	Time of enrollment		SUB134313		Serum	2883
+BS747694			PV3362	SDY312	7	Days	Time of enrollment		SUB134315		Serum	2883
+BS747698			PV2933	SDY312	28	Days	Time of enrollment		SUB134317		Serum	2883
+BS747708			PV2932	SDY312	0	Days	Time of enrollment		SUB134321		Serum	2883
+BS747713			PV2933	SDY312	28	Days	Time of enrollment		SUB134322		Serum	2883
+BS747844			PV3362	SDY312	7	Days	Time of enrollment		SUB134283		Serum	2883
+BS747850			PV3362	SDY312	7	Days	Time of enrollment		SUB134286		Serum	2883
+BS747860			PV3362	SDY312	7	Days	Time of enrollment		SUB134290		Serum	2883
+BS747863			PV3362	SDY312	7	Days	Time of enrollment		SUB134291		Serum	2883
+BS747717			PV2932	SDY312	0	Days	Time of enrollment		SUB134324		Serum	2883
+BS747724			PV3362	SDY312	7	Days	Time of enrollment		SUB134326		Serum	2883
+BS747725			PV2933	SDY312	28	Days	Time of enrollment		SUB134326		Serum	2883
+BS747729			PV2933	SDY312	28	Days	Time of enrollment		SUB134236		Serum	2883
+BS747733			PV2932	SDY312	0	Days	Time of enrollment		SUB134238		Serum	2883
+BS747735			PV2933	SDY312	28	Days	Time of enrollment		SUB134238		Serum	2883
+BS747738			PV2933	SDY312	28	Days	Time of enrollment		SUB134239		Serum	2883
+BS747746			PV3362	SDY312	7	Days	Time of enrollment		SUB134241		Serum	2883
+BS747867			PV2933	SDY312	28	Days	Time of enrollment		SUB134292		Serum	2883
+BS747873			PV2933	SDY312	28	Days	Time of enrollment		SUB134294		Serum	2883
+BS747757			PV2932	SDY312	0	Days	Time of enrollment		SUB134245		Serum	2883
+BS747758			PV3362	SDY312	7	Days	Time of enrollment		SUB134245		Serum	2883
+BS747767			PV3362	SDY312	7	Days	Time of enrollment		SUB134248		Serum	2883
+BS747770			PV3362	SDY312	7	Days	Time of enrollment		SUB134249		Serum	2883
+BS747774			PV2933	SDY312	28	Days	Time of enrollment		SUB134250		Serum	2883
+BS747779			PV3362	SDY312	7	Days	Time of enrollment		SUB134254		Serum	2883
+BS747792			PV2932	SDY312	0	Days	Time of enrollment		SUB134261		Serum	2883
+BS965350			PV2933	SDY312	0	Days	Time of enrollment		SUB134262		Plasma	2883
+BS965355			PV2933	SDY312	0	Days	Time of enrollment		SUB134269		Plasma	2883
+BS965359			PV2933	SDY312	0	Days	Time of enrollment		SUB134278		Plasma	2883
+BS965373			PV2933	SDY312	0	Days	Time of enrollment		SUB134300		Plasma	2883
+BS965376			PV2933	SDY312	0	Days	Time of enrollment		SUB134308		Plasma	2883
+BS965390			PV2933	SDY312	0	Days	Time of enrollment		SUB134246		Plasma	2883
+BS965404			PV2933	SDY312	0	Days	Time of enrollment		SUB134304		Plasma	2883
+BS716800			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134288	PBMCs	PBMC	2883
+BS716808			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134296	PBMCs	PBMC	2883
+BS716809			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134297	PBMCs	PBMC	2883
+BS716834			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134323	PBMCs	PBMC	2883
+BS716780			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134256	PBMCs	PBMC	2883
+BS716781			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134257	PBMCs	PBMC	2883
+BS716763			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134237	PBMCs	PBMC	2883
+BS716769			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134242	PBMCs	PBMC	2883
+BS716837			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134326	PBMCs	PBMC	2883
+BS714456			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134323		Serum	2883
+BS714507			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134292		Serum	2883
+BS714389			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134243		Serum	2883
+BS714528			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134315		Serum	2883
+BS714529			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134317		Serum	2883
+BS714530			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134318		Serum	2883
+BS714403			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134261		Serum	2883
+BS714423			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134287		Serum	2883
+BS714430			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134294		Serum	2883
+BS714432			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134297		Serum	2883
+BS714479			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134257		Serum	2883
+BS714482			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134261		Serum	2883
+BS714483			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134262		Serum	2883
+BS714536			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134324		Serum	2883
+BS714487			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134269		Serum	2883
+BS714437			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134302		Serum	2883
+BS714441			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134307		Serum	2883
+BS714359			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134300		Other	2883
+BS714361			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134303		Other	2883
+BS714363			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134305		Other	2883
+BS714374			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134319		Other	2883
+BS714310			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134238		Other	2883
+BS714321			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134254		Other	2883
+BS714329			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134264		Other	2883
+BS749925			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134287		PBMC	2883
+BS749926			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134289		PBMC	2883
+BS749929			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134297		PBMC	2883
+BS749930			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB116449		PBMC	2883
+BS749958			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134300		PBMC	2883
+BS749959			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134302		PBMC	2883
+BS749963			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134324		PBMC	2883
+BS749947			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134261		PBMC	2883
+BS749964			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134236		PBMC	2883
+BS749908			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134246		PBMC	2883
+BS747795			PV2932	SDY312	0	Days	Time of enrollment		SUB134262		Serum	2883
+BS747798			PV2932	SDY312	0	Days	Time of enrollment		SUB134263		Serum	2883
+BS747804			PV2932	SDY312	0	Days	Time of enrollment		SUB134266		Serum	2883
+BS747809			PV2933	SDY312	28	Days	Time of enrollment		SUB134269		Serum	2883
+BS747810			PV2932	SDY312	0	Days	Time of enrollment		SUB134270		Serum	2883
+BS747817			PV3362	SDY312	7	Days	Time of enrollment		SUB134273		Serum	2883
+BS747820			PV3362	SDY312	7	Days	Time of enrollment		SUB134274		Serum	2883
+BS747683			PV3362	SDY312	7	Days	Time of enrollment		SUB134311		Serum	2883
+BS747687			PV2932	SDY312	0	Days	Time of enrollment		SUB134313		Serum	2883
+BS747688			PV3362	SDY312	7	Days	Time of enrollment		SUB134313		Serum	2883
+BS747702			PV2932	SDY312	0	Days	Time of enrollment		SUB134319		Serum	2883
+BS747706			PV3362	SDY312	7	Days	Time of enrollment		SUB134320		Serum	2883
+BS747709			PV3362	SDY312	7	Days	Time of enrollment		SUB134321		Serum	2883
+BS747710			PV2933	SDY312	28	Days	Time of enrollment		SUB134321		Serum	2883
+BS747837			PV2932	SDY312	0	Days	Time of enrollment		SUB134281		Serum	2883
+BS747854			PV2932	SDY312	0	Days	Time of enrollment		SUB134288		Serum	2883
+BS747723			PV2932	SDY312	0	Days	Time of enrollment		SUB134326		Serum	2883
+BS747747			PV2933	SDY312	28	Days	Time of enrollment		SUB134241		Serum	2883
+BS747748			PV2932	SDY312	0	Days	Time of enrollment		SUB134242		Serum	2883
+BS747884			PV3362	SDY312	7	Days	Time of enrollment		SUB134299		Serum	2883
+BS747887			PV3362	SDY312	7	Days	Time of enrollment		SUB134300		Serum	2883
+BS747888			PV2933	SDY312	28	Days	Time of enrollment		SUB134300		Serum	2883
+BS747890			PV3362	SDY312	7	Days	Time of enrollment		SUB134301		Serum	2883
+BS747891			PV2933	SDY312	28	Days	Time of enrollment		SUB134301		Serum	2883
+BS747896			PV3362	SDY312	7	Days	Time of enrollment		SUB134304		Serum	2883
+BS747898			PV2932	SDY312	0	Days	Time of enrollment		SUB134305		Serum	2883
+BS747900			PV2932	SDY312	0	Days	Time of enrollment		SUB134307		Serum	2883
+BS747905			PV2933	SDY312	28	Days	Time of enrollment		SUB134308		Serum	2883
+BS747759			PV2933	SDY312	28	Days	Time of enrollment		SUB134245		Serum	2883
+BS747765			PV2933	SDY312	28	Days	Time of enrollment		SUB134247		Serum	2883
+BS747772			PV2932	SDY312	0	Days	Time of enrollment		SUB134250		Serum	2883
+BS747790			PV3362	SDY312	7	Days	Time of enrollment		SUB134260		Serum	2883
+BS747794			PV2933	SDY312	28	Days	Time of enrollment		SUB134261		Serum	2883
+BS965334			PV2933	SDY312	0	Days	Time of enrollment		SUB134303		Plasma	2883
+BS965339			PV2933	SDY312	0	Days	Time of enrollment		SUB134240		Plasma	2883
+BS965378			PV2933	SDY312	0	Days	Time of enrollment		SUB134312		Plasma	2883
+BS965397			PV2933	SDY312	0	Days	Time of enrollment		SUB134283		Plasma	2883
+BS965398			PV2933	SDY312	0	Days	Time of enrollment		SUB134285		Plasma	2883
+BS965414			PV2933	SDY312	0	Days	Time of enrollment		SUB134326		Plasma	2883
+BS716802			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134290	PBMCs	PBMC	2883
+BS716816			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134304	PBMCs	PBMC	2883
+BS716826			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134315	PBMCs	PBMC	2883
+BS716785			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134269	PBMCs	PBMC	2883
+BS716788			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134274	PBMCs	PBMC	2883
+BS716762			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134236	PBMCs	PBMC	2883
+BS716764			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134238	PBMCs	PBMC	2883
+BS716767			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB116449	PBMCs	PBMC	2883
+BS714446			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134312		Serum	2883
+BS714506			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134291		Serum	2883
+BS714509			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134294		Serum	2883
+BS714515			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134301		Serum	2883
+BS714382			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134237		Serum	2883
+BS714384			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134239		Serum	2883
+BS714394			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134248		Serum	2883
+BS714521			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134308		Serum	2883
+BS714523			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134310		Serum	2883
+BS714524			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134311		Serum	2883
+BS714525			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134312		Serum	2883
+BS714464			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134240		Serum	2883
+BS714474			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134249		Serum	2883
+BS714399			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134256		Serum	2883
+BS714408			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134269		Serum	2883
+BS714425			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134289		Serum	2883
+BS714537			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134325		Serum	2883
+BS714492			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134275		Serum	2883
+BS714493			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134277		Serum	2883
+BS714354			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134295		Other	2883
+BS714362			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134304		Other	2883
+BS714367			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134312		Other	2883
+BS714375			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134320		Other	2883
+BS714378			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134323		Other	2883
+BS714380			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134325		Other	2883
+BS714316			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134246		Other	2883
+BS714324			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134259		Other	2883
+BS714330			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134266		Other	2883
+BS714331			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134267		Other	2883
+BS714334			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134272		Other	2883
+BS714346			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134286		Other	2883
+BS749939			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134320		PBMC	2883
+BS749943			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134326		PBMC	2883
+BS749970			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134305		PBMC	2883
+BS749909			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134250		PBMC	2883
+BS749910			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134237		PBMC	2883
+BS749914			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134259		PBMC	2883
+BS747796			PV3362	SDY312	7	Days	Time of enrollment		SUB134262		Serum	2883
+BS747819			PV2932	SDY312	0	Days	Time of enrollment		SUB134274		Serum	2883
+BS747827			PV2933	SDY312	28	Days	Time of enrollment		SUB134277		Serum	2883
+BS747691			PV3362	SDY312	7	Days	Time of enrollment		SUB134314		Serum	2883
+BS747696			PV2932	SDY312	0	Days	Time of enrollment		SUB134317		Serum	2883
+BS747711			PV2932	SDY312	0	Days	Time of enrollment		SUB134322		Serum	2883
+BS747836			PV2933	SDY312	28	Days	Time of enrollment		SUB134280		Serum	2883
+BS747838			PV3362	SDY312	7	Days	Time of enrollment		SUB134281		Serum	2883
+BS747852			PV2932	SDY312	0	Days	Time of enrollment		SUB134287		Serum	2883
+BS747853			PV2933	SDY312	28	Days	Time of enrollment		SUB134287		Serum	2883
+BS747856			PV2932	SDY312	0	Days	Time of enrollment		SUB134289		Serum	2883
+BS747864			PV2933	SDY312	28	Days	Time of enrollment		SUB134291		Serum	2883
+BS747715			PV3362	SDY312	7	Days	Time of enrollment		SUB134323		Serum	2883
+BS747722			PV2933	SDY312	28	Days	Time of enrollment		SUB134325		Serum	2883
+BS747727			PV2932	SDY312	0	Days	Time of enrollment		SUB134236		Serum	2883
+BS747732			PV2933	SDY312	28	Days	Time of enrollment		SUB134237		Serum	2883
+BS747753			PV2933	SDY312	28	Days	Time of enrollment		SUB134243		Serum	2883
+BS747868			PV2932	SDY312	0	Days	Time of enrollment		SUB134293		Serum	2883
+BS747878			PV2932	SDY312	0	Days	Time of enrollment		SUB134297		Serum	2883
+BS747879			PV2933	SDY312	28	Days	Time of enrollment		SUB134297		Serum	2883
+BS747881			PV3362	SDY312	7	Days	Time of enrollment		SUB134298		Serum	2883
+BS747895			PV2932	SDY312	0	Days	Time of enrollment		SUB134304		Serum	2883
+BS747763			PV2932	SDY312	0	Days	Time of enrollment		SUB134247		Serum	2883
+BS747781			PV2932	SDY312	0	Days	Time of enrollment		SUB134256		Serum	2883
+BS747782			PV3362	SDY312	7	Days	Time of enrollment		SUB134256		Serum	2883
+BS747785			PV3362	SDY312	7	Days	Time of enrollment		SUB134257		Serum	2883
+BS747788			PV2933	SDY312	28	Days	Time of enrollment		SUB134259		Serum	2883
+BS747789			PV2932	SDY312	0	Days	Time of enrollment		SUB134260		Serum	2883
+BS965336			PV2933	SDY312	0	Days	Time of enrollment		SUB134256		Plasma	2883
+BS965348			PV2933	SDY312	0	Days	Time of enrollment		SUB134260		Plasma	2883
+BS965349			PV2933	SDY312	0	Days	Time of enrollment		SUB134261		Plasma	2883
+BS965358			PV2933	SDY312	0	Days	Time of enrollment		SUB134274		Plasma	2883
+BS965384			PV2933	SDY312	0	Days	Time of enrollment		SUB134322		Plasma	2883
+BS965391			PV2933	SDY312	0	Days	Time of enrollment		SUB134249		Plasma	2883
+BS965410			PV2933	SDY312	0	Days	Time of enrollment		SUB134316		Plasma	2883
+BS716810			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134298	PBMCs	PBMC	2883
+BS716817			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134305	PBMCs	PBMC	2883
+BS716822			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134311	PBMCs	PBMC	2883
+BS716827			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134316	PBMCs	PBMC	2883
+BS716829			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134318	PBMCs	PBMC	2883
+BS716776			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134249	PBMCs	PBMC	2883
+BS716778			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134252	PBMCs	PBMC	2883
+BS716779			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134254	PBMCs	PBMC	2883
+BS716794			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134281	PBMCs	PBMC	2883
+BS716836			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134325	PBMCs	PBMC	2883
+BS714499			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134283		Serum	2883
+BS714510			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134295		Serum	2883
+BS714514			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134300		Serum	2883
+BS714519			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134305		Serum	2883
+BS714387			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134241		Serum	2883
+BS714460			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134236		Serum	2883
+BS714522			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134309		Serum	2883
+BS714466			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134241		Serum	2883
+BS714407			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134266		Serum	2883
+BS714409			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134270		Serum	2883
+BS714410			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134272		Serum	2883
+BS714413			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134275		Serum	2883
+BS714416			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134279		Serum	2883
+BS714433			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134298		Serum	2883
+BS714485			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134264		Serum	2883
+BS714440			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134305		Serum	2883
+BS714442			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134308		Serum	2883
+BS714445			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134311		Serum	2883
+BS714355			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134296		Other	2883
+BS714372			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134317		Other	2883
+BS714314			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134244		Other	2883
+BS714318			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134249		Other	2883
+BS714336			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134274		Other	2883
+BS714339			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134278		Other	2883
+BS714341			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134280		Other	2883
+BS714351			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134292		Other	2883
+BS714352			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134293		Other	2883
+BS714353			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134294		Other	2883
+BS749922			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134280		PBMC	2883
+BS749938			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134313		PBMC	2883
+BS749942			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134325		PBMC	2883
+BS749945			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134249		PBMC	2883
+BS749913			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134256		PBMC	2883
+BS747799			PV3362	SDY312	7	Days	Time of enrollment		SUB134263		Serum	2883
+BS747832			PV3362	SDY312	7	Days	Time of enrollment		SUB134279		Serum	2883
+BS747679			PV2932	SDY312	0	Days	Time of enrollment		SUB134310		Serum	2883
+BS747684			PV2933	SDY312	28	Days	Time of enrollment		SUB134311		Serum	2883
+BS747685			PV2932	SDY312	0	Days	Time of enrollment		SUB134312		Serum	2883
+BS747835			PV3362	SDY312	7	Days	Time of enrollment		SUB134280		Serum	2883
+BS747843			PV2932	SDY312	0	Days	Time of enrollment		SUB134283		Serum	2883
+BS747845			PV2933	SDY312	28	Days	Time of enrollment		SUB134283		Serum	2883
+BS747865			PV2932	SDY312	0	Days	Time of enrollment		SUB134292		Serum	2883
+BS747718			PV3362	SDY312	7	Days	Time of enrollment		SUB134324		Serum	2883
+BS747720			PV2932	SDY312	0	Days	Time of enrollment		SUB134325		Serum	2883
+BS747734			PV3362	SDY312	7	Days	Time of enrollment		SUB134238		Serum	2883
+BS747740			PV3362	SDY312	7	Days	Time of enrollment		SUB134240		Serum	2883
+BS747744			PV2933	SDY312	28	Days	Time of enrollment		SUB116449		Serum	2883
+BS747751			PV2932	SDY312	0	Days	Time of enrollment		SUB134243		Serum	2883
+BS747752			PV3362	SDY312	7	Days	Time of enrollment		SUB134243		Serum	2883
+BS747754			PV2932	SDY312	0	Days	Time of enrollment		SUB134244		Serum	2883
+BS747872			PV3362	SDY312	7	Days	Time of enrollment		SUB134294		Serum	2883
+BS747877			PV3362	SDY312	7	Days	Time of enrollment		SUB134296		Serum	2883
+BS747883			PV2932	SDY312	0	Days	Time of enrollment		SUB134299		Serum	2883
+BS747893			PV3362	SDY312	7	Days	Time of enrollment		SUB134302		Serum	2883
+BS747899			PV2933	SDY312	28	Days	Time of enrollment		SUB134305		Serum	2883
+BS747761			PV3362	SDY312	7	Days	Time of enrollment		SUB134246		Serum	2883
+BS747771			PV2933	SDY312	28	Days	Time of enrollment		SUB134249		Serum	2883
+BS747773			PV3362	SDY312	7	Days	Time of enrollment		SUB134250		Serum	2883
+BS747775			PV2932	SDY312	0	Days	Time of enrollment		SUB134252		Serum	2883
+BS747791			PV2933	SDY312	28	Days	Time of enrollment		SUB134260		Serum	2883
+BS747908			PV2933	SDY312	28	Days	Time of enrollment		SUB134303		Serum	2883
+BS965338			PV2933	SDY312	0	Days	Time of enrollment		SUB134239		Plasma	2883
+BS965343			PV2933	SDY312	0	Days	Time of enrollment		SUB134247		Plasma	2883
+BS965347			PV2933	SDY312	0	Days	Time of enrollment		SUB134257		Plasma	2883
+BS965356			PV2933	SDY312	0	Days	Time of enrollment		SUB134270		Plasma	2883
+BS965369			PV2933	SDY312	0	Days	Time of enrollment		SUB134293		Plasma	2883
+BS965371			PV2933	SDY312	0	Days	Time of enrollment		SUB134297		Plasma	2883
+BS965377			PV2933	SDY312	0	Days	Time of enrollment		SUB134310		Plasma	2883
+BS965387			PV2933	SDY312	0	Days	Time of enrollment		SUB116449		Plasma	2883
+BS965401			PV2933	SDY312	0	Days	Time of enrollment		SUB134296		Plasma	2883
+BS716795			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134282	PBMCs	PBMC	2883
+BS716796			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134283	PBMCs	PBMC	2883
+BS716803			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134291	PBMCs	PBMC	2883
+BS716805			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134293	PBMCs	PBMC	2883
+BS716807			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134295	PBMCs	PBMC	2883
+BS716815			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134303	PBMCs	PBMC	2883
+BS716818			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134307	PBMCs	PBMC	2883
+BS716819			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134308	PBMCs	PBMC	2883
+BS716824			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134313	PBMCs	PBMC	2883
+BS716825			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134314	PBMCs	PBMC	2883
+BS716830			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134319	PBMCs	PBMC	2883
+BS716790			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134277	PBMCs	PBMC	2883
+BS716792			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134279	PBMCs	PBMC	2883
+BS716770			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134243	PBMCs	PBMC	2883
+BS716835			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134324	PBMCs	PBMC	2883
+BS714449			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134315		Serum	2883
+BS714450			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134317		Serum	2883
+BS714453			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134320		Serum	2883
+BS714504			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134289		Serum	2883
+BS714505			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134290		Serum	2883
+BS714512			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134298		Serum	2883
+BS714385			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134240		Serum	2883
+BS714386			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB116449		Serum	2883
+BS714390			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134244		Serum	2883
+BS714457			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134324		Serum	2883
+BS714462			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134238		Serum	2883
+BS714463			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134239		Serum	2883
+BS714526			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134313		Serum	2883
+BS714527			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134314		Serum	2883
+BS714465			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB116449		Serum	2883
+BS714472			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134247		Serum	2883
+BS714397			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134252		Serum	2883
+BS714405			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134263		Serum	2883
+BS714406			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134264		Serum	2883
+BS714476			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134252		Serum	2883
+BS714477			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134254		Serum	2883
+BS714478			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134256		Serum	2883
+BS714494			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134278		Serum	2883
+BS714496			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134280		Serum	2883
+BS714435			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134300		Serum	2883
+BS714439			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134304		Serum	2883
+BS714366			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134311		Other	2883
+BS714368			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134313		Other	2883
+BS714377			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134322		Other	2883
+BS714320			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134252		Other	2883
+BS714328			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134263		Other	2883
+BS714337			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134275		Other	2883
+BS749973			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134322		PBMC	2883
+BS749927			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134290		PBMC	2883
+BS749931			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134298		PBMC	2883
+BS749957			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134299		PBMC	2883
+BS749960			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134308		PBMC	2883
+BS749948			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134239		PBMC	2883
+BS749951			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134278		PBMC	2883
+BS749954			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134288		PBMC	2883
+BS749972			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134318		PBMC	2883
+BS749906			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134244		PBMC	2883
+BS747801			PV2932	SDY312	0	Days	Time of enrollment		SUB134264		Serum	2883
+BS747806			PV2932	SDY312	0	Days	Time of enrollment		SUB134268		Serum	2883
+BS747812			PV2933	SDY312	28	Days	Time of enrollment		SUB134270		Serum	2883
+BS747813			PV2932	SDY312	0	Days	Time of enrollment		SUB134272		Serum	2883
+BS747818			PV2933	SDY312	28	Days	Time of enrollment		SUB134273		Serum	2883
+BS747822			PV2932	SDY312	0	Days	Time of enrollment		SUB134275		Serum	2883
+BS747829			PV3362	SDY312	7	Days	Time of enrollment		SUB134278		Serum	2883
+BS747830			PV2933	SDY312	28	Days	Time of enrollment		SUB134278		Serum	2883
+BS747833			PV2933	SDY312	28	Days	Time of enrollment		SUB134279		Serum	2883
+BS747834			PV2932	SDY312	0	Days	Time of enrollment		SUB134280		Serum	2883
+BS747680			PV3362	SDY312	7	Days	Time of enrollment		SUB134310		Serum	2883
+BS747703			PV3362	SDY312	7	Days	Time of enrollment		SUB134319		Serum	2883
+BS747704			PV2933	SDY312	28	Days	Time of enrollment		SUB134319		Serum	2883
+BS747707			PV2933	SDY312	28	Days	Time of enrollment		SUB134320		Serum	2883
+BS747839			PV2933	SDY312	28	Days	Time of enrollment		SUB134281		Serum	2883
+BS747842			PV2933	SDY312	28	Days	Time of enrollment		SUB134282		Serum	2883
+BS747855			PV2933	SDY312	28	Days	Time of enrollment		SUB134288		Serum	2883
+BS747736			PV2932	SDY312	0	Days	Time of enrollment		SUB134239		Serum	2883
+BS747749			PV3362	SDY312	7	Days	Time of enrollment		SUB134242		Serum	2883
+BS747869			PV3362	SDY312	7	Days	Time of enrollment		SUB134293		Serum	2883
+BS747870			PV2933	SDY312	28	Days	Time of enrollment		SUB134293		Serum	2883
+BS747871			PV2932	SDY312	0	Days	Time of enrollment		SUB134294		Serum	2883
+BS747876			PV2932	SDY312	0	Days	Time of enrollment		SUB134296		Serum	2883
+BS747889			PV2932	SDY312	0	Days	Time of enrollment		SUB134301		Serum	2883
+BS747897			PV2933	SDY312	28	Days	Time of enrollment		SUB134304		Serum	2883
+BS747904			PV3362	SDY312	7	Days	Time of enrollment		SUB134308		Serum	2883
+BS747756			PV2933	SDY312	28	Days	Time of enrollment		SUB134244		Serum	2883
+BS747760			PV2932	SDY312	0	Days	Time of enrollment		SUB134246		Serum	2883
+BS747762			PV2933	SDY312	28	Days	Time of enrollment		SUB134246		Serum	2883
+BS747769			PV2932	SDY312	0	Days	Time of enrollment		SUB134249		Serum	2883
+BS747784			PV2932	SDY312	0	Days	Time of enrollment		SUB134257		Serum	2883
+BS747786			PV2933	SDY312	28	Days	Time of enrollment		SUB134257		Serum	2883
+BS965332			PV2933	SDY312	0	Days	Time of enrollment		SUB134259		Plasma	2883
+BS965354			PV2933	SDY312	0	Days	Time of enrollment		SUB134267		Plasma	2883
+BS965362			PV2933	SDY312	0	Days	Time of enrollment		SUB134281		Plasma	2883
+BS965379			PV2933	SDY312	0	Days	Time of enrollment		SUB134315		Plasma	2883
+BS965380			PV2933	SDY312	0	Days	Time of enrollment		SUB134317		Plasma	2883
+BS965381			PV2933	SDY312	0	Days	Time of enrollment		SUB134318		Plasma	2883
+BS965385			PV2933	SDY312	0	Days	Time of enrollment		SUB134236		Plasma	2883
+BS965389			PV2933	SDY312	0	Days	Time of enrollment		SUB134245		Plasma	2883
+BS965393			PV2933	SDY312	0	Days	Time of enrollment		SUB134268		Plasma	2883
+BS965402			PV2933	SDY312	0	Days	Time of enrollment		SUB134299		Plasma	2883
+BS965406			PV2933	SDY312	0	Days	Time of enrollment		SUB134309		Plasma	2883
+BS716799			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134287	PBMCs	PBMC	2883
+BS716801			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134289	PBMCs	PBMC	2883
+BS716806			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134294	PBMCs	PBMC	2883
+BS716812			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134300	PBMCs	PBMC	2883
+BS716813			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134301	PBMCs	PBMC	2883
+BS716831			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134320	PBMCs	PBMC	2883
+BS716765			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134239	PBMCs	PBMC	2883
+BS716768			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134241	PBMCs	PBMC	2883
+BS714451			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134318		Serum	2883
+BS714498			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134282		Serum	2883
+BS714500			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134285		Serum	2883
+BS714501			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134286		Serum	2883
+BS714511			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134297		Serum	2883
+BS714381			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134236		Serum	2883
+BS714388			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134242		Serum	2883
+BS714391			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134245		Serum	2883
+BS714520			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134307		Serum	2883
+BS714534			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134322		Serum	2883
+BS714467			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134242		Serum	2883
+BS714396			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134250		Serum	2883
+BS714400			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134257		Serum	2883
+BS714412			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134274		Serum	2883
+BS714428			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134292		Serum	2883
+BS714431			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134295		Serum	2883
+BS714434			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134299		Serum	2883
+BS714475			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134250		Serum	2883
+BS714486			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134266		Serum	2883
+BS714490			PV2933	SDY312	28	Days	Time of initial vaccine administration		SUB134273		Serum	2883
+BS714436			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134301		Serum	2883
+BS714444			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134310		Serum	2883
+BS714371			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134316		Other	2883
+BS714376			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134321		Other	2883
+BS714379			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134324		Other	2883
+BS714322			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134256		Other	2883
+BS714335			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134273		Other	2883
+BS714342			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134281		Other	2883
+BS714344			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134283		Other	2883
+BS714345			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134285		Other	2883
+BS749918			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134272		PBMC	2883
+BS749921			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134279		PBMC	2883
+BS749933			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134304		PBMC	2883
+BS749934			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134241		PBMC	2883
+BS749937			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134311		PBMC	2883
+BS749941			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134323		PBMC	2883
+BS749944			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134248		PBMC	2883
+BS749949			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134273		PBMC	2883
+BS749905			PV2932	SDY312	0	Days	Time of initial vaccine administration		SUB134242		PBMC	2883
+BS747802			PV3362	SDY312	7	Days	Time of enrollment		SUB134264		Serum	2883
+BS747807			PV2932	SDY312	0	Days	Time of enrollment		SUB134269		Serum	2883
+BS747811			PV3362	SDY312	7	Days	Time of enrollment		SUB134270		Serum	2883
+BS747814			PV3362	SDY312	7	Days	Time of enrollment		SUB134272		Serum	2883
+BS747816			PV2932	SDY312	0	Days	Time of enrollment		SUB134273		Serum	2883
+BS747823			PV3362	SDY312	7	Days	Time of enrollment		SUB134275		Serum	2883
+BS747826			PV3362	SDY312	7	Days	Time of enrollment		SUB134277		Serum	2883
+BS747677			PV3362	SDY312	7	Days	Time of enrollment		SUB134309		Serum	2883
+BS747681			PV2933	SDY312	28	Days	Time of enrollment		SUB134310		Serum	2883
+BS747682			PV2932	SDY312	0	Days	Time of enrollment		SUB134311		Serum	2883
+BS747686			PV2933	SDY312	28	Days	Time of enrollment		SUB134312		Serum	2883
+BS747693			PV2932	SDY312	0	Days	Time of enrollment		SUB134315		Serum	2883
+BS747695			PV2932	SDY312	0	Days	Time of enrollment		SUB134316		Serum	2883
+BS747697			PV3362	SDY312	7	Days	Time of enrollment		SUB134317		Serum	2883
+BS747840			PV2932	SDY312	0	Days	Time of enrollment		SUB134282		Serum	2883
+BS747848			PV2933	SDY312	28	Days	Time of enrollment		SUB134285		Serum	2883
+BS747851			PV2933	SDY312	28	Days	Time of enrollment		SUB134286		Serum	2883
+BS747859			PV2932	SDY312	0	Days	Time of enrollment		SUB134290		Serum	2883
+BS747719			PV2933	SDY312	28	Days	Time of enrollment		SUB134324		Serum	2883
+BS747739			PV2932	SDY312	0	Days	Time of enrollment		SUB134240		Serum	2883
+BS747874			PV2932	SDY312	0	Days	Time of enrollment		SUB134295		Serum	2883
+BS747886			PV2932	SDY312	0	Days	Time of enrollment		SUB134300		Serum	2883
+BS747892			PV2932	SDY312	0	Days	Time of enrollment		SUB134302		Serum	2883
+BS747902			PV2933	SDY312	28	Days	Time of enrollment		SUB134307		Serum	2883
+BS747764			PV3362	SDY312	7	Days	Time of enrollment		SUB134247		Serum	2883
+BS747783			PV2933	SDY312	28	Days	Time of enrollment		SUB134256		Serum	2883
+BS747907			PV3362	SDY312	7	Days	Time of enrollment		SUB134303		Serum	2883
+BS965333			PV2933	SDY312	0	Days	Time of enrollment		SUB134295		Plasma	2883
+BS965337			PV2933	SDY312	0	Days	Time of enrollment		SUB134238		Plasma	2883
+BS965341			PV2933	SDY312	0	Days	Time of enrollment		SUB134243		Plasma	2883
+BS965351			PV2933	SDY312	0	Days	Time of enrollment		SUB134263		Plasma	2883
+BS965352			PV2933	SDY312	0	Days	Time of enrollment		SUB134264		Plasma	2883
+BS965360			PV2933	SDY312	0	Days	Time of enrollment		SUB134279		Plasma	2883
+BS965366			PV2933	SDY312	0	Days	Time of enrollment		SUB134289		Plasma	2883
+BS965368			PV2933	SDY312	0	Days	Time of enrollment		SUB134292		Plasma	2883
+BS965370			PV2933	SDY312	0	Days	Time of enrollment		SUB134294		Plasma	2883
+BS965375			PV2933	SDY312	0	Days	Time of enrollment		SUB134307		Plasma	2883
+BS965408			PV2933	SDY312	0	Days	Time of enrollment		SUB134313		Plasma	2883
+BS965413			PV2933	SDY312	0	Days	Time of enrollment		SUB134324		Plasma	2883

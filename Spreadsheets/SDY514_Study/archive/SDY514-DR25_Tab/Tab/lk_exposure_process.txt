@@ -1,0 +1,17 @@
+NAME	DESCRIPTION	LINK
+Administration	Administration	
+Vaccination	Vaccination	
+Infectious Challenge	Infectious Challenge	
+Transplant/Transfusion	Transplant/Transfusion	
+Disease	Disease	
+Infectious Disease	Infectious Disease	
+Allergic Disease	Allergic Disease	
+Autoimmune Disease	Autoimmune Disease	
+Cancer	Cancer	
+Exposure Without Disease	Exposure Without Disease	
+Asymptomatic Infection/Colonization	Asymptomatic Infection/Colonization	
+Exposure With Immune Reactivity	Exposure With Immune Reactivity	
+Exposure With Documentation	Exposure With Documentation	
+Exposure To Endemic/Ubiquitous Agent	Exposure To Endemic/Ubiquitous Agent	
+No Exposure	No Exposure	
+Unknown	Unknown	

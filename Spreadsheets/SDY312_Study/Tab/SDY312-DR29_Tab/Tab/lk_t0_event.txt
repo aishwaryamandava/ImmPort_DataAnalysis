@@ -1,0 +1,8 @@
+NAME	DESCRIPTION	LINK
+Not Specified	Time Zero Event (TZ0) is not specified or not received. If no Time Zero Event value is received, then this is the system default value.	http://bioportal.bioontology.org/ontologies/PATO?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000165
+Other	Time Zero Event (TZ0) is the some Other time value not in CV Terms.	http://bioportal.bioontology.org/ontologies/PATO?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000165
+Time of enrollment	Time Zero Event (TZ0) is the Time of enrollment.	http://bioportal.bioontology.org/ontologies/PATO?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000165
+Time of infection	Time Zero Event (TZ0) is the Time of infection.	http://bioportal.bioontology.org/ontologies/PATO?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000165
+Time of initial treatment	Time Zero Event (TZ0) is the Time of initial treatment.	http://bioportal.bioontology.org/ontologies/PATO?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000165
+Time of initial vaccine administration	Time Zero Event (TZ0) is the Time of initial vaccine administration.	http://bioportal.bioontology.org/ontologies/PATO?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000165
+Time of transplantation	Time Zero Event (TZ0) is the Time of Transplantation.	http://bioportal.bioontology.org/ontologies/PATO?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000165

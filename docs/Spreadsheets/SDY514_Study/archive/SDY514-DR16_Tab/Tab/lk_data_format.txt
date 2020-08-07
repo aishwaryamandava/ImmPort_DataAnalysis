@@ -1,0 +1,24 @@
+NAME	DESCRIPTION	LINK
+ELISA	ELISA data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16553&ns=NCI_Thesaurus
+ELISPOT	ELISPOT data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C102632&ns=NCI_Thesaurus
+Flow_Cytometry	Flow_Cytometry data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16585&ns=NCI_Thesaurus, http://bioconductor.org/packages/release/bioc/html/flowCore.html
+Gene_Expression_Affymetrix	Gene_Expression_Affymetrix data format.	http://www.affymetrix.com/support/technical/whitepapers.affx, https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16608&ns=NCI_Thesaurus
+Gene_Expression_custom	Gene_Expression_custom data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16608&ns=NCI_Thesaurus
+GenePattern_GCT	GenePattern_GCT data format.	http://www.broadinstitute.org/cancer/software/genepattern/file-formats-guide
+Genotyping_Affymetrix	Genotyping_Affymetrix data format.	http://www.affymetrix.com/support/technical/whitepapers.affx, https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C45447&ns=NCI_Thesaurus
+Genotyping_Illumina	Genotyping_Illumina data format.	http://illumina.com, https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C45447&ns=NCI_Thesaurus
+Genotyping_custom	Genotyping_custom data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C45447&ns=NCI_Thesaurus
+HLA_Typing	HLA_Typing data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C71329&ns=NCI_Thesaurus
+KIR	KIR data format.	http://immport.org/immport-open/public/home/documentation
+Mass_spectrometry	Mass_spectrometry data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C17156&ns=NCI_Thesaurus
+MBAA	MBAA data format.	http://immport.org/immport-open/public/home/documentation
+Virus_titer_Hemagglutination_inhibition	Virus_titer_Hemagglutination_inhibition data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C120688&ns=NCI_Thesaurus
+Q-PCR	Quantitative PCR data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C28408&ns=NCI_Thesaurus
+Other	Any Other data format that is not specified.	http://immport.org/immport-open/public/home/documentation
+Gene_Expression_Illumina_GA	Gene_Expression_Illumina Genome Analyzer format.	http://illumina.com
+Neutralizing_Antibody_Titer	Neutralizing antibody titer results.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C94196&ns=NCI_Thesaurus
+Image_Histology	Image Histology results.	http://immport.org/immport-open/public/home/documentation;  https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16681&ns=NCI_Thesaurus
+HAI	Hemagluttination Inhibition.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C120688&ns=NCI_Thesaurus
+Virus_Neutralization	Virus Neutralization.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C94196&ns=NCI_Thesaurus
+CyTOF	CyTOF data format.	http://immport.org/immport-open/public/home/documentation; https://en.wikipedia.org/wiki/Mass_cytometry
+CRF	CRF data format.	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C40988&ns=NCI_Thesaurus

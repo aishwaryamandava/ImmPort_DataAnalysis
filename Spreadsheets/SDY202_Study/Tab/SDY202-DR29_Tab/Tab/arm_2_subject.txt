@@ -1,0 +1,80 @@
+ARM_ACCESSION	SUBJECT_ACCESSION	AGE_EVENT	AGE_EVENT_SPECIFY	AGE_UNIT	MAX_SUBJECT_AGE	MIN_SUBJECT_AGE	SUBJECT_PHENOTYPE
+ARM855	SUB142479	Age at enrollment		Years	24	24	
+ARM855	SUB142483	Age at enrollment		Years	28	28	
+ARM855	SUB120323	Age at initial vaccine administration		Years	27	27	18-32 year old
+ARM855	SUB120332	Age at initial vaccine administration		Years	22	22	18-32 year old
+ARM855	SUB120335	Age at initial vaccine administration		Years	31	31	18-32 year old
+ARM856	SUB120348	Age at initial vaccine administration		Years	67	67	60-69 year old
+ARM856	SUB120353	Age at initial vaccine administration		Years	64	64	60-69 year old
+ARM856	SUB120357	Age at initial vaccine administration		Years	67	67	60-69 year old
+ARM857	SUB120361	Age at initial vaccine administration		Years	79	79	>69 year old
+ARM857	SUB120362	Age at initial vaccine administration		Years	72	72	>69 year old
+ARM2215	SUB143424	Not Specified		Not Specified	99	99	
+ARM856	SUB120347	Age at initial vaccine administration		Years	69	69	60-69 year old
+ARM856	SUB120358	Age at initial vaccine administration		Years	68	68	60-69 year old
+ARM857	SUB120371	Age at initial vaccine administration		Years	81	81	>69 year old
+ARM855	SUB142465	Age at enrollment		Years	28	28	
+ARM855	SUB142467	Age at enrollment		Years	20	20	
+ARM855	SUB142468	Age at enrollment		Years	28	28	
+ARM855	SUB142472	Age at enrollment		Years	25	25	
+ARM855	SUB142474	Age at enrollment		Years	30	30	
+ARM855	SUB142480	Age at enrollment		Years	25	25	
+ARM855	SUB120321	Age at initial vaccine administration		Years	27	27	18-32 year old
+ARM856	SUB120344	Age at initial vaccine administration		Years	66	66	60-69 year old
+ARM856	SUB120349	Age at initial vaccine administration		Years	62	62	60-69 year old
+ARM856	SUB120356	Age at initial vaccine administration		Years	69	69	60-69 year old
+ARM855	SUB142466	Age at enrollment		Years	33	33	
+ARM855	SUB142470	Age at enrollment		Years	26	26	
+ARM855	SUB142482	Age at enrollment		Years	26	26	
+ARM855	SUB120327	Age at initial vaccine administration		Years	32	32	18-32 year old
+ARM855	SUB120330	Age at initial vaccine administration		Years	22	22	18-32 year old
+ARM855	SUB120331	Age at initial vaccine administration		Years	18	18	18-32 year old
+ARM855	SUB120333	Age at initial vaccine administration		Years	24	24	18-32 year old
+ARM855	SUB120334	Age at initial vaccine administration		Years	21	21	18-32 year old
+ARM855	SUB120336	Age at initial vaccine administration		Years	24	24	18-32 year old
+ARM856	SUB120351	Age at initial vaccine administration		Years	68	68	60-69 year old
+ARM856	SUB120354	Age at initial vaccine administration		Years	66	66	60-69 year old
+ARM857	SUB120369	Age at initial vaccine administration		Years	80	80	>69 year old
+ARM857	SUB120370	Age at initial vaccine administration		Years	74	74	>69 year old
+ARM857	SUB120373	Age at initial vaccine administration		Years	76	76	>69 year old
+ARM857	SUB120374	Age at initial vaccine administration		Years	75	75	>69 year old
+ARM857	SUB120376	Age at initial vaccine administration		Years	77	77	>69 year old
+ARM857	SUB120378	Age at initial vaccine administration		Years	80	80	>69 year old
+ARM855	SUB142473	Age at enrollment		Years	28	28	
+ARM855	SUB142475	Age at enrollment		Years	25	25	
+ARM855	SUB142478	Age at enrollment		Years	22	22	
+ARM855	SUB120324	Age at initial vaccine administration		Years	24	24	18-32 year old
+ARM855	SUB120326	Age at initial vaccine administration		Years	29	29	18-32 year old
+ARM855	SUB120339	Age at initial vaccine administration		Years	27	27	18-32 year old
+ARM856	SUB120343	Age at initial vaccine administration		Years	63	63	60-69 year old
+ARM856	SUB120346	Age at initial vaccine administration		Years	60	60	60-69 year old
+ARM856	SUB120350	Age at initial vaccine administration		Years	63	63	60-69 year old
+ARM856	SUB120359	Age at initial vaccine administration		Years	62	62	60-69 year old
+ARM857	SUB120364	Age at initial vaccine administration		Years	72	72	>69 year old
+ARM855	SUB142476	Age at enrollment		Years	32	32	
+ARM855	SUB142481	Age at enrollment		Years	26	26	
+ARM855	SUB142484	Age at enrollment		Years	25	25	
+ARM855	SUB120325	Age at initial vaccine administration		Years	30	30	18-32 year old
+ARM855	SUB120337	Age at initial vaccine administration		Years	27	27	18-32 year old
+ARM855	SUB120340	Age at initial vaccine administration		Years	27	27	18-32 year old
+ARM857	SUB120363	Age at initial vaccine administration		Years	75	75	>69 year old
+ARM857	SUB120367	Age at initial vaccine administration		Years	79	79	>69 year old
+ARM857	SUB120368	Age at initial vaccine administration		Years	73	73	>69 year old
+ARM855	SUB142469	Age at enrollment		Years	23	23	
+ARM855	SUB120328	Age at initial vaccine administration		Years	29	29	18-32 year old
+ARM855	SUB120329	Age at initial vaccine administration		Years	20	20	18-32 year old
+ARM855	SUB120338	Age at initial vaccine administration		Years	19	19	18-32 year old
+ARM856	SUB120342	Age at initial vaccine administration		Years	68	68	60-69 year old
+ARM856	SUB120345	Age at initial vaccine administration		Years	67	67	60-69 year old
+ARM856	SUB120355	Age at initial vaccine administration		Years	68	68	60-69 year old
+ARM857	SUB120375	Age at initial vaccine administration		Years	75	75	>69 year old
+ARM855	SUB142471	Age at enrollment		Years	33	33	
+ARM855	SUB142477	Age at enrollment		Years	31	31	
+ARM855	SUB120322	Age at initial vaccine administration		Years	29	29	18-32 year old
+ARM856	SUB120341	Age at initial vaccine administration		Years	68	68	60-69 year old
+ARM856	SUB120352	Age at initial vaccine administration		Years	63	63	60-69 year old
+ARM856	SUB120360	Age at initial vaccine administration		Years	61	61	60-69 year old
+ARM857	SUB120365	Age at initial vaccine administration		Years	70	70	>69 year old
+ARM857	SUB120366	Age at initial vaccine administration		Years	77	77	>69 year old
+ARM857	SUB120372	Age at initial vaccine administration		Years	71	71	>69 year old
+ARM857	SUB120377	Age at initial vaccine administration		Years	76	76	>69 year old

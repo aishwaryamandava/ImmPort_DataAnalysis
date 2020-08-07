@@ -1,0 +1,388 @@
+LAB_TEST_ACCESSION	LAB_TEST_PANEL_ACCESSION	BIOSAMPLE_ACCESSION	NAME_PREFERRED	NAME_REPORTED	REFERENCE_RANGE_ACCESSION	RESULT_UNIT_PREFERRED	RESULT_UNIT_REPORTED	RESULT_VALUE_PREFERRED	RESULT_VALUE_REPORTED	WORKSPACE_ID
+LT782760	LP29651	BS903186	Monocytes/Leukocytes	Monocytes/Leukocytes			%	16	16	2799
+LT782764	LP29651	BS903187	Neutrophils, Segmented/Leukocytes	Neutrophils, Segmented/Leukocytes			%	39	39	2799
+LT782712	LP29651	BS903178	Leukocytes	Leukocytes			10*3 cells/uL	7.5	7.5	2799
+LT782715	LP29651	BS903178	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782717	LP29651	BS903178	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782733	LP29651	BS903181	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	23	23	2799
+LT782665	LP29651	BS903170	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	51	51	2799
+LT782670	LP29651	BS903171	Leukocytes	Leukocytes			10*3 cells/uL	7.5	7.5	2799
+LT782674	LP29651	BS903171	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	4	4	2799
+LT782627	LP29651	BS903163	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782638	LP29651	BS903165	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782648	LP29651	BS903167	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	59	59	2799
+LT782655	LP29651	BS903168	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782660	LP29651	BS903169	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	43	43	2799
+LT782661	LP29651	BS903169	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782663	LP29651	BS903169	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782591	LP29651	BS903157	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782593	LP29651	BS903158	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	52	52	2799
+LT782599	LP29651	BS903159	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	55	55	2799
+LT782608	LP29651	BS903160	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782617	LP29651	BS903162	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	43	43	2799
+LT782618	LP29651	BS903162	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	44	44	2799
+LT782130	LP29651	BS903080	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	4	4	2799
+LT782139	LP29651	BS903082	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	32	32	2799
+LT782143	LP29651	BS903082	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782287	LP29651	BS903107	Leukocytes	Leukocytes			10*3 cells/uL	3.9	3.9	2799
+LT782288	LP29651	BS903107	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	61	61	2799
+LT782289	LP29651	BS903107	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	30	30	2799
+LT782295	LP29651	BS903108	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	36	36	2799
+LT782358	LP29651	BS903119	Leukocytes	Leukocytes			10*3 cells/uL	9.200000000000001	9.2	2799
+LT782360	LP29651	BS903119	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	22	22	2799
+LT782298	LP29651	BS903108	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782306	LP29651	BS903110	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	44	44	2799
+LT782307	LP29651	BS903110	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	46	46	2799
+LT782308	LP29651	BS903110	Monocytes/Leukocytes	Monocytes/Leukocytes			%	8	8	2799
+LT782252	LP29651	BS903101	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	37	37	2799
+LT782193	LP29651	BS903091	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	6	6	2799
+LT782209	LP29651	BS903093	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782497	LP29651	BS903142	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	50	50	2799
+LT782512	LP29651	BS903144	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782451	LP29651	BS903134	Monocytes/Leukocytes	Monocytes/Leukocytes			%	13	13	2799
+LT782453	LP29651	BS903134	Basophils/Leukocytes	Basophils/Leukocytes			%	2	2	2799
+LT782363	LP29651	BS903119	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782435	LP29651	BS903131	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782443	LP29651	BS903133	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	49	49	2799
+LT782444	LP29651	BS903133	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	35	35	2799
+LT782448	LP29651	BS903134	Leukocytes	Leukocytes			10*3 cells/uL	3.8000000000000003	3.8	2799
+LT782368	LP29651	BS903120	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782379	LP29651	BS903122	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782330	LP29651	BS903114	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	32	32	2799
+LT782331	LP29651	BS903114	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782333	LP29651	BS903114	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782343	LP29651	BS903116	Monocytes/Leukocytes	Monocytes/Leukocytes			%	10	10	2799
+LT782349	LP29651	BS903117	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782350	LP29651	BS903117	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782757	LP29651	BS903186	Leukocytes	Leukocytes			10*3 cells/uL	6	6	2799
+LT782759	LP29651	BS903186	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	47	47	2799
+LT782765	LP29651	BS903187	Neutrophils Band Form/Leukocytes	Neutrophils Band Form/Leukocytes			%	3	3	2799
+LT782767	LP29651	BS903187	Monocytes/Leukocytes	Monocytes/Leukocytes			%	2	2	2799
+LT782725	LP29651	BS903180	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	26	26	2799
+LT782729	LP29651	BS903180	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782664	LP29651	BS903170	Leukocytes	Leukocytes			10*3 cells/uL	9.8	9.8	2799
+LT782667	LP29651	BS903170	Monocytes/Leukocytes	Monocytes/Leukocytes			%	9	9	2799
+LT782668	LP29651	BS903170	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	6	6	2799
+LT782669	LP29651	BS903170	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782672	LP29651	BS903171	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	56	56	2799
+LT782652	LP29651	BS903168	Leukocytes	Leukocytes			10*3 cells/uL	9.200000000000001	9.2	2799
+LT782656	LP29651	BS903168	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	5	5	2799
+LT782658	LP29651	BS903169	Leukocytes	Leukocytes			10*3 cells/uL	7.1000000000000005	7.1	2799
+LT782582	LP29651	BS903156	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	38	38	2799
+LT782588	LP29651	BS903157	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	33	33	2799
+LT782601	LP29651	BS903159	Monocytes/Leukocytes	Monocytes/Leukocytes			%	9	9	2799
+LT782607	LP29651	BS903160	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782610	LP29651	BS903161	Leukocytes	Leukocytes			10*3 cells/uL	8.9	8.9	2799
+LT782619	LP29651	BS903162	Monocytes/Leukocytes	Monocytes/Leukocytes			%	10	10	2799
+LT782121	LP29651	BS903079	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	35	35	2799
+LT782129	LP29651	BS903080	Monocytes/Leukocytes	Monocytes/Leukocytes			%	11	11	2799
+LT782131	LP29651	BS903080	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782142	LP29651	BS903082	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	6	6	2799
+LT782290	LP29651	BS903107	Monocytes/Leukocytes	Monocytes/Leukocytes			%	8	8	2799
+LT782299	LP29651	BS903109	Leukocytes	Leukocytes			10*3 cells/uL	4.3	4.3	2799
+LT782302	LP29651	BS903109	Monocytes/Leukocytes	Monocytes/Leukocytes			%	5	5	2799
+LT782303	LP29651	BS903109	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782310	LP29651	BS903110	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782251	LP29651	BS903101	Leukocytes	Leukocytes			10*3 cells/uL	4.2	4.2	2799
+LT782253	LP29651	BS903101	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	50	50	2799
+LT782259	LP29651	BS903102	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	19	19	2799
+LT782924	LP29651	BS903213	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782926	LP29651	BS903214	Neutrophils, Segmented/Leukocytes	Neutrophils, Segmented/Leukocytes			%	25	25	2799
+LT782206	LP29651	BS903093	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	39	39	2799
+LT782207	LP29651	BS903093	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782505	LP29651	BS903143	Monocytes/Leukocytes	Monocytes/Leukocytes			%	13	13	2799
+LT782506	LP29651	BS903143	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782515	LP29651	BS903145	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	53	53	2799
+LT782519	LP29651	BS903145	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782364	LP29651	BS903120	Leukocytes	Leukocytes			10*3 cells/uL	5.7	5.7	2799
+LT782433	LP29651	BS903131	Monocytes/Leukocytes	Monocytes/Leukocytes			%	12	12	2799
+LT782434	LP29651	BS903131	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	4	4	2799
+LT782437	LP29651	BS903132	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	57	57	2799
+LT782438	LP29651	BS903132	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	27	27	2799
+LT782447	LP29651	BS903133	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782370	LP29651	BS903121	Leukocytes	Leukocytes			10*3 cells/uL	5.7	5.7	2799
+LT782377	LP29651	BS903122	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	42	42	2799
+LT782335	LP29651	BS903115	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	48	48	2799
+LT782344	LP29651	BS903116	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782345	LP29651	BS903116	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782346	LP29651	BS903117	Leukocytes	Leukocytes			10*3 cells/uL	4.4	4.4	2799
+LT782348	LP29651	BS903117	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	42	42	2799
+LT782753	LP29651	BS903185	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	30	30	2799
+LT782758	LP29651	BS903186	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	34	34	2799
+LT782762	LP29651	BS903186	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782763	LP29651	BS903187	Leukocytes	Leukocytes			10*3 cells/uL	8.700000000000001	8.7	2799
+LT782770	LP29651	BS903188	Neutrophils Band Form/Leukocytes	Neutrophils Band Form/Leukocytes			%	12	12	2799
+LT782771	LP29651	BS903188	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	23	23	2799
+LT782773	LP29651	BS903188	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782774	LP29651	BS903188	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782719	LP29651	BS903179	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	40	40	2799
+LT782666	LP29651	BS903170	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	34	34	2799
+LT782671	LP29651	BS903171	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	32	32	2799
+LT782675	LP29651	BS903171	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782621	LP29651	BS903162	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782623	LP29651	BS903163	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	32	32	2799
+LT782631	LP29651	BS903164	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782635	LP29651	BS903165	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	23	23	2799
+LT782637	LP29651	BS903165	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782640	LP29651	BS903166	Leukocytes	Leukocytes			10*3 cells/uL	7	7	2799
+LT782641	LP29651	BS903166	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	35	35	2799
+LT782643	LP29651	BS903166	Monocytes/Leukocytes	Monocytes/Leukocytes			%	9	9	2799
+LT782644	LP29651	BS903166	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782579	LP29651	BS903155	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782592	LP29651	BS903158	Leukocytes	Leukocytes			10*3 cells/uL	6.3	6.3	2799
+LT782575	LP29651	BS903155	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	59	59	2799
+LT782577	LP29651	BS903155	Monocytes/Leukocytes	Monocytes/Leukocytes			%	11	11	2799
+LT782122	LP29651	BS903079	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	50	50	2799
+LT782133	LP29651	BS903081	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	39	39	2799
+LT782291	LP29651	BS903107	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782294	LP29651	BS903108	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	52	52	2799
+LT782242	LP29651	BS903099	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	36	36	2799
+LT782245	LP29651	BS903099	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782254	LP29651	BS903101	Monocytes/Leukocytes	Monocytes/Leukocytes			%	10	10	2799
+LT782255	LP29651	BS903101	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782921	LP29651	BS903213	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	61	61	2799
+LT782922	LP29651	BS903213	Monocytes/Leukocytes	Monocytes/Leukocytes			%	12	12	2799
+LT782928	LP29651	BS903214	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	61	61	2799
+LT782198	LP29651	BS903092	Leukocytes	Leukocytes			10*3 cells/uL	8.9	8.9	2799
+LT782201	LP29651	BS903092	Monocytes/Leukocytes	Monocytes/Leukocytes			%	9	9	2799
+LT782931	LP29651	BS903215	Leukocytes	Leukocytes			10*3 cells/uL	9.5	9.5	2799
+LT782934	LP29651	BS903215	Monocytes/Leukocytes	Monocytes/Leukocytes			%	12	12	2799
+LT782499	LP29651	BS903142	Monocytes/Leukocytes	Monocytes/Leukocytes			%	11	11	2799
+LT782501	LP29651	BS903142	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782509	LP29651	BS903144	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	44	44	2799
+LT782510	LP29651	BS903144	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	41	41	2799
+LT782452	LP29651	BS903134	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	5	5	2799
+LT782366	LP29651	BS903120	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	34	34	2799
+LT782432	LP29651	BS903131	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	40	40	2799
+LT782440	LP29651	BS903132	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	5	5	2799
+LT782328	LP29651	BS903114	Leukocytes	Leukocytes			10*3 cells/uL	5.2	5.2	2799
+LT782752	LP29651	BS903185	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	53	53	2799
+LT782754	LP29651	BS903185	Monocytes/Leukocytes	Monocytes/Leukocytes			%	13	13	2799
+LT782768	LP29651	BS903187	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782772	LP29651	BS903188	Monocytes/Leukocytes	Monocytes/Leukocytes			%	16	16	2799
+LT782714	LP29651	BS903178	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	52	52	2799
+LT782716	LP29651	BS903178	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	5	5	2799
+LT782734	LP29651	BS903181	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782650	LP29651	BS903167	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782651	LP29651	BS903167	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782654	LP29651	BS903168	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	38	38	2799
+LT782662	LP29651	BS903169	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	5	5	2799
+LT782578	LP29651	BS903155	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782587	LP29651	BS903157	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	58	58	2799
+LT782598	LP29651	BS903159	Leukocytes	Leukocytes			10*3 cells/uL	5.4	5.4	2799
+LT782612	LP29651	BS903161	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	38	38	2799
+LT782615	LP29651	BS903161	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782568	LP29651	BS903154	Leukocytes	Leukocytes			10*3 cells/uL	6.6000000000000005	6.6	2799
+LT782570	LP29651	BS903154	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	31	31	2799
+LT782123	LP29651	BS903079	Monocytes/Leukocytes	Monocytes/Leukocytes			%	10	10	2799
+LT782124	LP29651	BS903079	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	5	5	2799
+LT782132	LP29651	BS903081	Leukocytes	Leukocytes			10*3 cells/uL	4.6000000000000005	4.6	2799
+LT782136	LP29651	BS903081	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782362	LP29651	BS903119	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782312	LP29651	BS903111	Neutrophils, Segmented/Leukocytes	Neutrophils, Segmented/Leukocytes			%	41	41	2799
+LT782240	LP29651	BS903099	Leukocytes	Leukocytes			10*3 cells/uL	5.2	5.2	2799
+LT782241	LP29651	BS903099	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	52	52	2799
+LT782257	LP29651	BS903102	Leukocytes	Leukocytes			10*3 cells/uL	8	8	2799
+LT782927	LP29651	BS903214	Neutrophils Band Form/Leukocytes	Neutrophils Band Form/Leukocytes			%	1	1	2799
+LT782203	LP29651	BS903092	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782204	LP29651	BS903093	Leukocytes	Leukocytes			10*3 cells/uL	8.9	8.9	2799
+LT782213	LP29651	BS903094	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782933	LP29651	BS903215	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	61	61	2799
+LT782935	LP29651	BS903215	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782936	LP29651	BS903215	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782496	LP29651	BS903142	Leukocytes	Leukocytes			10*3 cells/uL	3.9	3.9	2799
+LT782503	LP29651	BS903143	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	63	63	2799
+LT782504	LP29651	BS903143	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	23	23	2799
+LT782511	LP29651	BS903144	Monocytes/Leukocytes	Monocytes/Leukocytes			%	14	14	2799
+LT782449	LP29651	BS903134	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	30	30	2799
+LT782430	LP29651	BS903131	Leukocytes	Leukocytes			10*3 cells/uL	3.6	3.6	2799
+LT782445	LP29651	BS903133	Monocytes/Leukocytes	Monocytes/Leukocytes			%	12	12	2799
+LT782446	LP29651	BS903133	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	4	4	2799
+LT782371	LP29651	BS903121	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	43	43	2799
+LT782374	LP29651	BS903121	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782376	LP29651	BS903122	Leukocytes	Leukocytes			10*3 cells/uL	4.8	4.8	2799
+LT782378	LP29651	BS903122	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	47	47	2799
+LT782325	LP29651	BS903113	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	27	27	2799
+LT782329	LP29651	BS903114	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	57	57	2799
+LT782336	LP29651	BS903115	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	44	44	2799
+LT782339	LP29651	BS903115	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782342	LP29651	BS903116	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	32	32	2799
+LT782769	LP29651	BS903188	Leukocytes	Leukocytes			10*3 cells/uL	8.5	8.5	2799
+LT782718	LP29651	BS903179	Leukocytes	Leukocytes			10*3 cells/uL	6.2	6.2	2799
+LT782728	LP29651	BS903180	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	6	6	2799
+LT782730	LP29651	BS903181	Leukocytes	Leukocytes			10*3 cells/uL	6.6000000000000005	6.6	2799
+LT782673	LP29651	BS903171	Monocytes/Leukocytes	Monocytes/Leukocytes			%	8	8	2799
+LT782624	LP29651	BS903163	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	58	58	2799
+LT782628	LP29651	BS903164	Leukocytes	Leukocytes			10*3 cells/uL	5.6000000000000005	5.6	2799
+LT782629	LP29651	BS903164	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	33	33	2799
+LT782634	LP29651	BS903165	Leukocytes	Leukocytes			10*3 cells/uL	6.5	6.5	2799
+LT782584	LP29651	BS903156	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782586	LP29651	BS903157	Leukocytes	Leukocytes			10*3 cells/uL	6.5	6.5	2799
+LT782589	LP29651	BS903157	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782603	LP29651	BS903159	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782604	LP29651	BS903160	Leukocytes	Leukocytes			10*3 cells/uL	7.1000000000000005	7.1	2799
+LT782606	LP29651	BS903160	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	50	50	2799
+LT782574	LP29651	BS903155	Leukocytes	Leukocytes			10*3 cells/uL	3.8000000000000003	3.8	2799
+LT782576	LP29651	BS903155	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	28	28	2799
+LT782125	LP29651	BS903079	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782128	LP29651	BS903080	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	41	41	2799
+LT782141	LP29651	BS903082	Monocytes/Leukocytes	Monocytes/Leukocytes			%	9	9	2799
+LT782305	LP29651	BS903110	Leukocytes	Leukocytes			10*3 cells/uL	4.9	4.9	2799
+LT782317	LP29651	BS903112	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	52	52	2799
+LT782244	LP29651	BS903099	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782258	LP29651	BS903102	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	69	69	2799
+LT782260	LP29651	BS903102	Monocytes/Leukocytes	Monocytes/Leukocytes			%	10	10	2799
+LT782262	LP29651	BS903102	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782923	LP29651	BS903213	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782925	LP29651	BS903214	Leukocytes	Leukocytes			10*3 cells/uL	10.200000000000001	10.2	2799
+LT782197	LP29651	BS903091	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782199	LP29651	BS903092	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	64	64	2799
+LT782200	LP29651	BS903092	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	25	25	2799
+LT782202	LP29651	BS903092	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782210	LP29651	BS903094	Leukocytes	Leukocytes			10*3 cells/uL	8.4	8.4	2799
+LT782215	LP29651	BS903094	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782919	LP29651	BS903213	Leukocytes	Leukocytes			10*3 cells/uL	9.5	9.5	2799
+LT782920	LP29651	BS903213	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	25	25	2799
+LT782498	LP29651	BS903142	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	36	36	2799
+LT782500	LP29651	BS903142	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782507	LP29651	BS903143	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782516	LP29651	BS903145	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	31	31	2799
+LT782450	LP29651	BS903134	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	51	51	2799
+LT782365	LP29651	BS903120	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	54	54	2799
+LT782431	LP29651	BS903131	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	43	43	2799
+LT782439	LP29651	BS903132	Monocytes/Leukocytes	Monocytes/Leukocytes			%	11	11	2799
+LT782442	LP29651	BS903133	Leukocytes	Leukocytes			10*3 cells/uL	5.2	5.2	2799
+LT782375	LP29651	BS903121	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782381	LP29651	BS903122	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782323	LP29651	BS903113	Neutrophils, Segmented/Leukocytes	Neutrophils, Segmented/Leukocytes			%	63	63	2799
+LT782327	LP29651	BS903113	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782337	LP29651	BS903115	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782340	LP29651	BS903116	Leukocytes	Leukocytes			10*3 cells/uL	6	6	2799
+LT782341	LP29651	BS903116	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	57	57	2799
+LT782355	LP29651	BS903118	Monocytes/Leukocytes	Monocytes/Leukocytes			%	5	5	2799
+LT782751	LP29651	BS903185	Leukocytes	Leukocytes			10*3 cells/uL	7.3	7.3	2799
+LT782721	LP29651	BS903179	Monocytes/Leukocytes	Monocytes/Leukocytes			%	8	8	2799
+LT782731	LP29651	BS903181	Neutrophils, Segmented/Leukocytes	Neutrophils, Segmented/Leukocytes			%	69	69	2799
+LT782622	LP29651	BS903163	Leukocytes	Leukocytes			10*3 cells/uL	9.9	9.9	2799
+LT782626	LP29651	BS903163	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782630	LP29651	BS903164	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	59	59	2799
+LT782642	LP29651	BS903166	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	34	34	2799
+LT782645	LP29651	BS903166	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782647	LP29651	BS903167	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	34	34	2799
+LT782653	LP29651	BS903168	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	50	50	2799
+LT782581	LP29651	BS903156	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	53	53	2799
+LT782585	LP29651	BS903156	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782594	LP29651	BS903158	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	39	39	2799
+LT782600	LP29651	BS903159	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	34	34	2799
+LT782609	LP29651	BS903160	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782613	LP29651	BS903161	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782614	LP29651	BS903161	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782573	LP29651	BS903154	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782120	LP29651	BS903079	Leukocytes	Leukocytes			10*3 cells/uL	4.6000000000000005	4.6	2799
+LT782138	LP29651	BS903082	Leukocytes	Leukocytes			10*3 cells/uL	4.8	4.8	2799
+LT782296	LP29651	BS903108	Monocytes/Leukocytes	Monocytes/Leukocytes			%	10	10	2799
+LT782356	LP29651	BS903118	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782361	LP29651	BS903119	Monocytes/Leukocytes	Monocytes/Leukocytes			%	11	11	2799
+LT782297	LP29651	BS903108	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782309	LP29651	BS903110	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782311	LP29651	BS903111	Leukocytes	Leukocytes			10*3 cells/uL	3.9	3.9	2799
+LT782314	LP29651	BS903111	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	47	47	2799
+LT782246	LP29651	BS903100	Leukocytes	Leukocytes			10*3 cells/uL	6	6	2799
+LT782247	LP29651	BS903100	Neutrophils, Segmented/Leukocytes	Neutrophils, Segmented/Leukocytes			%	56	56	2799
+LT782250	LP29651	BS903100	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	4	4	2799
+LT782192	LP29651	BS903091	Leukocytes	Leukocytes			10*3 cells/uL	9.5	9.5	2799
+LT782195	LP29651	BS903091	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782212	LP29651	BS903094	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	40	40	2799
+LT782214	LP29651	BS903094	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782513	LP29651	BS903144	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782518	LP29651	BS903145	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782367	LP29651	BS903120	Monocytes/Leukocytes	Monocytes/Leukocytes			%	8	8	2799
+LT782369	LP29651	BS903120	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782373	LP29651	BS903121	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782380	LP29651	BS903122	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782320	LP29651	BS903112	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782324	LP29651	BS903113	Neutrophils Band Form/Leukocytes	Neutrophils Band Form/Leukocytes			%	1	1	2799
+LT782326	LP29651	BS903113	Monocytes/Leukocytes	Monocytes/Leukocytes			%	8	8	2799
+LT782338	LP29651	BS903115	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782347	LP29651	BS903117	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	49	49	2799
+LT782352	LP29651	BS903118	Leukocytes	Leukocytes			10*3 cells/uL	5.2	5.2	2799
+LT782755	LP29651	BS903185	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782761	LP29651	BS903186	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782713	LP29651	BS903178	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	36	36	2799
+LT782722	LP29651	BS903179	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	7	7	2799
+LT782723	LP29651	BS903179	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782726	LP29651	BS903180	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	62	62	2799
+LT782732	LP29651	BS903181	Neutrophils Band Form/Leukocytes	Neutrophils Band Form/Leukocytes			%	3	3	2799
+LT782625	LP29651	BS903163	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782632	LP29651	BS903164	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782646	LP29651	BS903167	Leukocytes	Leukocytes			10*3 cells/uL	8.5	8.5	2799
+LT782659	LP29651	BS903169	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	45	45	2799
+LT782595	LP29651	BS903158	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782611	LP29651	BS903161	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	56	56	2799
+LT782620	LP29651	BS903162	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782127	LP29651	BS903080	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	43	43	2799
+LT782134	LP29651	BS903081	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	49	49	2799
+LT782292	LP29651	BS903107	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782300	LP29651	BS903109	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	53	53	2799
+LT782316	LP29651	BS903112	Leukocytes	Leukocytes			10*3 cells/uL	3.7	3.7	2799
+LT782319	LP29651	BS903112	Monocytes/Leukocytes	Monocytes/Leukocytes			%	7	7	2799
+LT782243	LP29651	BS903099	Monocytes/Leukocytes	Monocytes/Leukocytes			%	9	9	2799
+LT782248	LP29651	BS903100	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	30	30	2799
+LT782249	LP29651	BS903100	Monocytes/Leukocytes	Monocytes/Leukocytes			%	11	11	2799
+LT782261	LP29651	BS903102	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782196	LP29651	BS903091	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	1	1	2799
+LT782205	LP29651	BS903093	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	53	53	2799
+LT782932	LP29651	BS903215	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	25	25	2799
+LT782502	LP29651	BS903143	Leukocytes	Leukocytes			10*3 cells/uL	4.7	4.7	2799
+LT782508	LP29651	BS903144	Leukocytes	Leukocytes			10*3 cells/uL	3.5	3.5	2799
+LT782436	LP29651	BS903132	Leukocytes	Leukocytes			10*3 cells/uL	5.1000000000000005	5.1	2799
+LT782441	LP29651	BS903132	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782372	LP29651	BS903121	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	46	46	2799
+LT782334	LP29651	BS903115	Leukocytes	Leukocytes			10*3 cells/uL	5.2	5.2	2799
+LT782351	LP29651	BS903117	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782353	LP29651	BS903118	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	53	53	2799
+LT782354	LP29651	BS903118	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	38	38	2799
+LT782756	LP29651	BS903185	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782766	LP29651	BS903187	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	55	55	2799
+LT782720	LP29651	BS903179	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	45	45	2799
+LT782724	LP29651	BS903180	Leukocytes	Leukocytes			10*3 cells/uL	6.4	6.4	2799
+LT782727	LP29651	BS903180	Monocytes/Leukocytes	Monocytes/Leukocytes			%	6	6	2799
+LT782633	LP29651	BS903164	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782636	LP29651	BS903165	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	70	70	2799
+LT782639	LP29651	BS903165	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782649	LP29651	BS903167	Monocytes/Leukocytes	Monocytes/Leukocytes			%	5	5	2799
+LT782657	LP29651	BS903168	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782580	LP29651	BS903156	Leukocytes	Leukocytes			10*3 cells/uL	4.7	4.7	2799
+LT782583	LP29651	BS903156	Monocytes/Leukocytes	Monocytes/Leukocytes			%	5	5	2799
+LT782590	LP29651	BS903157	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782596	LP29651	BS903158	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782597	LP29651	BS903158	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782602	LP29651	BS903159	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782605	LP29651	BS903160	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	42	42	2799
+LT782616	LP29651	BS903162	Leukocytes	Leukocytes			10*3 cells/uL	11.700000000000001	11.7	2799
+LT782569	LP29651	BS903154	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	62	62	2799
+LT782571	LP29651	BS903154	Monocytes/Leukocytes	Monocytes/Leukocytes			%	4	4	2799
+LT782572	LP29651	BS903154	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	3	3	2799
+LT782126	LP29651	BS903080	Leukocytes	Leukocytes			10*3 cells/uL	4.8	4.8	2799
+LT782135	LP29651	BS903081	Monocytes/Leukocytes	Monocytes/Leukocytes			%	9	9	2799
+LT782137	LP29651	BS903081	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782140	LP29651	BS903082	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	53	53	2799
+LT782293	LP29651	BS903108	Leukocytes	Leukocytes			10*3 cells/uL	3.1	3.1	2799
+LT782357	LP29651	BS903118	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782359	LP29651	BS903119	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	65	65	2799
+LT782301	LP29651	BS903109	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	41	41	2799
+LT782304	LP29651	BS903109	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782313	LP29651	BS903111	Neutrophils Band Form/Leukocytes	Neutrophils Band Form/Leukocytes			%	3	3	2799
+LT782315	LP29651	BS903111	Monocytes/Leukocytes	Monocytes/Leukocytes			%	9	9	2799
+LT782318	LP29651	BS903112	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	38	38	2799
+LT782256	LP29651	BS903101	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782929	LP29651	BS903214	Monocytes/Leukocytes	Monocytes/Leukocytes			%	12	12	2799
+LT782194	LP29651	BS903091	Lymphocytes/Leukocytes	Lymphocytes/Leukocytes			%	32	32	2799
+LT782208	LP29651	BS903093	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	2	2	2799
+LT782211	LP29651	BS903094	Neutrophils/Leukocytes	Neutrophils/Leukocytes			%	51	51	2799
+LT782930	LP29651	BS903214	Basophils/Leukocytes	Basophils/Leukocytes			%	1	1	2799
+LT782514	LP29651	BS903145	Leukocytes	Leukocytes			10*3 cells/uL	3.5	3.5	2799
+LT782517	LP29651	BS903145	Monocytes/Leukocytes	Monocytes/Leukocytes			%	14	14	2799
+LT782321	LP29651	BS903112	Basophils/Leukocytes	Basophils/Leukocytes			%	0	0	2799
+LT782322	LP29651	BS903113	Leukocytes	Leukocytes			10*3 cells/uL	6.1000000000000005	6.1	2799
+LT782332	LP29651	BS903114	Eosinophils/Leukocytes	Eosinophils/Leukocytes			%	4	4	2799

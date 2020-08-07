@@ -1,0 +1,4 @@
+NAME	DESCRIPTION	LINK	SORT_ORDER
+CONTROL_SAMPLE	Sample used to perform quality control of assay results.		1
+EXPERIMENTAL_SAMPLE	Biological sample that is assayed or measured.		2
+STANDARD_CURVE	An analysis product from analyzing the assay result from known quantities and used to interpret the assay result from a sample.		3

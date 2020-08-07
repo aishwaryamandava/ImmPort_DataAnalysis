@@ -1,0 +1,29 @@
+REAGENT_ACCESSION	ANALYTE_PREFERRED	ANALYTE_REPORTED	ANTIBODY_REGISTRY_ID	CATALOG_NUMBER	CLONE_NAME	CONTACT	DESCRIPTION	IS_SET	LOT_NUMBER	MANUFACTURER	NAME	REPORTER_NAME	TYPE	WEBLINK	WORKSPACE_ID
+ESR11498				14190144			Phosphate buffer saline without manganese and without magnesium	N	1227361	Life Technologies	Phosphate Buffer Saline				2883
+ESR11499				51202			5M Sodium chloride	N	0000200005	AccuGene	Sodium Chloride				2883
+ESR11500				31151			Chicken blood contraining 50% alsevers solution	N	999230	Colorado Serum Company	Chicken Red Blood Cells				2883
+ESR11501				370013			Receptor Destroying Enzyme II, influenza virus; elimination of nonspecific inhibition of hemagglutination	N	412061	Accurate Chemical & Scientific Corporation	Receptor Destroying Enzyme II				2883
+ESR13863		Human 51 plex Luminex assay		PC9000		To-Tram_Brill@affymetrix.com	Analytes: CD40Ligand,ENA78,EOTAXIN,FGFb,G-CSF,GM-CSF,GRO ALPHA,HGF,ICAM-1,IFN-a,IFN-b,IFN-G,IL-10,IL-12-P70,IL-12P40,IL-13,IL-15,IL-17,IL-17F,IL-1a,IL-1B,IL-1RA,IL-2,IL-4,IL-5,IL-6,IL-7,IL-8,IP10,LEPTIN,LIF,M-CSF,MCP-1,MCP-3,MIG,MIP-1B,MIP1a,NGF,PAI-1,PDGFBB,RANTES,Resistin,SCF,sFAS ligand,TGF-a,TGF-b,TNF-A,TNF-B,Trail,V-CAM-1,VEGF Control Beads:CHEX-1,CHEX-2,CHEX-3,CHEX-4	N	H51-2 lot# 1088590	Affymetrix	Custom 51 plex Polysterene Bead array kit for Luminex: Discontinued		Luminex xMAP		2883
+ESR14549		CD3 AMCYAN;CD4 PB;CD8 APCH7;CD28 APC;CD27PE;CD45RA PECY5;CD19 A700;CD56 PE;CD33 PECY7;TCRGD APC		Stain80	NA			N		BD Biosciences	BD Lyoplate 1	CFSE	Flow Cytometry		2883
+ESR14550	ANA41	CD4		341654	anti-CD4			N		BD Biosciences	CD4 PerCP-Cy5.5	PerCP-Cy5.5	Flow Cytometry		2883
+ESR14551	ANA864	CD33		333946	anti-CD33			N		BD	CD33 PE-Cy7	PE-Cy7	Flow Cytometry		2883
+ESR14552	ANA809	CD3		558117	anti-CD33			N		BD	CD3-Pacific Blue	Pacific Blue	Flow Cytometry		2883
+ESR14553	ANA806	CD20		558021	anti-CD20			N		BD	CD20-PerCp-Cy5.5	PerCp-Cy5.5	Flow Cytometry		2883
+ESR14554	ANA816	CD45RA		Q10047	anti-CD45RA			N		Invitrogen	CD45RA-QDot-605	QDot-605	Flow Cytometry		2883
+ESR14555		Phospho-STAT1		612596	NA			N		BD	Stat-1Ax-488	Ax-488	Flow Cytometry		2883
+ESR14556		Phospho-STAT3		557815	NA			N		BD	Stat-3-AX-647	Ax-647	Flow Cytometry		2883
+ESR14557		Phospho-STAT5		612567	NA			N		BD	Stat-5-PE	PE	Flow Cytometry		2883
+ESR14558		N/A		E1014-25KU	NA			N		Sigma	Benzonase Nuclease	CSFE	Flow Cytometry		2883
+ESR9318				MSIPN4W50				N		Milipore	MultiScreenHTS IP Filter Plate, 0.45 ?m, white, non-sterile			http://www.emdmillipore.com/US/en/product/MultiScreenHTS-IP-Filter-Plate%2C-0.45%C2%A0%C2%B5m%2C-whi	2883
+ESR9319		IgA+IgG+IgM (H+L)		01-10-17				N		KPL	Anti-Human IgA+IgG+IgM (H+L) Antibody, Mouse Serum Adsorbed			http://www.kpl.com/catalog/productdetail.cfm?Catalog_ID=17&Category_ID=411&Product_ID=600	2883
+ESR9320		IgA		075-1001				N		KPL	Reserve AP Anti-Human IgA (alpha) Antibody, Phosphatase labeled			http://www.kpl.com/catalog/productdetail.cfm?Catalog_ID=17&Category_ID=396&Product_ID=1175	2883
+ESR9321		IgG		0751-1002				N		KPL	ReserveAP Anti-Human IgG (gamma) Antibody, Phosphatase labeled			http://www.kpl.com/catalog/productdetail.cfm?Catalog_ID=17&Category_ID=396&Product_ID=1180	2883
+ESR9322				SK 5300				N		Vector	Blue Alkaline Phosphatase (AP) Substrate Kit			https://www.vectorlabs.com/catalog.aspx?prodID=42	2883
+ESR9323				15064				N		Stemcell Technologies	RosetteSep Human B Cell Enrichment Cocktail			http://www.stemcell.com/en/Products/All-Products/RosetteSep-Human-B-Cell-Enrichment-Cocktail.aspx	2883
+ESR9324				49281-388-15				N		Sanofi-Pasteur	FLUZONE  FLU VACCINE			http://alldenttech.com/fluvaflb05ml.html	2883
+ESR9388				15064				N		Stemcell Technologies	RosetteSep Human B Cell Enrichment Cocktail			http://www.stemcell.com/en/Products/All-Products/RosetteSep-Human-B-Cell-Enrichment-Cocktail.aspx	2883
+ESR9389				49281-388-15				N		Sanofi-Pasteur	FLUZONE  FLU VACCINE				2883
+ESR9390				50-84-00				N		KPL	Coating Solution Concentrate			http://www.kpl.com/catalog/productdetail.cfm?Catalog_ID=17&Category_ID=460&Product_ID=577	2883
+ESR9391		IgG		074-1002				N		KPL	Anti-Human IgG (gamma) Antibody, Peroxidase labeled			http://www.kpl.com/catalog/productdetail.cfm?Catalog_ID=17&Category_ID=408&Product_ID=774	2883
+ESR9392		IgA		14-10-01				N		KPL	Anti-Human IgA (alpha) Antibody, Peroxidase labeled			http://www.kpl.com/catalog/productdetail.cfm?Catalog_ID=17&Category_ID=408&Product_ID=754	2883
+ESR9393				50-76-03				N		KPL	TMB Microwell Peroxidase Substrate System			http://www.kpl.com/catalog/productdetail.cfm?Catalog_ID=17&Category_ID=450&Product_ID=563	2883

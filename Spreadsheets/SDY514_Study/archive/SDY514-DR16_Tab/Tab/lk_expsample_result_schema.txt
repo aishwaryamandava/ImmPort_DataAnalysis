@@ -1,0 +1,14 @@
+NAME	DESCRIPTION
+ELISA	ELISA results data stored in EXP_ELISA_MBAA_RESULT table.
+ELISPOT	ELISPOT results data stored in EXP_ELISPOT_RESULT table.
+FCM	FCM results data stored in FACS_ANALYZED_RESULT table.
+GE_AFFY	Gene Expression Affymetrix results data stored in EXP_GE_AFFY_RESULT table.
+GT_AFFY	Genotyping Affymetrix results data stored in EXP_GT_AFFY_RESULT table.
+GT_ILLUMINA	Genotyping Illumina results data stored in EXP_GT_ILLUMINA_RESULT table.
+HLA_TYPING	HLA_TYPING results data stored in HLA_TYPING_RESULT table.
+KIR_TYPING	KIR results data stored in KIR_TYPING_RESULT table (future use).
+MBAA	MBAA results data stored in MBAA_RESULT table.
+Q-PCR	FCM results data stored in EXP_PCR_RESULT table.
+OTHER	Result schema is OTHER and no specific Results table exists for this data. Result files are archived only, and Upld_Rslt_Status is always Not_Parsed.
+HAI	Hemagluttination Inhibition results data stored in EXP_HAI_RESULT table.
+VIRUS_NEUTRALIZATION	Virus Neutralization results data stored in EXP_VIRUS_NEUT_RESULT table.

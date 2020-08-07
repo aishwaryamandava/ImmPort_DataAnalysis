@@ -1,0 +1,41 @@
+INTERVENTION_ACCESSION	COMPOUND_NAME_REPORTED	COMPOUND_ROLE	DOSE	DOSE_FREQ_PER_INTERVAL	DOSE_REPORTED	DOSE_UNITS	DURATION	DURATION_UNIT	END_DAY	END_TIME	FORMULATION	IS_ONGOING	NAME_PREFERRED	NAME_REPORTED	REPORTED_INDICATION	ROUTE_OF_ADMIN_PREFERRED	ROUTE_OF_ADMIN_REPORTED	START_DAY	START_TIME	STATUS	STUDY_ACCESSION	SUBJECT_ACCESSION	WORKSPACE_ID
+SM148945	Augmentin	Concomitant Medication			UNK									Augmentin				0			SDY387	SUB135878	2799
+SM148987	Motrin	Concomitant Medication			UNK									Motrin				91			SDY387	SUB135872	2799
+SM148999	Nasonex	Concomitant Medication			UNK									Nasonex				0			SDY387	SUB135864	2799
+SM149000	Motrin/Bayer	Concomitant Medication			UNK									Motrin/Bayer				0			SDY387	SUB135877	2799
+SM149022	Advil	Concomitant Medication			UNK									Advil				91			SDY387	SUB135880	2799
+SM149036	Amoxicillin	Concomitant Medication			UNK									Amoxicillin				39			SDY387	SUB135883	2799
+SM149041	Augmentin	Concomitant Medication			UNK									Augmentin				22			SDY387	SUB135875	2799
+SM149002	Zithromax	Concomitant Medication			UNK									Zithromax				189			SDY387	SUB135877	2799
+SM148975	Tylenol	Concomitant Medication			UNK									Tylenol				91			SDY387	SUB135873	2799
+SM148990	Benadryl	Concomitant Medication			UNK									Benadryl				0			SDY387	SUB135871	2799
+SM149001	Albuteral/Singular	Concomitant Medication			UNK									Albuteral/Singular				0			SDY387	SUB135877	2799
+SM149034	Sudafed	Concomitant Medication			UNK									Sudafed				28			SDY387	SUB135865	2799
+SM148946	Amoxil	Concomitant Medication			UNK									Amoxil				25			SDY387	SUB135878	2799
+SM148977	Amoxicillin	Concomitant Medication			UNK									Amoxicillin				186			SDY387	SUB135879	2799
+SM148998	Clarinex	Concomitant Medication			UNK									Clarinex				0			SDY387	SUB135864	2799
+SM149044	Advil	Concomitant Medication			UNK									Advil				0			SDY387	SUB135874	2799
+SM148986	Tylenol	Concomitant Medication			UNK									Tylenol				91			SDY387	SUB135872	2799
+SM148991	Zyrtec	Concomitant Medication			UNK									Zyrtec				28			SDY387	SUB135871	2799
+SM149021	Zyrtec	Concomitant Medication			UNK									Zyrtec				21			SDY387	SUB135880	2799
+SM149023	Claritin	Concomitant Medication			UNK									Claritin				91			SDY387	SUB135880	2799
+SM149026	Claritin	Concomitant Medication			UNK									Claritin				97			SDY387	SUB135885	2799
+SM149028	Ibuprofen	Concomitant Medication			UNK									Ibuprofen				0			SDY387	SUB135885	2799
+SM149032	Zyrteed	Concomitant Medication			UNK									Zyrteed				0			SDY387	SUB135865	2799
+SM149033	Zyrtec	Concomitant Medication			UNK									Zyrtec				28			SDY387	SUB135865	2799
+SM149045	Tylenol	Concomitant Medication			UNK									Tylenol				0			SDY387	SUB135874	2799
+SM148976	2-Max-Pro	Concomitant Medication			UNK									2-Max-Pro				0			SDY387	SUB135879	2799
+SM149020	Amoxicillin	Concomitant Medication			UNK									Amoxicillin				186			SDY387	SUB135880	2799
+SM149024	Benadryl	Concomitant Medication		PRN	UNK									Benadryl				0			SDY387	SUB135880	2799
+SM149029	Cefdinir	Concomitant Medication			UNK									Cefdinir				40			SDY387	SUB135885	2799
+SM149031	Amoxicillin	Concomitant Medication			UNK									Amoxicillin				90			SDY387	SUB135867	2799
+SM148960	Focolan	Concomitant Medication	20		20 mg	mg								Focolan				0			SDY387	SUB135868	2799
+SM148989	Advil	Concomitant Medication			200-400 mg									Advil				0			SDY387	SUB135871	2799
+SM148992	Mucinex	Concomitant Medication			UNK									Mucinex				28			SDY387	SUB135871	2799
+SM149030	Omnicef	Concomitant Medication			UNK				3					Omnicef				0			SDY387	SUB135867	2799
+SM148952	Amoxicillin	Concomitant Medication			UNK									Amoxicillin				109			SDY387	SUB135881	2799
+SM148997	Advir	Concomitant Medication			UNK									Advir				0			SDY387	SUB135864	2799
+SM149008	Penicillin	Concomitant Medication			UNK									Penicillin				182			SDY387	SUB135869	2799
+SM149025	Advil	Concomitant Medication			UNK									Advil				97			SDY387	SUB135885	2799
+SM149027	Prevacis	Concomitant Medication			UNK									Prevacis				0			SDY387	SUB135885	2799
+SM149035	Amoxicillin	Concomitant Medication			UNK									Amoxicillin				109			SDY387	SUB135883	2799

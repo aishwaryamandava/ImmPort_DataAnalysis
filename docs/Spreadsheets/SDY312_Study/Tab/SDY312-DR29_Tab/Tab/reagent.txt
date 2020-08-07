@@ -1,0 +1,51 @@
+REAGENT_ACCESSION	ANALYTE_PREFERRED	ANALYTE_REPORTED	ANTIBODY_REGISTRY_ID	CATALOG_NUMBER	CLONE_NAME	CONTACT	DESCRIPTION	IS_SET	LOT_NUMBER	MANUFACTURER	NAME	REPORTER_NAME	TYPE	WEBLINK	WORKSPACE_ID
+ESR10155	ANA41	CD4	AB_400452	341654	anti-CD4			N		BD Biosciences	CD4 PerCP-Cy5.5	PerCP-Cy5.5			2883
+ESR10156	ANA864	CD33	AB_399961	333946	anti-CD33			N		BD	CD33 PE-Cy7	PE-Cy7			2883
+ESR10157	ANA809	CD3	AB_397038	558117	anti-CD33			N		BD	CD3-Pacific Blue	Pacific Blue			2883
+ESR10158	ANA806	CD20	AB_396990	558021	anti-CD20			N		BD	CD20-PerCp-Cy5.5	PerCp-Cy5.5			2883
+ESR10159	ANA816	CD45RA		Q10047	anti-CD45RA			N		Invitrogen	CD45RA-QDot-605	QDot-605			2883
+ESR10160		Phospho-STAT1	AB_399879	612596	N/A			N		BD	Stat-1Ax-488	Ax-488			2883
+ESR10161		Phospho-STAT3	AB_647144	557815	N/A			N		BD	Stat-3-AX-647	Ax-647			2883
+ESR10162		Phospho-STAT5	AB_399858	612567	N/A			N		BD	Stat-5-PE	PE			2883
+ESR10163				E1014-25KU	N/A			N		Sigma	Benzonase Nuclease	N/A			2883
+ESR11530				BD-103-0204				N		Illumina	GX-BeadChip HT12v4				2883
+ESR12043	ANA182	CD127		NA	anti-CD127 , clone HIL-7R-M21		anti-CD127 , clone HIL-7R-M21	N		Becton Dickinson	CD127 -A 647_HIL-7R-M21	A 647	Flow Cytometry		2883
+ESR12044	ANA883	CD161		NA	anti-CD161, clone DX12		anti-CD161, clone DX12	N		Becton Dickinson	CD161-FITC_DX12	FITC	Flow Cytometry		2883
+ESR12045	ANA811	CD16		NA	anti-CD16, clone 3G8		anti-CD16, clone 3G8	N		Becton Dickinson	CD16-FITC_3G8	FITC	Flow Cytometry		2883
+ESR12046	ANA811	CD16		NA	anti-CD16, clone 3G8		anti-CD16, clone 3G8	N		Becton Dickinson	CD16-PECY7_3G8	PECY7	Flow Cytometry		2883
+ESR12047		CD183		NA	anti-CD183, clone 1C6/CXCR3		anti-CD183, clone 1C6/CXCR3	N		Becton Dickinson	CD183-PE_1C6/CXCR3	PE	Flow Cytometry		2883
+ESR12048	ANA805	CD19		NA	anti-CD19, clone SJ25C1		anti-CD19, clone SJ25C1	N		Becton Dickinson	CD19-APC_SJ25C1	APC	Flow Cytometry		2883
+ESR12049	ANA805	CD19		NA	anti-CD19, clone SJ25C1		anti-CD19, clone SJ25C1	N		Becton Dickinson	CD19-PCPCY5.5_SJ25C1	PCPCY5.5	Flow Cytometry		2883
+ESR12050	ANA806	CD20		NA	anti-CD20, clone 2H7		anti-CD20, clone 2H7	N		Becton Dickinson	CD20-APCH7_2H7	APC	Flow Cytometry		2883
+ESR12051	ANA807	CD24		NA	anti-CD24, clone ML5		anti-CD24, clone ML5	N		Becton Dickinson	CD24-PE_ML5	PE	Flow Cytometry		2883
+ESR12052	ANA163	CD25		NA	anti-CD25, clone 2A3		anti-CD25, clone 2A3	N		Becton Dickinson	CD25-PE_2A3	PE	Flow Cytometry		2883
+ESR12053		CD279		NA	anti-CD279, clone		anti-CD279, clone	N		Becton Dickinson	CD279-PE_EH12.1	PE	Flow Cytometry		2883
+ESR12054	ANA40	CD27		NA	anti-CD27, clone L128		anti-CD27, clone L128	N		Becton Dickinson	CD27-APC_L128	APC	Flow Cytometry		2883
+ESR12055	ANA863	CD28		NA	anti-CD28, clone		anti-CD28, clone	N		Becton Dickinson	CD28-PE_CD28.2	PE	Flow Cytometry		2883
+ESR12056	ANA867	CD314		NA	anti-CD314, clone 1D11		anti-CD314, clone 1D11	N		Becton Dickinson	CD314-PE_1D11	PE	Flow Cytometry		2883
+ESR12057	ANA864	CD33		NA	anti-CD33, clone P67.6		anti-CD33, clone P67.6	N		Becton Dickinson	CD33-PECY7_P67.6	PECY7	Flow Cytometry		2883
+ESR12058	ANA808	CD38		NA	anti-CD38, clone HB-7		anti-CD38, clone HB-7	N		Becton Dickinson	CD38-PECY7_HB-7	PECY7	Flow Cytometry		2883
+ESR12059	ANA809	CD3		NA	anti-CD3, clone UCHT1		anti-CD3, clone UCHT1	N		Becton Dickinson	CD3-V450_UCHT1	V450	Flow Cytometry		2883
+ESR12060	ANA816	CD45RA		NA	anti-CD45RA, clone HI100		anti-CD45RA, clone HI100	N		Becton Dickinson	CD45RA-PECY7_HI100	PECY7	Flow Cytometry		2883
+ESR12061	ANA41	CD4		NA	anti-CD4, clone SK3		anti-CD4, clone SK3	N		Becton Dickinson	CD4-PCPCY5.5_SK3	PCPCY5.5	Flow Cytometry		2883
+ESR12062	ANA815	CD56		NA	anti-CD56, clone NCAM16.2		anti-CD56, clone NCAM16.2	N		Becton Dickinson	CD56-APC_NCAM16.2	APC	Flow Cytometry		2883
+ESR12063	ANA815	CD56		NA	anti-CD56, clone NCAM16.2		anti-CD56, clone NCAM16.2	N		Becton Dickinson	CD56-FITC_NCAM16.2	FITC	Flow Cytometry		2883
+ESR12064	ANA888	CD85j		NA	anti-CD85j, clone		anti-CD85j, clone	N		Becton Dickinson	CD85j-FITC_GHI/75	FITC	Flow Cytometry		2883
+ESR12065	ANA810	CD8		NA	anti-CD8, clone SK1		anti-CD8, clone SK1	N		Becton Dickinson	CD8-APCH7_SK1	APC	Flow Cytometry		2883
+ESR12066	ANA884	CD94		NA	anti-CD94, clone HP-3D9		anti-CD94, clone HP-3D9	N		Becton Dickinson	CD94-FITC_HP-3D9	FITC	Flow Cytometry		2883
+ESR12067	ANA812	HLADR		NA	anti-HLADR, clone L243		anti-HLADR, clone L243	N		Becton Dickinson	HLADR-APC_L243	APC	Flow Cytometry		2883
+ESR12068	ANA812	HLADR		NA	anti-HLADR, clone L243		anti-HLADR, clone L243	N		Becton Dickinson	HLADR-PCPCY5.5_L243	PCPCY5.5	Flow Cytometry		2883
+ESR12069	ANA813	IgD		NA	anti-IgD, clone IA6-2		anti-IgD, clone IA6-2	N		Becton Dickinson	IgD-FITC_IA6-2	FITC	Flow Cytometry		2883
+ESR12070		TCRgd		NA	anti-TCRgd, clone B1		anti-TCRgd, clone B1	N		Becton Dickinson	TCRgd-FITC_B1	FITC	Flow Cytometry		2883
+ESR12071							Human T Cell Surface Marker Screening Panel, cocktail 1	Y			cocktail 1		Flow Cytometry		2883
+ESR12072							Human NK/NKT Cell Surface Marker Screening Panel, cocktail 2	Y			cocktail 2		Flow Cytometry		2883
+ESR12073							Human B Cell Surface Marker Screening Panel, cocktail 3	Y			cocktail 3		Flow Cytometry		2883
+ESR12074							Human T-regulatory Cell Surface Marker Screening Panel, cocktail 4	Y			cocktail 4		Flow Cytometry		2883
+ESR12075							Human CXCR3+ Fluorescence-Minus-One Control Cell Surface Marker Screening Panel, cocktail 5	Y			cocktail 5		Flow Cytometry		2883
+ESR12076							Human CXCR3+ Cell Surface Marker Screening Panel, cocktail 6	Y			cocktail 6		Flow Cytometry		2883
+ESR12077							Human Activated T Cell Surface Marker Screening Panel, cocktail 7	Y			cocktail 7		Flow Cytometry		2883
+ESR13868		Human 51 plex Luminex assay		PC9000		To-Tram_Brill@affymetrix.com	Analytes: CD40Ligand,ENA78,EOTAXIN,FGFb,G-CSF,GM-CSF,GRO ALPHA,HGF,ICAM-1,IFN-a,IFN-b,IFN-G,IL-10,IL-12-P70,IL-12P40,IL-13,IL-15,IL-17,IL-17F,IL-1a,IL-1B,IL-1RA,IL-2,IL-4,IL-5,IL-6,IL-7,IL-8,IP10,LEPTIN,LIF,M-CSF,MCP-1,MCP-3,MIG,MIP-1B,MIP1a,NGF,PAI-1,PDGFBB,RANTES,Resistin,SCF,sFAS ligand,TGF-a,TGF-b,TNF-A,TNF-B,Trail,V-CAM-1,VEGF Control Beads:CHEX-1,CHEX-2,CHEX-3,CHEX-4	N	H51-2 lot# 1088590	Affymetrix	Custom 51 plex Polysterene Bead array kit for Luminex: Discontinued		Luminex xMAP		2883
+ESR9394				14190144			Phosphate buffer saline without manganese and without magnesium	N	1227361	Life Technologies	Phosphate Buffer Saline				2883
+ESR9395				51202			5M Sodium chloride	N	0000200005	AccuGene	Sodium Chloride				2883
+ESR9396				31151			Chicken blood contraining 50% alsevers solution	N	999230	Colorado Serum Company	Chicken Red Blood Cells				2883
+ESR9397				370013			Receptor Destroying Enzyme II, influenza virus; elimination of nonspecific inhibition of hemagglutination	N	412061	Accurate Chemical & Scientific Corporation	Receptor Destroying Enzyme II				2883

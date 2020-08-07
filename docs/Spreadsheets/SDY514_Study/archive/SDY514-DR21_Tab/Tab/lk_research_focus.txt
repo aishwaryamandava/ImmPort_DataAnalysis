@@ -1,0 +1,8 @@
+NAME	DESCRIPTION	LINK
+Atopy/Allergy	Atopy or Allergy research focus.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C41366&ns=NCI_Thesaurus;URL: https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=OBI&code=OBI_1110049&ns=obo
+Autoimmune	Autoimmune research focus.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=OBI&code=OBI_1110054&ns=obo
+Immune Response	Immune Response research focus.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=OBI&code=GO_0006955&ns=obo
+Infection Response	Infection Response research focus.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=SNOMED%20Clinical%20Terms%20US%20Edition&code=252101002&ns=SNOMED
+No Research Focus Specified	No Research Focus currently specified.	
+Transplantation	Transplantation research focus.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=OBI&code=OBI_0000105&ns=obo
+Vaccine Response	Vaccine Response research focus.	http://www.ebi.ac.uk/efo/EFO_0004645

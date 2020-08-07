@@ -1,0 +1,10 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY739	arm or cohorts
+SDY739	demographics
+SDY739	documentation
+SDY739	inclusionExclusion
+SDY739	mechassays
+SDY739	publications
+SDY739	resources
+SDY739	subject
+SDY739	summary

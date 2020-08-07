@@ -1,0 +1,23 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB135717	Other		Not Hispanic or Latino	Male	Other	White/Black or African American	Homo sapiens			2799
+SUB135718	Other		Not Hispanic or Latino	Male	Other	White/Black or African American	Homo sapiens			2799
+SUB135723	Other		Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB135725	Other		Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB135720	Other		Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB135728	Other		Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB135731	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			2799
+SUB135732	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			2799
+SUB135733	Other		Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB135737	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			2799
+SUB135719	Other		Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB135721	Other		Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB135729	Other		Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB135734	Other		Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB135735	Other		Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB135736	Other		Not Hispanic or Latino	Male	Black or African American		Homo sapiens			2799
+SUB135724	Other		Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB135722	Other		Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB135730	Other		Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB135738	Other		Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB135726	Other		Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB135727	Other		Not Hispanic or Latino	Male	White		Homo sapiens			2799

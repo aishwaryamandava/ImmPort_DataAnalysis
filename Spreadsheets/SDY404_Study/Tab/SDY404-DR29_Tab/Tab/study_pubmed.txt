@@ -1,0 +1,2 @@
+STUDY_ACCESSION	PUBMED_ID	AUTHORS	DOI	ISSUE	JOURNAL	MONTH	PAGES	TITLE	YEAR	WORKSPACE_ID
+SDY404	25367297	Mohanty S(1), Joshi SR(1), Ueda I(1), Wilson J(1), Blevins TP(2), Siconolfi B(1), Meng H(3), Devine L(4), Raddassi K(5), Tsang S(1), Belshe RB(2), Hafler DA(6), Kaech SM(7), Kleinstein SH(8), Trentalange M(9), Allore HG(9), Shaw AC(1).	10.1093/infdis/jiu573. Epub 2014 Nov 2.	211 7	J Infect Dis.	Apr	1174-84	Prolonged proinflammatory cytokine production in monocytes modulated by interleukin 10 after influenza vaccination in older adults.	2015	2668

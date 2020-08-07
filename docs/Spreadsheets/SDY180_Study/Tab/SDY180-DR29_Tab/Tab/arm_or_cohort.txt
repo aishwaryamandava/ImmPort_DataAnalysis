@@ -1,0 +1,9 @@
+ARM_ACCESSION	DESCRIPTION	NAME	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM780	Saline, Samples at Day 0,1,28	Study group 3 Pneunomax23	SDY180	Placebo	2799
+ARM778	Saline, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48	Study group 2 Saline	SDY180	Placebo	2799
+ARM774	Pneunomax23, Samples at Day -7,0,1,3,7,10,14,21,28	Study group 1 Pneunomax23	SDY180	Experimental	2799
+ARM776	2009-2010 Fluzone vaccine, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48	Study group 2 2009-2010 Fluzone	SDY180	Experimental	2799
+ARM777	Pneunomax23, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48	Study group 2 Pneunomax23	SDY180	Experimental	2799
+ARM779	2009-2010 Fluzone vaccine, Samples at Day 0,1,28	Study group 3 2009-2010 Fluzone	SDY180	Experimental	2799
+ARM775	Saline, Samples at Day -7,0,1,3,7,10,14,21,28	Study group 1 Saline	SDY180	Placebo	2799
+ARM773	2009-2010 Fluzone vaccine, Samples at Day -7,0,1,3,7,10,14,21,28	Study group 1 2009-2010 Fluzone	SDY180	Experimental	2799

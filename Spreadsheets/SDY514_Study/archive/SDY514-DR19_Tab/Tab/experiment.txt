@@ -1,0 +1,5 @@
+EXPERIMENT_ACCESSION	DESCRIPTION	GRAPHIC_SUMMARY	HYPOTHESIS	KEYWORDS	MEASUREMENT_TECHNIQUE	PURPOSE	QC_MEASURES	RATIONALE	STUDY_ACCESSION	TITLE	WORKSPACE_ID
+EXP13922	?phospho flow, day 0	Y			FCM	Cellular_Phenotype			SDY514	Phosphoflow phenotyping assays on 2009 flu vaccine samples	2883
+EXP13915		Y			Hemagglutination_Inhibition	Virus_Titer			SDY514	HAI assays on 2009 flu vaccine samples	2883
+EXP13950		Y			Luminex_xMAP	Cytokine_Quantification			SDY514	Luminex serum protein quantifucation assays on 2009 flu vaccine samples	2883
+EXP13921	flow phenotyping	Y			FCM	Cellular_Phenotype			SDY514	Flow cytometry assays on 2009 flu vaccine samples	2883

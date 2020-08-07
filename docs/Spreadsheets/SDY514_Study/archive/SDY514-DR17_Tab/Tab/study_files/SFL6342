@@ -1,0 +1,19 @@
+Monozygotic and Dizygotic Twin Pair T-Cell Responses to Influenza Vaccination 2009 Study Data Curation notes:
+March 31, 2015
+
+1. The Brodin et al publication "Variation in the human immune system is largely driven by non-heritable influences." (PubMed 25594173) is represented as three single influenza vaccine season studies in ImmPort (SDY514, SDY515, SDY519).  
+
+2. ImmPort is unable to provide antibody clone names for the Luminex based multiplex protein quantification assays per Affymetrix policy:
+
+"We do not release the origin of our clones that we use for ProcartaPlex and this is considered trade secret from our end.  We have in the past, provided under disclosure if the ELISA assays that we provide are the same identical pairs that are used in our ProcartaPlex assays.  When eBio took over manufacturing of the Procarta assays, we switched many of our Procarta assays over to the eBio clones to ensure that our users will be able to generate consistent data on both platforms. 
+ 
+I’m not exactly sure why the clone details are needed and would be happy to discuss and maybe there is other information that could be helpful in place of the clone names, but at this point, it is something that is part of our know-how and trade secret.
+
+ 
+Brendan Yee
+ 
+Director of Marketing
+Affymetrix
+3380 Central Expressway, Santa Clara, CA 95051
+Cell: 510-366-3406| Fax: 408-731-5250
+brendan_yee@affymetrix.com"

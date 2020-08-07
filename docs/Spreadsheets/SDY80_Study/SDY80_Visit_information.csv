@@ -1,0 +1,913 @@
+FCS File Name,fcs_file_name,expsample_accession,study_time_collected,type,biosample_accession,name..7,file_info_id,measurement_technique
+export_200_0.727694.fcs,export_200_0.fcs,ES1230858,0,PBMC,BS807848,09-H1-0239 flow cytometry Mono/DC,727694,Flow Cytometry
+export_200_1.727703.fcs,export_200_1.fcs,ES1230859,1,PBMC,BS807849,09-H1-0239 flow cytometry Mono/DC,727703,Flow Cytometry
+export_284_0.728705.fcs,export_284_0.fcs,ES1231765,0,PBMC,BS808088,09-H1-0239 flow cytometry T3,728705,Flow Cytometry
+export_284_1.728706.fcs,export_284_1.fcs,ES1231766,1,PBMC,BS808089,09-H1-0239 flow cytometry T3,728706,Flow Cytometry
+export_284_7.728707.fcs,export_284_7.fcs,ES1231767,7,PBMC,BS808090,09-H1-0239 flow cytometry T3,728707,Flow Cytometry
+export_284_70.728708.fcs,export_284_70.fcs,ES1231768,70,PBMC,BS808092,09-H1-0239 flow cytometry T3,728708,Flow Cytometry
+export_284_pre.728709.fcs,export_284_pre.fcs,ES1231769,-7,PBMC,BS808091,09-H1-0239 flow cytometry T3,728709,Flow Cytometry
+export_227_7.727565.fcs,export_227_7.fcs,ES1230730,7,PBMC,BS807926,09-H1-0239 flow cytometry B2,727565,Flow Cytometry
+export_227_0.727563.fcs,export_227_0.fcs,ES1230728,0,PBMC,BS807924,09-H1-0239 flow cytometry B2,727563,Flow Cytometry
+export_227_1.727564.fcs,export_227_1.fcs,ES1230729,1,PBMC,BS807925,09-H1-0239 flow cytometry B2,727564,Flow Cytometry
+export_227_70.727566.fcs,export_227_70.fcs,ES1230731,70,PBMC,BS807928,09-H1-0239 flow cytometry B2,727566,Flow Cytometry
+export_228_0.727567.fcs,export_228_0.fcs,ES1230732,0,PBMC,BS807929,09-H1-0239 flow cytometry B2,727567,Flow Cytometry
+export_228_1.727568.fcs,export_228_1.fcs,ES1230733,1,PBMC,BS807930,09-H1-0239 flow cytometry B2,727568,Flow Cytometry
+export_228_7.727569.fcs,export_228_7.fcs,ES1230734,7,PBMC,BS807931,09-H1-0239 flow cytometry B2,727569,Flow Cytometry
+export_228_70.727570.fcs,export_228_70.fcs,ES1230735,70,PBMC,BS807933,09-H1-0239 flow cytometry B2,727570,Flow Cytometry
+export_229_0.727571.fcs,export_229_0.fcs,ES1230736,0,PBMC,BS807934,09-H1-0239 flow cytometry B2,727571,Flow Cytometry
+export_229_1.727572.fcs,export_229_1.fcs,ES1230737,1,PBMC,BS807935,09-H1-0239 flow cytometry B2,727572,Flow Cytometry
+export_229_7.727573.fcs,export_229_7.fcs,ES1230738,7,PBMC,BS807936,09-H1-0239 flow cytometry B2,727573,Flow Cytometry
+export_229_70.727574.fcs,export_229_70.fcs,ES1230739,70,PBMC,BS807938,09-H1-0239 flow cytometry B2,727574,Flow Cytometry
+export_230_0.727575.fcs,export_230_0.fcs,ES1230740,0,PBMC,BS807939,09-H1-0239 flow cytometry B2,727575,Flow Cytometry
+export_230_1.727576.fcs,export_230_1.fcs,ES1230741,1,PBMC,BS807940,09-H1-0239 flow cytometry B2,727576,Flow Cytometry
+export_230_7.727577.fcs,export_230_7.fcs,ES1230742,7,PBMC,BS807941,09-H1-0239 flow cytometry B2,727577,Flow Cytometry
+export_230_70.727578.fcs,export_230_70.fcs,ES1230743,70,PBMC,BS807943,09-H1-0239 flow cytometry B2,727578,Flow Cytometry
+export_231_0.727579.fcs,export_231_0.fcs,ES1230744,0,PBMC,BS807944,09-H1-0239 flow cytometry B2,727579,Flow Cytometry
+export_231_1.727580.fcs,export_231_1.fcs,ES1230745,1,PBMC,BS807945,09-H1-0239 flow cytometry B2,727580,Flow Cytometry
+export_231_70.727581.fcs,export_231_70.fcs,ES1230746,70,PBMC,BS807947,09-H1-0239 flow cytometry B2,727581,Flow Cytometry
+export_232_0.727582.fcs,export_232_0.fcs,ES1230747,0,PBMC,BS807948,09-H1-0239 flow cytometry B2,727582,Flow Cytometry
+export_232_7.727583.fcs,export_232_7.fcs,ES1230748,7,PBMC,BS807949,09-H1-0239 flow cytometry B2,727583,Flow Cytometry
+export_233_0.727584.fcs,export_233_0.fcs,ES1230749,0,PBMC,BS807951,09-H1-0239 flow cytometry B2,727584,Flow Cytometry
+export_233_1.727585.fcs,export_233_1.fcs,ES1230750,1,PBMC,BS807952,09-H1-0239 flow cytometry B2,727585,Flow Cytometry
+export_233_7.727586.fcs,export_233_7.fcs,ES1230751,7,PBMC,BS807953,09-H1-0239 flow cytometry B2,727586,Flow Cytometry
+export_233_70.727587.fcs,export_233_70.fcs,ES1230752,70,PBMC,BS807955,09-H1-0239 flow cytometry B2,727587,Flow Cytometry
+export_234_0.727588.fcs,export_234_0.fcs,ES1230753,0,PBMC,BS807956,09-H1-0239 flow cytometry B2,727588,Flow Cytometry
+export_234_7.727589.fcs,export_234_7.fcs,ES1230754,7,PBMC,BS807957,09-H1-0239 flow cytometry B2,727589,Flow Cytometry
+export_235_0.727590.fcs,export_235_0.fcs,ES1230755,0,PBMC,BS807959,09-H1-0239 flow cytometry B2,727590,Flow Cytometry
+export_235_7.727591.fcs,export_235_7.fcs,ES1230756,7,PBMC,BS807960,09-H1-0239 flow cytometry B2,727591,Flow Cytometry
+export_249_0.727886.fcs,export_249_0.fcs,ES1231042,0,PBMC,BS1007346,09-H1-0239 flow cytometry Mono/DC,727886,Flow Cytometry
+export_249_1.727887.fcs,export_249_1.fcs,ES1231043,1,PBMC,BS807999,09-H1-0239 flow cytometry Mono/DC,727887,Flow Cytometry
+export_249_7.727888.fcs,export_249_7.fcs,ES1231044,7,PBMC,BS808000,09-H1-0239 flow cytometry Mono/DC,727888,Flow Cytometry
+export_249_70.727889.fcs,export_249_70.fcs,ES1231045,70,PBMC,BS808002,09-H1-0239 flow cytometry Mono/DC,727889,Flow Cytometry
+export_249_pre 7.727890.fcs,export_249_pre 7.fcs,ES1231046,-7,PBMC,BS808001,09-H1-0239 flow cytometry Mono/DC,727890,Flow Cytometry
+export_250_0.727891.fcs,export_250_0.fcs,ES1231047,0,PBMC,BS808003,09-H1-0239 flow cytometry Mono/DC,727891,Flow Cytometry
+export_250_1.727892.fcs,export_250_1.fcs,ES1231048,1,PBMC,BS808004,09-H1-0239 flow cytometry Mono/DC,727892,Flow Cytometry
+export_250_7.727893.fcs,export_250_7.fcs,ES1231049,7,PBMC,BS808005,09-H1-0239 flow cytometry Mono/DC,727893,Flow Cytometry
+export_250_70.727894.fcs,export_250_70.fcs,ES1231050,70,PBMC,BS808006,09-H1-0239 flow cytometry Mono/DC,727894,Flow Cytometry
+export_250_pre 7.727895.fcs,export_250_pre 7.fcs,ES1231051,7,PBMC,BS1007347,09-H1-0239 flow cytometry Mono/DC,727895,Flow Cytometry
+export_251_0.727896.fcs,export_251_0.fcs,ES1231052,0,PBMC,BS808007,09-H1-0239 flow cytometry Mono/DC,727896,Flow Cytometry
+export_251_1.727897.fcs,export_251_1.fcs,ES1231053,1,PBMC,BS808008,09-H1-0239 flow cytometry Mono/DC,727897,Flow Cytometry
+export_251_7.727898.fcs,export_251_7.fcs,ES1231054,7,PBMC,BS808009,09-H1-0239 flow cytometry Mono/DC,727898,Flow Cytometry
+export_251_70.727899.fcs,export_251_70.fcs,ES1231055,70,PBMC,BS808011,09-H1-0239 flow cytometry Mono/DC,727899,Flow Cytometry
+export_251_pre 7.727900.fcs,export_251_pre 7.fcs,ES1231056,-7,PBMC,BS808010,09-H1-0239 flow cytometry Mono/DC,727900,Flow Cytometry
+export_254_0.727901.fcs,export_254_0.fcs,ES1231057,0,PBMC,BS1007348,09-H1-0239 flow cytometry Mono/DC,727901,Flow Cytometry
+export_254_1.727902.fcs,export_254_1.fcs,ES1231058,1,PBMC,BS808012,09-H1-0239 flow cytometry Mono/DC,727902,Flow Cytometry
+export_254_7.727903.fcs,export_254_7.fcs,ES1231059,7,PBMC,BS1007349,09-H1-0239 flow cytometry Mono/DC,727903,Flow Cytometry
+export_254_70.727904.fcs,export_254_70.fcs,ES1231060,70,PBMC,BS808014,09-H1-0239 flow cytometry Mono/DC,727904,Flow Cytometry
+export_254_pre 7.727905.fcs,export_254_pre 7.fcs,ES1231061,-7,PBMC,BS808013,09-H1-0239 flow cytometry Mono/DC,727905,Flow Cytometry
+export_256_0.727906.fcs,export_256_0.fcs,ES1231062,0,PBMC,BS808015,09-H1-0239 flow cytometry Mono/DC,727906,Flow Cytometry
+export_256_1.727907.fcs,export_256_1.fcs,ES1231063,1,PBMC,BS808016,09-H1-0239 flow cytometry Mono/DC,727907,Flow Cytometry
+export_256_7.727908.fcs,export_256_7.fcs,ES1231064,7,PBMC,BS1007350,09-H1-0239 flow cytometry Mono/DC,727908,Flow Cytometry
+export_256_70.727909.fcs,export_256_70.fcs,ES1231065,70,PBMC,BS808018,09-H1-0239 flow cytometry Mono/DC,727909,Flow Cytometry
+export_256_pre 7.727910.fcs,export_256_pre 7.fcs,ES1231066,-7,PBMC,BS808017,09-H1-0239 flow cytometry Mono/DC,727910,Flow Cytometry
+export_257_0.727911.fcs,export_257_0.fcs,ES1231067,0,PBMC,BS808019,09-H1-0239 flow cytometry Mono/DC,727911,Flow Cytometry
+export_257_1.727912.fcs,export_257_1.fcs,ES1231068,1,PBMC,BS808020,09-H1-0239 flow cytometry Mono/DC,727912,Flow Cytometry
+export_236_70.727594.fcs,export_236_70.fcs,ES1230759,70,PBMC,BS807965,09-H1-0239 flow cytometry B2,727594,Flow Cytometry
+export_236_0.727592.fcs,export_236_0.fcs,ES1230757,0,PBMC,BS807962,09-H1-0239 flow cytometry B2,727592,Flow Cytometry
+export_236_1.727593.fcs,export_236_1.fcs,ES1230758,1,PBMC,BS807963,09-H1-0239 flow cytometry B2,727593,Flow Cytometry
+export_237_0.727595.fcs,export_237_0.fcs,ES1230760,0,PBMC,BS807966,09-H1-0239 flow cytometry B2,727595,Flow Cytometry
+export_237_1.727596.fcs,export_237_1.fcs,ES1230761,1,PBMC,BS807967,09-H1-0239 flow cytometry B2,727596,Flow Cytometry
+export_237_7.727597.fcs,export_237_7.fcs,ES1230762,7,PBMC,BS807968,09-H1-0239 flow cytometry B2,727597,Flow Cytometry
+export_237_70.727598.fcs,export_237_70.fcs,ES1230763,70,PBMC,BS807970,09-H1-0239 flow cytometry B2,727598,Flow Cytometry
+export_241_0.727599.fcs,export_241_0.fcs,ES1230764,0,PBMC,BS807971,09-H1-0239 flow cytometry B2,727599,Flow Cytometry
+export_241_1.727600.fcs,export_241_1.fcs,ES1230765,1,PBMC,BS807972,09-H1-0239 flow cytometry B2,727600,Flow Cytometry
+export_241_7.727601.fcs,export_241_7.fcs,ES1230766,7,PBMC,BS807973,09-H1-0239 flow cytometry B2,727601,Flow Cytometry
+export_241_70.727602.fcs,export_241_70.fcs,ES1230767,70,PBMC,BS807975,09-H1-0239 flow cytometry B2,727602,Flow Cytometry
+export_242_0.727603.fcs,export_242_0.fcs,ES1230768,0,PBMC,BS807976,09-H1-0239 flow cytometry B2,727603,Flow Cytometry
+export_242_1.727604.fcs,export_242_1.fcs,ES1230769,1,PBMC,BS807977,09-H1-0239 flow cytometry B2,727604,Flow Cytometry
+export_242_7.727605.fcs,export_242_7.fcs,ES1230770,7,PBMC,BS807978,09-H1-0239 flow cytometry B2,727605,Flow Cytometry
+export_242_70.727606.fcs,export_242_70.fcs,ES1230771,70,PBMC,BS807980,09-H1-0239 flow cytometry B2,727606,Flow Cytometry
+export_244_0.727607.fcs,export_244_0.fcs,ES1230772,0,PBMC,BS807981,09-H1-0239 flow cytometry B2,727607,Flow Cytometry
+export_244_7.727608.fcs,export_244_7.fcs,ES1230773,7,PBMC,BS807982,09-H1-0239 flow cytometry B2,727608,Flow Cytometry
+export_245_0.727609.fcs,export_245_0.fcs,ES1230774,0,PBMC,BS807984,09-H1-0239 flow cytometry B2,727609,Flow Cytometry
+export_245_1.727610.fcs,export_245_1.fcs,ES1230775,1,PBMC,BS807985,09-H1-0239 flow cytometry B2,727610,Flow Cytometry
+export_245_7.727611.fcs,export_245_7.fcs,ES1230776,7,PBMC,BS807986,09-H1-0239 flow cytometry B2,727611,Flow Cytometry
+export_245_70.727612.fcs,export_245_70.fcs,ES1230777,70,PBMC,BS807988,09-H1-0239 flow cytometry B2,727612,Flow Cytometry
+export_246_0.727613.fcs,export_246_0.fcs,ES1230778,0,PBMC,BS807989,09-H1-0239 flow cytometry B2,727613,Flow Cytometry
+export_246_1.727614.fcs,export_246_1.fcs,ES1230779,1,PBMC,BS807990,09-H1-0239 flow cytometry B2,727614,Flow Cytometry
+export_246_7.727615.fcs,export_246_7.fcs,ES1230780,7,PBMC,BS807991,09-H1-0239 flow cytometry B2,727615,Flow Cytometry
+export_246_70.727616.fcs,export_246_70.fcs,ES1230781,70,PBMC,BS807993,09-H1-0239 flow cytometry B2,727616,Flow Cytometry
+export_248_0.727617.fcs,export_248_0.fcs,ES1230782,0,PBMC,BS807994,09-H1-0239 flow cytometry B2,727617,Flow Cytometry
+export_248_1.727618.fcs,export_248_1.fcs,ES1230783,1,PBMC,BS807995,09-H1-0239 flow cytometry B2,727618,Flow Cytometry
+export_248_7.727619.fcs,export_248_7.fcs,ES1230784,7,PBMC,BS807996,09-H1-0239 flow cytometry B2,727619,Flow Cytometry
+export_248_70.727620.fcs,export_248_70.fcs,ES1230785,70,PBMC,BS807998,09-H1-0239 flow cytometry B2,727620,Flow Cytometry
+export_257_7.727913.fcs,export_257_7.fcs,ES1231069,7,PBMC,BS1007351,09-H1-0239 flow cytometry Mono/DC,727913,Flow Cytometry
+export_257_70.727914.fcs,export_257_70.fcs,ES1231070,70,PBMC,BS808022,09-H1-0239 flow cytometry Mono/DC,727914,Flow Cytometry
+export_257_pre 7.727915.fcs,export_257_pre 7.fcs,ES1231071,-7,PBMC,BS808021,09-H1-0239 flow cytometry Mono/DC,727915,Flow Cytometry
+export_259_0.727916.fcs,export_259_0.fcs,ES1231072,0,PBMC,BS808023,09-H1-0239 flow cytometry Mono/DC,727916,Flow Cytometry
+export_259_1.727917.fcs,export_259_1.fcs,ES1231073,1,PBMC,BS808024,09-H1-0239 flow cytometry Mono/DC,727917,Flow Cytometry
+export_259_7.727918.fcs,export_259_7.fcs,ES1231074,7,PBMC,BS1007352,09-H1-0239 flow cytometry Mono/DC,727918,Flow Cytometry
+export_259_70.727919.fcs,export_259_70.fcs,ES1231075,70,PBMC,BS1007353,09-H1-0239 flow cytometry Mono/DC,727919,Flow Cytometry
+export_259_pre 7.727920.fcs,export_259_pre 7.fcs,ES1231076,-7,PBMC,BS808025,09-H1-0239 flow cytometry Mono/DC,727920,Flow Cytometry
+export_260_0.727921.fcs,export_260_0.fcs,ES1231077,0,PBMC,BS808026,09-H1-0239 flow cytometry Mono/DC,727921,Flow Cytometry
+export_260_1.727922.fcs,export_260_1.fcs,ES1231078,1,PBMC,BS808027,09-H1-0239 flow cytometry Mono/DC,727922,Flow Cytometry
+export_260_7.727923.fcs,export_260_7.fcs,ES1231079,7,PBMC,BS808028,09-H1-0239 flow cytometry Mono/DC,727923,Flow Cytometry
+export_260_70.727924.fcs,export_260_70.fcs,ES1231080,70,PBMC,BS808030,09-H1-0239 flow cytometry Mono/DC,727924,Flow Cytometry
+export_260_pre 7.727925.fcs,export_260_pre 7.fcs,ES1231081,-7,PBMC,BS808029,09-H1-0239 flow cytometry Mono/DC,727925,Flow Cytometry
+export_261_0.727926.fcs,export_261_0.fcs,ES1231082,0,PBMC,BS808031,09-H1-0239 flow cytometry Mono/DC,727926,Flow Cytometry
+export_261_1.727927.fcs,export_261_1.fcs,ES1231083,1,PBMC,BS808032,09-H1-0239 flow cytometry Mono/DC,727927,Flow Cytometry
+export_261_7.727928.fcs,export_261_7.fcs,ES1231084,7,PBMC,BS808033,09-H1-0239 flow cytometry Mono/DC,727928,Flow Cytometry
+export_261_70.727929.fcs,export_261_70.fcs,ES1231085,70,PBMC,BS808035,09-H1-0239 flow cytometry Mono/DC,727929,Flow Cytometry
+export_261_pre 7.727930.fcs,export_261_pre 7.fcs,ES1231086,-7,PBMC,BS808034,09-H1-0239 flow cytometry Mono/DC,727930,Flow Cytometry
+export_262_0.727931.fcs,export_262_0.fcs,ES1231087,0,PBMC,BS808036,09-H1-0239 flow cytometry Mono/DC,727931,Flow Cytometry
+export_262_1.727932.fcs,export_262_1.fcs,ES1231088,1,PBMC,BS808037,09-H1-0239 flow cytometry Mono/DC,727932,Flow Cytometry
+export_262_7.727933.fcs,export_262_7.fcs,ES1231089,7,PBMC,BS808038,09-H1-0239 flow cytometry Mono/DC,727933,Flow Cytometry
+export_262_70.727934.fcs,export_262_70.fcs,ES1231090,70,PBMC,BS808040,09-H1-0239 flow cytometry Mono/DC,727934,Flow Cytometry
+export_262_pre 7.727935.fcs,export_262_pre 7.fcs,ES1231091,-7,PBMC,BS808039,09-H1-0239 flow cytometry Mono/DC,727935,Flow Cytometry
+export_263_0.727936.fcs,export_263_0.fcs,ES1231092,0,PBMC,BS1007354,09-H1-0239 flow cytometry Mono/DC,727936,Flow Cytometry
+export_263_1.727937.fcs,export_263_1.fcs,ES1231093,1,PBMC,BS808041,09-H1-0239 flow cytometry Mono/DC,727937,Flow Cytometry
+export_263_7.727938.fcs,export_263_7.fcs,ES1231094,7,PBMC,BS1007355,09-H1-0239 flow cytometry Mono/DC,727938,Flow Cytometry
+export_263_70.727939.fcs,export_263_70.fcs,ES1231095,70,PBMC,BS1007356,09-H1-0239 flow cytometry Mono/DC,727939,Flow Cytometry
+export_263_pre 7.727940.fcs,export_263_pre 7.fcs,ES1231096,-7,PBMC,BS808042,09-H1-0239 flow cytometry Mono/DC,727940,Flow Cytometry
+export_249_70.727623.fcs,export_249_70.fcs,ES1230788,70,PBMC,BS808002,09-H1-0239 flow cytometry B2,727623,Flow Cytometry
+export_249_1.727621.fcs,export_249_1.fcs,ES1230786,1,PBMC,BS807999,09-H1-0239 flow cytometry B2,727621,Flow Cytometry
+export_249_7.727622.fcs,export_249_7.fcs,ES1230787,7,PBMC,BS808000,09-H1-0239 flow cytometry B2,727622,Flow Cytometry
+export_250_0.727624.fcs,export_250_0.fcs,ES1230789,0,PBMC,BS808003,09-H1-0239 flow cytometry B2,727624,Flow Cytometry
+export_250_1.727625.fcs,export_250_1.fcs,ES1230790,1,PBMC,BS808004,09-H1-0239 flow cytometry B2,727625,Flow Cytometry
+export_250_7.727626.fcs,export_250_7.fcs,ES1230791,7,PBMC,BS808005,09-H1-0239 flow cytometry B2,727626,Flow Cytometry
+export_250_70.727627.fcs,export_250_70.fcs,ES1230792,70,PBMC,BS808006,09-H1-0239 flow cytometry B2,727627,Flow Cytometry
+export_251_0.727628.fcs,export_251_0.fcs,ES1230793,0,PBMC,BS808007,09-H1-0239 flow cytometry B2,727628,Flow Cytometry
+export_251_1.727629.fcs,export_251_1.fcs,ES1230794,1,PBMC,BS808008,09-H1-0239 flow cytometry B2,727629,Flow Cytometry
+export_251_7.727630.fcs,export_251_7.fcs,ES1230795,7,PBMC,BS808009,09-H1-0239 flow cytometry B2,727630,Flow Cytometry
+export_251_70.727631.fcs,export_251_70.fcs,ES1230796,70,PBMC,BS808011,09-H1-0239 flow cytometry B2,727631,Flow Cytometry
+export_254_1.727632.fcs,export_254_1.fcs,ES1230797,1,PBMC,BS808012,09-H1-0239 flow cytometry B2,727632,Flow Cytometry
+export_254_70.727633.fcs,export_254_70.fcs,ES1230798,70,PBMC,BS808014,09-H1-0239 flow cytometry B2,727633,Flow Cytometry
+export_256_0.727634.fcs,export_256_0.fcs,ES1230799,0,PBMC,BS808015,09-H1-0239 flow cytometry B2,727634,Flow Cytometry
+export_256_1.727635.fcs,export_256_1.fcs,ES1230800,1,PBMC,BS808016,09-H1-0239 flow cytometry B2,727635,Flow Cytometry
+export_256_70.727636.fcs,export_256_70.fcs,ES1230801,70,PBMC,BS808018,09-H1-0239 flow cytometry B2,727636,Flow Cytometry
+export_257_0.727637.fcs,export_257_0.fcs,ES1230802,0,PBMC,BS808019,09-H1-0239 flow cytometry B2,727637,Flow Cytometry
+export_257_1.727638.fcs,export_257_1.fcs,ES1230803,1,PBMC,BS808020,09-H1-0239 flow cytometry B2,727638,Flow Cytometry
+export_257_70.727639.fcs,export_257_70.fcs,ES1230804,70,PBMC,BS808022,09-H1-0239 flow cytometry B2,727639,Flow Cytometry
+export_259_0.727640.fcs,export_259_0.fcs,ES1230805,0,PBMC,BS808023,09-H1-0239 flow cytometry B2,727640,Flow Cytometry
+export_259_1.727641.fcs,export_259_1.fcs,ES1230806,1,PBMC,BS808024,09-H1-0239 flow cytometry B2,727641,Flow Cytometry
+export_260_0.727642.fcs,export_260_0.fcs,ES1230807,0,PBMC,BS808026,09-H1-0239 flow cytometry B2,727642,Flow Cytometry
+export_260_1.727643.fcs,export_260_1.fcs,ES1230808,1,PBMC,BS808027,09-H1-0239 flow cytometry B2,727643,Flow Cytometry
+export_260_7.727644.fcs,export_260_7.fcs,ES1230809,7,PBMC,BS808028,09-H1-0239 flow cytometry B2,727644,Flow Cytometry
+export_260_70.727645.fcs,export_260_70.fcs,ES1230810,70,PBMC,BS808030,09-H1-0239 flow cytometry B2,727645,Flow Cytometry
+export_261_0.727646.fcs,export_261_0.fcs,ES1230811,0,PBMC,BS808031,09-H1-0239 flow cytometry B2,727646,Flow Cytometry
+export_261_1.727647.fcs,export_261_1.fcs,ES1230812,1,PBMC,BS808032,09-H1-0239 flow cytometry B2,727647,Flow Cytometry
+export_261_7.727648.fcs,export_261_7.fcs,ES1230813,7,PBMC,BS808033,09-H1-0239 flow cytometry B2,727648,Flow Cytometry
+export_261_70.727649.fcs,export_261_70.fcs,ES1230814,70,PBMC,BS808035,09-H1-0239 flow cytometry B2,727649,Flow Cytometry
+export_265_0.727941.fcs,export_265_0.fcs,ES1231097,0,PBMC,BS808043,09-H1-0239 flow cytometry Mono/DC,727941,Flow Cytometry
+export_265_1.727942.fcs,export_265_1.fcs,ES1231098,1,PBMC,BS808044,09-H1-0239 flow cytometry Mono/DC,727942,Flow Cytometry
+export_265_7.727943.fcs,export_265_7.fcs,ES1231099,7,PBMC,BS1007357,09-H1-0239 flow cytometry Mono/DC,727943,Flow Cytometry
+export_265_70.727944.fcs,export_265_70.fcs,ES1231100,70,PBMC,BS808046,09-H1-0239 flow cytometry Mono/DC,727944,Flow Cytometry
+export_265_pre 7.727945.fcs,export_265_pre 7.fcs,ES1231101,-7,PBMC,BS808045,09-H1-0239 flow cytometry Mono/DC,727945,Flow Cytometry
+export_267_0.727946.fcs,export_267_0.fcs,ES1231102,0,PBMC,BS808047,09-H1-0239 flow cytometry Mono/DC,727946,Flow Cytometry
+export_267_1.727947.fcs,export_267_1.fcs,ES1231103,1,PBMC,BS1007358,09-H1-0239 flow cytometry Mono/DC,727947,Flow Cytometry
+export_267_7.727948.fcs,export_267_7.fcs,ES1231104,7,PBMC,BS1007359,09-H1-0239 flow cytometry Mono/DC,727948,Flow Cytometry
+export_267_70.727949.fcs,export_267_70.fcs,ES1231105,70,PBMC,BS1007360,09-H1-0239 flow cytometry Mono/DC,727949,Flow Cytometry
+export_267_pre 7.727950.fcs,export_267_pre 7.fcs,ES1231106,-7,PBMC,BS808048,09-H1-0239 flow cytometry Mono/DC,727950,Flow Cytometry
+export_268_0.727951.fcs,export_268_0.fcs,ES1231107,0,PBMC,BS808049,09-H1-0239 flow cytometry Mono/DC,727951,Flow Cytometry
+export_268_1.727952.fcs,export_268_1.fcs,ES1231108,1,PBMC,BS808050,09-H1-0239 flow cytometry Mono/DC,727952,Flow Cytometry
+export_268_7.727953.fcs,export_268_7.fcs,ES1231109,7,PBMC,BS808051,09-H1-0239 flow cytometry Mono/DC,727953,Flow Cytometry
+export_268_70.727954.fcs,export_268_70.fcs,ES1231110,70,PBMC,BS808053,09-H1-0239 flow cytometry Mono/DC,727954,Flow Cytometry
+export_268_pre 7.727955.fcs,export_268_pre 7.fcs,ES1231111,-7,PBMC,BS808052,09-H1-0239 flow cytometry Mono/DC,727955,Flow Cytometry
+export_272_0.727956.fcs,export_272_0.fcs,ES1231112,0,PBMC,BS808054,09-H1-0239 flow cytometry Mono/DC,727956,Flow Cytometry
+export_272_1.727957.fcs,export_272_1.fcs,ES1231113,1,PBMC,BS808055,09-H1-0239 flow cytometry Mono/DC,727957,Flow Cytometry
+export_272_7.727958.fcs,export_272_7.fcs,ES1231114,7,PBMC,BS808056,09-H1-0239 flow cytometry Mono/DC,727958,Flow Cytometry
+export_272_70.727959.fcs,export_272_70.fcs,ES1231115,70,PBMC,BS808058,09-H1-0239 flow cytometry Mono/DC,727959,Flow Cytometry
+export_272_pre 7.727960.fcs,export_272_pre 7.fcs,ES1231116,-7,PBMC,BS808057,09-H1-0239 flow cytometry Mono/DC,727960,Flow Cytometry
+export_273_0.727961.fcs,export_273_0.fcs,ES1231117,0,PBMC,BS808059,09-H1-0239 flow cytometry Mono/DC,727961,Flow Cytometry
+export_273_1.727962.fcs,export_273_1.fcs,ES1231118,1,PBMC,BS808060,09-H1-0239 flow cytometry Mono/DC,727962,Flow Cytometry
+export_273_7.727963.fcs,export_273_7.fcs,ES1231119,7,PBMC,BS808061,09-H1-0239 flow cytometry Mono/DC,727963,Flow Cytometry
+export_273_70.727964.fcs,export_273_70.fcs,ES1231120,70,PBMC,BS808063,09-H1-0239 flow cytometry Mono/DC,727964,Flow Cytometry
+export_273_pre 7.727965.fcs,export_273_pre 7.fcs,ES1231121,-7,PBMC,BS808062,09-H1-0239 flow cytometry Mono/DC,727965,Flow Cytometry
+export_274_0.727966.fcs,export_274_0.fcs,ES1231122,0,PBMC,BS808064,09-H1-0239 flow cytometry Mono/DC,727966,Flow Cytometry
+export_274_1.727967.fcs,export_274_1.fcs,ES1231123,1,PBMC,BS808065,09-H1-0239 flow cytometry Mono/DC,727967,Flow Cytometry
+export_274_7.727968.fcs,export_274_7.fcs,ES1231124,7,PBMC,BS808066,09-H1-0239 flow cytometry Mono/DC,727968,Flow Cytometry
+export_262_7.727652.fcs,export_262_7.fcs,ES1230817,7,PBMC,BS808038,09-H1-0239 flow cytometry B2,727652,Flow Cytometry
+export_262_0.727650.fcs,export_262_0.fcs,ES1230815,0,PBMC,BS808036,09-H1-0239 flow cytometry B2,727650,Flow Cytometry
+export_262_1.727651.fcs,export_262_1.fcs,ES1230816,1,PBMC,BS808037,09-H1-0239 flow cytometry B2,727651,Flow Cytometry
+export_262_70.727653.fcs,export_262_70.fcs,ES1230818,70,PBMC,BS808040,09-H1-0239 flow cytometry B2,727653,Flow Cytometry
+export_263_1.727654.fcs,export_263_1.fcs,ES1230819,1,PBMC,BS808041,09-H1-0239 flow cytometry B2,727654,Flow Cytometry
+export_265_0.727655.fcs,export_265_0.fcs,ES1230820,0,PBMC,BS808043,09-H1-0239 flow cytometry B2,727655,Flow Cytometry
+export_265_1.727656.fcs,export_265_1.fcs,ES1230821,1,PBMC,BS808044,09-H1-0239 flow cytometry B2,727656,Flow Cytometry
+export_265_70.727657.fcs,export_265_70.fcs,ES1230822,70,PBMC,BS808046,09-H1-0239 flow cytometry B2,727657,Flow Cytometry
+export_267_0.727658.fcs,export_267_0.fcs,ES1230823,0,PBMC,BS808047,09-H1-0239 flow cytometry B2,727658,Flow Cytometry
+export_268_0.727659.fcs,export_268_0.fcs,ES1230824,0,PBMC,BS808049,09-H1-0239 flow cytometry B2,727659,Flow Cytometry
+export_268_1.727660.fcs,export_268_1.fcs,ES1230825,1,PBMC,BS808050,09-H1-0239 flow cytometry B2,727660,Flow Cytometry
+export_268_7.727661.fcs,export_268_7.fcs,ES1230826,7,PBMC,BS808051,09-H1-0239 flow cytometry B2,727661,Flow Cytometry
+export_268_70.727662.fcs,export_268_70.fcs,ES1230827,70,PBMC,BS808053,09-H1-0239 flow cytometry B2,727662,Flow Cytometry
+export_272_0.727663.fcs,export_272_0.fcs,ES1230828,0,PBMC,BS808054,09-H1-0239 flow cytometry B2,727663,Flow Cytometry
+export_272_1.727664.fcs,export_272_1.fcs,ES1230829,1,PBMC,BS808055,09-H1-0239 flow cytometry B2,727664,Flow Cytometry
+export_272_7.727665.fcs,export_272_7.fcs,ES1230830,7,PBMC,BS808056,09-H1-0239 flow cytometry B2,727665,Flow Cytometry
+export_272_70.727666.fcs,export_272_70.fcs,ES1230831,70,PBMC,BS808058,09-H1-0239 flow cytometry B2,727666,Flow Cytometry
+export_273_0.727667.fcs,export_273_0.fcs,ES1230832,0,PBMC,BS808059,09-H1-0239 flow cytometry B2,727667,Flow Cytometry
+export_273_1.727668.fcs,export_273_1.fcs,ES1230833,1,PBMC,BS808060,09-H1-0239 flow cytometry B2,727668,Flow Cytometry
+export_273_7.727669.fcs,export_273_7.fcs,ES1230834,7,PBMC,BS808061,09-H1-0239 flow cytometry B2,727669,Flow Cytometry
+export_273_70.727670.fcs,export_273_70.fcs,ES1230835,70,PBMC,BS808063,09-H1-0239 flow cytometry B2,727670,Flow Cytometry
+export_274_0.727671.fcs,export_274_0.fcs,ES1230836,0,PBMC,BS808064,09-H1-0239 flow cytometry B2,727671,Flow Cytometry
+export_274_1.727672.fcs,export_274_1.fcs,ES1230837,1,PBMC,BS808065,09-H1-0239 flow cytometry B2,727672,Flow Cytometry
+export_274_7.727673.fcs,export_274_7.fcs,ES1230838,7,PBMC,BS808066,09-H1-0239 flow cytometry B2,727673,Flow Cytometry
+export_274_70.727674.fcs,export_274_70.fcs,ES1230839,70,PBMC,BS808068,09-H1-0239 flow cytometry B2,727674,Flow Cytometry
+export_277_0.727675.fcs,export_277_0.fcs,ES1230840,0,PBMC,BS808069,09-H1-0239 flow cytometry B2,727675,Flow Cytometry
+export_277_1.727676.fcs,export_277_1.fcs,ES1230841,1,PBMC,BS808070,09-H1-0239 flow cytometry B2,727676,Flow Cytometry
+export_277_7.727677.fcs,export_277_7.fcs,ES1230842,7,PBMC,BS808071,09-H1-0239 flow cytometry B2,727677,Flow Cytometry
+export_277_70.727678.fcs,export_277_70.fcs,ES1230843,70,PBMC,BS808073,09-H1-0239 flow cytometry B2,727678,Flow Cytometry
+export_274_70.727969.fcs,export_274_70.fcs,ES1231125,70,PBMC,BS808068,09-H1-0239 flow cytometry Mono/DC,727969,Flow Cytometry
+export_274_pre 7.727970.fcs,export_274_pre 7.fcs,ES1231126,-7,PBMC,BS808067,09-H1-0239 flow cytometry Mono/DC,727970,Flow Cytometry
+export_275_0.727971.fcs,export_275_0.fcs,ES1231127,0,PBMC,BS1007361,09-H1-0239 flow cytometry Mono/DC,727971,Flow Cytometry
+export_275_1.727972.fcs,export_275_1.fcs,ES1231128,1,PBMC,BS1007362,09-H1-0239 flow cytometry Mono/DC,727972,Flow Cytometry
+export_275_7.727973.fcs,export_275_7.fcs,ES1231129,7,PBMC,BS1007363,09-H1-0239 flow cytometry Mono/DC,727973,Flow Cytometry
+export_275_70.727974.fcs,export_275_70.fcs,ES1231130,70,PBMC,BS1007364,09-H1-0239 flow cytometry Mono/DC,727974,Flow Cytometry
+export_275_pre 7.727975.fcs,export_275_pre 7.fcs,ES1231131,7,PBMC,BS1007365,09-H1-0239 flow cytometry Mono/DC,727975,Flow Cytometry
+export_277_0.727976.fcs,export_277_0.fcs,ES1231132,0,PBMC,BS808069,09-H1-0239 flow cytometry Mono/DC,727976,Flow Cytometry
+export_277_1.727977.fcs,export_277_1.fcs,ES1231133,1,PBMC,BS808070,09-H1-0239 flow cytometry Mono/DC,727977,Flow Cytometry
+export_277_7.727978.fcs,export_277_7.fcs,ES1231134,7,PBMC,BS808071,09-H1-0239 flow cytometry Mono/DC,727978,Flow Cytometry
+export_277_70.727979.fcs,export_277_70.fcs,ES1231135,70,PBMC,BS808073,09-H1-0239 flow cytometry Mono/DC,727979,Flow Cytometry
+export_277_pre 7.727980.fcs,export_277_pre 7.fcs,ES1231136,-7,PBMC,BS808072,09-H1-0239 flow cytometry Mono/DC,727980,Flow Cytometry
+export_279_0.727981.fcs,export_279_0.fcs,ES1231137,0,PBMC,BS808074,09-H1-0239 flow cytometry Mono/DC,727981,Flow Cytometry
+export_279_1.727982.fcs,export_279_1.fcs,ES1231138,1,PBMC,BS1007366,09-H1-0239 flow cytometry Mono/DC,727982,Flow Cytometry
+export_279_7.727983.fcs,export_279_7.fcs,ES1231139,7,PBMC,BS1007367,09-H1-0239 flow cytometry Mono/DC,727983,Flow Cytometry
+export_279_70.727984.fcs,export_279_70.fcs,ES1231140,70,PBMC,BS808076,09-H1-0239 flow cytometry Mono/DC,727984,Flow Cytometry
+export_279_pre 7.727985.fcs,export_279_pre 7.fcs,ES1231141,-7,PBMC,BS808075,09-H1-0239 flow cytometry Mono/DC,727985,Flow Cytometry
+export_280_0.727986.fcs,export_280_0.fcs,ES1231142,0,PBMC,BS808077,09-H1-0239 flow cytometry Mono/DC,727986,Flow Cytometry
+export_280_1.727987.fcs,export_280_1.fcs,ES1231143,1,PBMC,BS1007368,09-H1-0239 flow cytometry Mono/DC,727987,Flow Cytometry
+export_280_7.727988.fcs,export_280_7.fcs,ES1231144,7,PBMC,BS808078,09-H1-0239 flow cytometry Mono/DC,727988,Flow Cytometry
+export_280_70.727989.fcs,export_280_70.fcs,ES1231145,70,PBMC,BS808080,09-H1-0239 flow cytometry Mono/DC,727989,Flow Cytometry
+export_280_pre 7.727990.fcs,export_280_pre 7.fcs,ES1231146,-7,PBMC,BS808079,09-H1-0239 flow cytometry Mono/DC,727990,Flow Cytometry
+export_282_0.727991.fcs,export_282_0.fcs,ES1231147,0,PBMC,BS1007369,09-H1-0239 flow cytometry Mono/DC,727991,Flow Cytometry
+export_282_1.727992.fcs,export_282_1.fcs,ES1231148,1,PBMC,BS1007370,09-H1-0239 flow cytometry Mono/DC,727992,Flow Cytometry
+export_282_7.727993.fcs,export_282_7.fcs,ES1231149,7,PBMC,BS808081,09-H1-0239 flow cytometry Mono/DC,727993,Flow Cytometry
+export_282_70.727994.fcs,export_282_70.fcs,ES1231150,70,PBMC,BS1007371,09-H1-0239 flow cytometry Mono/DC,727994,Flow Cytometry
+export_282_pre 7.727995.fcs,export_282_pre 7.fcs,ES1231151,-7,PBMC,BS808082,09-H1-0239 flow cytometry Mono/DC,727995,Flow Cytometry
+export_283_0.727996.fcs,export_283_0.fcs,ES1231152,0,PBMC,BS808083,09-H1-0239 flow cytometry Mono/DC,727996,Flow Cytometry
+export_280_0.727681.fcs,export_280_0.fcs,ES1230846,0,PBMC,BS808077,09-H1-0239 flow cytometry B2,727681,Flow Cytometry
+export_279_0.727679.fcs,export_279_0.fcs,ES1230844,0,PBMC,BS808074,09-H1-0239 flow cytometry B2,727679,Flow Cytometry
+export_279_70.727680.fcs,export_279_70.fcs,ES1230845,70,PBMC,BS808076,09-H1-0239 flow cytometry B2,727680,Flow Cytometry
+export_280_7.727682.fcs,export_280_7.fcs,ES1230847,7,PBMC,BS808078,09-H1-0239 flow cytometry B2,727682,Flow Cytometry
+export_280_70.727683.fcs,export_280_70.fcs,ES1230848,70,PBMC,BS808080,09-H1-0239 flow cytometry B2,727683,Flow Cytometry
+export_282_7.727684.fcs,export_282_7.fcs,ES1230849,7,PBMC,BS808081,09-H1-0239 flow cytometry B2,727684,Flow Cytometry
+export_283_0.727685.fcs,export_283_0.fcs,ES1230850,0,PBMC,BS808083,09-H1-0239 flow cytometry B2,727685,Flow Cytometry
+export_283_1.727686.fcs,export_283_1.fcs,ES1230851,1,PBMC,BS808084,09-H1-0239 flow cytometry B2,727686,Flow Cytometry
+export_283_7.727687.fcs,export_283_7.fcs,ES1230852,7,PBMC,BS808085,09-H1-0239 flow cytometry B2,727687,Flow Cytometry
+export_283_70.727688.fcs,export_283_70.fcs,ES1230853,70,PBMC,BS808087,09-H1-0239 flow cytometry B2,727688,Flow Cytometry
+export_284_0.727689.fcs,export_284_0.fcs,ES1230854,0,PBMC,BS808088,09-H1-0239 flow cytometry B2,727689,Flow Cytometry
+export_284_1.727690.fcs,export_284_1.fcs,ES1230855,1,PBMC,BS808089,09-H1-0239 flow cytometry B2,727690,Flow Cytometry
+export_284_7.727691.fcs,export_284_7.fcs,ES1230856,7,PBMC,BS808090,09-H1-0239 flow cytometry B2,727691,Flow Cytometry
+export_284_70.727692.fcs,export_284_70.fcs,ES1230857,70,PBMC,BS808092,09-H1-0239 flow cytometry B2,727692,Flow Cytometry
+export_200_7.727704.fcs,export_200_7.fcs,ES1230860,7,PBMC,BS807850,09-H1-0239 flow cytometry Mono/DC,727704,Flow Cytometry
+export_200_70.727705.fcs,export_200_70.fcs,ES1230861,70,PBMC,BS807852,09-H1-0239 flow cytometry Mono/DC,727705,Flow Cytometry
+export_200_pre 7.727706.fcs,export_200_pre 7.fcs,ES1230862,-7,PBMC,BS807851,09-H1-0239 flow cytometry Mono/DC,727706,Flow Cytometry
+export_201_0.727707.fcs,export_201_0.fcs,ES1230863,0,PBMC,BS807853,09-H1-0239 flow cytometry Mono/DC,727707,Flow Cytometry
+export_201_1.727708.fcs,export_201_1.fcs,ES1230864,1,PBMC,BS807854,09-H1-0239 flow cytometry Mono/DC,727708,Flow Cytometry
+export_201_7.727709.fcs,export_201_7.fcs,ES1230865,7,PBMC,BS807855,09-H1-0239 flow cytometry Mono/DC,727709,Flow Cytometry
+export_201_70.727710.fcs,export_201_70.fcs,ES1230866,70,PBMC,BS807857,09-H1-0239 flow cytometry Mono/DC,727710,Flow Cytometry
+export_201_pre 7.727711.fcs,export_201_pre 7.fcs,ES1230867,-7,PBMC,BS807856,09-H1-0239 flow cytometry Mono/DC,727711,Flow Cytometry
+export_202_0.727712.fcs,export_202_0.fcs,ES1230868,0,PBMC,BS807858,09-H1-0239 flow cytometry Mono/DC,727712,Flow Cytometry
+export_202_1.727713.fcs,export_202_1.fcs,ES1230869,1,PBMC,BS807859,09-H1-0239 flow cytometry Mono/DC,727713,Flow Cytometry
+export_202_7.727714.fcs,export_202_7.fcs,ES1230870,7,PBMC,BS807860,09-H1-0239 flow cytometry Mono/DC,727714,Flow Cytometry
+export_202_70.727715.fcs,export_202_70.fcs,ES1230871,70,PBMC,BS807862,09-H1-0239 flow cytometry Mono/DC,727715,Flow Cytometry
+export_202_pre 7.727716.fcs,export_202_pre 7.fcs,ES1230872,-7,PBMC,BS807861,09-H1-0239 flow cytometry Mono/DC,727716,Flow Cytometry
+export_204_0.727717.fcs,export_204_0.fcs,ES1230873,0,PBMC,BS807863,09-H1-0239 flow cytometry Mono/DC,727717,Flow Cytometry
+export_283_1.727997.fcs,export_283_1.fcs,ES1231153,1,PBMC,BS808084,09-H1-0239 flow cytometry Mono/DC,727997,Flow Cytometry
+export_283_7.727998.fcs,export_283_7.fcs,ES1231154,7,PBMC,BS808085,09-H1-0239 flow cytometry Mono/DC,727998,Flow Cytometry
+export_283_70.727999.fcs,export_283_70.fcs,ES1231155,70,PBMC,BS808087,09-H1-0239 flow cytometry Mono/DC,727999,Flow Cytometry
+export_283_pre 7.728000.fcs,export_283_pre 7.fcs,ES1231156,-7,PBMC,BS808086,09-H1-0239 flow cytometry Mono/DC,728000,Flow Cytometry
+export_284_0.728001.fcs,export_284_0.fcs,ES1231157,0,PBMC,BS808088,09-H1-0239 flow cytometry Mono/DC,728001,Flow Cytometry
+export_284_1.728002.fcs,export_284_1.fcs,ES1231158,1,PBMC,BS808089,09-H1-0239 flow cytometry Mono/DC,728002,Flow Cytometry
+export_284_7.728003.fcs,export_284_7.fcs,ES1231159,7,PBMC,BS808090,09-H1-0239 flow cytometry Mono/DC,728003,Flow Cytometry
+export_284_70.728004.fcs,export_284_70.fcs,ES1231160,70,PBMC,BS808092,09-H1-0239 flow cytometry Mono/DC,728004,Flow Cytometry
+export_284_pre 7.728005.fcs,export_284_pre 7.fcs,ES1231161,-7,PBMC,BS808091,09-H1-0239 flow cytometry Mono/DC,728005,Flow Cytometry
+export_200_0.728390.fcs,export_200_0.fcs,ES1231466,0,PBMC,BS807848,09-H1-0239 flow cytometry T3,728390,Flow Cytometry
+export_200_1.728407.fcs,export_200_1.fcs,ES1231467,1,PBMC,BS807849,09-H1-0239 flow cytometry T3,728407,Flow Cytometry
+export_200_7.728408.fcs,export_200_7.fcs,ES1231468,7,PBMC,BS807850,09-H1-0239 flow cytometry T3,728408,Flow Cytometry
+export_200_70.728409.fcs,export_200_70.fcs,ES1231469,70,PBMC,BS807852,09-H1-0239 flow cytometry T3,728409,Flow Cytometry
+export_200_pre.728410.fcs,export_200_pre.fcs,ES1231470,-7,PBMC,BS807851,09-H1-0239 flow cytometry T3,728410,Flow Cytometry
+export_201_0.728411.fcs,export_201_0.fcs,ES1231471,0,PBMC,BS807853,09-H1-0239 flow cytometry T3,728411,Flow Cytometry
+export_201_1.728412.fcs,export_201_1.fcs,ES1231472,1,PBMC,BS807854,09-H1-0239 flow cytometry T3,728412,Flow Cytometry
+export_201_7.728413.fcs,export_201_7.fcs,ES1231473,7,PBMC,BS807855,09-H1-0239 flow cytometry T3,728413,Flow Cytometry
+export_201_70.728414.fcs,export_201_70.fcs,ES1231474,70,PBMC,BS807857,09-H1-0239 flow cytometry T3,728414,Flow Cytometry
+export_201_pre.728415.fcs,export_201_pre.fcs,ES1231475,-7,PBMC,BS807856,09-H1-0239 flow cytometry T3,728415,Flow Cytometry
+export_202_0.728416.fcs,export_202_0.fcs,ES1231476,0,PBMC,BS807858,09-H1-0239 flow cytometry T3,728416,Flow Cytometry
+export_202_1.728417.fcs,export_202_1.fcs,ES1231477,1,PBMC,BS807859,09-H1-0239 flow cytometry T3,728417,Flow Cytometry
+export_202_7.728418.fcs,export_202_7.fcs,ES1231478,7,PBMC,BS807860,09-H1-0239 flow cytometry T3,728418,Flow Cytometry
+export_202_70.728419.fcs,export_202_70.fcs,ES1231479,70,PBMC,BS807862,09-H1-0239 flow cytometry T3,728419,Flow Cytometry
+export_202_pre.728420.fcs,export_202_pre.fcs,ES1231480,-7,PBMC,BS807861,09-H1-0239 flow cytometry T3,728420,Flow Cytometry
+export_204_0.728421.fcs,export_204_0.fcs,ES1231481,0,PBMC,BS807863,09-H1-0239 flow cytometry T3,728421,Flow Cytometry
+export_204_1.728422.fcs,export_204_1.fcs,ES1231482,1,PBMC,BS807864,09-H1-0239 flow cytometry T3,728422,Flow Cytometry
+export_204_7.728423.fcs,export_204_7.fcs,ES1231483,7,PBMC,BS807865,09-H1-0239 flow cytometry T3,728423,Flow Cytometry
+export_204_70.728424.fcs,export_204_70.fcs,ES1231484,70,PBMC,BS807867,09-H1-0239 flow cytometry T3,728424,Flow Cytometry
+export_204_70.727720.fcs,export_204_70.fcs,ES1230876,70,PBMC,BS807867,09-H1-0239 flow cytometry Mono/DC,727720,Flow Cytometry
+export_204_1.727718.fcs,export_204_1.fcs,ES1230874,1,PBMC,BS807864,09-H1-0239 flow cytometry Mono/DC,727718,Flow Cytometry
+export_204_7.727719.fcs,export_204_7.fcs,ES1230875,7,PBMC,BS807865,09-H1-0239 flow cytometry Mono/DC,727719,Flow Cytometry
+export_204_pre 7.727721.fcs,export_204_pre 7.fcs,ES1230877,-7,PBMC,BS807866,09-H1-0239 flow cytometry Mono/DC,727721,Flow Cytometry
+export_205_0.727722.fcs,export_205_0.fcs,ES1230878,0,PBMC,BS807868,09-H1-0239 flow cytometry Mono/DC,727722,Flow Cytometry
+export_205_1.727723.fcs,export_205_1.fcs,ES1230879,1,PBMC,BS807869,09-H1-0239 flow cytometry Mono/DC,727723,Flow Cytometry
+export_205_7.727724.fcs,export_205_7.fcs,ES1230880,7,PBMC,BS807870,09-H1-0239 flow cytometry Mono/DC,727724,Flow Cytometry
+export_205_70.727725.fcs,export_205_70.fcs,ES1230881,70,PBMC,BS807872,09-H1-0239 flow cytometry Mono/DC,727725,Flow Cytometry
+export_205_pre 7.727726.fcs,export_205_pre 7.fcs,ES1230882,-7,PBMC,BS807871,09-H1-0239 flow cytometry Mono/DC,727726,Flow Cytometry
+export_206_0.727727.fcs,export_206_0.fcs,ES1230883,0,PBMC,BS1007313,09-H1-0239 flow cytometry Mono/DC,727727,Flow Cytometry
+export_206_1.727728.fcs,export_206_1.fcs,ES1230884,1,PBMC,BS807873,09-H1-0239 flow cytometry Mono/DC,727728,Flow Cytometry
+export_206_7.727729.fcs,export_206_7.fcs,ES1230885,7,PBMC,BS807874,09-H1-0239 flow cytometry Mono/DC,727729,Flow Cytometry
+export_206_70.727730.fcs,export_206_70.fcs,ES1230886,70,PBMC,BS1007314,09-H1-0239 flow cytometry Mono/DC,727730,Flow Cytometry
+export_206_pre 7.727731.fcs,export_206_pre 7.fcs,ES1230887,-7,PBMC,BS807875,09-H1-0239 flow cytometry Mono/DC,727731,Flow Cytometry
+export_207_0.727732.fcs,export_207_0.fcs,ES1230888,0,PBMC,BS807876,09-H1-0239 flow cytometry Mono/DC,727732,Flow Cytometry
+export_207_1.727733.fcs,export_207_1.fcs,ES1230889,1,PBMC,BS807877,09-H1-0239 flow cytometry Mono/DC,727733,Flow Cytometry
+export_207_7.727734.fcs,export_207_7.fcs,ES1230890,7,PBMC,BS807878,09-H1-0239 flow cytometry Mono/DC,727734,Flow Cytometry
+export_207_70.727735.fcs,export_207_70.fcs,ES1230891,70,PBMC,BS807880,09-H1-0239 flow cytometry Mono/DC,727735,Flow Cytometry
+export_207_pre 7.727736.fcs,export_207_pre 7.fcs,ES1230892,-7,PBMC,BS807879,09-H1-0239 flow cytometry Mono/DC,727736,Flow Cytometry
+export_209_0.727737.fcs,export_209_0.fcs,ES1230893,0,PBMC,BS807881,09-H1-0239 flow cytometry Mono/DC,727737,Flow Cytometry
+export_209_1.727738.fcs,export_209_1.fcs,ES1230894,1,PBMC,BS807882,09-H1-0239 flow cytometry Mono/DC,727738,Flow Cytometry
+export_209_7.727739.fcs,export_209_7.fcs,ES1230895,7,PBMC,BS807883,09-H1-0239 flow cytometry Mono/DC,727739,Flow Cytometry
+export_209_70.727740.fcs,export_209_70.fcs,ES1230896,70,PBMC,BS807885,09-H1-0239 flow cytometry Mono/DC,727740,Flow Cytometry
+export_209_pre 7.727741.fcs,export_209_pre 7.fcs,ES1230897,-7,PBMC,BS807884,09-H1-0239 flow cytometry Mono/DC,727741,Flow Cytometry
+export_212_0.727742.fcs,export_212_0.fcs,ES1230898,0,PBMC,BS807886,09-H1-0239 flow cytometry Mono/DC,727742,Flow Cytometry
+export_212_1.727743.fcs,export_212_1.fcs,ES1230899,1,PBMC,BS807887,09-H1-0239 flow cytometry Mono/DC,727743,Flow Cytometry
+export_212_7.727744.fcs,export_212_7.fcs,ES1230900,7,PBMC,BS807888,09-H1-0239 flow cytometry Mono/DC,727744,Flow Cytometry
+export_212_70.727745.fcs,export_212_70.fcs,ES1230901,70,PBMC,BS807890,09-H1-0239 flow cytometry Mono/DC,727745,Flow Cytometry
+export_204_pre.728425.fcs,export_204_pre.fcs,ES1231485,-7,PBMC,BS807866,09-H1-0239 flow cytometry T3,728425,Flow Cytometry
+export_205_0.728426.fcs,export_205_0.fcs,ES1231486,0,PBMC,BS807868,09-H1-0239 flow cytometry T3,728426,Flow Cytometry
+export_205_1.728427.fcs,export_205_1.fcs,ES1231487,1,PBMC,BS807869,09-H1-0239 flow cytometry T3,728427,Flow Cytometry
+export_205_7.728428.fcs,export_205_7.fcs,ES1231488,7,PBMC,BS807870,09-H1-0239 flow cytometry T3,728428,Flow Cytometry
+export_205_70.728429.fcs,export_205_70.fcs,ES1231489,70,PBMC,BS807872,09-H1-0239 flow cytometry T3,728429,Flow Cytometry
+export_205_pre.728430.fcs,export_205_pre.fcs,ES1231490,-7,PBMC,BS807871,09-H1-0239 flow cytometry T3,728430,Flow Cytometry
+export_206_0.728431.fcs,export_206_0.fcs,ES1231491,0,PBMC,BS1007313,09-H1-0239 flow cytometry T3,728431,Flow Cytometry
+export_206_1.728432.fcs,export_206_1.fcs,ES1231492,1,PBMC,BS807873,09-H1-0239 flow cytometry T3,728432,Flow Cytometry
+export_206_7.728433.fcs,export_206_7.fcs,ES1231493,7,PBMC,BS807874,09-H1-0239 flow cytometry T3,728433,Flow Cytometry
+export_206_70.728434.fcs,export_206_70.fcs,ES1231494,70,PBMC,BS1007314,09-H1-0239 flow cytometry T3,728434,Flow Cytometry
+export_206_pre.728435.fcs,export_206_pre.fcs,ES1231495,-7,PBMC,BS807875,09-H1-0239 flow cytometry T3,728435,Flow Cytometry
+export_207_0.728436.fcs,export_207_0.fcs,ES1231496,0,PBMC,BS807876,09-H1-0239 flow cytometry T3,728436,Flow Cytometry
+export_207_1.728437.fcs,export_207_1.fcs,ES1231497,1,PBMC,BS807877,09-H1-0239 flow cytometry T3,728437,Flow Cytometry
+export_207_7.728438.fcs,export_207_7.fcs,ES1231498,7,PBMC,BS807878,09-H1-0239 flow cytometry T3,728438,Flow Cytometry
+export_207_70.728439.fcs,export_207_70.fcs,ES1231499,70,PBMC,BS807880,09-H1-0239 flow cytometry T3,728439,Flow Cytometry
+export_207_pre.728440.fcs,export_207_pre.fcs,ES1231500,-7,PBMC,BS807879,09-H1-0239 flow cytometry T3,728440,Flow Cytometry
+export_209_0.728441.fcs,export_209_0.fcs,ES1231501,0,PBMC,BS807881,09-H1-0239 flow cytometry T3,728441,Flow Cytometry
+export_209_1.728442.fcs,export_209_1.fcs,ES1231502,1,PBMC,BS807882,09-H1-0239 flow cytometry T3,728442,Flow Cytometry
+export_209_7.728443.fcs,export_209_7.fcs,ES1231503,7,PBMC,BS807883,09-H1-0239 flow cytometry T3,728443,Flow Cytometry
+export_209_70.728444.fcs,export_209_70.fcs,ES1231504,70,PBMC,BS807885,09-H1-0239 flow cytometry T3,728444,Flow Cytometry
+export_209_pre.728445.fcs,export_209_pre.fcs,ES1231505,-7,PBMC,BS807884,09-H1-0239 flow cytometry T3,728445,Flow Cytometry
+export_212_0.728446.fcs,export_212_0.fcs,ES1231506,0,PBMC,BS807886,09-H1-0239 flow cytometry T3,728446,Flow Cytometry
+export_212_1.728447.fcs,export_212_1.fcs,ES1231507,1,PBMC,BS807887,09-H1-0239 flow cytometry T3,728447,Flow Cytometry
+export_212_7.728448.fcs,export_212_7.fcs,ES1231508,7,PBMC,BS807888,09-H1-0239 flow cytometry T3,728448,Flow Cytometry
+export_212_70.728449.fcs,export_212_70.fcs,ES1231509,70,PBMC,BS807890,09-H1-0239 flow cytometry T3,728449,Flow Cytometry
+export_212_pre.728450.fcs,export_212_pre.fcs,ES1231510,-7,PBMC,BS807889,09-H1-0239 flow cytometry T3,728450,Flow Cytometry
+export_213_0.728451.fcs,export_213_0.fcs,ES1231511,0,PBMC,BS807891,09-H1-0239 flow cytometry T3,728451,Flow Cytometry
+export_213_1.728452.fcs,export_213_1.fcs,ES1231512,1,PBMC,BS807892,09-H1-0239 flow cytometry T3,728452,Flow Cytometry
+export_212_pre 7.727746.fcs,export_212_pre 7.fcs,ES1230902,-7,PBMC,BS807889,09-H1-0239 flow cytometry Mono/DC,727746,Flow Cytometry
+export_213_0.727747.fcs,export_213_0.fcs,ES1230903,0,PBMC,BS807891,09-H1-0239 flow cytometry Mono/DC,727747,Flow Cytometry
+export_213_1.727748.fcs,export_213_1.fcs,ES1230904,1,PBMC,BS807892,09-H1-0239 flow cytometry Mono/DC,727748,Flow Cytometry
+export_213_7.727749.fcs,export_213_7.fcs,ES1230905,7,PBMC,BS807893,09-H1-0239 flow cytometry Mono/DC,727749,Flow Cytometry
+export_213_70.727750.fcs,export_213_70.fcs,ES1230906,70,PBMC,BS807895,09-H1-0239 flow cytometry Mono/DC,727750,Flow Cytometry
+export_213_pre 7.727751.fcs,export_213_pre 7.fcs,ES1230907,-7,PBMC,BS807894,09-H1-0239 flow cytometry Mono/DC,727751,Flow Cytometry
+export_215_0.727752.fcs,export_215_0.fcs,ES1230908,0,PBMC,BS807896,09-H1-0239 flow cytometry Mono/DC,727752,Flow Cytometry
+export_215_1.727753.fcs,export_215_1.fcs,ES1230909,1,PBMC,BS807897,09-H1-0239 flow cytometry Mono/DC,727753,Flow Cytometry
+export_215_7.727754.fcs,export_215_7.fcs,ES1230910,7,PBMC,BS807898,09-H1-0239 flow cytometry Mono/DC,727754,Flow Cytometry
+export_215_70.727755.fcs,export_215_70.fcs,ES1230911,70,PBMC,BS807900,09-H1-0239 flow cytometry Mono/DC,727755,Flow Cytometry
+export_215_pre 7.727756.fcs,export_215_pre 7.fcs,ES1230912,-7,PBMC,BS807899,09-H1-0239 flow cytometry Mono/DC,727756,Flow Cytometry
+export_217_0.727757.fcs,export_217_0.fcs,ES1230913,0,PBMC,BS807901,09-H1-0239 flow cytometry Mono/DC,727757,Flow Cytometry
+export_217_1.727758.fcs,export_217_1.fcs,ES1230914,1,PBMC,BS807902,09-H1-0239 flow cytometry Mono/DC,727758,Flow Cytometry
+export_217_7.727759.fcs,export_217_7.fcs,ES1230915,7,PBMC,BS1007315,09-H1-0239 flow cytometry Mono/DC,727759,Flow Cytometry
+export_217_70.727760.fcs,export_217_70.fcs,ES1230916,70,PBMC,BS807904,09-H1-0239 flow cytometry Mono/DC,727760,Flow Cytometry
+export_217_pre 7.727761.fcs,export_217_pre 7.fcs,ES1230917,-7,PBMC,BS807903,09-H1-0239 flow cytometry Mono/DC,727761,Flow Cytometry
+export_218_0.727762.fcs,export_218_0.fcs,ES1230918,0,PBMC,BS807905,09-H1-0239 flow cytometry Mono/DC,727762,Flow Cytometry
+export_218_1.727763.fcs,export_218_1.fcs,ES1230919,1,PBMC,BS807906,09-H1-0239 flow cytometry Mono/DC,727763,Flow Cytometry
+export_218_7.727764.fcs,export_218_7.fcs,ES1230920,7,PBMC,BS807907,09-H1-0239 flow cytometry Mono/DC,727764,Flow Cytometry
+export_218_70.727765.fcs,export_218_70.fcs,ES1230921,70,PBMC,BS807908,09-H1-0239 flow cytometry Mono/DC,727765,Flow Cytometry
+export_218_pre 7.727766.fcs,export_218_pre 7.fcs,ES1230922,7,PBMC,BS1007316,09-H1-0239 flow cytometry Mono/DC,727766,Flow Cytometry
+export_221_0.727767.fcs,export_221_0.fcs,ES1230923,0,PBMC,BS807909,09-H1-0239 flow cytometry Mono/DC,727767,Flow Cytometry
+export_221_1.727768.fcs,export_221_1.fcs,ES1230924,1,PBMC,BS807910,09-H1-0239 flow cytometry Mono/DC,727768,Flow Cytometry
+export_221_7.727769.fcs,export_221_7.fcs,ES1230925,7,PBMC,BS807911,09-H1-0239 flow cytometry Mono/DC,727769,Flow Cytometry
+export_221_70.727770.fcs,export_221_70.fcs,ES1230926,70,PBMC,BS807913,09-H1-0239 flow cytometry Mono/DC,727770,Flow Cytometry
+export_221_pre 7.727771.fcs,export_221_pre 7.fcs,ES1230927,-7,PBMC,BS807912,09-H1-0239 flow cytometry Mono/DC,727771,Flow Cytometry
+export_222_0.727772.fcs,export_222_0.fcs,ES1230928,0,PBMC,BS807914,09-H1-0239 flow cytometry Mono/DC,727772,Flow Cytometry
+export_222_1.727773.fcs,export_222_1.fcs,ES1230929,1,PBMC,BS807915,09-H1-0239 flow cytometry Mono/DC,727773,Flow Cytometry
+export_213_7.728453.fcs,export_213_7.fcs,ES1231513,7,PBMC,BS807893,09-H1-0239 flow cytometry T3,728453,Flow Cytometry
+export_213_70.728454.fcs,export_213_70.fcs,ES1231514,70,PBMC,BS807895,09-H1-0239 flow cytometry T3,728454,Flow Cytometry
+export_213_pre.728455.fcs,export_213_pre.fcs,ES1231515,-7,PBMC,BS807894,09-H1-0239 flow cytometry T3,728455,Flow Cytometry
+export_215_0.728456.fcs,export_215_0.fcs,ES1231516,0,PBMC,BS807896,09-H1-0239 flow cytometry T3,728456,Flow Cytometry
+export_215_1.728457.fcs,export_215_1.fcs,ES1231517,1,PBMC,BS807897,09-H1-0239 flow cytometry T3,728457,Flow Cytometry
+export_215_7.728458.fcs,export_215_7.fcs,ES1231518,7,PBMC,BS807898,09-H1-0239 flow cytometry T3,728458,Flow Cytometry
+export_215_70.728459.fcs,export_215_70.fcs,ES1231519,70,PBMC,BS807900,09-H1-0239 flow cytometry T3,728459,Flow Cytometry
+export_215_pre.728460.fcs,export_215_pre.fcs,ES1231520,-7,PBMC,BS807899,09-H1-0239 flow cytometry T3,728460,Flow Cytometry
+export_217_0.728461.fcs,export_217_0.fcs,ES1231521,0,PBMC,BS807901,09-H1-0239 flow cytometry T3,728461,Flow Cytometry
+export_217_1.728462.fcs,export_217_1.fcs,ES1231522,1,PBMC,BS807902,09-H1-0239 flow cytometry T3,728462,Flow Cytometry
+export_217_7.728463.fcs,export_217_7.fcs,ES1231523,7,PBMC,BS1007315,09-H1-0239 flow cytometry T3,728463,Flow Cytometry
+export_217_70.728464.fcs,export_217_70.fcs,ES1231524,70,PBMC,BS807904,09-H1-0239 flow cytometry T3,728464,Flow Cytometry
+export_217_pre.728465.fcs,export_217_pre.fcs,ES1231525,-7,PBMC,BS807903,09-H1-0239 flow cytometry T3,728465,Flow Cytometry
+export_218_0.728466.fcs,export_218_0.fcs,ES1231526,0,PBMC,BS807905,09-H1-0239 flow cytometry T3,728466,Flow Cytometry
+export_218_1.728467.fcs,export_218_1.fcs,ES1231527,1,PBMC,BS807906,09-H1-0239 flow cytometry T3,728467,Flow Cytometry
+export_218_7.728468.fcs,export_218_7.fcs,ES1231528,7,PBMC,BS807907,09-H1-0239 flow cytometry T3,728468,Flow Cytometry
+export_218_70.728469.fcs,export_218_70.fcs,ES1231529,70,PBMC,BS807908,09-H1-0239 flow cytometry T3,728469,Flow Cytometry
+export_218_pre.728470.fcs,export_218_pre.fcs,ES1231530,7,PBMC,BS1007316,09-H1-0239 flow cytometry T3,728470,Flow Cytometry
+export_221_0.728471.fcs,export_221_0.fcs,ES1231531,0,PBMC,BS807909,09-H1-0239 flow cytometry T3,728471,Flow Cytometry
+export_221_1.728472.fcs,export_221_1.fcs,ES1231532,1,PBMC,BS807910,09-H1-0239 flow cytometry T3,728472,Flow Cytometry
+export_221_7.728473.fcs,export_221_7.fcs,ES1231533,7,PBMC,BS807911,09-H1-0239 flow cytometry T3,728473,Flow Cytometry
+export_221_70.728474.fcs,export_221_70.fcs,ES1231534,70,PBMC,BS807913,09-H1-0239 flow cytometry T3,728474,Flow Cytometry
+export_221_pre.728475.fcs,export_221_pre.fcs,ES1231535,-7,PBMC,BS807912,09-H1-0239 flow cytometry T3,728475,Flow Cytometry
+export_222_0.728476.fcs,export_222_0.fcs,ES1231536,0,PBMC,BS807914,09-H1-0239 flow cytometry T3,728476,Flow Cytometry
+export_222_1.728477.fcs,export_222_1.fcs,ES1231537,1,PBMC,BS807915,09-H1-0239 flow cytometry T3,728477,Flow Cytometry
+export_222_7.728478.fcs,export_222_7.fcs,ES1231538,7,PBMC,BS807916,09-H1-0239 flow cytometry T3,728478,Flow Cytometry
+export_222_70.728479.fcs,export_222_70.fcs,ES1231539,70,PBMC,BS807918,09-H1-0239 flow cytometry T3,728479,Flow Cytometry
+export_222_pre.728480.fcs,export_222_pre.fcs,ES1231540,-7,PBMC,BS807917,09-H1-0239 flow cytometry T3,728480,Flow Cytometry
+export_222_7.727774.fcs,export_222_7.fcs,ES1230930,7,PBMC,BS807916,09-H1-0239 flow cytometry Mono/DC,727774,Flow Cytometry
+export_222_70.727775.fcs,export_222_70.fcs,ES1230931,70,PBMC,BS807918,09-H1-0239 flow cytometry Mono/DC,727775,Flow Cytometry
+export_222_pre 7.727776.fcs,export_222_pre 7.fcs,ES1230932,-7,PBMC,BS807917,09-H1-0239 flow cytometry Mono/DC,727776,Flow Cytometry
+export_223_0.727777.fcs,export_223_0.fcs,ES1230933,0,PBMC,BS1007317,09-H1-0239 flow cytometry Mono/DC,727777,Flow Cytometry
+export_223_7.727778.fcs,export_223_7.fcs,ES1230934,7,PBMC,BS1007318,09-H1-0239 flow cytometry Mono/DC,727778,Flow Cytometry
+export_223_70.727779.fcs,export_223_70.fcs,ES1230935,70,PBMC,BS1007319,09-H1-0239 flow cytometry Mono/DC,727779,Flow Cytometry
+export_223_pre 7.727780.fcs,export_223_pre 7.fcs,ES1230936,7,PBMC,BS1007320,09-H1-0239 flow cytometry Mono/DC,727780,Flow Cytometry
+export_224_0.727781.fcs,export_224_0.fcs,ES1230937,0,PBMC,BS807919,09-H1-0239 flow cytometry Mono/DC,727781,Flow Cytometry
+export_224_1.727782.fcs,export_224_1.fcs,ES1230938,1,PBMC,BS807920,09-H1-0239 flow cytometry Mono/DC,727782,Flow Cytometry
+export_224_7.727783.fcs,export_224_7.fcs,ES1230939,7,PBMC,BS807921,09-H1-0239 flow cytometry Mono/DC,727783,Flow Cytometry
+export_224_70.727784.fcs,export_224_70.fcs,ES1230940,70,PBMC,BS807923,09-H1-0239 flow cytometry Mono/DC,727784,Flow Cytometry
+export_224_pre 7.727785.fcs,export_224_pre 7.fcs,ES1230941,-7,PBMC,BS807922,09-H1-0239 flow cytometry Mono/DC,727785,Flow Cytometry
+export_226_0.727786.fcs,export_226_0.fcs,ES1230942,0,PBMC,BS1007321,09-H1-0239 flow cytometry Mono/DC,727786,Flow Cytometry
+export_226_1.727787.fcs,export_226_1.fcs,ES1230943,1,PBMC,BS1007322,09-H1-0239 flow cytometry Mono/DC,727787,Flow Cytometry
+export_226_7.727788.fcs,export_226_7.fcs,ES1230944,7,PBMC,BS1007323,09-H1-0239 flow cytometry Mono/DC,727788,Flow Cytometry
+export_226_70.727789.fcs,export_226_70.fcs,ES1230945,70,PBMC,BS1007324,09-H1-0239 flow cytometry Mono/DC,727789,Flow Cytometry
+export_226_pre 7.727790.fcs,export_226_pre 7.fcs,ES1230946,7,PBMC,BS1007325,09-H1-0239 flow cytometry Mono/DC,727790,Flow Cytometry
+export_227_0.727791.fcs,export_227_0.fcs,ES1230947,0,PBMC,BS807924,09-H1-0239 flow cytometry Mono/DC,727791,Flow Cytometry
+export_227_1.727792.fcs,export_227_1.fcs,ES1230948,1,PBMC,BS807925,09-H1-0239 flow cytometry Mono/DC,727792,Flow Cytometry
+export_227_7.727793.fcs,export_227_7.fcs,ES1230949,7,PBMC,BS807926,09-H1-0239 flow cytometry Mono/DC,727793,Flow Cytometry
+export_227_70.727794.fcs,export_227_70.fcs,ES1230950,70,PBMC,BS807928,09-H1-0239 flow cytometry Mono/DC,727794,Flow Cytometry
+export_227_pre 7.727795.fcs,export_227_pre 7.fcs,ES1230951,-7,PBMC,BS807927,09-H1-0239 flow cytometry Mono/DC,727795,Flow Cytometry
+export_228_0.727796.fcs,export_228_0.fcs,ES1230952,0,PBMC,BS807929,09-H1-0239 flow cytometry Mono/DC,727796,Flow Cytometry
+export_228_1.727797.fcs,export_228_1.fcs,ES1230953,1,PBMC,BS807930,09-H1-0239 flow cytometry Mono/DC,727797,Flow Cytometry
+export_228_7.727798.fcs,export_228_7.fcs,ES1230954,7,PBMC,BS807931,09-H1-0239 flow cytometry Mono/DC,727798,Flow Cytometry
+export_228_70.727799.fcs,export_228_70.fcs,ES1230955,70,PBMC,BS807933,09-H1-0239 flow cytometry Mono/DC,727799,Flow Cytometry
+export_228_pre 7.727800.fcs,export_228_pre 7.fcs,ES1230956,-7,PBMC,BS807932,09-H1-0239 flow cytometry Mono/DC,727800,Flow Cytometry
+export_229_0.727801.fcs,export_229_0.fcs,ES1230957,0,PBMC,BS807934,09-H1-0239 flow cytometry Mono/DC,727801,Flow Cytometry
+export_223_0.728481.fcs,export_223_0.fcs,ES1231541,0,PBMC,BS1007317,09-H1-0239 flow cytometry T3,728481,Flow Cytometry
+export_223_7.728482.fcs,export_223_7.fcs,ES1231542,7,PBMC,BS1007318,09-H1-0239 flow cytometry T3,728482,Flow Cytometry
+export_223_70.728483.fcs,export_223_70.fcs,ES1231543,70,PBMC,BS1007319,09-H1-0239 flow cytometry T3,728483,Flow Cytometry
+export_223_pre.728484.fcs,export_223_pre.fcs,ES1231544,7,PBMC,BS1007320,09-H1-0239 flow cytometry T3,728484,Flow Cytometry
+export_224_0.728485.fcs,export_224_0.fcs,ES1231545,0,PBMC,BS807919,09-H1-0239 flow cytometry T3,728485,Flow Cytometry
+export_224_1.728486.fcs,export_224_1.fcs,ES1231546,1,PBMC,BS807920,09-H1-0239 flow cytometry T3,728486,Flow Cytometry
+export_224_7.728487.fcs,export_224_7.fcs,ES1231547,7,PBMC,BS807921,09-H1-0239 flow cytometry T3,728487,Flow Cytometry
+export_224_70.728488.fcs,export_224_70.fcs,ES1231548,70,PBMC,BS807923,09-H1-0239 flow cytometry T3,728488,Flow Cytometry
+export_224_pre.728489.fcs,export_224_pre.fcs,ES1231549,-7,PBMC,BS807922,09-H1-0239 flow cytometry T3,728489,Flow Cytometry
+export_226_0.728490.fcs,export_226_0.fcs,ES1231550,0,PBMC,BS1007321,09-H1-0239 flow cytometry T3,728490,Flow Cytometry
+export_226_1.728491.fcs,export_226_1.fcs,ES1231551,1,PBMC,BS1007322,09-H1-0239 flow cytometry T3,728491,Flow Cytometry
+export_226_7.728492.fcs,export_226_7.fcs,ES1231552,7,PBMC,BS1007323,09-H1-0239 flow cytometry T3,728492,Flow Cytometry
+export_226_70.728493.fcs,export_226_70.fcs,ES1231553,70,PBMC,BS1007324,09-H1-0239 flow cytometry T3,728493,Flow Cytometry
+export_226_pre.728494.fcs,export_226_pre.fcs,ES1231554,7,PBMC,BS1007325,09-H1-0239 flow cytometry T3,728494,Flow Cytometry
+export_227_0.728495.fcs,export_227_0.fcs,ES1231555,0,PBMC,BS807924,09-H1-0239 flow cytometry T3,728495,Flow Cytometry
+export_227_1.728496.fcs,export_227_1.fcs,ES1231556,1,PBMC,BS807925,09-H1-0239 flow cytometry T3,728496,Flow Cytometry
+export_227_7.728497.fcs,export_227_7.fcs,ES1231557,7,PBMC,BS807926,09-H1-0239 flow cytometry T3,728497,Flow Cytometry
+export_227_70.728498.fcs,export_227_70.fcs,ES1231558,70,PBMC,BS807928,09-H1-0239 flow cytometry T3,728498,Flow Cytometry
+export_227_pre.728499.fcs,export_227_pre.fcs,ES1231559,-7,PBMC,BS807927,09-H1-0239 flow cytometry T3,728499,Flow Cytometry
+export_228_0.728500.fcs,export_228_0.fcs,ES1231560,0,PBMC,BS807929,09-H1-0239 flow cytometry T3,728500,Flow Cytometry
+export_228_1.728501.fcs,export_228_1.fcs,ES1231561,1,PBMC,BS807930,09-H1-0239 flow cytometry T3,728501,Flow Cytometry
+export_228_7.728502.fcs,export_228_7.fcs,ES1231562,7,PBMC,BS807931,09-H1-0239 flow cytometry T3,728502,Flow Cytometry
+export_228_70.728503.fcs,export_228_70.fcs,ES1231563,70,PBMC,BS807933,09-H1-0239 flow cytometry T3,728503,Flow Cytometry
+export_228_pre.728504.fcs,export_228_pre.fcs,ES1231564,-7,PBMC,BS807932,09-H1-0239 flow cytometry T3,728504,Flow Cytometry
+export_229_0.728505.fcs,export_229_0.fcs,ES1231565,0,PBMC,BS807934,09-H1-0239 flow cytometry T3,728505,Flow Cytometry
+export_229_1.728506.fcs,export_229_1.fcs,ES1231566,1,PBMC,BS807935,09-H1-0239 flow cytometry T3,728506,Flow Cytometry
+export_229_7.728507.fcs,export_229_7.fcs,ES1231567,7,PBMC,BS807936,09-H1-0239 flow cytometry T3,728507,Flow Cytometry
+export_229_70.728508.fcs,export_229_70.fcs,ES1231568,70,PBMC,BS807938,09-H1-0239 flow cytometry T3,728508,Flow Cytometry
+export_229_1.727802.fcs,export_229_1.fcs,ES1230958,1,PBMC,BS807935,09-H1-0239 flow cytometry Mono/DC,727802,Flow Cytometry
+export_229_7.727803.fcs,export_229_7.fcs,ES1230959,7,PBMC,BS807936,09-H1-0239 flow cytometry Mono/DC,727803,Flow Cytometry
+export_229_70.727804.fcs,export_229_70.fcs,ES1230960,70,PBMC,BS807938,09-H1-0239 flow cytometry Mono/DC,727804,Flow Cytometry
+export_229_pre 7.727805.fcs,export_229_pre 7.fcs,ES1230961,-7,PBMC,BS807937,09-H1-0239 flow cytometry Mono/DC,727805,Flow Cytometry
+export_230_0.727806.fcs,export_230_0.fcs,ES1230962,0,PBMC,BS807939,09-H1-0239 flow cytometry Mono/DC,727806,Flow Cytometry
+export_230_1.727807.fcs,export_230_1.fcs,ES1230963,1,PBMC,BS807940,09-H1-0239 flow cytometry Mono/DC,727807,Flow Cytometry
+export_230_7.727808.fcs,export_230_7.fcs,ES1230964,7,PBMC,BS807941,09-H1-0239 flow cytometry Mono/DC,727808,Flow Cytometry
+export_230_70.727809.fcs,export_230_70.fcs,ES1230965,70,PBMC,BS807943,09-H1-0239 flow cytometry Mono/DC,727809,Flow Cytometry
+export_230_pre 7.727810.fcs,export_230_pre 7.fcs,ES1230966,-7,PBMC,BS807942,09-H1-0239 flow cytometry Mono/DC,727810,Flow Cytometry
+export_231_0.727811.fcs,export_231_0.fcs,ES1230967,0,PBMC,BS807944,09-H1-0239 flow cytometry Mono/DC,727811,Flow Cytometry
+export_231_1.727812.fcs,export_231_1.fcs,ES1230968,1,PBMC,BS807945,09-H1-0239 flow cytometry Mono/DC,727812,Flow Cytometry
+export_231_7.727813.fcs,export_231_7.fcs,ES1230969,7,PBMC,BS1007326,09-H1-0239 flow cytometry Mono/DC,727813,Flow Cytometry
+export_231_70.727814.fcs,export_231_70.fcs,ES1230970,70,PBMC,BS807947,09-H1-0239 flow cytometry Mono/DC,727814,Flow Cytometry
+export_231_pre 7.727815.fcs,export_231_pre 7.fcs,ES1230971,-7,PBMC,BS807946,09-H1-0239 flow cytometry Mono/DC,727815,Flow Cytometry
+export_232_0.727816.fcs,export_232_0.fcs,ES1230972,0,PBMC,BS807948,09-H1-0239 flow cytometry Mono/DC,727816,Flow Cytometry
+export_232_1.727817.fcs,export_232_1.fcs,ES1230973,1,PBMC,BS1007327,09-H1-0239 flow cytometry Mono/DC,727817,Flow Cytometry
+export_232_7.727818.fcs,export_232_7.fcs,ES1230974,7,PBMC,BS807949,09-H1-0239 flow cytometry Mono/DC,727818,Flow Cytometry
+export_232_70.727819.fcs,export_232_70.fcs,ES1230975,70,PBMC,BS1007328,09-H1-0239 flow cytometry Mono/DC,727819,Flow Cytometry
+export_232_pre 7.727820.fcs,export_232_pre 7.fcs,ES1230976,-7,PBMC,BS807950,09-H1-0239 flow cytometry Mono/DC,727820,Flow Cytometry
+export_233_0.727821.fcs,export_233_0.fcs,ES1230977,0,PBMC,BS807951,09-H1-0239 flow cytometry Mono/DC,727821,Flow Cytometry
+export_233_1.727822.fcs,export_233_1.fcs,ES1230978,1,PBMC,BS807952,09-H1-0239 flow cytometry Mono/DC,727822,Flow Cytometry
+export_233_7.727823.fcs,export_233_7.fcs,ES1230979,7,PBMC,BS807953,09-H1-0239 flow cytometry Mono/DC,727823,Flow Cytometry
+export_233_70.727824.fcs,export_233_70.fcs,ES1230980,70,PBMC,BS807955,09-H1-0239 flow cytometry Mono/DC,727824,Flow Cytometry
+export_233_pre 7.727825.fcs,export_233_pre 7.fcs,ES1230981,-7,PBMC,BS807954,09-H1-0239 flow cytometry Mono/DC,727825,Flow Cytometry
+export_234_0.727826.fcs,export_234_0.fcs,ES1230982,0,PBMC,BS807956,09-H1-0239 flow cytometry Mono/DC,727826,Flow Cytometry
+export_234_1.727827.fcs,export_234_1.fcs,ES1230983,1,PBMC,BS1007329,09-H1-0239 flow cytometry Mono/DC,727827,Flow Cytometry
+export_234_7.727828.fcs,export_234_7.fcs,ES1230984,7,PBMC,BS807957,09-H1-0239 flow cytometry Mono/DC,727828,Flow Cytometry
+export_234_70.727829.fcs,export_234_70.fcs,ES1230985,70,PBMC,BS1007330,09-H1-0239 flow cytometry Mono/DC,727829,Flow Cytometry
+export_229_pre.728509.fcs,export_229_pre.fcs,ES1231569,-7,PBMC,BS807937,09-H1-0239 flow cytometry T3,728509,Flow Cytometry
+export_230_0.728510.fcs,export_230_0.fcs,ES1231570,0,PBMC,BS807939,09-H1-0239 flow cytometry T3,728510,Flow Cytometry
+export_230_1.728511.fcs,export_230_1.fcs,ES1231571,1,PBMC,BS807940,09-H1-0239 flow cytometry T3,728511,Flow Cytometry
+export_230_7.728512.fcs,export_230_7.fcs,ES1231572,7,PBMC,BS807941,09-H1-0239 flow cytometry T3,728512,Flow Cytometry
+export_230_70.728513.fcs,export_230_70.fcs,ES1231573,70,PBMC,BS807943,09-H1-0239 flow cytometry T3,728513,Flow Cytometry
+export_230_pre.728514.fcs,export_230_pre.fcs,ES1231574,-7,PBMC,BS807942,09-H1-0239 flow cytometry T3,728514,Flow Cytometry
+export_231_0.728515.fcs,export_231_0.fcs,ES1231575,0,PBMC,BS807944,09-H1-0239 flow cytometry T3,728515,Flow Cytometry
+export_231_1.728516.fcs,export_231_1.fcs,ES1231576,1,PBMC,BS807945,09-H1-0239 flow cytometry T3,728516,Flow Cytometry
+export_231_7.728517.fcs,export_231_7.fcs,ES1231577,7,PBMC,BS1007326,09-H1-0239 flow cytometry T3,728517,Flow Cytometry
+export_231_70.728518.fcs,export_231_70.fcs,ES1231578,70,PBMC,BS807947,09-H1-0239 flow cytometry T3,728518,Flow Cytometry
+export_231_pre.728519.fcs,export_231_pre.fcs,ES1231579,-7,PBMC,BS807946,09-H1-0239 flow cytometry T3,728519,Flow Cytometry
+export_232_0.728520.fcs,export_232_0.fcs,ES1231580,0,PBMC,BS807948,09-H1-0239 flow cytometry T3,728520,Flow Cytometry
+export_232_1.728521.fcs,export_232_1.fcs,ES1231581,1,PBMC,BS1007327,09-H1-0239 flow cytometry T3,728521,Flow Cytometry
+export_232_7.728522.fcs,export_232_7.fcs,ES1231582,7,PBMC,BS807949,09-H1-0239 flow cytometry T3,728522,Flow Cytometry
+export_232_70.728523.fcs,export_232_70.fcs,ES1231583,70,PBMC,BS1007328,09-H1-0239 flow cytometry T3,728523,Flow Cytometry
+export_232_pre.728524.fcs,export_232_pre.fcs,ES1231584,-7,PBMC,BS807950,09-H1-0239 flow cytometry T3,728524,Flow Cytometry
+export_233_0.728525.fcs,export_233_0.fcs,ES1231585,0,PBMC,BS807951,09-H1-0239 flow cytometry T3,728525,Flow Cytometry
+export_233_1.728526.fcs,export_233_1.fcs,ES1231586,1,PBMC,BS807952,09-H1-0239 flow cytometry T3,728526,Flow Cytometry
+export_233_7.728527.fcs,export_233_7.fcs,ES1231587,7,PBMC,BS807953,09-H1-0239 flow cytometry T3,728527,Flow Cytometry
+export_233_70.728528.fcs,export_233_70.fcs,ES1231588,70,PBMC,BS807955,09-H1-0239 flow cytometry T3,728528,Flow Cytometry
+export_233_pre.728529.fcs,export_233_pre.fcs,ES1231589,-7,PBMC,BS807954,09-H1-0239 flow cytometry T3,728529,Flow Cytometry
+export_234_0.728530.fcs,export_234_0.fcs,ES1231590,0,PBMC,BS807956,09-H1-0239 flow cytometry T3,728530,Flow Cytometry
+export_234_1.728531.fcs,export_234_1.fcs,ES1231591,1,PBMC,BS1007329,09-H1-0239 flow cytometry T3,728531,Flow Cytometry
+export_234_7.728532.fcs,export_234_7.fcs,ES1231592,7,PBMC,BS807957,09-H1-0239 flow cytometry T3,728532,Flow Cytometry
+export_234_70.728533.fcs,export_234_70.fcs,ES1231593,70,PBMC,BS1007330,09-H1-0239 flow cytometry T3,728533,Flow Cytometry
+export_234_pre.728534.fcs,export_234_pre.fcs,ES1231594,-7,PBMC,BS807958,09-H1-0239 flow cytometry T3,728534,Flow Cytometry
+export_235_0.728535.fcs,export_235_0.fcs,ES1231595,0,PBMC,BS807959,09-H1-0239 flow cytometry T3,728535,Flow Cytometry
+export_235_1.728536.fcs,export_235_1.fcs,ES1231596,1,PBMC,BS1007331,09-H1-0239 flow cytometry T3,728536,Flow Cytometry
+export_217_7.727391.fcs,export_217_7.fcs,ES1230556,7,PBMC,BS1007315,09-H1-0239 flow cytometry B2,727391,Flow Cytometry
+export_206_0.727386.fcs,export_206_0.fcs,ES1230554,0,PBMC,BS1007313,09-H1-0239 flow cytometry B2,727386,Flow Cytometry
+export_206_70.727390.fcs,export_206_70.fcs,ES1230555,70,PBMC,BS1007314,09-H1-0239 flow cytometry B2,727390,Flow Cytometry
+export_218_pre 7.727392.fcs,export_218_pre 7.fcs,ES1230557,7,PBMC,BS1007316,09-H1-0239 flow cytometry B2,727392,Flow Cytometry
+export_223_0.727393.fcs,export_223_0.fcs,ES1230558,0,PBMC,BS1007317,09-H1-0239 flow cytometry B2,727393,Flow Cytometry
+export_223_7.727394.fcs,export_223_7.fcs,ES1230559,7,PBMC,BS1007318,09-H1-0239 flow cytometry B2,727394,Flow Cytometry
+export_223_70.727395.fcs,export_223_70.fcs,ES1230560,70,PBMC,BS1007319,09-H1-0239 flow cytometry B2,727395,Flow Cytometry
+export_223_pre 7.727396.fcs,export_223_pre 7.fcs,ES1230561,7,PBMC,BS1007320,09-H1-0239 flow cytometry B2,727396,Flow Cytometry
+export_226_0.727397.fcs,export_226_0.fcs,ES1230562,0,PBMC,BS1007321,09-H1-0239 flow cytometry B2,727397,Flow Cytometry
+export_226_1.727398.fcs,export_226_1.fcs,ES1230563,1,PBMC,BS1007322,09-H1-0239 flow cytometry B2,727398,Flow Cytometry
+export_226_7.727399.fcs,export_226_7.fcs,ES1230564,7,PBMC,BS1007323,09-H1-0239 flow cytometry B2,727399,Flow Cytometry
+export_226_70.727400.fcs,export_226_70.fcs,ES1230565,70,PBMC,BS1007324,09-H1-0239 flow cytometry B2,727400,Flow Cytometry
+export_226_pre 7.727401.fcs,export_226_pre 7.fcs,ES1230566,7,PBMC,BS1007325,09-H1-0239 flow cytometry B2,727401,Flow Cytometry
+export_231_7.727402.fcs,export_231_7.fcs,ES1230567,7,PBMC,BS1007326,09-H1-0239 flow cytometry B2,727402,Flow Cytometry
+export_232_1.727403.fcs,export_232_1.fcs,ES1230568,1,PBMC,BS1007327,09-H1-0239 flow cytometry B2,727403,Flow Cytometry
+export_232_70.727404.fcs,export_232_70.fcs,ES1230569,70,PBMC,BS1007328,09-H1-0239 flow cytometry B2,727404,Flow Cytometry
+export_234_1.727405.fcs,export_234_1.fcs,ES1230570,1,PBMC,BS1007329,09-H1-0239 flow cytometry B2,727405,Flow Cytometry
+export_234_70.727406.fcs,export_234_70.fcs,ES1230571,70,PBMC,BS1007330,09-H1-0239 flow cytometry B2,727406,Flow Cytometry
+export_235_1.727407.fcs,export_235_1.fcs,ES1230572,1,PBMC,BS1007331,09-H1-0239 flow cytometry B2,727407,Flow Cytometry
+export_235_70.727408.fcs,export_235_70.fcs,ES1230573,70,PBMC,BS1007332,09-H1-0239 flow cytometry B2,727408,Flow Cytometry
+export_236_7.727409.fcs,export_236_7.fcs,ES1230574,7,PBMC,BS1007333,09-H1-0239 flow cytometry B2,727409,Flow Cytometry
+export_243_0.727410.fcs,export_243_0.fcs,ES1230575,0,PBMC,BS1007334,09-H1-0239 flow cytometry B2,727410,Flow Cytometry
+export_243_1.727411.fcs,export_243_1.fcs,ES1230576,1,PBMC,BS1007335,09-H1-0239 flow cytometry B2,727411,Flow Cytometry
+export_243_7.727412.fcs,export_243_7.fcs,ES1230577,7,PBMC,BS1007336,09-H1-0239 flow cytometry B2,727412,Flow Cytometry
+export_243_70.727413.fcs,export_243_70.fcs,ES1230578,70,PBMC,BS1007337,09-H1-0239 flow cytometry B2,727413,Flow Cytometry
+export_243_pre 7.727414.fcs,export_243_pre 7.fcs,ES1230579,7,PBMC,BS1007338,09-H1-0239 flow cytometry B2,727414,Flow Cytometry
+export_244_1.727415.fcs,export_244_1.fcs,ES1230580,1,PBMC,BS1007339,09-H1-0239 flow cytometry B2,727415,Flow Cytometry
+export_244_70.727416.fcs,export_244_70.fcs,ES1230581,70,PBMC,BS1007340,09-H1-0239 flow cytometry B2,727416,Flow Cytometry
+export_247_0.727417.fcs,export_247_0.fcs,ES1230582,0,PBMC,BS1007341,09-H1-0239 flow cytometry B2,727417,Flow Cytometry
+export_234_pre 7.727830.fcs,export_234_pre 7.fcs,ES1230986,-7,PBMC,BS807958,09-H1-0239 flow cytometry Mono/DC,727830,Flow Cytometry
+export_235_0.727831.fcs,export_235_0.fcs,ES1230987,0,PBMC,BS807959,09-H1-0239 flow cytometry Mono/DC,727831,Flow Cytometry
+export_235_1.727832.fcs,export_235_1.fcs,ES1230988,1,PBMC,BS1007331,09-H1-0239 flow cytometry Mono/DC,727832,Flow Cytometry
+export_235_7.727833.fcs,export_235_7.fcs,ES1230989,7,PBMC,BS807960,09-H1-0239 flow cytometry Mono/DC,727833,Flow Cytometry
+export_235_70.727834.fcs,export_235_70.fcs,ES1230990,70,PBMC,BS1007332,09-H1-0239 flow cytometry Mono/DC,727834,Flow Cytometry
+export_235_pre 7.727835.fcs,export_235_pre 7.fcs,ES1230991,-7,PBMC,BS807961,09-H1-0239 flow cytometry Mono/DC,727835,Flow Cytometry
+export_236_0.727836.fcs,export_236_0.fcs,ES1230992,0,PBMC,BS807962,09-H1-0239 flow cytometry Mono/DC,727836,Flow Cytometry
+export_236_1.727837.fcs,export_236_1.fcs,ES1230993,1,PBMC,BS807963,09-H1-0239 flow cytometry Mono/DC,727837,Flow Cytometry
+export_236_7.727838.fcs,export_236_7.fcs,ES1230994,7,PBMC,BS1007333,09-H1-0239 flow cytometry Mono/DC,727838,Flow Cytometry
+export_236_70.727839.fcs,export_236_70.fcs,ES1230995,70,PBMC,BS807965,09-H1-0239 flow cytometry Mono/DC,727839,Flow Cytometry
+export_236_pre 7.727840.fcs,export_236_pre 7.fcs,ES1230996,-7,PBMC,BS807964,09-H1-0239 flow cytometry Mono/DC,727840,Flow Cytometry
+export_237_0.727841.fcs,export_237_0.fcs,ES1230997,0,PBMC,BS807966,09-H1-0239 flow cytometry Mono/DC,727841,Flow Cytometry
+export_237_1.727842.fcs,export_237_1.fcs,ES1230998,1,PBMC,BS807967,09-H1-0239 flow cytometry Mono/DC,727842,Flow Cytometry
+export_237_7.727843.fcs,export_237_7.fcs,ES1230999,7,PBMC,BS807968,09-H1-0239 flow cytometry Mono/DC,727843,Flow Cytometry
+export_237_70.727844.fcs,export_237_70.fcs,ES1231000,70,PBMC,BS807970,09-H1-0239 flow cytometry Mono/DC,727844,Flow Cytometry
+export_237_pre 7.727845.fcs,export_237_pre 7.fcs,ES1231001,-7,PBMC,BS807969,09-H1-0239 flow cytometry Mono/DC,727845,Flow Cytometry
+export_241_0.727846.fcs,export_241_0.fcs,ES1231002,0,PBMC,BS807971,09-H1-0239 flow cytometry Mono/DC,727846,Flow Cytometry
+export_241_1.727847.fcs,export_241_1.fcs,ES1231003,1,PBMC,BS807972,09-H1-0239 flow cytometry Mono/DC,727847,Flow Cytometry
+export_241_7.727848.fcs,export_241_7.fcs,ES1231004,7,PBMC,BS807973,09-H1-0239 flow cytometry Mono/DC,727848,Flow Cytometry
+export_241_70.727849.fcs,export_241_70.fcs,ES1231005,70,PBMC,BS807975,09-H1-0239 flow cytometry Mono/DC,727849,Flow Cytometry
+export_241_pre 7.727850.fcs,export_241_pre 7.fcs,ES1231006,-7,PBMC,BS807974,09-H1-0239 flow cytometry Mono/DC,727850,Flow Cytometry
+export_242_0.727851.fcs,export_242_0.fcs,ES1231007,0,PBMC,BS807976,09-H1-0239 flow cytometry Mono/DC,727851,Flow Cytometry
+export_242_1.727852.fcs,export_242_1.fcs,ES1231008,1,PBMC,BS807977,09-H1-0239 flow cytometry Mono/DC,727852,Flow Cytometry
+export_242_7.727853.fcs,export_242_7.fcs,ES1231009,7,PBMC,BS807978,09-H1-0239 flow cytometry Mono/DC,727853,Flow Cytometry
+export_242_70.727854.fcs,export_242_70.fcs,ES1231010,70,PBMC,BS807980,09-H1-0239 flow cytometry Mono/DC,727854,Flow Cytometry
+export_242_pre 7.727855.fcs,export_242_pre 7.fcs,ES1231011,-7,PBMC,BS807979,09-H1-0239 flow cytometry Mono/DC,727855,Flow Cytometry
+export_243_0.727856.fcs,export_243_0.fcs,ES1231012,0,PBMC,BS1007334,09-H1-0239 flow cytometry Mono/DC,727856,Flow Cytometry
+export_243_1.727857.fcs,export_243_1.fcs,ES1231013,1,PBMC,BS1007335,09-H1-0239 flow cytometry Mono/DC,727857,Flow Cytometry
+export_235_7.728537.fcs,export_235_7.fcs,ES1231597,7,PBMC,BS807960,09-H1-0239 flow cytometry T3,728537,Flow Cytometry
+export_235_70.728538.fcs,export_235_70.fcs,ES1231598,70,PBMC,BS1007332,09-H1-0239 flow cytometry T3,728538,Flow Cytometry
+export_235_pre.728539.fcs,export_235_pre.fcs,ES1231599,-7,PBMC,BS807961,09-H1-0239 flow cytometry T3,728539,Flow Cytometry
+export_236_0.728540.fcs,export_236_0.fcs,ES1231600,0,PBMC,BS807962,09-H1-0239 flow cytometry T3,728540,Flow Cytometry
+export_236_1.728541.fcs,export_236_1.fcs,ES1231601,1,PBMC,BS807963,09-H1-0239 flow cytometry T3,728541,Flow Cytometry
+export_236_7.728542.fcs,export_236_7.fcs,ES1231602,7,PBMC,BS1007333,09-H1-0239 flow cytometry T3,728542,Flow Cytometry
+export_236_70.728543.fcs,export_236_70.fcs,ES1231603,70,PBMC,BS807965,09-H1-0239 flow cytometry T3,728543,Flow Cytometry
+export_236_pre.728544.fcs,export_236_pre.fcs,ES1231604,-7,PBMC,BS807964,09-H1-0239 flow cytometry T3,728544,Flow Cytometry
+export_237_0.728545.fcs,export_237_0.fcs,ES1231605,0,PBMC,BS807966,09-H1-0239 flow cytometry T3,728545,Flow Cytometry
+export_237_1.728546.fcs,export_237_1.fcs,ES1231606,1,PBMC,BS807967,09-H1-0239 flow cytometry T3,728546,Flow Cytometry
+export_237_7.728547.fcs,export_237_7.fcs,ES1231607,7,PBMC,BS807968,09-H1-0239 flow cytometry T3,728547,Flow Cytometry
+export_237_70.728548.fcs,export_237_70.fcs,ES1231608,70,PBMC,BS807970,09-H1-0239 flow cytometry T3,728548,Flow Cytometry
+export_237_pre.728549.fcs,export_237_pre.fcs,ES1231609,-7,PBMC,BS807969,09-H1-0239 flow cytometry T3,728549,Flow Cytometry
+export_241_0.728550.fcs,export_241_0.fcs,ES1231610,0,PBMC,BS807971,09-H1-0239 flow cytometry T3,728550,Flow Cytometry
+export_241_1.728551.fcs,export_241_1.fcs,ES1231611,1,PBMC,BS807972,09-H1-0239 flow cytometry T3,728551,Flow Cytometry
+export_241_7.728552.fcs,export_241_7.fcs,ES1231612,7,PBMC,BS807973,09-H1-0239 flow cytometry T3,728552,Flow Cytometry
+export_241_70.728553.fcs,export_241_70.fcs,ES1231613,70,PBMC,BS807975,09-H1-0239 flow cytometry T3,728553,Flow Cytometry
+export_241_pre.728554.fcs,export_241_pre.fcs,ES1231614,-7,PBMC,BS807974,09-H1-0239 flow cytometry T3,728554,Flow Cytometry
+export_242_0.728555.fcs,export_242_0.fcs,ES1231615,0,PBMC,BS807976,09-H1-0239 flow cytometry T3,728555,Flow Cytometry
+export_242_1.728556.fcs,export_242_1.fcs,ES1231616,1,PBMC,BS807977,09-H1-0239 flow cytometry T3,728556,Flow Cytometry
+export_242_7.728557.fcs,export_242_7.fcs,ES1231617,7,PBMC,BS807978,09-H1-0239 flow cytometry T3,728557,Flow Cytometry
+export_242_70.728558.fcs,export_242_70.fcs,ES1231618,70,PBMC,BS807980,09-H1-0239 flow cytometry T3,728558,Flow Cytometry
+export_242_pre.728559.fcs,export_242_pre.fcs,ES1231619,-7,PBMC,BS807979,09-H1-0239 flow cytometry T3,728559,Flow Cytometry
+export_243_0.728560.fcs,export_243_0.fcs,ES1231620,0,PBMC,BS1007334,09-H1-0239 flow cytometry T3,728560,Flow Cytometry
+export_243_1.728561.fcs,export_243_1.fcs,ES1231621,1,PBMC,BS1007335,09-H1-0239 flow cytometry T3,728561,Flow Cytometry
+export_243_7.728562.fcs,export_243_7.fcs,ES1231622,7,PBMC,BS1007336,09-H1-0239 flow cytometry T3,728562,Flow Cytometry
+export_243_70.728563.fcs,export_243_70.fcs,ES1231623,70,PBMC,BS1007337,09-H1-0239 flow cytometry T3,728563,Flow Cytometry
+export_243_pre.728564.fcs,export_243_pre.fcs,ES1231624,7,PBMC,BS1007338,09-H1-0239 flow cytometry T3,728564,Flow Cytometry
+export_247_70.727420.fcs,export_247_70.fcs,ES1230585,70,PBMC,BS1007344,09-H1-0239 flow cytometry B2,727420,Flow Cytometry
+export_247_1.727418.fcs,export_247_1.fcs,ES1230583,1,PBMC,BS1007342,09-H1-0239 flow cytometry B2,727418,Flow Cytometry
+export_247_7.727419.fcs,export_247_7.fcs,ES1230584,7,PBMC,BS1007343,09-H1-0239 flow cytometry B2,727419,Flow Cytometry
+export_247_pre 7.727421.fcs,export_247_pre 7.fcs,ES1230586,7,PBMC,BS1007345,09-H1-0239 flow cytometry B2,727421,Flow Cytometry
+export_249_0.727422.fcs,export_249_0.fcs,ES1230587,0,PBMC,BS1007346,09-H1-0239 flow cytometry B2,727422,Flow Cytometry
+export_250_pre 7.727423.fcs,export_250_pre 7.fcs,ES1230588,7,PBMC,BS1007347,09-H1-0239 flow cytometry B2,727423,Flow Cytometry
+export_254_0.727424.fcs,export_254_0.fcs,ES1230589,0,PBMC,BS1007348,09-H1-0239 flow cytometry B2,727424,Flow Cytometry
+export_254_7.727425.fcs,export_254_7.fcs,ES1230590,7,PBMC,BS1007349,09-H1-0239 flow cytometry B2,727425,Flow Cytometry
+export_256_7.727426.fcs,export_256_7.fcs,ES1230591,7,PBMC,BS1007350,09-H1-0239 flow cytometry B2,727426,Flow Cytometry
+export_257_7.727427.fcs,export_257_7.fcs,ES1230592,7,PBMC,BS1007351,09-H1-0239 flow cytometry B2,727427,Flow Cytometry
+export_259_7.727428.fcs,export_259_7.fcs,ES1230593,7,PBMC,BS1007352,09-H1-0239 flow cytometry B2,727428,Flow Cytometry
+export_259_70.727429.fcs,export_259_70.fcs,ES1230594,70,PBMC,BS1007353,09-H1-0239 flow cytometry B2,727429,Flow Cytometry
+export_263_0.727430.fcs,export_263_0.fcs,ES1230595,0,PBMC,BS1007354,09-H1-0239 flow cytometry B2,727430,Flow Cytometry
+export_263_7.727431.fcs,export_263_7.fcs,ES1230596,7,PBMC,BS1007355,09-H1-0239 flow cytometry B2,727431,Flow Cytometry
+export_263_70.727432.fcs,export_263_70.fcs,ES1230597,70,PBMC,BS1007356,09-H1-0239 flow cytometry B2,727432,Flow Cytometry
+export_265_7.727433.fcs,export_265_7.fcs,ES1230598,7,PBMC,BS1007357,09-H1-0239 flow cytometry B2,727433,Flow Cytometry
+export_267_1.727434.fcs,export_267_1.fcs,ES1230599,1,PBMC,BS1007358,09-H1-0239 flow cytometry B2,727434,Flow Cytometry
+export_267_7.727435.fcs,export_267_7.fcs,ES1230600,7,PBMC,BS1007359,09-H1-0239 flow cytometry B2,727435,Flow Cytometry
+export_267_70.727436.fcs,export_267_70.fcs,ES1230601,70,PBMC,BS1007360,09-H1-0239 flow cytometry B2,727436,Flow Cytometry
+export_275_0.727437.fcs,export_275_0.fcs,ES1230602,0,PBMC,BS1007361,09-H1-0239 flow cytometry B2,727437,Flow Cytometry
+export_275_1.727438.fcs,export_275_1.fcs,ES1230603,1,PBMC,BS1007362,09-H1-0239 flow cytometry B2,727438,Flow Cytometry
+export_275_7.727439.fcs,export_275_7.fcs,ES1230604,7,PBMC,BS1007363,09-H1-0239 flow cytometry B2,727439,Flow Cytometry
+export_275_70.727440.fcs,export_275_70.fcs,ES1230605,70,PBMC,BS1007364,09-H1-0239 flow cytometry B2,727440,Flow Cytometry
+export_275_pre 7.727441.fcs,export_275_pre 7.fcs,ES1230606,7,PBMC,BS1007365,09-H1-0239 flow cytometry B2,727441,Flow Cytometry
+export_279_1.727442.fcs,export_279_1.fcs,ES1230607,1,PBMC,BS1007366,09-H1-0239 flow cytometry B2,727442,Flow Cytometry
+export_279_7.727443.fcs,export_279_7.fcs,ES1230608,7,PBMC,BS1007367,09-H1-0239 flow cytometry B2,727443,Flow Cytometry
+export_280_1.727444.fcs,export_280_1.fcs,ES1230609,1,PBMC,BS1007368,09-H1-0239 flow cytometry B2,727444,Flow Cytometry
+export_282_0.727445.fcs,export_282_0.fcs,ES1230610,0,PBMC,BS1007369,09-H1-0239 flow cytometry B2,727445,Flow Cytometry
+export_282_1.727446.fcs,export_282_1.fcs,ES1230611,1,PBMC,BS1007370,09-H1-0239 flow cytometry B2,727446,Flow Cytometry
+export_243_7.727858.fcs,export_243_7.fcs,ES1231014,7,PBMC,BS1007336,09-H1-0239 flow cytometry Mono/DC,727858,Flow Cytometry
+export_243_70.727859.fcs,export_243_70.fcs,ES1231015,70,PBMC,BS1007337,09-H1-0239 flow cytometry Mono/DC,727859,Flow Cytometry
+export_243_pre 7.727860.fcs,export_243_pre 7.fcs,ES1231016,7,PBMC,BS1007338,09-H1-0239 flow cytometry Mono/DC,727860,Flow Cytometry
+export_244_0.727861.fcs,export_244_0.fcs,ES1231017,0,PBMC,BS807981,09-H1-0239 flow cytometry Mono/DC,727861,Flow Cytometry
+export_244_1.727862.fcs,export_244_1.fcs,ES1231018,1,PBMC,BS1007339,09-H1-0239 flow cytometry Mono/DC,727862,Flow Cytometry
+export_244_7.727863.fcs,export_244_7.fcs,ES1231019,7,PBMC,BS807982,09-H1-0239 flow cytometry Mono/DC,727863,Flow Cytometry
+export_244_70.727864.fcs,export_244_70.fcs,ES1231020,70,PBMC,BS1007340,09-H1-0239 flow cytometry Mono/DC,727864,Flow Cytometry
+export_244_pre 7.727865.fcs,export_244_pre 7.fcs,ES1231021,-7,PBMC,BS807983,09-H1-0239 flow cytometry Mono/DC,727865,Flow Cytometry
+export_245_0.727866.fcs,export_245_0.fcs,ES1231022,0,PBMC,BS807984,09-H1-0239 flow cytometry Mono/DC,727866,Flow Cytometry
+export_245_1.727867.fcs,export_245_1.fcs,ES1231023,1,PBMC,BS807985,09-H1-0239 flow cytometry Mono/DC,727867,Flow Cytometry
+export_245_7.727868.fcs,export_245_7.fcs,ES1231024,7,PBMC,BS807986,09-H1-0239 flow cytometry Mono/DC,727868,Flow Cytometry
+export_245_70.727869.fcs,export_245_70.fcs,ES1231025,70,PBMC,BS807988,09-H1-0239 flow cytometry Mono/DC,727869,Flow Cytometry
+export_245_pre 7.727870.fcs,export_245_pre 7.fcs,ES1231026,-7,PBMC,BS807987,09-H1-0239 flow cytometry Mono/DC,727870,Flow Cytometry
+export_246_0.727871.fcs,export_246_0.fcs,ES1231027,0,PBMC,BS807989,09-H1-0239 flow cytometry Mono/DC,727871,Flow Cytometry
+export_246_1.727872.fcs,export_246_1.fcs,ES1231028,1,PBMC,BS807990,09-H1-0239 flow cytometry Mono/DC,727872,Flow Cytometry
+export_246_7.727873.fcs,export_246_7.fcs,ES1231029,7,PBMC,BS807991,09-H1-0239 flow cytometry Mono/DC,727873,Flow Cytometry
+export_246_70.727874.fcs,export_246_70.fcs,ES1231030,70,PBMC,BS807993,09-H1-0239 flow cytometry Mono/DC,727874,Flow Cytometry
+export_246_pre 7.727875.fcs,export_246_pre 7.fcs,ES1231031,-7,PBMC,BS807992,09-H1-0239 flow cytometry Mono/DC,727875,Flow Cytometry
+export_247_0.727876.fcs,export_247_0.fcs,ES1231032,0,PBMC,BS1007341,09-H1-0239 flow cytometry Mono/DC,727876,Flow Cytometry
+export_247_1.727877.fcs,export_247_1.fcs,ES1231033,1,PBMC,BS1007342,09-H1-0239 flow cytometry Mono/DC,727877,Flow Cytometry
+export_247_7.727878.fcs,export_247_7.fcs,ES1231034,7,PBMC,BS1007343,09-H1-0239 flow cytometry Mono/DC,727878,Flow Cytometry
+export_247_70.727879.fcs,export_247_70.fcs,ES1231035,70,PBMC,BS1007344,09-H1-0239 flow cytometry Mono/DC,727879,Flow Cytometry
+export_247_pre 7.727880.fcs,export_247_pre 7.fcs,ES1231036,7,PBMC,BS1007345,09-H1-0239 flow cytometry Mono/DC,727880,Flow Cytometry
+export_248_0.727881.fcs,export_248_0.fcs,ES1231037,0,PBMC,BS807994,09-H1-0239 flow cytometry Mono/DC,727881,Flow Cytometry
+export_248_1.727882.fcs,export_248_1.fcs,ES1231038,1,PBMC,BS807995,09-H1-0239 flow cytometry Mono/DC,727882,Flow Cytometry
+export_248_7.727883.fcs,export_248_7.fcs,ES1231039,7,PBMC,BS807996,09-H1-0239 flow cytometry Mono/DC,727883,Flow Cytometry
+export_248_70.727884.fcs,export_248_70.fcs,ES1231040,70,PBMC,BS807998,09-H1-0239 flow cytometry Mono/DC,727884,Flow Cytometry
+export_248_pre 7.727885.fcs,export_248_pre 7.fcs,ES1231041,-7,PBMC,BS807997,09-H1-0239 flow cytometry Mono/DC,727885,Flow Cytometry
+export_244_0.728565.fcs,export_244_0.fcs,ES1231625,0,PBMC,BS807981,09-H1-0239 flow cytometry T3,728565,Flow Cytometry
+export_244_1.728566.fcs,export_244_1.fcs,ES1231626,1,PBMC,BS1007339,09-H1-0239 flow cytometry T3,728566,Flow Cytometry
+export_244_7.728567.fcs,export_244_7.fcs,ES1231627,7,PBMC,BS807982,09-H1-0239 flow cytometry T3,728567,Flow Cytometry
+export_244_70.728568.fcs,export_244_70.fcs,ES1231628,70,PBMC,BS1007340,09-H1-0239 flow cytometry T3,728568,Flow Cytometry
+export_244_pre.728569.fcs,export_244_pre.fcs,ES1231629,-7,PBMC,BS807983,09-H1-0239 flow cytometry T3,728569,Flow Cytometry
+export_245_0.728570.fcs,export_245_0.fcs,ES1231630,0,PBMC,BS807984,09-H1-0239 flow cytometry T3,728570,Flow Cytometry
+export_245_1.728571.fcs,export_245_1.fcs,ES1231631,1,PBMC,BS807985,09-H1-0239 flow cytometry T3,728571,Flow Cytometry
+export_245_7.728572.fcs,export_245_7.fcs,ES1231632,7,PBMC,BS807986,09-H1-0239 flow cytometry T3,728572,Flow Cytometry
+export_245_70.728573.fcs,export_245_70.fcs,ES1231633,70,PBMC,BS807988,09-H1-0239 flow cytometry T3,728573,Flow Cytometry
+export_245_pre.728574.fcs,export_245_pre.fcs,ES1231634,-7,PBMC,BS807987,09-H1-0239 flow cytometry T3,728574,Flow Cytometry
+export_246_0.728575.fcs,export_246_0.fcs,ES1231635,0,PBMC,BS807989,09-H1-0239 flow cytometry T3,728575,Flow Cytometry
+export_246_1.728576.fcs,export_246_1.fcs,ES1231636,1,PBMC,BS807990,09-H1-0239 flow cytometry T3,728576,Flow Cytometry
+export_246_7.728577.fcs,export_246_7.fcs,ES1231637,7,PBMC,BS807991,09-H1-0239 flow cytometry T3,728577,Flow Cytometry
+export_246_70.728578.fcs,export_246_70.fcs,ES1231638,70,PBMC,BS807993,09-H1-0239 flow cytometry T3,728578,Flow Cytometry
+export_246_pre.728579.fcs,export_246_pre.fcs,ES1231639,-7,PBMC,BS807992,09-H1-0239 flow cytometry T3,728579,Flow Cytometry
+export_247_0.728580.fcs,export_247_0.fcs,ES1231640,0,PBMC,BS1007341,09-H1-0239 flow cytometry T3,728580,Flow Cytometry
+export_247_1.728581.fcs,export_247_1.fcs,ES1231641,1,PBMC,BS1007342,09-H1-0239 flow cytometry T3,728581,Flow Cytometry
+export_247_7.728582.fcs,export_247_7.fcs,ES1231642,7,PBMC,BS1007343,09-H1-0239 flow cytometry T3,728582,Flow Cytometry
+export_247_70.728583.fcs,export_247_70.fcs,ES1231643,70,PBMC,BS1007344,09-H1-0239 flow cytometry T3,728583,Flow Cytometry
+export_247_pre.728584.fcs,export_247_pre.fcs,ES1231644,7,PBMC,BS1007345,09-H1-0239 flow cytometry T3,728584,Flow Cytometry
+export_248_0.728585.fcs,export_248_0.fcs,ES1231645,0,PBMC,BS807994,09-H1-0239 flow cytometry T3,728585,Flow Cytometry
+export_248_1.728586.fcs,export_248_1.fcs,ES1231646,1,PBMC,BS807995,09-H1-0239 flow cytometry T3,728586,Flow Cytometry
+export_248_7.728587.fcs,export_248_7.fcs,ES1231647,7,PBMC,BS807996,09-H1-0239 flow cytometry T3,728587,Flow Cytometry
+export_248_70.728588.fcs,export_248_70.fcs,ES1231648,70,PBMC,BS807998,09-H1-0239 flow cytometry T3,728588,Flow Cytometry
+export_248_pre.728589.fcs,export_248_pre.fcs,ES1231649,-7,PBMC,BS807997,09-H1-0239 flow cytometry T3,728589,Flow Cytometry
+export_249_0.728590.fcs,export_249_0.fcs,ES1231650,0,PBMC,BS1007346,09-H1-0239 flow cytometry T3,728590,Flow Cytometry
+export_249_1.728591.fcs,export_249_1.fcs,ES1231651,1,PBMC,BS807999,09-H1-0239 flow cytometry T3,728591,Flow Cytometry
+export_249_7.728592.fcs,export_249_7.fcs,ES1231652,7,PBMC,BS808000,09-H1-0239 flow cytometry T3,728592,Flow Cytometry
+export_201_pre 7.727449.fcs,export_201_pre 7.fcs,ES1230614,-7,PBMC,BS807856,09-H1-0239 flow cytometry B2,727449,Flow Cytometry
+export_282_70.727447.fcs,export_282_70.fcs,ES1230612,70,PBMC,BS1007371,09-H1-0239 flow cytometry B2,727447,Flow Cytometry
+export_200_pre 7.727448.fcs,export_200_pre 7.fcs,ES1230613,-7,PBMC,BS807851,09-H1-0239 flow cytometry B2,727448,Flow Cytometry
+export_202_pre 7.727450.fcs,export_202_pre 7.fcs,ES1230615,-7,PBMC,BS807861,09-H1-0239 flow cytometry B2,727450,Flow Cytometry
+export_204_pre 7.727451.fcs,export_204_pre 7.fcs,ES1230616,-7,PBMC,BS807866,09-H1-0239 flow cytometry B2,727451,Flow Cytometry
+export_205_pre 7.727452.fcs,export_205_pre 7.fcs,ES1230617,-7,PBMC,BS807871,09-H1-0239 flow cytometry B2,727452,Flow Cytometry
+export_206_pre 7.727453.fcs,export_206_pre 7.fcs,ES1230618,-7,PBMC,BS807875,09-H1-0239 flow cytometry B2,727453,Flow Cytometry
+export_207_pre 7.727454.fcs,export_207_pre 7.fcs,ES1230619,-7,PBMC,BS807879,09-H1-0239 flow cytometry B2,727454,Flow Cytometry
+export_209_pre 7.727455.fcs,export_209_pre 7.fcs,ES1230620,-7,PBMC,BS807884,09-H1-0239 flow cytometry B2,727455,Flow Cytometry
+export_212_pre 7.727456.fcs,export_212_pre 7.fcs,ES1230621,-7,PBMC,BS807889,09-H1-0239 flow cytometry B2,727456,Flow Cytometry
+export_213_pre 7.727457.fcs,export_213_pre 7.fcs,ES1230622,-7,PBMC,BS807894,09-H1-0239 flow cytometry B2,727457,Flow Cytometry
+export_215_pre 7.727458.fcs,export_215_pre 7.fcs,ES1230623,-7,PBMC,BS807899,09-H1-0239 flow cytometry B2,727458,Flow Cytometry
+export_217_pre 7.727459.fcs,export_217_pre 7.fcs,ES1230624,-7,PBMC,BS807903,09-H1-0239 flow cytometry B2,727459,Flow Cytometry
+export_221_pre 7.727460.fcs,export_221_pre 7.fcs,ES1230625,-7,PBMC,BS807912,09-H1-0239 flow cytometry B2,727460,Flow Cytometry
+export_222_pre 7.727461.fcs,export_222_pre 7.fcs,ES1230626,-7,PBMC,BS807917,09-H1-0239 flow cytometry B2,727461,Flow Cytometry
+export_224_pre 7.727462.fcs,export_224_pre 7.fcs,ES1230627,-7,PBMC,BS807922,09-H1-0239 flow cytometry B2,727462,Flow Cytometry
+export_227_pre 7.727463.fcs,export_227_pre 7.fcs,ES1230628,-7,PBMC,BS807927,09-H1-0239 flow cytometry B2,727463,Flow Cytometry
+export_228_pre 7.727464.fcs,export_228_pre 7.fcs,ES1230629,-7,PBMC,BS807932,09-H1-0239 flow cytometry B2,727464,Flow Cytometry
+export_229_pre 7.727465.fcs,export_229_pre 7.fcs,ES1230630,-7,PBMC,BS807937,09-H1-0239 flow cytometry B2,727465,Flow Cytometry
+export_230_pre 7.727466.fcs,export_230_pre 7.fcs,ES1230631,-7,PBMC,BS807942,09-H1-0239 flow cytometry B2,727466,Flow Cytometry
+export_231_pre 7.727467.fcs,export_231_pre 7.fcs,ES1230632,-7,PBMC,BS807946,09-H1-0239 flow cytometry B2,727467,Flow Cytometry
+export_232_pre 7.727468.fcs,export_232_pre 7.fcs,ES1230633,-7,PBMC,BS807950,09-H1-0239 flow cytometry B2,727468,Flow Cytometry
+export_233_pre 7.727469.fcs,export_233_pre 7.fcs,ES1230634,-7,PBMC,BS807954,09-H1-0239 flow cytometry B2,727469,Flow Cytometry
+export_234_pre 7.727470.fcs,export_234_pre 7.fcs,ES1230635,-7,PBMC,BS807958,09-H1-0239 flow cytometry B2,727470,Flow Cytometry
+export_235_pre 7.727471.fcs,export_235_pre 7.fcs,ES1230636,-7,PBMC,BS807961,09-H1-0239 flow cytometry B2,727471,Flow Cytometry
+export_236_pre 7.727472.fcs,export_236_pre 7.fcs,ES1230637,-7,PBMC,BS807964,09-H1-0239 flow cytometry B2,727472,Flow Cytometry
+export_237_pre 7.727473.fcs,export_237_pre 7.fcs,ES1230638,-7,PBMC,BS807969,09-H1-0239 flow cytometry B2,727473,Flow Cytometry
+export_241_pre 7.727474.fcs,export_241_pre 7.fcs,ES1230639,-7,PBMC,BS807974,09-H1-0239 flow cytometry B2,727474,Flow Cytometry
+export_242_pre 7.727475.fcs,export_242_pre 7.fcs,ES1230640,-7,PBMC,BS807979,09-H1-0239 flow cytometry B2,727475,Flow Cytometry
+export_249_70.728593.fcs,export_249_70.fcs,ES1231653,70,PBMC,BS808002,09-H1-0239 flow cytometry T3,728593,Flow Cytometry
+export_249_pre.728594.fcs,export_249_pre.fcs,ES1231654,-7,PBMC,BS808001,09-H1-0239 flow cytometry T3,728594,Flow Cytometry
+export_250_0.728595.fcs,export_250_0.fcs,ES1231655,0,PBMC,BS808003,09-H1-0239 flow cytometry T3,728595,Flow Cytometry
+export_250_1.728596.fcs,export_250_1.fcs,ES1231656,1,PBMC,BS808004,09-H1-0239 flow cytometry T3,728596,Flow Cytometry
+export_250_7.728597.fcs,export_250_7.fcs,ES1231657,7,PBMC,BS808005,09-H1-0239 flow cytometry T3,728597,Flow Cytometry
+export_250_70.728598.fcs,export_250_70.fcs,ES1231658,70,PBMC,BS808006,09-H1-0239 flow cytometry T3,728598,Flow Cytometry
+export_250_pre.728599.fcs,export_250_pre.fcs,ES1231659,7,PBMC,BS1007347,09-H1-0239 flow cytometry T3,728599,Flow Cytometry
+export_251_0.728600.fcs,export_251_0.fcs,ES1231660,0,PBMC,BS808007,09-H1-0239 flow cytometry T3,728600,Flow Cytometry
+export_251_1.728601.fcs,export_251_1.fcs,ES1231661,1,PBMC,BS808008,09-H1-0239 flow cytometry T3,728601,Flow Cytometry
+export_251_7.728602.fcs,export_251_7.fcs,ES1231662,7,PBMC,BS808009,09-H1-0239 flow cytometry T3,728602,Flow Cytometry
+export_251_70.728603.fcs,export_251_70.fcs,ES1231663,70,PBMC,BS808011,09-H1-0239 flow cytometry T3,728603,Flow Cytometry
+export_251_pre.728604.fcs,export_251_pre.fcs,ES1231664,-7,PBMC,BS808010,09-H1-0239 flow cytometry T3,728604,Flow Cytometry
+export_254_0.728605.fcs,export_254_0.fcs,ES1231665,0,PBMC,BS1007348,09-H1-0239 flow cytometry T3,728605,Flow Cytometry
+export_254_1.728606.fcs,export_254_1.fcs,ES1231666,1,PBMC,BS808012,09-H1-0239 flow cytometry T3,728606,Flow Cytometry
+export_254_7.728607.fcs,export_254_7.fcs,ES1231667,7,PBMC,BS1007349,09-H1-0239 flow cytometry T3,728607,Flow Cytometry
+export_254_70.728608.fcs,export_254_70.fcs,ES1231668,70,PBMC,BS808014,09-H1-0239 flow cytometry T3,728608,Flow Cytometry
+export_254_pre.728609.fcs,export_254_pre.fcs,ES1231669,-7,PBMC,BS808013,09-H1-0239 flow cytometry T3,728609,Flow Cytometry
+export_256_0.728610.fcs,export_256_0.fcs,ES1231670,0,PBMC,BS808015,09-H1-0239 flow cytometry T3,728610,Flow Cytometry
+export_256_1.728611.fcs,export_256_1.fcs,ES1231671,1,PBMC,BS808016,09-H1-0239 flow cytometry T3,728611,Flow Cytometry
+export_256_7.728612.fcs,export_256_7.fcs,ES1231672,7,PBMC,BS1007350,09-H1-0239 flow cytometry T3,728612,Flow Cytometry
+export_256_70.728613.fcs,export_256_70.fcs,ES1231673,70,PBMC,BS808018,09-H1-0239 flow cytometry T3,728613,Flow Cytometry
+export_256_pre.728614.fcs,export_256_pre.fcs,ES1231674,-7,PBMC,BS808017,09-H1-0239 flow cytometry T3,728614,Flow Cytometry
+export_257_0.728615.fcs,export_257_0.fcs,ES1231675,0,PBMC,BS808019,09-H1-0239 flow cytometry T3,728615,Flow Cytometry
+export_257_1.728616.fcs,export_257_1.fcs,ES1231676,1,PBMC,BS808020,09-H1-0239 flow cytometry T3,728616,Flow Cytometry
+export_257_7.728617.fcs,export_257_7.fcs,ES1231677,7,PBMC,BS1007351,09-H1-0239 flow cytometry T3,728617,Flow Cytometry
+export_257_70.728618.fcs,export_257_70.fcs,ES1231678,70,PBMC,BS808022,09-H1-0239 flow cytometry T3,728618,Flow Cytometry
+export_257_pre.728619.fcs,export_257_pre.fcs,ES1231679,-7,PBMC,BS808021,09-H1-0239 flow cytometry T3,728619,Flow Cytometry
+export_259_0.728620.fcs,export_259_0.fcs,ES1231680,0,PBMC,BS808023,09-H1-0239 flow cytometry T3,728620,Flow Cytometry
+export_246_pre 7.727478.fcs,export_246_pre 7.fcs,ES1230643,-7,PBMC,BS807992,09-H1-0239 flow cytometry B2,727478,Flow Cytometry
+export_244_pre 7.727476.fcs,export_244_pre 7.fcs,ES1230641,-7,PBMC,BS807983,09-H1-0239 flow cytometry B2,727476,Flow Cytometry
+export_245_pre 7.727477.fcs,export_245_pre 7.fcs,ES1230642,-7,PBMC,BS807987,09-H1-0239 flow cytometry B2,727477,Flow Cytometry
+export_248_pre 7.727479.fcs,export_248_pre 7.fcs,ES1230644,-7,PBMC,BS807997,09-H1-0239 flow cytometry B2,727479,Flow Cytometry
+export_249_pre 7.727480.fcs,export_249_pre 7.fcs,ES1230645,-7,PBMC,BS808001,09-H1-0239 flow cytometry B2,727480,Flow Cytometry
+export_251_pre 7.727481.fcs,export_251_pre 7.fcs,ES1230646,-7,PBMC,BS808010,09-H1-0239 flow cytometry B2,727481,Flow Cytometry
+export_254_pre 7.727482.fcs,export_254_pre 7.fcs,ES1230647,-7,PBMC,BS808013,09-H1-0239 flow cytometry B2,727482,Flow Cytometry
+export_256_pre 7.727483.fcs,export_256_pre 7.fcs,ES1230648,-7,PBMC,BS808017,09-H1-0239 flow cytometry B2,727483,Flow Cytometry
+export_257_pre 7.727484.fcs,export_257_pre 7.fcs,ES1230649,-7,PBMC,BS808021,09-H1-0239 flow cytometry B2,727484,Flow Cytometry
+export_259_pre 7.727485.fcs,export_259_pre 7.fcs,ES1230650,-7,PBMC,BS808025,09-H1-0239 flow cytometry B2,727485,Flow Cytometry
+export_260_pre 7.727486.fcs,export_260_pre 7.fcs,ES1230651,-7,PBMC,BS808029,09-H1-0239 flow cytometry B2,727486,Flow Cytometry
+export_261_pre 7.727487.fcs,export_261_pre 7.fcs,ES1230652,-7,PBMC,BS808034,09-H1-0239 flow cytometry B2,727487,Flow Cytometry
+export_262_pre 7.727488.fcs,export_262_pre 7.fcs,ES1230653,-7,PBMC,BS808039,09-H1-0239 flow cytometry B2,727488,Flow Cytometry
+export_263_pre 7.727489.fcs,export_263_pre 7.fcs,ES1230654,-7,PBMC,BS808042,09-H1-0239 flow cytometry B2,727489,Flow Cytometry
+export_265_pre 7.727490.fcs,export_265_pre 7.fcs,ES1230655,-7,PBMC,BS808045,09-H1-0239 flow cytometry B2,727490,Flow Cytometry
+export_267_pre 7.727491.fcs,export_267_pre 7.fcs,ES1230656,-7,PBMC,BS808048,09-H1-0239 flow cytometry B2,727491,Flow Cytometry
+export_268_pre 7.727492.fcs,export_268_pre 7.fcs,ES1230657,-7,PBMC,BS808052,09-H1-0239 flow cytometry B2,727492,Flow Cytometry
+export_272_pre 7.727493.fcs,export_272_pre 7.fcs,ES1230658,-7,PBMC,BS808057,09-H1-0239 flow cytometry B2,727493,Flow Cytometry
+export_273_pre 7.727494.fcs,export_273_pre 7.fcs,ES1230659,-7,PBMC,BS808062,09-H1-0239 flow cytometry B2,727494,Flow Cytometry
+export_274_pre 7.727495.fcs,export_274_pre 7.fcs,ES1230660,-7,PBMC,BS808067,09-H1-0239 flow cytometry B2,727495,Flow Cytometry
+export_277_pre 7.727496.fcs,export_277_pre 7.fcs,ES1230661,-7,PBMC,BS808072,09-H1-0239 flow cytometry B2,727496,Flow Cytometry
+export_279_pre 7.727497.fcs,export_279_pre 7.fcs,ES1230662,-7,PBMC,BS808075,09-H1-0239 flow cytometry B2,727497,Flow Cytometry
+export_280_pre 7.727498.fcs,export_280_pre 7.fcs,ES1230663,-7,PBMC,BS808079,09-H1-0239 flow cytometry B2,727498,Flow Cytometry
+export_282_pre 7.727499.fcs,export_282_pre 7.fcs,ES1230664,-7,PBMC,BS808082,09-H1-0239 flow cytometry B2,727499,Flow Cytometry
+export_283_pre 7.727500.fcs,export_283_pre 7.fcs,ES1230665,-7,PBMC,BS808086,09-H1-0239 flow cytometry B2,727500,Flow Cytometry
+export_284_pre 7.727501.fcs,export_284_pre 7.fcs,ES1230666,-7,PBMC,BS808091,09-H1-0239 flow cytometry B2,727501,Flow Cytometry
+export_200_0.727502.fcs,export_200_0.fcs,ES1230667,0,PBMC,BS807848,09-H1-0239 flow cytometry B2,727502,Flow Cytometry
+export_200_1.727503.fcs,export_200_1.fcs,ES1230668,1,PBMC,BS807849,09-H1-0239 flow cytometry B2,727503,Flow Cytometry
+export_200_7.727504.fcs,export_200_7.fcs,ES1230669,7,PBMC,BS807850,09-H1-0239 flow cytometry B2,727504,Flow Cytometry
+export_259_1.728621.fcs,export_259_1.fcs,ES1231681,1,PBMC,BS808024,09-H1-0239 flow cytometry T3,728621,Flow Cytometry
+export_259_7.728622.fcs,export_259_7.fcs,ES1231682,7,PBMC,BS1007352,09-H1-0239 flow cytometry T3,728622,Flow Cytometry
+export_259_70.728623.fcs,export_259_70.fcs,ES1231683,70,PBMC,BS1007353,09-H1-0239 flow cytometry T3,728623,Flow Cytometry
+export_259_pre.728624.fcs,export_259_pre.fcs,ES1231684,-7,PBMC,BS808025,09-H1-0239 flow cytometry T3,728624,Flow Cytometry
+export_260_0.728625.fcs,export_260_0.fcs,ES1231685,0,PBMC,BS808026,09-H1-0239 flow cytometry T3,728625,Flow Cytometry
+export_260_1.728626.fcs,export_260_1.fcs,ES1231686,1,PBMC,BS808027,09-H1-0239 flow cytometry T3,728626,Flow Cytometry
+export_260_7.728627.fcs,export_260_7.fcs,ES1231687,7,PBMC,BS808028,09-H1-0239 flow cytometry T3,728627,Flow Cytometry
+export_260_70.728628.fcs,export_260_70.fcs,ES1231688,70,PBMC,BS808030,09-H1-0239 flow cytometry T3,728628,Flow Cytometry
+export_260_pre.728629.fcs,export_260_pre.fcs,ES1231689,-7,PBMC,BS808029,09-H1-0239 flow cytometry T3,728629,Flow Cytometry
+export_261_0.728630.fcs,export_261_0.fcs,ES1231690,0,PBMC,BS808031,09-H1-0239 flow cytometry T3,728630,Flow Cytometry
+export_261_1.728631.fcs,export_261_1.fcs,ES1231691,1,PBMC,BS808032,09-H1-0239 flow cytometry T3,728631,Flow Cytometry
+export_261_7.728632.fcs,export_261_7.fcs,ES1231692,7,PBMC,BS808033,09-H1-0239 flow cytometry T3,728632,Flow Cytometry
+export_261_70.728633.fcs,export_261_70.fcs,ES1231693,70,PBMC,BS808035,09-H1-0239 flow cytometry T3,728633,Flow Cytometry
+export_261_pre.728634.fcs,export_261_pre.fcs,ES1231694,-7,PBMC,BS808034,09-H1-0239 flow cytometry T3,728634,Flow Cytometry
+export_262_0.728635.fcs,export_262_0.fcs,ES1231695,0,PBMC,BS808036,09-H1-0239 flow cytometry T3,728635,Flow Cytometry
+export_262_1.728636.fcs,export_262_1.fcs,ES1231696,1,PBMC,BS808037,09-H1-0239 flow cytometry T3,728636,Flow Cytometry
+export_262_7.728637.fcs,export_262_7.fcs,ES1231697,7,PBMC,BS808038,09-H1-0239 flow cytometry T3,728637,Flow Cytometry
+export_262_70.728638.fcs,export_262_70.fcs,ES1231698,70,PBMC,BS808040,09-H1-0239 flow cytometry T3,728638,Flow Cytometry
+export_262_pre.728639.fcs,export_262_pre.fcs,ES1231699,-7,PBMC,BS808039,09-H1-0239 flow cytometry T3,728639,Flow Cytometry
+export_263_0.728640.fcs,export_263_0.fcs,ES1231700,0,PBMC,BS1007354,09-H1-0239 flow cytometry T3,728640,Flow Cytometry
+export_263_1.728641.fcs,export_263_1.fcs,ES1231701,1,PBMC,BS808041,09-H1-0239 flow cytometry T3,728641,Flow Cytometry
+export_263_7.728642.fcs,export_263_7.fcs,ES1231702,7,PBMC,BS1007355,09-H1-0239 flow cytometry T3,728642,Flow Cytometry
+export_263_70.728643.fcs,export_263_70.fcs,ES1231703,70,PBMC,BS1007356,09-H1-0239 flow cytometry T3,728643,Flow Cytometry
+export_263_pre.728644.fcs,export_263_pre.fcs,ES1231704,-7,PBMC,BS808042,09-H1-0239 flow cytometry T3,728644,Flow Cytometry
+export_265_0.728645.fcs,export_265_0.fcs,ES1231705,0,PBMC,BS808043,09-H1-0239 flow cytometry T3,728645,Flow Cytometry
+export_265_1.728646.fcs,export_265_1.fcs,ES1231706,1,PBMC,BS808044,09-H1-0239 flow cytometry T3,728646,Flow Cytometry
+export_265_7.728647.fcs,export_265_7.fcs,ES1231707,7,PBMC,BS1007357,09-H1-0239 flow cytometry T3,728647,Flow Cytometry
+export_265_70.728648.fcs,export_265_70.fcs,ES1231708,70,PBMC,BS808046,09-H1-0239 flow cytometry T3,728648,Flow Cytometry
+export_201_1.727507.fcs,export_201_1.fcs,ES1230672,1,PBMC,BS807854,09-H1-0239 flow cytometry B2,727507,Flow Cytometry
+export_200_70.727505.fcs,export_200_70.fcs,ES1230670,70,PBMC,BS807852,09-H1-0239 flow cytometry B2,727505,Flow Cytometry
+export_201_0.727506.fcs,export_201_0.fcs,ES1230671,0,PBMC,BS807853,09-H1-0239 flow cytometry B2,727506,Flow Cytometry
+export_201_7.727508.fcs,export_201_7.fcs,ES1230673,7,PBMC,BS807855,09-H1-0239 flow cytometry B2,727508,Flow Cytometry
+export_201_70.727509.fcs,export_201_70.fcs,ES1230674,70,PBMC,BS807857,09-H1-0239 flow cytometry B2,727509,Flow Cytometry
+export_202_0.727510.fcs,export_202_0.fcs,ES1230675,0,PBMC,BS807858,09-H1-0239 flow cytometry B2,727510,Flow Cytometry
+export_202_1.727511.fcs,export_202_1.fcs,ES1230676,1,PBMC,BS807859,09-H1-0239 flow cytometry B2,727511,Flow Cytometry
+export_202_7.727512.fcs,export_202_7.fcs,ES1230677,7,PBMC,BS807860,09-H1-0239 flow cytometry B2,727512,Flow Cytometry
+export_202_70.727513.fcs,export_202_70.fcs,ES1230678,70,PBMC,BS807862,09-H1-0239 flow cytometry B2,727513,Flow Cytometry
+export_204_0.727514.fcs,export_204_0.fcs,ES1230679,0,PBMC,BS807863,09-H1-0239 flow cytometry B2,727514,Flow Cytometry
+export_204_1.727515.fcs,export_204_1.fcs,ES1230680,1,PBMC,BS807864,09-H1-0239 flow cytometry B2,727515,Flow Cytometry
+export_204_7.727516.fcs,export_204_7.fcs,ES1230681,7,PBMC,BS807865,09-H1-0239 flow cytometry B2,727516,Flow Cytometry
+export_204_70.727517.fcs,export_204_70.fcs,ES1230682,70,PBMC,BS807867,09-H1-0239 flow cytometry B2,727517,Flow Cytometry
+export_205_0.727518.fcs,export_205_0.fcs,ES1230683,0,PBMC,BS807868,09-H1-0239 flow cytometry B2,727518,Flow Cytometry
+export_205_1.727519.fcs,export_205_1.fcs,ES1230684,1,PBMC,BS807869,09-H1-0239 flow cytometry B2,727519,Flow Cytometry
+export_205_7.727520.fcs,export_205_7.fcs,ES1230685,7,PBMC,BS807870,09-H1-0239 flow cytometry B2,727520,Flow Cytometry
+export_205_70.727521.fcs,export_205_70.fcs,ES1230686,70,PBMC,BS807872,09-H1-0239 flow cytometry B2,727521,Flow Cytometry
+export_206_1.727522.fcs,export_206_1.fcs,ES1230687,1,PBMC,BS807873,09-H1-0239 flow cytometry B2,727522,Flow Cytometry
+export_206_7.727523.fcs,export_206_7.fcs,ES1230688,7,PBMC,BS807874,09-H1-0239 flow cytometry B2,727523,Flow Cytometry
+export_207_0.727524.fcs,export_207_0.fcs,ES1230689,0,PBMC,BS807876,09-H1-0239 flow cytometry B2,727524,Flow Cytometry
+export_207_1.727525.fcs,export_207_1.fcs,ES1230690,1,PBMC,BS807877,09-H1-0239 flow cytometry B2,727525,Flow Cytometry
+export_207_7.727526.fcs,export_207_7.fcs,ES1230691,7,PBMC,BS807878,09-H1-0239 flow cytometry B2,727526,Flow Cytometry
+export_207_70.727527.fcs,export_207_70.fcs,ES1230692,70,PBMC,BS807880,09-H1-0239 flow cytometry B2,727527,Flow Cytometry
+export_209_0.727528.fcs,export_209_0.fcs,ES1230693,0,PBMC,BS807881,09-H1-0239 flow cytometry B2,727528,Flow Cytometry
+export_209_1.727529.fcs,export_209_1.fcs,ES1230694,1,PBMC,BS807882,09-H1-0239 flow cytometry B2,727529,Flow Cytometry
+export_209_7.727530.fcs,export_209_7.fcs,ES1230695,7,PBMC,BS807883,09-H1-0239 flow cytometry B2,727530,Flow Cytometry
+export_209_70.727531.fcs,export_209_70.fcs,ES1230696,70,PBMC,BS807885,09-H1-0239 flow cytometry B2,727531,Flow Cytometry
+export_212_0.727532.fcs,export_212_0.fcs,ES1230697,0,PBMC,BS807886,09-H1-0239 flow cytometry B2,727532,Flow Cytometry
+export_212_1.727533.fcs,export_212_1.fcs,ES1230698,1,PBMC,BS807887,09-H1-0239 flow cytometry B2,727533,Flow Cytometry
+export_265_pre.728649.fcs,export_265_pre.fcs,ES1231709,-7,PBMC,BS808045,09-H1-0239 flow cytometry T3,728649,Flow Cytometry
+export_267_0.728650.fcs,export_267_0.fcs,ES1231710,0,PBMC,BS808047,09-H1-0239 flow cytometry T3,728650,Flow Cytometry
+export_267_1.728651.fcs,export_267_1.fcs,ES1231711,1,PBMC,BS1007358,09-H1-0239 flow cytometry T3,728651,Flow Cytometry
+export_267_7.728652.fcs,export_267_7.fcs,ES1231712,7,PBMC,BS1007359,09-H1-0239 flow cytometry T3,728652,Flow Cytometry
+export_267_70.728653.fcs,export_267_70.fcs,ES1231713,70,PBMC,BS1007360,09-H1-0239 flow cytometry T3,728653,Flow Cytometry
+export_267_pre.728654.fcs,export_267_pre.fcs,ES1231714,-7,PBMC,BS808048,09-H1-0239 flow cytometry T3,728654,Flow Cytometry
+export_268_0.728655.fcs,export_268_0.fcs,ES1231715,0,PBMC,BS808049,09-H1-0239 flow cytometry T3,728655,Flow Cytometry
+export_268_1.728656.fcs,export_268_1.fcs,ES1231716,1,PBMC,BS808050,09-H1-0239 flow cytometry T3,728656,Flow Cytometry
+export_268_7.728657.fcs,export_268_7.fcs,ES1231717,7,PBMC,BS808051,09-H1-0239 flow cytometry T3,728657,Flow Cytometry
+export_268_70.728658.fcs,export_268_70.fcs,ES1231718,70,PBMC,BS808053,09-H1-0239 flow cytometry T3,728658,Flow Cytometry
+export_268_pre.728659.fcs,export_268_pre.fcs,ES1231719,-7,PBMC,BS808052,09-H1-0239 flow cytometry T3,728659,Flow Cytometry
+export_272_0.728660.fcs,export_272_0.fcs,ES1231720,0,PBMC,BS808054,09-H1-0239 flow cytometry T3,728660,Flow Cytometry
+export_272_1.728661.fcs,export_272_1.fcs,ES1231721,1,PBMC,BS808055,09-H1-0239 flow cytometry T3,728661,Flow Cytometry
+export_272_7.728662.fcs,export_272_7.fcs,ES1231722,7,PBMC,BS808056,09-H1-0239 flow cytometry T3,728662,Flow Cytometry
+export_272_70.728663.fcs,export_272_70.fcs,ES1231723,70,PBMC,BS808058,09-H1-0239 flow cytometry T3,728663,Flow Cytometry
+export_272_pre.728664.fcs,export_272_pre.fcs,ES1231724,-7,PBMC,BS808057,09-H1-0239 flow cytometry T3,728664,Flow Cytometry
+export_273_0.728665.fcs,export_273_0.fcs,ES1231725,0,PBMC,BS808059,09-H1-0239 flow cytometry T3,728665,Flow Cytometry
+export_273_1.728666.fcs,export_273_1.fcs,ES1231726,1,PBMC,BS808060,09-H1-0239 flow cytometry T3,728666,Flow Cytometry
+export_273_7.728667.fcs,export_273_7.fcs,ES1231727,7,PBMC,BS808061,09-H1-0239 flow cytometry T3,728667,Flow Cytometry
+export_273_70.728668.fcs,export_273_70.fcs,ES1231728,70,PBMC,BS808063,09-H1-0239 flow cytometry T3,728668,Flow Cytometry
+export_273_pre.728669.fcs,export_273_pre.fcs,ES1231729,-7,PBMC,BS808062,09-H1-0239 flow cytometry T3,728669,Flow Cytometry
+export_274_0.728670.fcs,export_274_0.fcs,ES1231730,0,PBMC,BS808064,09-H1-0239 flow cytometry T3,728670,Flow Cytometry
+export_274_1.728671.fcs,export_274_1.fcs,ES1231731,1,PBMC,BS808065,09-H1-0239 flow cytometry T3,728671,Flow Cytometry
+export_274_7.728672.fcs,export_274_7.fcs,ES1231732,7,PBMC,BS808066,09-H1-0239 flow cytometry T3,728672,Flow Cytometry
+export_274_70.728673.fcs,export_274_70.fcs,ES1231733,70,PBMC,BS808068,09-H1-0239 flow cytometry T3,728673,Flow Cytometry
+export_274_pre.728674.fcs,export_274_pre.fcs,ES1231734,-7,PBMC,BS808067,09-H1-0239 flow cytometry T3,728674,Flow Cytometry
+export_275_0.728675.fcs,export_275_0.fcs,ES1231735,0,PBMC,BS1007361,09-H1-0239 flow cytometry T3,728675,Flow Cytometry
+export_275_1.728676.fcs,export_275_1.fcs,ES1231736,1,PBMC,BS1007362,09-H1-0239 flow cytometry T3,728676,Flow Cytometry
+export_213_0.727536.fcs,export_213_0.fcs,ES1230701,0,PBMC,BS807891,09-H1-0239 flow cytometry B2,727536,Flow Cytometry
+export_212_7.727534.fcs,export_212_7.fcs,ES1230699,7,PBMC,BS807888,09-H1-0239 flow cytometry B2,727534,Flow Cytometry
+export_212_70.727535.fcs,export_212_70.fcs,ES1230700,70,PBMC,BS807890,09-H1-0239 flow cytometry B2,727535,Flow Cytometry
+export_213_1.727537.fcs,export_213_1.fcs,ES1230702,1,PBMC,BS807892,09-H1-0239 flow cytometry B2,727537,Flow Cytometry
+export_213_7.727538.fcs,export_213_7.fcs,ES1230703,7,PBMC,BS807893,09-H1-0239 flow cytometry B2,727538,Flow Cytometry
+export_213_70.727539.fcs,export_213_70.fcs,ES1230704,70,PBMC,BS807895,09-H1-0239 flow cytometry B2,727539,Flow Cytometry
+export_215_0.727540.fcs,export_215_0.fcs,ES1230705,0,PBMC,BS807896,09-H1-0239 flow cytometry B2,727540,Flow Cytometry
+export_215_1.727541.fcs,export_215_1.fcs,ES1230706,1,PBMC,BS807897,09-H1-0239 flow cytometry B2,727541,Flow Cytometry
+export_215_7.727542.fcs,export_215_7.fcs,ES1230707,7,PBMC,BS807898,09-H1-0239 flow cytometry B2,727542,Flow Cytometry
+export_215_70.727543.fcs,export_215_70.fcs,ES1230708,70,PBMC,BS807900,09-H1-0239 flow cytometry B2,727543,Flow Cytometry
+export_217_0.727544.fcs,export_217_0.fcs,ES1230709,0,PBMC,BS807901,09-H1-0239 flow cytometry B2,727544,Flow Cytometry
+export_217_1.727545.fcs,export_217_1.fcs,ES1230710,1,PBMC,BS807902,09-H1-0239 flow cytometry B2,727545,Flow Cytometry
+export_217_70.727546.fcs,export_217_70.fcs,ES1230711,70,PBMC,BS807904,09-H1-0239 flow cytometry B2,727546,Flow Cytometry
+export_218_0.727547.fcs,export_218_0.fcs,ES1230712,0,PBMC,BS807905,09-H1-0239 flow cytometry B2,727547,Flow Cytometry
+export_218_1.727548.fcs,export_218_1.fcs,ES1230713,1,PBMC,BS807906,09-H1-0239 flow cytometry B2,727548,Flow Cytometry
+export_218_7.727549.fcs,export_218_7.fcs,ES1230714,7,PBMC,BS807907,09-H1-0239 flow cytometry B2,727549,Flow Cytometry
+export_218_70.727550.fcs,export_218_70.fcs,ES1230715,70,PBMC,BS807908,09-H1-0239 flow cytometry B2,727550,Flow Cytometry
+export_221_0.727551.fcs,export_221_0.fcs,ES1230716,0,PBMC,BS807909,09-H1-0239 flow cytometry B2,727551,Flow Cytometry
+export_221_1.727552.fcs,export_221_1.fcs,ES1230717,1,PBMC,BS807910,09-H1-0239 flow cytometry B2,727552,Flow Cytometry
+export_221_7.727553.fcs,export_221_7.fcs,ES1230718,7,PBMC,BS807911,09-H1-0239 flow cytometry B2,727553,Flow Cytometry
+export_221_70.727554.fcs,export_221_70.fcs,ES1230719,70,PBMC,BS807913,09-H1-0239 flow cytometry B2,727554,Flow Cytometry
+export_222_0.727555.fcs,export_222_0.fcs,ES1230720,0,PBMC,BS807914,09-H1-0239 flow cytometry B2,727555,Flow Cytometry
+export_222_1.727556.fcs,export_222_1.fcs,ES1230721,1,PBMC,BS807915,09-H1-0239 flow cytometry B2,727556,Flow Cytometry
+export_222_7.727557.fcs,export_222_7.fcs,ES1230722,7,PBMC,BS807916,09-H1-0239 flow cytometry B2,727557,Flow Cytometry
+export_222_70.727558.fcs,export_222_70.fcs,ES1230723,70,PBMC,BS807918,09-H1-0239 flow cytometry B2,727558,Flow Cytometry
+export_224_0.727559.fcs,export_224_0.fcs,ES1230724,0,PBMC,BS807919,09-H1-0239 flow cytometry B2,727559,Flow Cytometry
+export_224_1.727560.fcs,export_224_1.fcs,ES1230725,1,PBMC,BS807920,09-H1-0239 flow cytometry B2,727560,Flow Cytometry
+export_224_7.727561.fcs,export_224_7.fcs,ES1230726,7,PBMC,BS807921,09-H1-0239 flow cytometry B2,727561,Flow Cytometry
+export_224_70.727562.fcs,export_224_70.fcs,ES1230727,70,PBMC,BS807923,09-H1-0239 flow cytometry B2,727562,Flow Cytometry
+export_275_7.728677.fcs,export_275_7.fcs,ES1231737,7,PBMC,BS1007363,09-H1-0239 flow cytometry T3,728677,Flow Cytometry
+export_275_70.728678.fcs,export_275_70.fcs,ES1231738,70,PBMC,BS1007364,09-H1-0239 flow cytometry T3,728678,Flow Cytometry
+export_275_pre.728679.fcs,export_275_pre.fcs,ES1231739,7,PBMC,BS1007365,09-H1-0239 flow cytometry T3,728679,Flow Cytometry
+export_277_0.728680.fcs,export_277_0.fcs,ES1231740,0,PBMC,BS808069,09-H1-0239 flow cytometry T3,728680,Flow Cytometry
+export_277_1.728681.fcs,export_277_1.fcs,ES1231741,1,PBMC,BS808070,09-H1-0239 flow cytometry T3,728681,Flow Cytometry
+export_277_7.728682.fcs,export_277_7.fcs,ES1231742,7,PBMC,BS808071,09-H1-0239 flow cytometry T3,728682,Flow Cytometry
+export_277_70.728683.fcs,export_277_70.fcs,ES1231743,70,PBMC,BS808073,09-H1-0239 flow cytometry T3,728683,Flow Cytometry
+export_277_pre.728684.fcs,export_277_pre.fcs,ES1231744,-7,PBMC,BS808072,09-H1-0239 flow cytometry T3,728684,Flow Cytometry
+export_279_0.728685.fcs,export_279_0.fcs,ES1231745,0,PBMC,BS808074,09-H1-0239 flow cytometry T3,728685,Flow Cytometry
+export_279_1.728686.fcs,export_279_1.fcs,ES1231746,1,PBMC,BS1007366,09-H1-0239 flow cytometry T3,728686,Flow Cytometry
+export_279_7.728687.fcs,export_279_7.fcs,ES1231747,7,PBMC,BS1007367,09-H1-0239 flow cytometry T3,728687,Flow Cytometry
+export_279_70.728688.fcs,export_279_70.fcs,ES1231748,70,PBMC,BS808076,09-H1-0239 flow cytometry T3,728688,Flow Cytometry
+export_279_pre.728689.fcs,export_279_pre.fcs,ES1231749,-7,PBMC,BS808075,09-H1-0239 flow cytometry T3,728689,Flow Cytometry
+export_280_0.728690.fcs,export_280_0.fcs,ES1231750,0,PBMC,BS808077,09-H1-0239 flow cytometry T3,728690,Flow Cytometry
+export_280_1.728691.fcs,export_280_1.fcs,ES1231751,1,PBMC,BS1007368,09-H1-0239 flow cytometry T3,728691,Flow Cytometry
+export_280_7.728692.fcs,export_280_7.fcs,ES1231752,7,PBMC,BS808078,09-H1-0239 flow cytometry T3,728692,Flow Cytometry
+export_280_70.728693.fcs,export_280_70.fcs,ES1231753,70,PBMC,BS808080,09-H1-0239 flow cytometry T3,728693,Flow Cytometry
+export_280_pre.728694.fcs,export_280_pre.fcs,ES1231754,-7,PBMC,BS808079,09-H1-0239 flow cytometry T3,728694,Flow Cytometry
+export_282_0.728695.fcs,export_282_0.fcs,ES1231755,0,PBMC,BS1007369,09-H1-0239 flow cytometry T3,728695,Flow Cytometry
+export_282_1.728696.fcs,export_282_1.fcs,ES1231756,1,PBMC,BS1007370,09-H1-0239 flow cytometry T3,728696,Flow Cytometry
+export_282_7.728697.fcs,export_282_7.fcs,ES1231757,7,PBMC,BS808081,09-H1-0239 flow cytometry T3,728697,Flow Cytometry
+export_282_70.728698.fcs,export_282_70.fcs,ES1231758,70,PBMC,BS1007371,09-H1-0239 flow cytometry T3,728698,Flow Cytometry
+export_282_pre.728699.fcs,export_282_pre.fcs,ES1231759,-7,PBMC,BS808082,09-H1-0239 flow cytometry T3,728699,Flow Cytometry
+export_283_0.728700.fcs,export_283_0.fcs,ES1231760,0,PBMC,BS808083,09-H1-0239 flow cytometry T3,728700,Flow Cytometry
+export_283_1.728701.fcs,export_283_1.fcs,ES1231761,1,PBMC,BS808084,09-H1-0239 flow cytometry T3,728701,Flow Cytometry
+export_283_7.728702.fcs,export_283_7.fcs,ES1231762,7,PBMC,BS808085,09-H1-0239 flow cytometry T3,728702,Flow Cytometry
+export_283_70.728703.fcs,export_283_70.fcs,ES1231763,70,PBMC,BS808087,09-H1-0239 flow cytometry T3,728703,Flow Cytometry
+export_283_pre.728704.fcs,export_283_pre.fcs,ES1231764,-7,PBMC,BS808086,09-H1-0239 flow cytometry T3,728704,Flow Cytometry

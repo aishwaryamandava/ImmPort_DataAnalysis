@@ -54,7 +54,7 @@ table_summary_2 <- read.xlsx("./Study_panel_headers.xlsx",sheet=2,skipEmptyRows 
 kable(table_summary_2) %>%
   kable_styling(full_width = F,c("striped","bordered")) %>%
   row_spec(1:54,hline_after = TRUE) %>%
-  row_spec(c(12,14:16,18:20,49),color="black",background = "gray") %>%
+  row_spec(c(11,12,14,17,18,24,25,30,32,35,40,42,43,44,48),color="black",background = "gray") %>%
   column_spec(1:ncol(table_summary_2),border_left = T, border_right = T) %>%
   scroll_box(width = "100%", height = "400px")
 ```
@@ -69,7 +69,7 @@ table_summary_3 <- read.xlsx("./Study_panel_headers.xlsx",sheet=1,skipEmptyRows 
 kable(table_summary_3) %>%
   kable_styling(full_width = F,c("striped","bordered")) %>%
   row_spec(1:54,hline_after = TRUE) %>%
-  row_spec(c(12,14:16,18:20,49),color="black",background = "gray") %>%
+  row_spec(c(12,14,17,24,25,29,30,32,35,40,42,43,44,48),color="black",background = "gray") %>%
   column_spec(1:ncol(table_summary_3),border_left = T, border_right = T) %>%
   scroll_box(width = "100%", height = "400px")
 ```

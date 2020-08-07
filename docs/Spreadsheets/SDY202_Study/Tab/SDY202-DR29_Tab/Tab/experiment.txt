@@ -1,0 +1,7 @@
+EXPERIMENT_ACCESSION	DESCRIPTION	MEASUREMENT_TECHNIQUE	NAME	STUDY_ACCESSION	WORKSPACE_ID
+EXP13705	To generate plasmablast-derived polyclonal antibodies (PPAb) from blood samples collected at day 7 after immunization with different influenza vaccines	ELISA	Plasmablast-derived polyclonal antibodies (PPAb) samples analyzed by ELISA for vaccine binding activity	SDY202	2883
+EXP13808		Luminex xMAP	serum cytokine quantification	SDY202	2883
+EXP13734		ELISPOT	Antibody Secreting Cell (ASC) response at day 7 after immunization with different influenza vaccines by ELISPOT assay	SDY202	2883
+EXP13759		Hemagglutination Inhibition	HAI assay on samples from Day 0 and 28	SDY202	2883
+EXP13853	H1N1_phospho flow	Flow Cytometry	H1N1_phospho flow	SDY202	2883
+EXP13852	flow phenotyping	Flow Cytometry	Cell surface flow phenotyping of PBMCs	SDY202	2883

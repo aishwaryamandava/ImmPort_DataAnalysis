@@ -1,0 +1,11 @@
+
+HumanHT-12 v4 Expression BeadChip Kit
+
+The HumanHT-12 v4 Expression BeadChip content provides genome-wide transcriptional coverage of well-characterized genes, gene candidates, and splice variants, delivering high-throughput processing of 12 samples per BeadChip without the need for expensive, specialized automation. The BeadChip is designed to support flexible usage across a wide-spectrum of experiments.
+
+Each array on the HumanHT-12 v4 Expression BeadChip targets more than 47,000 probes derived from the National Center for Biotechnology Information Reference Sequence (NCBI) RefSeq Release 38 (November 7, 2009) and other sources.
+
+    12-sample format enables large gene expression studies to be completed quickly and economically
+    HumanHT-12 Expression BeadChips use the Direct Hybridization Assay and are scanned on the HiScan or iScan systems.
+    Sample labeling can be performed using the TargetAmp-Nano Labeling Kit for Illumina Expression BeadChip, available from Epicentre (an Illumina Company).
+

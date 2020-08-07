@@ -1,0 +1,5 @@
+NAME	DESCRIPTION	LINK
+Other	A person having an Ethnicity that is some Other value not in CV Terms.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Not_Specified	Ethnicity is not specified or not received. If no Ethnicity value is received, then this is the system default value.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Hispanic or Latino	A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race. The term, "Spanish origin," can be used in addition to "Hispanic or Latino."	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm
+Not Hispanic or Latino	A person not of Hispanic or Latino origin.	http://www.fda.gov/RegulatoryInformation/Guidances/ucm126340.htm

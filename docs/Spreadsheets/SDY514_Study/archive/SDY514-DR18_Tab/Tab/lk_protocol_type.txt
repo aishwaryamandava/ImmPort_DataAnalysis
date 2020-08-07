@@ -1,0 +1,15 @@
+NAME	DESCRIPTION	LINK
+Bio_Sample_Treatment	Protocol used to prepare Biological Sample.	
+Experimental_Sample	Protocol used for Experimental Sample.	
+Bio_Sample_Preparation	Biological Sample Preparation.	
+Experiment	Protocol used in the Experiment.	
+Subject_Organism_Treatment	Subject Organism Treatment	
+Clinical	Clinical	
+Other	Other	
+Data_Processing	Data Processing	
+Data_Transformation	Protocol used to analyze or reformat data	
+Biomaterial_Transformation	Protocol used to prepare or modify a biological sample	
+Assay	Protocol used to assay or measure an experiment sample	
+Study_Protocol	'Study_Protocol' Study design description.	
+Study_Summary	'Study_Summary' Study review after a study is closed.	
+Not_Specified	Protcol Type is not specified or not received. If no Protocol Type value is received, then this is the system default value.	

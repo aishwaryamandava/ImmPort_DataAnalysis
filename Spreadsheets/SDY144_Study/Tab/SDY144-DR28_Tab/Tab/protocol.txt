@@ -1,0 +1,7 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL5537		PROTOCOL.PTL5537.docx	BAY_PROTOCOL_000001	PROTOCOL.docx	Not Specified	2799
+PTL5802		serology method description.PTL5802.doc	Serology Method	serology method description.doc	Not Specified	2799
+PTL6617		Microarray.PTL6617.docx	SDY144-Microarray	Microarray.docx	Not Specified	2799
+PTL6618		Hemagglutination Inhibition Assay and Virus Neutralization Assay.PTL6618.doc	SDY144-Virus-Neutralization	Hemagglutination Inhibition Assay and Virus Neutralization Assay.doc	Not Specified	2799
+PTL6619		Flow Cytometry.PTL6619.docx	SDY144-FlowCytometry	Flow Cytometry.docx	Not Specified	2799
+PTL6755		Flow Cytometry.PTL6755.docx	NCH_2011_Flow	Flow Cytometry.docx	Not Specified	2799

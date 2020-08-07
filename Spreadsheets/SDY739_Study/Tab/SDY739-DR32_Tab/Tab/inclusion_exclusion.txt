@@ -1,0 +1,9 @@
+CRITERION_ACCESSION	CRITERION	CRITERION_CATEGORY	STUDY_ACCESSION	WORKSPACE_ID
+CRIT5555	significant underlying disease that would be expected to prevent completion of the study	Exclusion	SDY739	2634
+CRIT5557	subject has intercurrent illness that might interfere with interpretation of study (e.g., urinary tract infection, respiratory tract infection)	Exclusion	SDY739	2634
+CRIT5556	subject bed-ridden or homebound	Exclusion	SDY739	2634
+CRIT5559	subject is involved in a conflicting study	Exclusion	SDY739	2634
+CRIT5561	influenza vaccine contraindication	Exclusion	SDY739	2634
+CRIT5554	Immunosuppression resulting from disease (e.g., clinically active malignancy, HIV/AIDS, immune disorders) or drugs (e.g., cancer chemotherapy, corticosteroid use)	Exclusion	SDY739	2634
+CRIT5558	subject is unlikely to adhere to protocol follow-up	Exclusion	SDY739	2634
+CRIT5560	alcohol or substance abuse	Exclusion	SDY739	2634

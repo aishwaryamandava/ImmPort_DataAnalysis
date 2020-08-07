@@ -1,0 +1,3 @@
+STUDY_LINK_ID	NAME	STUDY_ACCESSION	TYPE	VALUE	WORKSPACE_ID
+257	Gene Expression Omnibus (GEO)	SDY144	website	http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE52005	2799
+258	EMBL-EBI	SDY144	website	http://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-52005/	2799

@@ -1,0 +1,16 @@
+NAME	DESCRIPTION	LINK
+5'_UTR		
+Exon_1		
+Intron_1		
+Exon_2		
+Intron_2		
+Exon_3		
+Intron_3		
+Exon_4		
+Intron_4		
+Exon_5		
+Intron_5		
+Exon_6		
+Intron_6		
+Exon_7		
+3'_UTR		

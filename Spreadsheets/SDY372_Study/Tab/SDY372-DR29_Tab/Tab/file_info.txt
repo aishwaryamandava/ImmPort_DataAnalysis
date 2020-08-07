@@ -1,0 +1,1356 @@
+FILE_INFO_ID	DETAIL	FILESIZE_BYTES	NAME	ORIGINAL_FILE_NAME	WORKSPACE_ID
+477563	Flow cytometry result	52018264	HIPCJDM144D0_3.477563.fcs	HIPCJDM144D0_3.fcs	2799
+477564	Flow cytometry compensation or control	507675	9_10_12_Comp_Unstained.477564.fcs	9_10_12_Comp_Unstained.fcs	2799
+477565	Flow cytometry compensation or control	563808	9_10_12_Comp_APC_H7.477565.fcs	9_10_12_Comp_APC_H7.fcs	2799
+477566	Flow cytometry compensation or control	567941	9_10_12_Comp_PE.477566.fcs	9_10_12_Comp_PE.fcs	2799
+477567	Flow cytometry compensation or control	561867	9_10_12_Comp_APC.477567.fcs	9_10_12_Comp_APC.fcs	2799
+477568	Flow cytometry compensation or control	563615	9_10_12_Comp_ECD.477568.fcs	9_10_12_Comp_ECD.fcs	2799
+477569	Flow cytometry compensation or control	559391	9_10_12_Comp_PE_Cy5.477569.fcs	9_10_12_Comp_PE_Cy5.fcs	2799
+477570	Flow cytometry compensation or control	563438	9_10_12_Comp_PE_Cy7.477570.fcs	9_10_12_Comp_PE_Cy7.fcs	2799
+477571	Flow cytometry compensation or control	564007	9_10_12_Comp_Alexa_700.477571.fcs	9_10_12_Comp_Alexa_700.fcs	2799
+477572	Flow cytometry compensation or control	594621	9_10_12_Comp_FITC.477572.fcs	9_10_12_Comp_FITC.fcs	2799
+477573	Flow cytometry compensation or control	571457	9_10_12_Comp_PO.477573.fcs	9_10_12_Comp_PO.fcs	2799
+477574	Flow cytometry compensation or control	570164	9_10_12_Comp_Pacific_Blue.477574.fcs	9_10_12_Comp_Pacific_Blue.fcs	2799
+477575	Flow cytometry result	61006965	HIPCJDM144D0_3.477575.txt	HIPCJDM144D0_3.txt	2799
+477576	Flow cytometry result	27273667	HIPCJDM160D0_3.477576.fcs	HIPCJDM160D0_3.fcs	2799
+477577	Flow cytometry result	31852304	HIPCJDM160D0_3.477577.txt	HIPCJDM160D0_3.txt	2799
+477578	Flow cytometry result	51134510	HIPCJDM144D0_2.477578.fcs	HIPCJDM144D0_2.fcs	2799
+477579	Flow cytometry result	60913273	HIPCJDM144D0_2.477579.txt	HIPCJDM144D0_2.txt	2799
+477580	Flow cytometry result	26247037	HIPCJDM160D0_2.477580.fcs	HIPCJDM160D0_2.fcs	2799
+477581	Flow cytometry result	30585244	HIPCJDM160D0_2.477581.txt	HIPCJDM160D0_2.txt	2799
+477582	Flow cytometry result	50084235	HIPCJDM144D0_4.477582.fcs	HIPCJDM144D0_4.fcs	2799
+477583	Flow cytometry result	58720000	HIPCJDM144D0_4.477583.txt	HIPCJDM144D0_4.txt	2799
+477584	Flow cytometry result	25301918	HIPCJDM160D0_4.477584.fcs	HIPCJDM160D0_4.fcs	2799
+477585	Flow cytometry result	29995725	HIPCJDM160D0_4.477585.txt	HIPCJDM160D0_4.txt	2799
+477586	Flow cytometry result	75524630	HIPCJDM144D0_1.477586.fcs	HIPCJDM144D0_1.fcs	2799
+477587	Flow cytometry result	88862539	HIPCJDM144D0_1.477587.txt	HIPCJDM144D0_1.txt	2799
+477588	Flow cytometry result	51940248	HIPCJDM144D0_1b.477588.fcs	HIPCJDM144D0_1b.fcs	2799
+477589	Flow cytometry result	61153015	HIPCJDM144D0_1b.477589.txt	HIPCJDM144D0_1b.txt	2799
+477590	Flow cytometry result	25821171	HIPCJDM160D0_1.477590.fcs	HIPCJDM160D0_1.fcs	2799
+477591	Flow cytometry result	30337773	HIPCJDM160D0_1.477591.txt	HIPCJDM160D0_1.txt	2799
+477592	Flow cytometry result	26366916	HIPCJDM160D0_1b.477592.fcs	HIPCJDM160D0_1b.fcs	2799
+477593	Flow cytometry result	31044254	HIPCJDM160D0_1b.477593.txt	HIPCJDM160D0_1b.txt	2799
+477594	Flow cytometry result	54151439	HIPC-JDM74-D0_3.477594.fcs	HIPC-JDM74-D0_3.fcs	2799
+477595	Flow cytometry compensation or control	1012838	9_7_12_Comp_Unstained.477595.fcs	9_7_12_Comp_Unstained.fcs	2799
+477596	Flow cytometry compensation or control	639328	9_7_12_Comp_APC_H7.477596.fcs	9_7_12_Comp_APC_H7.fcs	2799
+477597	Flow cytometry compensation or control	1170252	9_7_12_Comp_PE.477597.fcs	9_7_12_Comp_PE.fcs	2799
+477598	Flow cytometry compensation or control	659379	9_7_12_Comp_APC.477598.fcs	9_7_12_Comp_APC.fcs	2799
+477599	Flow cytometry compensation or control	767671	9_7_12_Comp_ECD.477599.fcs	9_7_12_Comp_ECD.fcs	2799
+477600	Flow cytometry compensation or control	670976	9_7_12_Comp_PE_Cy5.477600.fcs	9_7_12_Comp_PE_Cy5.fcs	2799
+477601	Flow cytometry compensation or control	662604	9_7_12_Comp_PE_Cy7.477601.fcs	9_7_12_Comp_PE_Cy7.fcs	2799
+477602	Flow cytometry compensation or control	689762	9_7_12_Comp_Alexa_700.477602.fcs	9_7_12_Comp_Alexa_700.fcs	2799
+477603	Flow cytometry compensation or control	699585	9_7_12_Comp_FITC.477603.fcs	9_7_12_Comp_FITC.fcs	2799
+477604	Flow cytometry compensation or control	634191	9_7_12_Comp_PO.477604.fcs	9_7_12_Comp_PO.fcs	2799
+477605	Flow cytometry compensation or control	629864	9_7_12_Comp_Pacific_Blue.477605.fcs	9_7_12_Comp_Pacific_Blue.fcs	2799
+477606	Flow cytometry result	63532698	HIPC-JDM74-D0_3.477606.txt	HIPC-JDM74-D0_3.txt	2799
+477607	Flow cytometry result	54051708	HIPC-JDM74-D0_2.477607.fcs	HIPC-JDM74-D0_2.fcs	2799
+477608	Flow cytometry result	64374202	HIPC-JDM74-D0_2.477608.txt	HIPC-JDM74-D0_2.txt	2799
+477609	Flow cytometry result	39701819	HIPC-JDM74-D0_4.477609.fcs	HIPC-JDM74-D0_4.fcs	2799
+477610	Flow cytometry result	46816261	HIPC-JDM74-D0_4.477610.txt	HIPC-JDM74-D0_4.txt	2799
+477611	Flow cytometry result	58228324	HIPC-JDM74-D0_1.477611.fcs	HIPC-JDM74-D0_1.fcs	2799
+477612	Flow cytometry result	65164832	HIPC-JDM74-D0_1.477612.txt	HIPC-JDM74-D0_1.txt	2799
+477613	Flow cytometry result	53700728	HIPC-JDM74-D0_1b.477613.fcs	HIPC-JDM74-D0_1b.fcs	2799
+477614	Flow cytometry result	63120771	HIPC-JDM74-D0_1b.477614.txt	HIPC-JDM74-D0_1b.txt	2799
+477616	Flow cytometry result	27357479	HIPCJDM88D0_3.477616.fcs	HIPCJDM88D0_3.fcs	2799
+477617	Flow cytometry compensation or control	1199869	9_11_12_Comp_Unstained.477617.fcs	9_11_12_Comp_Unstained.fcs	2799
+477618	Flow cytometry compensation or control	594794	9_11_12_Comp_APC_H7.477618.fcs	9_11_12_Comp_APC_H7.fcs	2799
+477619	Flow cytometry compensation or control	585312	9_11_12_Comp_PE.477619.fcs	9_11_12_Comp_PE.fcs	2799
+477620	Flow cytometry compensation or control	598098	9_11_12_Comp_APC.477620.fcs	9_11_12_Comp_APC.fcs	2799
+477621	Flow cytometry compensation or control	584943	9_11_12_Comp_ECD.477621.fcs	9_11_12_Comp_ECD.fcs	2799
+477622	Flow cytometry compensation or control	599391	9_11_12_Comp_PE_Cy5.477622.fcs	9_11_12_Comp_PE_Cy5.fcs	2799
+477623	Flow cytometry compensation or control	601875	9_11_12_Comp_PE_Cy7.477623.fcs	9_11_12_Comp_PE_Cy7.fcs	2799
+477624	Flow cytometry compensation or control	584689	9_11_12_Comp_Alexa_700.477624.fcs	9_11_12_Comp_Alexa_700.fcs	2799
+477625	Flow cytometry compensation or control	675847	9_11_12_Comp_FITC.477625.fcs	9_11_12_Comp_FITC.fcs	2799
+477626	Flow cytometry compensation or control	601343	9_11_12_Comp_PO.477626.fcs	9_11_12_Comp_PO.fcs	2799
+477627	Flow cytometry compensation or control	590848	9_11_12_Comp_Pacific_Blue.477627.fcs	9_11_12_Comp_Pacific_Blue.fcs	2799
+477628	Flow cytometry result	32253043	HIPCJDM88D0_3.477628.txt	HIPCJDM88D0_3.txt	2799
+477629	Flow cytometry result	27363918	HIPCJDM88D0_2.477629.fcs	HIPCJDM88D0_2.fcs	2799
+477630	Flow cytometry result	32563773	HIPCJDM88D0_2.477630.txt	HIPCJDM88D0_2.txt	2799
+477631	Flow cytometry result	27670643	HIPCJDM88D0_4.477631.fcs	HIPCJDM88D0_4.fcs	2799
+477632	Flow cytometry result	32787444	HIPCJDM88D0_4.477632.txt	HIPCJDM88D0_4.txt	2799
+477633	Flow cytometry result	26898769	HIPCJDM88D0_1.477633.fcs	HIPCJDM88D0_1.fcs	2799
+477634	Flow cytometry result	31560655	HIPCJDM88D0_1.477634.txt	HIPCJDM88D0_1.txt	2799
+477635	Flow cytometry result	18310665	HIPCJDM88D0_1b.477635.fcs	HIPCJDM88D0_1b.fcs	2799
+477636	Flow cytometry result	21510096	HIPCJDM88D0_1b.477636.txt	HIPCJDM88D0_1b.txt	2799
+477637	Flow cytometry result	40585635	HIPCJDM74D7_3.477637.fcs	HIPCJDM74D7_3.fcs	2799
+477638	Flow cytometry compensation or control	828944	9_14_12_Comp_Unstained.477638.fcs	9_14_12_Comp_Unstained.fcs	2799
+477639	Flow cytometry compensation or control	593424	9_14_12_Comp_APC_H7.477639.fcs	9_14_12_Comp_APC_H7.fcs	2799
+477640	Flow cytometry compensation or control	576488	9_14_12_Comp_PE.477640.fcs	9_14_12_Comp_PE.fcs	2799
+477641	Flow cytometry compensation or control	571705	9_14_12_Comp_APC.477641.fcs	9_14_12_Comp_APC.fcs	2799
+477642	Flow cytometry compensation or control	577961	9_14_12_Comp_ECD.477642.fcs	9_14_12_Comp_ECD.fcs	2799
+477643	Flow cytometry compensation or control	601798	9_14_12_Comp_PE_Cy5.477643.fcs	9_14_12_Comp_PE_Cy5.fcs	2799
+477644	Flow cytometry compensation or control	581465	9_14_12_Comp_PE_Cy7.477644.fcs	9_14_12_Comp_PE_Cy7.fcs	2799
+477645	Flow cytometry compensation or control	574030	9_14_12_Comp_Alexa_700.477645.fcs	9_14_12_Comp_Alexa_700.fcs	2799
+477646	Flow cytometry compensation or control	604280	9_14_12_Comp_FITC.477646.fcs	9_14_12_Comp_FITC.fcs	2799
+477647	Flow cytometry compensation or control	586725	9_14_12_Comp_PO.477647.fcs	9_14_12_Comp_PO.fcs	2799
+477648	Flow cytometry compensation or control	617824	9_14_12_Comp_Pacific_Blue.477648.fcs	9_14_12_Comp_Pacific_Blue.fcs	2799
+477649	Flow cytometry result	47395931	HIPCJDM74D7_3.477649.txt	HIPCJDM74D7_3.txt	2799
+477650	Flow cytometry result	37679906	HIPCJDM74D7_2.477650.fcs	HIPCJDM74D7_2.fcs	2799
+477651	Flow cytometry result	44627555	HIPCJDM74D7_2.477651.txt	HIPCJDM74D7_2.txt	2799
+477652	Flow cytometry result	39949267	HIPCJDM74D7_4.477652.fcs	HIPCJDM74D7_4.fcs	2799
+477653	Flow cytometry result	46587984	HIPCJDM74D7_4.477653.txt	HIPCJDM74D7_4.txt	2799
+477654	Flow cytometry result	45733313	HIPCJDM74D7_1.477654.fcs	HIPCJDM74D7_1.fcs	2799
+477655	Flow cytometry result	52844740	HIPCJDM74D7_1.477655.txt	HIPCJDM74D7_1.txt	2799
+477656	Flow cytometry result	41886337	HIPCJDM74D7_1b.477656.fcs	HIPCJDM74D7_1b.fcs	2799
+477657	Flow cytometry result	48452286	HIPCJDM74D7_1b.477657.txt	HIPCJDM74D7_1b.txt	2799
+477690	Flow cytometry result	28886852	HIPCJDM160D7_3.477690.fcs	HIPCJDM160D7_3.fcs	2799
+477691	Flow cytometry compensation or control	509325	9_17_12_Comp_Unstained.477691.fcs	9_17_12_Comp_Unstained.fcs	2799
+477692	Flow cytometry compensation or control	521019	9_17_12_Comp_APC_H7.477692.fcs	9_17_12_Comp_APC_H7.fcs	2799
+477693	Flow cytometry compensation or control	515401	9_17_12_Comp_PE.477693.fcs	9_17_12_Comp_PE.fcs	2799
+477694	Flow cytometry compensation or control	517333	9_17_12_Comp_APC.477694.fcs	9_17_12_Comp_APC.fcs	2799
+477695	Flow cytometry compensation or control	515585	9_17_12_Comp_ECD.477695.fcs	9_17_12_Comp_ECD.fcs	2799
+477696	Flow cytometry compensation or control	521203	9_17_12_Comp_PE_Cy5.477696.fcs	9_17_12_Comp_PE_Cy5.fcs	2799
+477697	Flow cytometry compensation or control	511268	9_17_12_Comp_PE_Cy7.477697.fcs	9_17_12_Comp_PE_Cy7.fcs	2799
+477698	Flow cytometry compensation or control	519382	9_17_12_Comp_Alexa_700.477698.fcs	9_17_12_Comp_Alexa_700.fcs	2799
+477699	Flow cytometry compensation or control	528191	9_17_12_Comp_FITC.477699.fcs	9_17_12_Comp_FITC.fcs	2799
+477700	Flow cytometry compensation or control	540539	9_17_12_Comp_PO.477700.fcs	9_17_12_Comp_PO.fcs	2799
+477701	Flow cytometry compensation or control	516523	9_17_12_Comp_Pacific_Blue.477701.fcs	9_17_12_Comp_Pacific_Blue.fcs	2799
+477702	Flow cytometry result	34217745	HIPCJDM160D7_3.477702.txt	HIPCJDM160D7_3.txt	2799
+477703	Flow cytometry result	28183324	HIPCJDM160D7_2.477703.fcs	HIPCJDM160D7_2.fcs	2799
+477704	Flow cytometry result	33671087	HIPCJDM160D7_2.477704.txt	HIPCJDM160D7_2.txt	2799
+477705	Flow cytometry result	31370939	HIPCJDM160D7_4.477705.fcs	HIPCJDM160D7_4.fcs	2799
+477706	Flow cytometry result	37659012	HIPCJDM160D7_4.477706.txt	HIPCJDM160D7_4.txt	2799
+477707	Flow cytometry result	32430780	HIPCJDM160D7_1.477707.fcs	HIPCJDM160D7_1.fcs	2799
+477708	Flow cytometry result	38410669	HIPCJDM160D7_1.477708.txt	HIPCJDM160D7_1.txt	2799
+477709	Flow cytometry result	28045882	HIPCJDM160D7_1b.477709.fcs	HIPCJDM160D7_1b.fcs	2799
+477710	Flow cytometry result	33169256	HIPCJDM160D7_1b.477710.txt	HIPCJDM160D7_1b.txt	2799
+477711	Flow cytometry result	62275157	HIPCJDM144D7_3.477711.fcs	HIPCJDM144D7_3.fcs	2799
+477712	Flow cytometry compensation or control	579800	9_18_12_Comp_Unstained.477712.fcs	9_18_12_Comp_Unstained.fcs	2799
+477713	Flow cytometry compensation or control	603086	9_18_12_Comp_APC_H7.477713.fcs	9_18_12_Comp_APC_H7.fcs	2799
+477714	Flow cytometry compensation or control	610716	9_18_12_Comp_PE.477714.fcs	9_18_12_Comp_PE.fcs	2799
+477715	Flow cytometry compensation or control	616879	9_18_12_Comp_APC.477715.fcs	9_18_12_Comp_APC.fcs	2799
+477716	Flow cytometry compensation or control	621572	9_18_12_Comp_ECD.477716.fcs	9_18_12_Comp_ECD.fcs	2799
+477717	Flow cytometry compensation or control	611826	9_18_12_Comp_PE_Cy5.477717.fcs	9_18_12_Comp_PE_Cy5.fcs	2799
+477718	Flow cytometry compensation or control	600968	9_18_12_Comp_PE_Cy7.477718.fcs	9_18_12_Comp_PE_Cy7.fcs	2799
+477719	Flow cytometry compensation or control	638892	9_18_12_Comp_Alexa_700.477719.fcs	9_18_12_Comp_Alexa_700.fcs	2799
+477720	Flow cytometry compensation or control	624700	9_18_12_Comp_FITC.477720.fcs	9_18_12_Comp_FITC.fcs	2799
+477721	Flow cytometry compensation or control	644870	9_18_12_Comp_PO.477721.fcs	9_18_12_Comp_PO.fcs	2799
+477722	Flow cytometry compensation or control	634651	9_18_12_Comp_Pacific_Blue.477722.fcs	9_18_12_Comp_Pacific_Blue.fcs	2799
+477723	Flow cytometry result	72408838	HIPCJDM144D7_3.477723.txt	HIPCJDM144D7_3.txt	2799
+477724	Flow cytometry result	61952512	HIPCJDM144D7_2.477724.fcs	HIPCJDM144D7_2.fcs	2799
+477725	Flow cytometry result	73208977	HIPCJDM144D7_2.477725.txt	HIPCJDM144D7_2.txt	2799
+477726	Flow cytometry result	60712627	HIPCJDM144D7_4.477726.fcs	HIPCJDM144D7_4.fcs	2799
+477727	Flow cytometry result	70390952	HIPCJDM144D7_4.477727.txt	HIPCJDM144D7_4.txt	2799
+477728	Flow cytometry result	63983412	HIPCJDM144D7_1.477728.fcs	HIPCJDM144D7_1.fcs	2799
+477729	Flow cytometry result	74346625	HIPCJDM144D7_1.477729.txt	HIPCJDM144D7_1.txt	2799
+477730	Flow cytometry result	64603867	HIPCJDM144D7_1b.477730.fcs	HIPCJDM144D7_1b.fcs	2799
+477731	Flow cytometry result	75401878	HIPCJDM144D7_1b.477731.txt	HIPCJDM144D7_1b.txt	2799
+477732	Flow cytometry result	61099765	HIPCJDM173D0_3.477732.fcs	HIPCJDM173D0_3.fcs	2799
+477733	Flow cytometry compensation or control	581533	9_19_12_Comp_Unstained.477733.fcs	9_19_12_Comp_Unstained.fcs	2799
+477734	Flow cytometry compensation or control	609240	9_19_12_Comp_APC_H7.477734.fcs	9_19_12_Comp_APC_H7.fcs	2799
+477735	Flow cytometry compensation or control	617053	9_19_12_Comp_PE.477735.fcs	9_19_12_Comp_PE.fcs	2799
+477736	Flow cytometry compensation or control	600858	9_19_12_Comp_APC.477736.fcs	9_19_12_Comp_APC.fcs	2799
+477737	Flow cytometry compensation or control	606378	9_19_12_Comp_ECD.477737.fcs	9_19_12_Comp_ECD.fcs	2799
+477738	Flow cytometry compensation or control	640887	9_19_12_Comp_PE_Cy5.477738.fcs	9_19_12_Comp_PE_Cy5.fcs	2799
+477739	Flow cytometry compensation or control	618895	9_19_12_Comp_PE_Cy7.477739.fcs	9_19_12_Comp_PE_Cy7.fcs	2799
+477740	Flow cytometry compensation or control	579262	9_19_12_Comp_Alexa_700.477740.fcs	9_19_12_Comp_Alexa_700.fcs	2799
+477741	Flow cytometry compensation or control	592579	9_19_12_Comp_FITC.477741.fcs	9_19_12_Comp_FITC.fcs	2799
+477742	Flow cytometry compensation or control	600975	9_19_12_Comp_PO.477742.fcs	9_19_12_Comp_PO.fcs	2799
+477743	Flow cytometry compensation or control	605107	9_19_12_Comp_Pacific_Blue.477743.fcs	9_19_12_Comp_Pacific_Blue.fcs	2799
+477744	Flow cytometry result	73324180	HIPCJDM173D0_3.477744.txt	HIPCJDM173D0_3.txt	2799
+477745	Flow cytometry result	58850729	HIPCJDM173D0_2.477745.fcs	HIPCJDM173D0_2.fcs	2799
+477746	Flow cytometry result	70932930	HIPCJDM173D0_2.477746.txt	HIPCJDM173D0_2.txt	2799
+477747	Flow cytometry result	41238707	HIPCJDM173D0_4.477747.fcs	HIPCJDM173D0_4.fcs	2799
+477748	Flow cytometry result	49376066	HIPCJDM173D0_4.477748.txt	HIPCJDM173D0_4.txt	2799
+477749	Flow cytometry result	62656491	HIPCJDM173D0_1.477749.fcs	HIPCJDM173D0_1.fcs	2799
+477750	Flow cytometry result	74570785	HIPCJDM173D0_1.477750.txt	HIPCJDM173D0_1.txt	2799
+477751	Flow cytometry result	54949282	HIPCJDM173D0_1b.477751.fcs	HIPCJDM173D0_1b.fcs	2799
+477752	Flow cytometry result	65596293	HIPCJDM173D0_1b.477752.txt	HIPCJDM173D0_1b.txt	2799
+477784	Flow cytometry result	30449755	HIPCJDM31D0_3.477784.fcs	HIPCJDM31D0_3.fcs	2799
+477785	Flow cytometry compensation or control	550265	9_21_12_Comp_Unstained.477785.fcs	9_21_12_Comp_Unstained.fcs	2799
+477786	Flow cytometry compensation or control	544574	9_21_12_Comp_APC_H7.477786.fcs	9_21_12_Comp_APC_H7.fcs	2799
+477787	Flow cytometry compensation or control	592959	9_21_12_Comp_PE.477787.fcs	9_21_12_Comp_PE.fcs	2799
+477788	Flow cytometry compensation or control	592865	9_21_12_Comp_APC.477788.fcs	9_21_12_Comp_APC.fcs	2799
+477789	Flow cytometry compensation or control	587439	9_21_12_Comp_ECD.477789.fcs	9_21_12_Comp_ECD.fcs	2799
+477790	Flow cytometry compensation or control	600785	9_21_12_Comp_PE_Cy5.477790.fcs	9_21_12_Comp_PE_Cy5.fcs	2799
+477791	Flow cytometry compensation or control	590020	9_21_12_Comp_PE_Cy7.477791.fcs	9_21_12_Comp_PE_Cy7.fcs	2799
+477792	Flow cytometry compensation or control	558390	9_21_12_Comp_Alexa_700.477792.fcs	9_21_12_Comp_Alexa_700.fcs	2799
+477793	Flow cytometry compensation or control	614119	9_21_12_Comp_FITC.477793.fcs	9_21_12_Comp_FITC.fcs	2799
+477794	Flow cytometry compensation or control	583136	9_21_12_Comp_PO.477794.fcs	9_21_12_Comp_PO.fcs	2799
+477795	Flow cytometry compensation or control	575127	9_21_12_Comp_Pacific_Blue.477795.fcs	9_21_12_Comp_Pacific_Blue.fcs	2799
+477796	Flow cytometry result	36179853	HIPCJDM31D0_3.477796.txt	HIPCJDM31D0_3.txt	2799
+477797	Flow cytometry result	30862285	HIPCJDM31D0_2.477797.fcs	HIPCJDM31D0_2.fcs	2799
+477798	Flow cytometry result	36786502	HIPCJDM31D0_2.477798.txt	HIPCJDM31D0_2.txt	2799
+477799	Flow cytometry result	29511629	HIPCJDM31D0_4.477799.fcs	HIPCJDM31D0_4.fcs	2799
+477800	Flow cytometry result	35236063	HIPCJDM31D0_4.477800.txt	HIPCJDM31D0_4.txt	2799
+477801	Flow cytometry result	32485531	HIPCJDM31D0_1.477801.fcs	HIPCJDM31D0_1.fcs	2799
+477802	Flow cytometry result	38367833	HIPCJDM31D0_1.477802.txt	HIPCJDM31D0_1.txt	2799
+477803	Flow cytometry result	30475609	HIPCJDM31D0_1b.477803.fcs	HIPCJDM31D0_1b.fcs	2799
+477804	Flow cytometry result	36052287	HIPCJDM31D0_1b.477804.txt	HIPCJDM31D0_1b.txt	2799
+477805	Flow cytometry result	59864273	HIPCJDM173D7_3.477805.fcs	HIPCJDM173D7_3.fcs	2799
+477806	Flow cytometry compensation or control	543549	9_26_12_Comp_Unstained.477806.fcs	9_26_12_Comp_Unstained.fcs	2799
+477807	Flow cytometry compensation or control	538776	9_26_12_Comp_APC_H7.477807.fcs	9_26_12_Comp_APC_H7.fcs	2799
+477808	Flow cytometry compensation or control	565356	9_26_12_Comp_PE.477808.fcs	9_26_12_Comp_PE.fcs	2799
+477809	Flow cytometry compensation or control	555513	9_26_12_Comp_APC.477809.fcs	9_26_12_Comp_APC.fcs	2799
+477810	Flow cytometry compensation or control	556525	9_26_12_Comp_ECD.477810.fcs	9_26_12_Comp_ECD.fcs	2799
+477811	Flow cytometry compensation or control	564443	9_26_12_Comp_PE_Cy5.477811.fcs	9_26_12_Comp_PE_Cy5.fcs	2799
+477812	Flow cytometry compensation or control	555612	9_26_12_Comp_PE_Cy7.477812.fcs	9_26_12_Comp_PE_Cy7.fcs	2799
+477813	Flow cytometry compensation or control	546338	9_26_12_Comp_Alexa_700.477813.fcs	9_26_12_Comp_Alexa_700.fcs	2799
+477814	Flow cytometry compensation or control	556527	9_26_12_Comp_FITC.477814.fcs	9_26_12_Comp_FITC.fcs	2799
+477815	Flow cytometry compensation or control	541459	9_26_12_Comp_PO.477815.fcs	9_26_12_Comp_PO.fcs	2799
+477816	Flow cytometry compensation or control	543387	9_26_12_Comp_Pacific_Blue.477816.fcs	9_26_12_Comp_Pacific_Blue.fcs	2799
+477817	Flow cytometry result	72897406	HIPCJDM173D7_3.477817.txt	HIPCJDM173D7_3.txt	2799
+477818	Flow cytometry result	64213482	HIPCJDM173D7_2.477818.fcs	HIPCJDM173D7_2.fcs	2799
+477819	Flow cytometry result	78627272	HIPCJDM173D7_2.477819.txt	HIPCJDM173D7_2.txt	2799
+477820	Flow cytometry result	58309928	HIPCJDM173D7_4.477820.fcs	HIPCJDM173D7_4.fcs	2799
+477821	Flow cytometry result	70624514	HIPCJDM173D7_4.477821.txt	HIPCJDM173D7_4.txt	2799
+477822	Flow cytometry result	61692961	HIPCJDM173D7_1.477822.fcs	HIPCJDM173D7_1.fcs	2799
+477823	Flow cytometry result	73811237	HIPCJDM173D7_1.477823.txt	HIPCJDM173D7_1.txt	2799
+477824	Flow cytometry result	61692961	HIPCJDM173D7_1b.477824.fcs	HIPCJDM173D7_1b.fcs	2799
+477825	Flow cytometry result	73811237	HIPCJDM173D7_1b.477825.txt	HIPCJDM173D7_1b.txt	2799
+477826	Flow cytometry result	42799124	HIPCJDM31D7_3.477826.fcs	HIPCJDM31D7_3.fcs	2799
+477827	Flow cytometry compensation or control	562133	9_28_12_Comp_Unstained.477827.fcs	9_28_12_Comp_Unstained.fcs	2799
+477828	Flow cytometry compensation or control	578429	9_28_12_Comp_APC_H7.477828.fcs	9_28_12_Comp_APC_H7.fcs	2799
+477829	Flow cytometry compensation or control	557996	9_28_12_Comp_PE.477829.fcs	9_28_12_Comp_PE.fcs	2799
+477830	Flow cytometry compensation or control	560297	9_28_12_Comp_APC.477830.fcs	9_28_12_Comp_APC.fcs	2799
+477831	Flow cytometry compensation or control	564805	9_28_12_Comp_ECD.477831.fcs	9_28_12_Comp_ECD.fcs	2799
+477832	Flow cytometry compensation or control	591308	9_28_12_Comp_PE_Cy5.477832.fcs	9_28_12_Comp_PE_Cy5.fcs	2799
+477833	Flow cytometry compensation or control	577876	9_28_12_Comp_PE_Cy7.477833.fcs	9_28_12_Comp_PE_Cy7.fcs	2799
+477834	Flow cytometry compensation or control	557561	9_28_12_Comp_Alexa_700.477834.fcs	9_28_12_Comp_Alexa_700.fcs	2799
+477835	Flow cytometry compensation or control	823327	9_28_12_Comp_FITC.477835.fcs	9_28_12_Comp_FITC.fcs	2799
+477836	Flow cytometry compensation or control	603198	9_28_12_Comp_PO.477836.fcs	9_28_12_Comp_PO.fcs	2799
+477837	Flow cytometry compensation or control	558201	9_28_12_Comp_Pacific_Blue.477837.fcs	9_28_12_Comp_Pacific_Blue.fcs	2799
+477838	Flow cytometry result	51803203	HIPCJDM31D7_3.477838.txt	HIPCJDM31D7_3.txt	2799
+477839	Flow cytometry result	42423945	HIPCJDM31D7_2.477839.fcs	HIPCJDM31D7_2.fcs	2799
+477840	Flow cytometry result	51634118	HIPCJDM31D7_2.477840.txt	HIPCJDM31D7_2.txt	2799
+477841	Flow cytometry result	42887529	HIPCJDM31D7_4.477841.fcs	HIPCJDM31D7_4.fcs	2799
+477842	Flow cytometry result	52203098	HIPCJDM31D7_4.477842.txt	HIPCJDM31D7_4.txt	2799
+477843	Flow cytometry result	45270614	HIPCJDM31D7_1b.477843.fcs	HIPCJDM31D7_1b.fcs	2799
+477844	Flow cytometry result	54585757	HIPCJDM31D7_1b.477844.txt	HIPCJDM31D7_1b.txt	2799
+477919	Flow cytometry result	42011741	HIPCJDM165D7_2.477919.fcs	HIPCJDM165D7_2.fcs	2799
+477920	Flow cytometry compensation or control	551001	10_10_12_Comp_Unstained.477920.fcs	10_10_12_Comp_Unstained.fcs	2799
+477921	Flow cytometry compensation or control	589124	10_10_12_Comp_CD11b_PE_Cy7.477921.fcs	10_10_12_Comp_CD11b_PE_Cy7.fcs	2799
+477922	Flow cytometry compensation or control	567400	10_10_12_Comp_PE.477922.fcs	10_10_12_Comp_PE.fcs	2799
+477923	Flow cytometry compensation or control	700615	10_10_12_Comp_APC.477923.fcs	10_10_12_Comp_APC.fcs	2799
+477924	Flow cytometry compensation or control	590224	10_10_12_Comp_CD16_APC_H7.477924.fcs	10_10_12_Comp_CD16_APC_H7.fcs	2799
+477925	Flow cytometry compensation or control	582121	10_10_12_Comp_ECD.477925.fcs	10_10_12_Comp_ECD.fcs	2799
+477926	Flow cytometry compensation or control	587187	10_10_12_Comp_CD20_PE_Cy5.477926.fcs	10_10_12_Comp_CD20_PE_Cy5.fcs	2799
+477927	Flow cytometry compensation or control	591620	10_10_12_Comp_Alexa_700.477927.fcs	10_10_12_Comp_Alexa_700.fcs	2799
+477928	Flow cytometry compensation or control	604367	10_10_12_Comp_FITC.477928.fcs	10_10_12_Comp_FITC.fcs	2799
+477929	Flow cytometry compensation or control	593828	10_10_12_Comp_PO.477929.fcs	10_10_12_Comp_PO.fcs	2799
+477930	Flow cytometry compensation or control	581864	10_10_12_Comp_Pacific_Blue.477930.fcs	10_10_12_Comp_Pacific_Blue.fcs	2799
+477931	Flow cytometry result	48787588	HIPCJDM165D7_2.477931.txt	HIPCJDM165D7_2.txt	2799
+477932	Flow cytometry result	27869312	HIPCJDM44D0_2.477932.fcs	HIPCJDM44D0_2.fcs	2799
+477933	Flow cytometry result	31989700	HIPCJDM44D0_2.477933.txt	HIPCJDM44D0_2.txt	2799
+477934	Flow cytometry result	38258509	HIPCJDM165D7_3.477934.fcs	HIPCJDM165D7_3.fcs	2799
+477935	Flow cytometry compensation or control	606787	10_10_12_Comp_CD11c_APC_H7.477935.fcs	10_10_12_Comp_CD11c_APC_H7.fcs	2799
+477936	Flow cytometry compensation or control	586178	10_10_12_Comp_CD1c_PE_Cy7.477936.fcs	10_10_12_Comp_CD1c_PE_Cy7.fcs	2799
+477937	Flow cytometry result	43875762	HIPCJDM165D7_3.477937.txt	HIPCJDM165D7_3.txt	2799
+477938	Flow cytometry result	31970582	HIPCJDM44D0_3.477938.fcs	HIPCJDM44D0_3.fcs	2799
+477939	Flow cytometry result	36122163	HIPCJDM44D0_3.477939.txt	HIPCJDM44D0_3.txt	2799
+477940	Flow cytometry result	37066094	HIPCJDM165D7_4.477940.fcs	HIPCJDM165D7_4.fcs	2799
+477941	Flow cytometry compensation or control	580561	10_10_12_Comp_CD4_APC_H7.477941.fcs	10_10_12_Comp_CD4_APC_H7.fcs	2799
+477942	Flow cytometry compensation or control	584529	10_10_12_Comp_CXCR3_PE_Cy5.477942.fcs	10_10_12_Comp_CXCR3_PE_Cy5.fcs	2799
+477943	Flow cytometry compensation or control	2174199	10_10_12_Comp_ICOS_PE_Cy7.477943.fcs	10_10_12_Comp_ICOS_PE_Cy7.fcs	2799
+477944	Flow cytometry result	42944998	HIPCJDM165D7_4.477944.txt	HIPCJDM165D7_4.txt	2799
+477945	Flow cytometry result	27212428	HIPCJDM44D0_4.477945.fcs	HIPCJDM44D0_4.fcs	2799
+477946	Flow cytometry result	30845159	HIPCJDM44D0_4.477946.txt	HIPCJDM44D0_4.txt	2799
+477947	Flow cytometry result	41253569	HIPCJDM165D7_1b.477947.fcs	HIPCJDM165D7_1b.fcs	2799
+477948	Flow cytometry compensation or control	585532	10_10_12_Comp_CD27_APC_H7.477948.fcs	10_10_12_Comp_CD27_APC_H7.fcs	2799
+477949	Flow cytometry compensation or control	592893	10_10_12_Comp_CD38_PE_Cy7.477949.fcs	10_10_12_Comp_CD38_PE_Cy7.fcs	2799
+477950	Flow cytometry result	46981454	HIPCJDM165D7_1b.477950.txt	HIPCJDM165D7_1b.txt	2799
+477951	Flow cytometry result	35795393	HIPCJDM44D0_1b.477951.fcs	HIPCJDM44D0_1b.fcs	2799
+477952	Flow cytometry result	39802876	HIPCJDM44D0_1b.477952.txt	HIPCJDM44D0_1b.txt	2799
+477953	Flow cytometry result	49765505	HIPCJDM144D28_2.477953.fcs	HIPCJDM144D28_2.fcs	2799
+477954	Flow cytometry compensation or control	570137	10_8_12_Comp_Unstained.477954.fcs	10_8_12_Comp_Unstained.fcs	2799
+477955	Flow cytometry compensation or control	577256	10_8_12_Comp_CD11b_PE_Cy7.477955.fcs	10_8_12_Comp_CD11b_PE_Cy7.fcs	2799
+477956	Flow cytometry compensation or control	581383	10_8_12_Comp_PE.477956.fcs	10_8_12_Comp_PE.fcs	2799
+477957	Flow cytometry compensation or control	919483	10_8_12_Comp_APC.477957.fcs	10_8_12_Comp_APC.fcs	2799
+477958	Flow cytometry compensation or control	563728	10_8_12_Comp_CD16_APC_H7.477958.fcs	10_8_12_Comp_CD16_APC_H7.fcs	2799
+477959	Flow cytometry compensation or control	578901	10_8_12_Comp_ECD.477959.fcs	10_8_12_Comp_ECD.fcs	2799
+477960	Flow cytometry compensation or control	582495	10_8_12_Comp_CD20_PE_Cy5.477960.fcs	10_8_12_Comp_CD20_PE_Cy5.fcs	2799
+477961	Flow cytometry compensation or control	578004	10_8_12_Comp_Alexa_700.477961.fcs	10_8_12_Comp_Alexa_700.fcs	2799
+477962	Flow cytometry compensation or control	599399	10_8_12_Comp_FITC.477962.fcs	10_8_12_Comp_FITC.fcs	2799
+477963	Flow cytometry compensation or control	554544	10_8_12_Comp_PO.477963.fcs	10_8_12_Comp_PO.fcs	2799
+477964	Flow cytometry compensation or control	552516	10_8_12_Comp_Pacific_Blue.477964.fcs	10_8_12_Comp_Pacific_Blue.fcs	2799
+477965	Flow cytometry result	58774754	HIPCJDM144D28_2.477965.txt	HIPCJDM144D28_2.txt	2799
+477966	Flow cytometry result	36750447	HIPCJDM160D28_2.477966.fcs	HIPCJDM160D28_2.fcs	2799
+477967	Flow cytometry result	43723507	HIPCJDM160D28_2.477967.txt	HIPCJDM160D28_2.txt	2799
+477968	Flow cytometry result	27492941	HIPCJDM91D7_2.477968.fcs	HIPCJDM91D7_2.fcs	2799
+477969	Flow cytometry result	31184291	HIPCJDM91D7_2.477969.txt	HIPCJDM91D7_2.txt	2799
+477970	Flow cytometry result	51922170	HIPCJDM144D28_3.477970.fcs	HIPCJDM144D28_3.fcs	2799
+477971	Flow cytometry compensation or control	558303	10_8_12_Comp_CD11c_APC_H7.477971.fcs	10_8_12_Comp_CD11c_APC_H7.fcs	2799
+477972	Flow cytometry compensation or control	588385	10_8_12_Comp_CD1c_PE_Cy7.477972.fcs	10_8_12_Comp_CD1c_PE_Cy7.fcs	2799
+477973	Flow cytometry result	60028049	HIPCJDM144D28_3.477973.txt	HIPCJDM144D28_3.txt	2799
+477974	Flow cytometry result	36499289	HIPCJDM160D28_3.477974.fcs	HIPCJDM160D28_3.fcs	2799
+477975	Flow cytometry result	42976213	HIPCJDM160D28_3.477975.txt	HIPCJDM160D28_3.txt	2799
+477976	Flow cytometry result	29370662	HIPCJDM91D7_3.477976.fcs	HIPCJDM91D7_3.fcs	2799
+477977	Flow cytometry result	32962244	HIPCJDM91D7_3.477977.txt	HIPCJDM91D7_3.txt	2799
+477978	Flow cytometry result	52293937	HIPCJDM144D28_4.477978.fcs	HIPCJDM144D28_4.fcs	2799
+477979	Flow cytometry compensation or control	559217	10_8_12_Comp_CD4_APC_H7.477979.fcs	10_8_12_Comp_CD4_APC_H7.fcs	2799
+477980	Flow cytometry compensation or control	593820	10_8_12_Comp_CXCR3_PE_Cy5.477980.fcs	10_8_12_Comp_CXCR3_PE_Cy5.fcs	2799
+477981	Flow cytometry compensation or control	993563	10_8_12_Comp_ICOS_PE_Cy7.477981.fcs	10_8_12_Comp_ICOS_PE_Cy7.fcs	2799
+477982	Flow cytometry result	60293240	HIPCJDM144D28_4.477982.txt	HIPCJDM144D28_4.txt	2799
+477983	Flow cytometry result	37702829	HIPCJDM160D28_4.477983.fcs	HIPCJDM160D28_4.fcs	2799
+477984	Flow cytometry result	44328098	HIPCJDM160D28_4.477984.txt	HIPCJDM160D28_4.txt	2799
+477985	Flow cytometry result	27017575	HIPCJDM91D7_4.477985.fcs	HIPCJDM91D7_4.fcs	2799
+477986	Flow cytometry result	30459382	HIPCJDM91D7_4.477986.txt	HIPCJDM91D7_4.txt	2799
+477987	Flow cytometry result	49184895	HIPCJDM144D28_1b.477987.fcs	HIPCJDM144D28_1b.fcs	2799
+477988	Flow cytometry compensation or control	553240	10_8_12_Comp_CD27_APC_H7.477988.fcs	10_8_12_Comp_CD27_APC_H7.fcs	2799
+477989	Flow cytometry compensation or control	587649	10_8_12_Comp_CD38_PE_Cy7.477989.fcs	10_8_12_Comp_CD38_PE_Cy7.fcs	2799
+477990	Flow cytometry result	56900868	HIPCJDM144D28_1b.477990.txt	HIPCJDM144D28_1b.txt	2799
+477991	Flow cytometry result	37262522	HIPCJDM160D28_1b.477991.fcs	HIPCJDM160D28_1b.fcs	2799
+477992	Flow cytometry result	43511834	HIPCJDM160D28_1b.477992.txt	HIPCJDM160D28_1b.txt	2799
+477993	Flow cytometry result	25589185	HIPCJDM91D7_1b.477993.fcs	HIPCJDM91D7_1b.fcs	2799
+477994	Flow cytometry result	29051808	HIPCJDM91D7_1b.477994.txt	HIPCJDM91D7_1b.txt	2799
+477995	Flow cytometry result	60381563	HIPCJDM74D28_2.477995.fcs	HIPCJDM74D28_2.fcs	2799
+477996	Flow cytometry compensation or control	648435	10_9_12_Comp_Unstained.477996.fcs	10_9_12_Comp_Unstained.fcs	2799
+477997	Flow cytometry compensation or control	730344	10_9_12_Comp_CD11b_PE_Cy7.477997.fcs	10_9_12_Comp_CD11b_PE_Cy7.fcs	2799
+477998	Flow cytometry compensation or control	623979	10_9_12_Comp_PE.477998.fcs	10_9_12_Comp_PE.fcs	2799
+477999	Flow cytometry compensation or control	628583	10_9_12_Comp_APC.477999.fcs	10_9_12_Comp_APC.fcs	2799
+478000	Flow cytometry compensation or control	598596	10_9_12_Comp_CD16_APC_H7.478000.fcs	10_9_12_Comp_CD16_APC_H7.fcs	2799
+478001	Flow cytometry compensation or control	640173	10_9_12_Comp_ECD.478001.fcs	10_9_12_Comp_ECD.fcs	2799
+478002	Flow cytometry compensation or control	638063	10_9_12_Comp_CD20_PE_Cy5.478002.fcs	10_9_12_Comp_CD20_PE_Cy5.fcs	2799
+478003	Flow cytometry compensation or control	632927	10_9_12_Comp_Alexa_700.478003.fcs	10_9_12_Comp_Alexa_700.fcs	2799
+478004	Flow cytometry compensation or control	622218	10_9_12_Comp_FITC.478004.fcs	10_9_12_Comp_FITC.fcs	2799
+478005	Flow cytometry compensation or control	606251	10_9_12_Comp_PO.478005.fcs	10_9_12_Comp_PO.fcs	2799
+478006	Flow cytometry compensation or control	601736	10_9_12_Comp_Pacific_Blue.478006.fcs	10_9_12_Comp_Pacific_Blue.fcs	2799
+478007	Flow cytometry result	70259604	HIPCJDM74D28_2.478007.txt	HIPCJDM74D28_2.txt	2799
+478008	Flow cytometry result	62713211	HIPCJDM74D28_3.478008.fcs	HIPCJDM74D28_3.fcs	2799
+478009	Flow cytometry compensation or control	629327	10_9_12_Comp_CD11c_APC_H7.478009.fcs	10_9_12_Comp_CD11c_APC_H7.fcs	2799
+478010	Flow cytometry compensation or control	655361	10_9_12_Comp_CD1c_PE_Cy7.478010.fcs	10_9_12_Comp_CD1c_PE_Cy7.fcs	2799
+478011	Flow cytometry result	71761233	HIPCJDM74D28_3.478011.txt	HIPCJDM74D28_3.txt	2799
+478012	Flow cytometry result	58251300	HIPCJDM74D28_4.478012.fcs	HIPCJDM74D28_4.fcs	2799
+478013	Flow cytometry compensation or control	634383	10_9_12_Comp_CD4_APC_H7.478013.fcs	10_9_12_Comp_CD4_APC_H7.fcs	2799
+478014	Flow cytometry compensation or control	622886	10_9_12_Comp_CXCR3_PE_Cy5.478014.fcs	10_9_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478015	Flow cytometry compensation or control	760063	10_9_12_Comp_ICOS_PE_Cy7.478015.fcs	10_9_12_Comp_ICOS_PE_Cy7.fcs	2799
+478016	Flow cytometry result	67204785	HIPCJDM74D28_4.478016.txt	HIPCJDM74D28_4.txt	2799
+478017	Flow cytometry result	66939875	HIPCJDM74D28_1b.478017.fcs	HIPCJDM74D28_1b.fcs	2799
+478018	Flow cytometry compensation or control	642296	10_9_12_Comp_CD27_APC_H7.478018.fcs	10_9_12_Comp_CD27_APC_H7.fcs	2799
+478019	Flow cytometry compensation or control	626656	10_9_12_Comp_CD38_PE_Cy7.478019.fcs	10_9_12_Comp_CD38_PE_Cy7.fcs	2799
+478020	Flow cytometry result	75625225	HIPCJDM74D28_1b.478020.txt	HIPCJDM74D28_1b.txt	2799
+478094	Flow cytometry compensation or control	617517	10_17_12_Comp_Unstained.478094.fcs	10_17_12_Comp_Unstained.fcs	2799
+478095	Flow cytometry compensation or control	594000	10_17_12_Comp_CD11b_PE_Cy7.478095.fcs	10_17_12_Comp_CD11b_PE_Cy7.fcs	2799
+478096	Flow cytometry compensation or control	631063	10_17_12_Comp_PE.478096.fcs	10_17_12_Comp_PE.fcs	2799
+478097	Flow cytometry compensation or control	689207	10_17_12_Comp_APC.478097.fcs	10_17_12_Comp_APC.fcs	2799
+478098	Flow cytometry compensation or control	607704	10_17_12_Comp_CD16_APC_H7.478098.fcs	10_17_12_Comp_CD16_APC_H7.fcs	2799
+478099	Flow cytometry compensation or control	643669	10_17_12_Comp_ECD.478099.fcs	10_17_12_Comp_ECD.fcs	2799
+478100	Flow cytometry compensation or control	645791	10_17_12_Comp_CD20_PE_Cy5.478100.fcs	10_17_12_Comp_CD20_PE_Cy5.fcs	2799
+478101	Flow cytometry compensation or control	593919	10_17_12_Comp_Alexa_700.478101.fcs	10_17_12_Comp_Alexa_700.fcs	2799
+478102	Flow cytometry compensation or control	592867	10_17_12_Comp_FITC.478102.fcs	10_17_12_Comp_FITC.fcs	2799
+478103	Flow cytometry compensation or control	593920	10_17_12_Comp_PO.478103.fcs	10_17_12_Comp_PO.fcs	2799
+478104	Flow cytometry compensation or control	599528	10_17_12_Comp_Pacific_Blue.478104.fcs	10_17_12_Comp_Pacific_Blue.fcs	2799
+478106	Flow cytometry result	55766950	HIPCJDM173D28_2.478106.fcs	HIPCJDM173D28_2.fcs	2799
+478107	Flow cytometry result	68287400	HIPCJDM173D28_2.478107.txt	HIPCJDM173D28_2.txt	2799
+478108	Flow cytometry result	23332890	HIPCJDM44D7_2.478108.fcs	HIPCJDM44D7_2.fcs	2799
+478109	Flow cytometry result	27756896	HIPCJDM44D7_2.478109.txt	HIPCJDM44D7_2.txt	2799
+478111	Flow cytometry compensation or control	623808	10_17_12_Comp_CD11c_APC_H7.478111.fcs	10_17_12_Comp_CD11c_APC_H7.fcs	2799
+478112	Flow cytometry compensation or control	608532	10_17_12_Comp_CD1c_PE_Cy7.478112.fcs	10_17_12_Comp_CD1c_PE_Cy7.fcs	2799
+478114	Flow cytometry result	52687159	HIPCJDM173D28_3.478114.fcs	HIPCJDM173D28_3.fcs	2799
+478115	Flow cytometry result	64109077	HIPCJDM173D28_3.478115.txt	HIPCJDM173D28_3.txt	2799
+478116	Flow cytometry result	22529454	HIPCJDM44D7_3.478116.fcs	HIPCJDM44D7_3.fcs	2799
+478117	Flow cytometry result	26636489	HIPCJDM44D7_3.478117.txt	HIPCJDM44D7_3.txt	2799
+478119	Flow cytometry compensation or control	624445	10_17_12_Comp_CD4_APC_H7.478119.fcs	10_17_12_Comp_CD4_APC_H7.fcs	2799
+478120	Flow cytometry compensation or control	624819	10_17_12_Comp_CXCR3_PE_Cy5.478120.fcs	10_17_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478121	Flow cytometry compensation or control	1250776	10_17_12_Comp_ICOS_PE_Cy7.478121.fcs	10_17_12_Comp_ICOS_PE_Cy7.fcs	2799
+478123	Flow cytometry result	56728439	HIPCJDM173D28_4.478123.fcs	HIPCJDM173D28_4.fcs	2799
+478124	Flow cytometry result	68849010	HIPCJDM173D28_4.478124.txt	HIPCJDM173D28_4.txt	2799
+478125	Flow cytometry result	23774580	HIPCJDM44D7_4.478125.fcs	HIPCJDM44D7_4.fcs	2799
+478126	Flow cytometry result	28408572	HIPCJDM44D7_4.478126.txt	HIPCJDM44D7_4.txt	2799
+478128	Flow cytometry compensation or control	621964	10_17_12_Comp_CD27_APC_H7.478128.fcs	10_17_12_Comp_CD27_APC_H7.fcs	2799
+478129	Flow cytometry compensation or control	600712	10_17_12_Comp_CD38_PE_Cy7.478129.fcs	10_17_12_Comp_CD38_PE_Cy7.fcs	2799
+478131	Flow cytometry result	56216008	HIPCJDM173D28_1b.478131.fcs	HIPCJDM173D28_1b.fcs	2799
+478132	Flow cytometry result	67542524	HIPCJDM173D28_1b.478132.txt	HIPCJDM173D28_1b.txt	2799
+478133	Flow cytometry result	23911938	HIPCJDM44D7_1b.478133.fcs	HIPCJDM44D7_1b.fcs	2799
+478134	Flow cytometry result	28200683	HIPCJDM44D7_1b.478134.txt	HIPCJDM44D7_1b.txt	2799
+478135	Flow cytometry result	38167547	HIPCJDM31D28_2.478135.fcs	HIPCJDM31D28_2.fcs	2799
+478136	Flow cytometry compensation or control	557073	10_19_12_Comp_Unstained.478136.fcs	10_19_12_Comp_Unstained.fcs	2799
+478137	Flow cytometry compensation or control	636139	10_19_12_Comp_CD11b_PE_Cy7.478137.fcs	10_19_12_Comp_CD11b_PE_Cy7.fcs	2799
+478138	Flow cytometry compensation or control	548450	10_19_12_Comp_PE.478138.fcs	10_19_12_Comp_PE.fcs	2799
+478139	Flow cytometry compensation or control	5085889	10_19_12_Comp_APC.478139.fcs	10_19_12_Comp_APC.fcs	2799
+478140	Flow cytometry compensation or control	924371	10_19_12_Comp_CD16_APC_H7.478140.fcs	10_19_12_Comp_CD16_APC_H7.fcs	2799
+478141	Flow cytometry compensation or control	542285	10_19_12_Comp_ECD.478141.fcs	10_19_12_Comp_ECD.fcs	2799
+478142	Flow cytometry compensation or control	546708	10_19_12_Comp_CD20_PE_Cy5.478142.fcs	10_19_12_Comp_CD20_PE_Cy5.fcs	2799
+478143	Flow cytometry compensation or control	678192	10_19_12_Comp_Alexa_700.478143.fcs	10_19_12_Comp_Alexa_700.fcs	2799
+478144	Flow cytometry compensation or control	464343	10_19_12_Comp_FITC.478144.fcs	10_19_12_Comp_FITC.fcs	2799
+478145	Flow cytometry compensation or control	640565	10_19_12_Comp_PO.478145.fcs	10_19_12_Comp_PO.fcs	2799
+478146	Flow cytometry compensation or control	643137	10_19_12_Comp_Pacific_Blue.478146.fcs	10_19_12_Comp_Pacific_Blue.fcs	2799
+478147	Flow cytometry result	46286159	HIPCJDM31D28_2.478147.txt	HIPCJDM31D28_2.txt	2799
+478148	Flow cytometry result	30925675	HIPCJDM55D0_2.478148.fcs	HIPCJDM55D0_2.fcs	2799
+478149	Flow cytometry result	36190471	HIPCJDM55D0_2.478149.txt	HIPCJDM55D0_2.txt	2799
+478150	Flow cytometry result	39318005	HIPCJDM31D28_3.478150.fcs	HIPCJDM31D28_3.fcs	2799
+478151	Flow cytometry compensation or control	679838	10_19_12_Comp_CD11c_APC_H7.478151.fcs	10_19_12_Comp_CD11c_APC_H7.fcs	2799
+478152	Flow cytometry compensation or control	552045	10_19_12_Comp_CD1c_PE_Cy7.478152.fcs	10_19_12_Comp_CD1c_PE_Cy7.fcs	2799
+478153	Flow cytometry result	47305433	HIPCJDM31D28_3.478153.txt	HIPCJDM31D28_3.txt	2799
+478154	Flow cytometry result	26780524	HIPCJDM55D0_3.478154.fcs	HIPCJDM55D0_3.fcs	2799
+478155	Flow cytometry result	31290176	HIPCJDM55D0_3.478155.txt	HIPCJDM55D0_3.txt	2799
+478156	Flow cytometry result	39031611	HIPCJDM31D28_4.478156.fcs	HIPCJDM31D28_4.fcs	2799
+478157	Flow cytometry compensation or control	655818	10_19_12_Comp_CD4_APC_H7.478157.fcs	10_19_12_Comp_CD4_APC_H7.fcs	2799
+478158	Flow cytometry compensation or control	553896	10_19_12_Comp_CXCR3_PE_Cy5.478158.fcs	10_19_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478159	Flow cytometry compensation or control	1101278	10_19_12_Comp_ICOS_PE_Cy7.478159.fcs	10_19_12_Comp_ICOS_PE_Cy7.fcs	2799
+478160	Flow cytometry result	47250021	HIPCJDM31D28_4.478160.txt	HIPCJDM31D28_4.txt	2799
+478161	Flow cytometry result	25997510	HIPCJDM55D0_4.478161.fcs	HIPCJDM55D0_4.fcs	2799
+478162	Flow cytometry result	30602876	HIPCJDM55D0_4.478162.txt	HIPCJDM55D0_4.txt	2799
+478163	Flow cytometry result	39401541	HIPCJDM31D28_1b.478163.fcs	HIPCJDM31D28_1b.fcs	2799
+478164	Flow cytometry compensation or control	677441	10_19_12_Comp_CD27_APC_H7.478164.fcs	10_19_12_Comp_CD27_APC_H7.fcs	2799
+478165	Flow cytometry compensation or control	557842	10_19_12_Comp_CD38_PE_Cy7.478165.fcs	10_19_12_Comp_CD38_PE_Cy7.fcs	2799
+478166	Flow cytometry result	47375533	HIPCJDM31D28_1b.478166.txt	HIPCJDM31D28_1b.txt	2799
+478167	Flow cytometry result	25159093	HIPCJDM55D0_1b.478167.fcs	HIPCJDM55D0_1b.fcs	2799
+478168	Flow cytometry result	29083428	HIPCJDM55D0_1b.478168.txt	HIPCJDM55D0_1b.txt	2799
+478196	Flow cytometry result	27427282	HIPCJDM91D28_2.478196.fcs	HIPCJDM91D28_2.fcs	2799
+478197	Flow cytometry compensation or control	557153	10_29_12_Comp_Unstained.478197.fcs	10_29_12_Comp_Unstained.fcs	2799
+478198	Flow cytometry compensation or control	510082	10_29_12_Comp_CD11b_PE_Cy7.478198.fcs	10_29_12_Comp_CD11b_PE_Cy7.fcs	2799
+478199	Flow cytometry compensation or control	539510	10_29_12_Comp_PE.478199.fcs	10_29_12_Comp_PE.fcs	2799
+478200	Flow cytometry compensation or control	570241	10_29_12_Comp_APC.478200.fcs	10_29_12_Comp_APC.fcs	2799
+478201	Flow cytometry compensation or control	515421	10_29_12_Comp_HLADR_APC_H7.478201.fcs	10_29_12_Comp_HLADR_APC_H7.fcs	2799
+478202	Flow cytometry compensation or control	536936	10_29_12_Comp_ECD.478202.fcs	10_29_12_Comp_ECD.fcs	2799
+478203	Flow cytometry compensation or control	536022	10_29_12_Comp_CD20_PE_Cy5.478203.fcs	10_29_12_Comp_CD20_PE_Cy5.fcs	2799
+478204	Flow cytometry compensation or control	524538	10_29_12_Comp_Alexa_700.478204.fcs	10_29_12_Comp_Alexa_700.fcs	2799
+478205	Flow cytometry compensation or control	542163	10_29_12_Comp_FITC.478205.fcs	10_29_12_Comp_FITC.fcs	2799
+478206	Flow cytometry compensation or control	508807	10_29_12_Comp_PO.478206.fcs	10_29_12_Comp_PO.fcs	2799
+478207	Flow cytometry compensation or control	521965	10_29_12_Comp_Pacific_Blue.478207.fcs	10_29_12_Comp_Pacific_Blue.fcs	2799
+478208	Flow cytometry result	33047392	HIPCJDM91D28_2.478208.txt	HIPCJDM91D28_2.txt	2799
+478209	Flow cytometry result	30068146	HIPCJDM91D28_3.478209.fcs	HIPCJDM91D28_3.fcs	2799
+478210	Flow cytometry compensation or control	533910	10_29_12_Comp_CD11c_APC_H7.478210.fcs	10_29_12_Comp_CD11c_APC_H7.fcs	2799
+478211	Flow cytometry compensation or control	505664	10_29_12_Comp_CD1c_PE_Cy7.478211.fcs	10_29_12_Comp_CD1c_PE_Cy7.fcs	2799
+478212	Flow cytometry result	36027741	HIPCJDM91D28_3.478212.txt	HIPCJDM91D28_3.txt	2799
+478213	Flow cytometry result	28347374	HIPCJDM91D28_4.478213.fcs	HIPCJDM91D28_4.fcs	2799
+478214	Flow cytometry compensation or control	525624	10_29_12_Comp_CD4_APC_H7.478214.fcs	10_29_12_Comp_CD4_APC_H7.fcs	2799
+478215	Flow cytometry compensation or control	523421	10_29_12_Comp_CXCR3_PE_Cy5.478215.fcs	10_29_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478216	Flow cytometry compensation or control	989850	10_29_12_Comp_ICOS_PE_Cy7.478216.fcs	10_29_12_Comp_ICOS_PE_Cy7.fcs	2799
+478217	Flow cytometry result	34298971	HIPCJDM91D28_4.478217.txt	HIPCJDM91D28_4.txt	2799
+478218	Flow cytometry result	24448784	HIPCJDM91D28_1b.478218.fcs	HIPCJDM91D28_1b.fcs	2799
+478219	Flow cytometry compensation or control	533723	10_29_12_Comp_CD27_APC_H7.478219.fcs	10_29_12_Comp_CD27_APC_H7.fcs	2799
+478220	Flow cytometry compensation or control	510631	10_29_12_Comp_CD38_PE_Cy7.478220.fcs	10_29_12_Comp_CD38_PE_Cy7.fcs	2799
+478221	Flow cytometry result	29208721	HIPCJDM91D28_1b.478221.txt	HIPCJDM91D28_1b.txt	2799
+478293	Flow cytometry result	58916918	HIPCJDM8D7_2.478293.fcs	HIPCJDM8D7_2.fcs	2799
+478294	Flow cytometry compensation or control	351747	11_12_12_Comp_Unstained.478294.fcs	11_12_12_Comp_Unstained.fcs	2799
+478295	Flow cytometry compensation or control	505513	11_12_12_Comp_CD11b_PE_Cy7.478295.fcs	11_12_12_Comp_CD11b_PE_Cy7.fcs	2799
+478296	Flow cytometry compensation or control	503661	11_12_12_Comp_PE.478296.fcs	11_12_12_Comp_PE.fcs	2799
+478297	Flow cytometry compensation or control	524916	11_12_12_Comp_APC.478297.fcs	11_12_12_Comp_APC.fcs	2799
+478298	Flow cytometry compensation or control	507816	11_12_12_Comp_HLADR_APC_H7.478298.fcs	11_12_12_Comp_HLADR_APC_H7.fcs	2799
+478299	Flow cytometry compensation or control	527399	11_12_12_Comp_ECD.478299.fcs	11_12_12_Comp_ECD.fcs	2799
+478300	Flow cytometry compensation or control	509833	11_12_12_Comp_CD20_PE_Cy5.478300.fcs	11_12_12_Comp_CD20_PE_Cy5.fcs	2799
+478301	Flow cytometry compensation or control	519049	11_12_12_Comp_Alexa_700.478301.fcs	11_12_12_Comp_Alexa_700.fcs	2799
+478302	Flow cytometry compensation or control	507618	11_12_12_Comp_FITC.478302.fcs	11_12_12_Comp_FITC.fcs	2799
+478303	Flow cytometry compensation or control	513254	11_12_12_Comp_PO.478303.fcs	11_12_12_Comp_PO.fcs	2799
+478304	Flow cytometry compensation or control	542328	11_12_12_Comp_Pacific_Blue.478304.fcs	11_12_12_Comp_Pacific_Blue.fcs	2799
+478305	Flow cytometry result	72140213	HIPCJDM8D7_2.478305.txt	HIPCJDM8D7_2.txt	2799
+478306	Flow cytometry result	57898849	HIPCJDM8D7_3.478306.fcs	HIPCJDM8D7_3.fcs	2799
+478307	Flow cytometry compensation or control	521705	11_12_12_Comp_CD11c_APC_H7.478307.fcs	11_12_12_Comp_CD11c_APC_H7.fcs	2799
+478308	Flow cytometry compensation or control	495206	11_12_12_Comp_CD1c_PE_Cy7.478308.fcs	11_12_12_Comp_CD1c_PE_Cy7.fcs	2799
+478309	Flow cytometry result	70188603	HIPCJDM8D7_3.478309.txt	HIPCJDM8D7_3.txt	2799
+478310	Flow cytometry result	59023547	HIPCJDM8D7_4.478310.fcs	HIPCJDM8D7_4.fcs	2799
+478311	Flow cytometry compensation or control	525747	11_12_12_Comp_CD4_APC_H7.478311.fcs	11_12_12_Comp_CD4_APC_H7.fcs	2799
+478312	Flow cytometry compensation or control	503397	11_12_12_Comp_CXCR3_PE_Cy5.478312.fcs	11_12_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478313	Flow cytometry compensation or control	589130	11_12_12_Comp_ICOS_PE_Cy7.478313.fcs	11_12_12_Comp_ICOS_PE_Cy7.fcs	2799
+478314	Flow cytometry result	71285280	HIPCJDM8D7_4.478314.txt	HIPCJDM8D7_4.txt	2799
+478315	Flow cytometry result	61895695	HIPCJDM8D7_1b.478315.fcs	HIPCJDM8D7_1b.fcs	2799
+478316	Flow cytometry compensation or control	543966	11_12_12_Comp_CD27_APC_H7.478316.fcs	11_12_12_Comp_CD27_APC_H7.fcs	2799
+478317	Flow cytometry compensation or control	506522	11_12_12_Comp_CD38_PE_Cy7.478317.fcs	11_12_12_Comp_CD38_PE_Cy7.fcs	2799
+478318	Flow cytometry result	74922053	HIPCJDM8D7_1b.478318.txt	HIPCJDM8D7_1b.txt	2799
+478320	Flow cytometry compensation or control	518635	11_15_12_Comp_Unstained.478320.fcs	11_15_12_Comp_Unstained.fcs	2799
+478321	Flow cytometry compensation or control	510573	11_15_12_Comp_CD11b_PE_Cy7.478321.fcs	11_15_12_Comp_CD11b_PE_Cy7.fcs	2799
+478322	Flow cytometry compensation or control	509181	11_15_12_Comp_PE.478322.fcs	11_15_12_Comp_PE.fcs	2799
+478323	Flow cytometry compensation or control	496120	11_15_12_Comp_APC.478323.fcs	11_15_12_Comp_APC.fcs	2799
+478324	Flow cytometry compensation or control	495028	11_15_12_Comp_HLADR_APC_H7.478324.fcs	11_15_12_Comp_HLADR_APC_H7.fcs	2799
+478325	Flow cytometry compensation or control	498787	11_15_12_Comp_ECD.478325.fcs	11_15_12_Comp_ECD.fcs	2799
+478326	Flow cytometry compensation or control	508729	11_15_12_Comp_CD20_PE_Cy5.478326.fcs	11_15_12_Comp_CD20_PE_Cy5.fcs	2799
+478327	Flow cytometry compensation or control	507273	11_15_12_Comp_Alexa_700.478327.fcs	11_15_12_Comp_Alexa_700.fcs	2799
+478328	Flow cytometry compensation or control	509642	11_15_12_Comp_FITC.478328.fcs	11_15_12_Comp_FITC.fcs	2799
+478329	Flow cytometry compensation or control	489523	11_15_12_Comp_PO.478329.fcs	11_15_12_Comp_PO.fcs	2799
+478330	Flow cytometry compensation or control	490348	11_15_12_Comp_Pacific_Blue.478330.fcs	11_15_12_Comp_Pacific_Blue.fcs	2799
+478332	Flow cytometry result	44584977	HIPCJDM56D7_2.478332.fcs	HIPCJDM56D7_2.fcs	2799
+478333	Flow cytometry result	54137380	HIPCJDM56D7_2.478333.txt	HIPCJDM56D7_2.txt	2799
+478335	Flow cytometry compensation or control	487573	11_15_12_Comp_CD11c_APC_H7.478335.fcs	11_15_12_Comp_CD11c_APC_H7.fcs	2799
+478336	Flow cytometry compensation or control	489410	11_15_12_Comp_CD1c_PE_Cy7.478336.fcs	11_15_12_Comp_CD1c_PE_Cy7.fcs	2799
+478338	Flow cytometry result	47124822	HIPCJDM56D7_3.478338.fcs	HIPCJDM56D7_3.fcs	2799
+478339	Flow cytometry result	57085546	HIPCJDM56D7_3.478339.txt	HIPCJDM56D7_3.txt	2799
+478341	Flow cytometry compensation or control	499619	11_15_12_Comp_CD4_APC_H7.478341.fcs	11_15_12_Comp_CD4_APC_H7.fcs	2799
+478342	Flow cytometry compensation or control	494381	11_15_12_Comp_CXCR3_PE_Cy5.478342.fcs	11_15_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478343	Flow cytometry compensation or control	805145	11_15_12_Comp_ICOS_PE_Cy7.478343.fcs	11_15_12_Comp_ICOS_PE_Cy7.fcs	2799
+478345	Flow cytometry result	45913085	HIPCJDM56D7_4.478345.fcs	HIPCJDM56D7_4.fcs	2799
+478346	Flow cytometry result	55462828	HIPCJDM56D7_4.478346.txt	HIPCJDM56D7_4.txt	2799
+478348	Flow cytometry compensation or control	502474	11_15_12_Comp_CD27_APC_H7.478348.fcs	11_15_12_Comp_CD27_APC_H7.fcs	2799
+478349	Flow cytometry compensation or control	495298	11_15_12_Comp_CD38_PE_Cy7.478349.fcs	11_15_12_Comp_CD38_PE_Cy7.fcs	2799
+478351	Flow cytometry result	45280320	HIPCJDM56D7_1b.478351.fcs	HIPCJDM56D7_1b.fcs	2799
+478352	Flow cytometry result	54478701	HIPCJDM56D7_1b.478352.txt	HIPCJDM56D7_1b.txt	2799
+478354	Flow cytometry result	66636626	HIPCJDM171D12_2.478354.fcs	HIPCJDM171D12_2.fcs	2799
+478355	Flow cytometry compensation or control	511372	11_19_12_Comp_Unstained.478355.fcs	11_19_12_Comp_Unstained.fcs	2799
+478356	Flow cytometry compensation or control	528881	11_19_12_Comp_CD11b_PE_Cy7.478356.fcs	11_19_12_Comp_CD11b_PE_Cy7.fcs	2799
+478357	Flow cytometry compensation or control	511941	11_19_12_Comp_PE.478357.fcs	11_19_12_Comp_PE.fcs	2799
+478358	Flow cytometry compensation or control	500628	11_19_12_Comp_APC.478358.fcs	11_19_12_Comp_APC.fcs	2799
+478359	Flow cytometry compensation or control	528516	11_19_12_Comp_HLADR_APC_H7.478359.fcs	11_19_12_Comp_HLADR_APC_H7.fcs	2799
+478360	Flow cytometry compensation or control	517187	11_19_12_Comp_ECD.478360.fcs	11_19_12_Comp_ECD.fcs	2799
+478361	Flow cytometry compensation or control	533937	11_19_12_Comp_CD20_PE_Cy5.478361.fcs	11_19_12_Comp_CD20_PE_Cy5.fcs	2799
+478362	Flow cytometry compensation or control	490989	11_19_12_Comp_Alexa_700.478362.fcs	11_19_12_Comp_Alexa_700.fcs	2799
+478363	Flow cytometry compensation or control	524362	11_19_12_Comp_FITC.478363.fcs	11_19_12_Comp_FITC.fcs	2799
+478364	Flow cytometry compensation or control	497798	11_19_12_Comp_PO.478364.fcs	11_19_12_Comp_PO.fcs	2799
+478365	Flow cytometry compensation or control	507828	11_19_12_Comp_Pacific_Blue.478365.fcs	11_19_12_Comp_Pacific_Blue.fcs	2799
+478366	Flow cytometry result	80980967	HIPCJDM171D12_2.478366.txt	HIPCJDM171D12_2.txt	2799
+478367	Flow cytometry result	69939611	HIPCJDM171D12_3.478367.fcs	HIPCJDM171D12_3.fcs	2799
+478368	Flow cytometry compensation or control	516737	11_19_12_Comp_CD11c_APC_H7.478368.fcs	11_19_12_Comp_CD11c_APC_H7.fcs	2799
+478369	Flow cytometry compensation or control	516090	11_19_12_Comp_CD1c_PE_Cy7.478369.fcs	11_19_12_Comp_CD1c_PE_Cy7.fcs	2799
+478370	Flow cytometry result	83948313	HIPCJDM171D12_3.478370.txt	HIPCJDM171D12_3.txt	2799
+478371	Flow cytometry result	67032959	HIPCJDM171D12_4.478371.fcs	HIPCJDM171D12_4.fcs	2799
+478372	Flow cytometry compensation or control	481863	11_19_12_Comp_CD4_APC_H7.478372.fcs	11_19_12_Comp_CD4_APC_H7.fcs	2799
+478373	Flow cytometry compensation or control	517748	11_19_12_Comp_CXCR3_PE_Cy5.478373.fcs	11_19_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478374	Flow cytometry compensation or control	326657	11_19_12_Comp_ICOS_PE_Cy7.478374.fcs	11_19_12_Comp_ICOS_PE_Cy7.fcs	2799
+478375	Flow cytometry result	79803653	HIPCJDM171D12_4.478375.txt	HIPCJDM171D12_4.txt	2799
+478376	Flow cytometry result	70179277	HIPCJDM171D12_1b.478376.fcs	HIPCJDM171D12_1b.fcs	2799
+478377	Flow cytometry compensation or control	488766	11_19_12_Comp_CD27_APC_H7.478377.fcs	11_19_12_Comp_CD27_APC_H7.fcs	2799
+478378	Flow cytometry compensation or control	509098	11_19_12_Comp_CD38_PE_Cy7.478378.fcs	11_19_12_Comp_CD38_PE_Cy7.fcs	2799
+478379	Flow cytometry result	83658096	HIPCJDM171D12_1b.478379.txt	HIPCJDM171D12_1b.txt	2799
+478380	Flow cytometry result	46664735	HIPCJDM155D0_2.478380.fcs	HIPCJDM155D0_2.fcs	2799
+478381	Flow cytometry compensation or control	823431	11_20_12_Comp_Unstained.478381.fcs	11_20_12_Comp_Unstained.fcs	2799
+478382	Flow cytometry compensation or control	511403	11_20_12_Comp_CD11b_PE_Cy7.478382.fcs	11_20_12_Comp_CD11b_PE_Cy7.fcs	2799
+478383	Flow cytometry compensation or control	517003	11_20_12_Comp_PE.478383.fcs	11_20_12_Comp_PE.fcs	2799
+478384	Flow cytometry compensation or control	516363	11_20_12_Comp_APC.478384.fcs	11_20_12_Comp_APC.fcs	2799
+478385	Flow cytometry compensation or control	510668	11_20_12_Comp_HLADR_APC_H7.478385.fcs	11_20_12_Comp_HLADR_APC_H7.fcs	2799
+478386	Flow cytometry compensation or control	511207	11_20_12_Comp_ECD.478386.fcs	11_20_12_Comp_ECD.fcs	2799
+478387	Flow cytometry compensation or control	516365	11_20_12_Comp_CD20_PE_Cy5.478387.fcs	11_20_12_Comp_CD20_PE_Cy5.fcs	2799
+478388	Flow cytometry compensation or control	510586	11_20_12_Comp_Alexa_700.478388.fcs	11_20_12_Comp_Alexa_700.fcs	2799
+478389	Flow cytometry compensation or control	522890	11_20_12_Comp_FITC.478389.fcs	11_20_12_Comp_FITC.fcs	2799
+478390	Flow cytometry compensation or control	512794	11_20_12_Comp_PO.478390.fcs	11_20_12_Comp_PO.fcs	2799
+478391	Flow cytometry compensation or control	544079	11_20_12_Comp_Pacific_Blue.478391.fcs	11_20_12_Comp_Pacific_Blue.fcs	2799
+478392	Flow cytometry result	55868058	HIPCJDM155D0_2.478392.txt	HIPCJDM155D0_2.txt	2799
+478393	Flow cytometry result	46074466	HIPCJDM155D0_3.478393.fcs	HIPCJDM155D0_3.fcs	2799
+478394	Flow cytometry compensation or control	948402	11_20_12_Comp_CD11c_APC_H7.478394.fcs	11_20_12_Comp_CD11c_APC_H7.fcs	2799
+478395	Flow cytometry compensation or control	514435	11_20_12_Comp_CD1c_PE_Cy7.478395.fcs	11_20_12_Comp_CD1c_PE_Cy7.fcs	2799
+478396	Flow cytometry result	54989497	HIPCJDM155D0_3.478396.txt	HIPCJDM155D0_3.txt	2799
+478397	Flow cytometry result	43798747	HIPCJDM155D0_4.478397.fcs	HIPCJDM155D0_4.fcs	2799
+478398	Flow cytometry compensation or control	510935	11_20_12_Comp_CD4_APC_H7.478398.fcs	11_20_12_Comp_CD4_APC_H7.fcs	2799
+478399	Flow cytometry compensation or control	509842	11_20_12_Comp_CXCR3_PE_Cy5.478399.fcs	11_20_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478400	Flow cytometry compensation or control	1282167	11_20_12_Comp_ICOS_PE_Cy7.478400.fcs	11_20_12_Comp_ICOS_PE_Cy7.fcs	2799
+478401	Flow cytometry result	52024146	HIPCJDM155D0_4.478401.txt	HIPCJDM155D0_4.txt	2799
+478402	Flow cytometry result	50210143	HIPCJDM155D0_1b.478402.fcs	HIPCJDM155D0_1b.fcs	2799
+478403	Flow cytometry compensation or control	513698	11_20_12_Comp_CD27_APC_H7.478403.fcs	11_20_12_Comp_CD27_APC_H7.fcs	2799
+478404	Flow cytometry compensation or control	514528	11_20_12_Comp_CD38_PE_Cy7.478404.fcs	11_20_12_Comp_CD38_PE_Cy7.fcs	2799
+478405	Flow cytometry result	59185319	HIPCJDM155D0_1b.478405.txt	HIPCJDM155D0_1b.txt	2799
+478461	Flow cytometry result	38848597	HIPCJDM109D0_2.478461.fcs	HIPCJDM109D0_2.fcs	2799
+478462	Flow cytometry compensation or control	586625	12_4_12_Comp_Unstained.478462.fcs	12_4_12_Comp_Unstained.fcs	2799
+478463	Flow cytometry compensation or control	602665	12_4_12_Comp_CD11b_PE_Cy7.478463.fcs	12_4_12_Comp_CD11b_PE_Cy7.fcs	2799
+478464	Flow cytometry compensation or control	559876	12_4_12_Comp_PE.478464.fcs	12_4_12_Comp_PE.fcs	2799
+478465	Flow cytometry compensation or control	562548	12_4_12_Comp_APC.478465.fcs	12_4_12_Comp_APC.fcs	2799
+478466	Flow cytometry compensation or control	544064	12_4_12_Comp_HLADR_APC_H7.478466.fcs	12_4_12_Comp_HLADR_APC_H7.fcs	2799
+478467	Flow cytometry compensation or control	555278	12_4_12_Comp_ECD.478467.fcs	12_4_12_Comp_ECD.fcs	2799
+478468	Flow cytometry compensation or control	567979	12_4_12_Comp_CD20_PE_Cy5.478468.fcs	12_4_12_Comp_CD20_PE_Cy5.fcs	2799
+478469	Flow cytometry compensation or control	551160	12_4_12_Comp_Alexa_700.478469.fcs	12_4_12_Comp_Alexa_700.fcs	2799
+478470	Flow cytometry compensation or control	584532	12_4_12_Comp_FITC.478470.fcs	12_4_12_Comp_FITC.fcs	2799
+478471	Flow cytometry compensation or control	568733	12_4_12_Comp_PO.478471.fcs	12_4_12_Comp_PO.fcs	2799
+478472	Flow cytometry compensation or control	567814	12_4_12_Comp_Pacific_Blue.478472.fcs	12_4_12_Comp_Pacific_Blue.fcs	2799
+478473	Flow cytometry result	46761069	HIPCJDM109D0_2.478473.txt	HIPCJDM109D0_2.txt	2799
+478474	Flow cytometry result	42320123	HIPCJDM88M3_2.478474.fcs	HIPCJDM88M3_2.fcs	2799
+478475	Flow cytometry result	51468519	HIPCJDM88M3_2.478475.txt	HIPCJDM88M3_2.txt	2799
+478476	Flow cytometry result	59410966	HIPCJDM109D0_3.478476.fcs	HIPCJDM109D0_3.fcs	2799
+478477	Flow cytometry compensation or control	556023	12_4_12_Comp_CD11c_APC_H7.478477.fcs	12_4_12_Comp_CD11c_APC_H7.fcs	2799
+478478	Flow cytometry compensation or control	561724	12_4_12_Comp_CD1c_PE_Cy7.478478.fcs	12_4_12_Comp_CD1c_PE_Cy7.fcs	2799
+478479	Flow cytometry result	71144137	HIPCJDM109D0_3.478479.txt	HIPCJDM109D0_3.txt	2799
+478480	Flow cytometry result	41801796	HIPCJDM88M3_3.478480.fcs	HIPCJDM88M3_3.fcs	2799
+478481	Flow cytometry result	49934029	HIPCJDM88M3_3.478481.txt	HIPCJDM88M3_3.txt	2799
+478482	Flow cytometry result	57087413	HIPCJDM109D0_4.478482.fcs	HIPCJDM109D0_4.fcs	2799
+478483	Flow cytometry compensation or control	556569	12_4_12_Comp_CD4_APC_H7.478483.fcs	12_4_12_Comp_CD4_APC_H7.fcs	2799
+478484	Flow cytometry compensation or control	567430	12_4_12_Comp_CXCR3_PE_Cy5.478484.fcs	12_4_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478485	Flow cytometry compensation or control	522257	12_4_12_Comp_ICOS_PE_Cy7.478485.fcs	12_4_12_Comp_ICOS_PE_Cy7.fcs	2799
+478486	Flow cytometry result	69022574	HIPCJDM109D0_4.478486.txt	HIPCJDM109D0_4.txt	2799
+478487	Flow cytometry result	40200351	HIPCJDM88M3_4.478487.fcs	HIPCJDM88M3_4.fcs	2799
+478488	Flow cytometry result	47929743	HIPCJDM88M3_4.478488.txt	HIPCJDM88M3_4.txt	2799
+478489	Flow cytometry result	40031354	HIPCJDM109D0_1b.478489.fcs	HIPCJDM109D0_1b.fcs	2799
+478490	Flow cytometry compensation or control	565312	12_4_12_Comp_CD27_APC_H7.478490.fcs	12_4_12_Comp_CD27_APC_H7.fcs	2799
+478491	Flow cytometry compensation or control	571109	12_4_12_Comp_CD38_PE_Cy7.478491.fcs	12_4_12_Comp_CD38_PE_Cy7.fcs	2799
+478492	Flow cytometry result	47399813	HIPCJDM109D0_1b.478492.txt	HIPCJDM109D0_1b.txt	2799
+478493	Flow cytometry result	38194109	HIPCJDM88M3_1b.478493.fcs	HIPCJDM88M3_1b.fcs	2799
+478494	Flow cytometry result	45438189	HIPCJDM88M3_1b.478494.txt	HIPCJDM88M3_1b.txt	2799
+478495	Flow cytometry result	37099960	HIPCJDM171D28_2.478495.fcs	HIPCJDM171D28_2.fcs	2799
+478496	Flow cytometry compensation or control	549274	12_5_12_Comp_Unstained.478496.fcs	12_5_12_Comp_Unstained.fcs	2799
+478497	Flow cytometry compensation or control	540477	12_5_12_Comp_CD11b_PE_Cy7.478497.fcs	12_5_12_Comp_CD11b_PE_Cy7.fcs	2799
+478498	Flow cytometry compensation or control	559323	12_5_12_Comp_PE.478498.fcs	12_5_12_Comp_PE.fcs	2799
+478499	Flow cytometry compensation or control	762187	12_5_12_Comp_APC.478499.fcs	12_5_12_Comp_APC.fcs	2799
+478500	Flow cytometry compensation or control	536428	12_5_12_Comp_HLADR_APC_H7.478500.fcs	12_5_12_Comp_HLADR_APC_H7.fcs	2799
+478501	Flow cytometry compensation or control	550769	12_5_12_Comp_ECD.478501.fcs	12_5_12_Comp_ECD.fcs	2799
+478502	Flow cytometry compensation or control	546726	12_5_12_Comp_CD20_PE_Cy5.478502.fcs	12_5_12_Comp_CD20_PE_Cy5.fcs	2799
+478503	Flow cytometry compensation or control	548766	12_5_12_Comp_Alexa_700.478503.fcs	12_5_12_Comp_Alexa_700.fcs	2799
+478504	Flow cytometry compensation or control	568526	12_5_12_Comp_FITC.478504.fcs	12_5_12_Comp_FITC.fcs	2799
+478505	Flow cytometry compensation or control	531562	12_5_12_Comp_PO.478505.fcs	12_5_12_Comp_PO.fcs	2799
+478506	Flow cytometry compensation or control	544453	12_5_12_Comp_Pacific_Blue.478506.fcs	12_5_12_Comp_Pacific_Blue.fcs	2799
+478507	Flow cytometry result	44091189	HIPCJDM171D28_2.478507.txt	HIPCJDM171D28_2.txt	2799
+478508	Flow cytometry result	37168501	HIPCJDM171D28_3.478508.fcs	HIPCJDM171D28_3.fcs	2799
+478509	Flow cytometry compensation or control	541026	12_5_12_Comp_CD11c_APC_H7.478509.fcs	12_5_12_Comp_CD11c_APC_H7.fcs	2799
+478510	Flow cytometry compensation or control	543048	12_5_12_Comp_CD1c_PE_Cy7.478510.fcs	12_5_12_Comp_CD1c_PE_Cy7.fcs	2799
+478511	Flow cytometry result	43633582	HIPCJDM171D28_3.478511.txt	HIPCJDM171D28_3.txt	2799
+478512	Flow cytometry result	38844829	HIPCJDM171D28_4.478512.fcs	HIPCJDM171D28_4.fcs	2799
+478513	Flow cytometry compensation or control	537800	12_5_12_Comp_CD4_APC_H7.478513.fcs	12_5_12_Comp_CD4_APC_H7.fcs	2799
+478514	Flow cytometry compensation or control	549680	12_5_12_Comp_CXCR3_PE_Cy5.478514.fcs	12_5_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478515	Flow cytometry compensation or control	581770	12_5_12_Comp_ICOS_PE_Cy7.478515.fcs	12_5_12_Comp_ICOS_PE_Cy7.fcs	2799
+478516	Flow cytometry result	45803932	HIPCJDM171D28_4.478516.txt	HIPCJDM171D28_4.txt	2799
+478517	Flow cytometry result	34208594	HIPCJDM171D28_1b.478517.fcs	HIPCJDM171D28_1b.fcs	2799
+478518	Flow cytometry compensation or control	539367	12_5_12_Comp_CD27_APC_H7.478518.fcs	12_5_12_Comp_CD27_APC_H7.fcs	2799
+478519	Flow cytometry compensation or control	543048	12_5_12_Comp_CD38_PE_Cy7.478519.fcs	12_5_12_Comp_CD38_PE_Cy7.fcs	2799
+478520	Flow cytometry result	39963918	HIPCJDM171D28_1b.478520.txt	HIPCJDM171D28_1b.txt	2799
+478523	Flow cytometry result	48032028	HIPCJDM109D7_2.478523.fcs	HIPCJDM109D7_2.fcs	2799
+478524	Flow cytometry compensation or control	499777	12_11_12_Comp_Unstained.478524.fcs	12_11_12_Comp_Unstained.fcs	2799
+478525	Flow cytometry compensation or control	535049	12_11_12_Comp_CD11b_PE_Cy7.478525.fcs	12_11_12_Comp_CD11b_PE_Cy7.fcs	2799
+478526	Flow cytometry compensation or control	500259	12_11_12_Comp_PE.478526.fcs	12_11_12_Comp_PE.fcs	2799
+478527	Flow cytometry compensation or control	635782	12_11_12_Comp_APC.478527.fcs	12_11_12_Comp_APC.fcs	2799
+478528	Flow cytometry compensation or control	544980	12_11_12_Comp_CD16_APC_H7.478528.fcs	12_11_12_Comp_CD16_APC_H7.fcs	2799
+478529	Flow cytometry compensation or control	507805	12_11_12_Comp_ECD.478529.fcs	12_11_12_Comp_ECD.fcs	2799
+478530	Flow cytometry compensation or control	503488	12_11_12_Comp_CD20_PE_Cy5.478530.fcs	12_11_12_Comp_CD20_PE_Cy5.fcs	2799
+478531	Flow cytometry compensation or control	529356	12_11_12_Comp_Alexa_700.478531.fcs	12_11_12_Comp_Alexa_700.fcs	2799
+478532	Flow cytometry compensation or control	519121	12_11_12_Comp_FITC.478532.fcs	12_11_12_Comp_FITC.fcs	2799
+478533	Flow cytometry compensation or control	549412	12_11_12_Comp_PO.478533.fcs	12_11_12_Comp_PO.fcs	2799
+478534	Flow cytometry compensation or control	520616	12_11_12_Comp_Pacific_Blue.478534.fcs	12_11_12_Comp_Pacific_Blue.fcs	2799
+478535	Flow cytometry result	57232279	HIPCJDM109D7_2.478535.txt	HIPCJDM109D7_2.txt	2799
+478538	Flow cytometry result	46391395	HIPCJDM109D7_3.478538.fcs	HIPCJDM109D7_3.fcs	2799
+478539	Flow cytometry compensation or control	548022	12_11_12_Comp_CD11c_APC_H7.478539.fcs	12_11_12_Comp_CD11c_APC_H7.fcs	2799
+478540	Flow cytometry compensation or control	503858	12_11_12_Comp_CD1c_PE_Cy7.478540.fcs	12_11_12_Comp_CD1c_PE_Cy7.fcs	2799
+478541	Flow cytometry result	54644230	HIPCJDM109D7_3.478541.txt	HIPCJDM109D7_3.txt	2799
+478544	Flow cytometry result	46125786	HIPCJDM109D7_4.478544.fcs	HIPCJDM109D7_4.fcs	2799
+478545	Flow cytometry compensation or control	544149	12_11_12_Comp_CD4_APC_H7.478545.fcs	12_11_12_Comp_CD4_APC_H7.fcs	2799
+478546	Flow cytometry compensation or control	503590	12_11_12_Comp_CXCR3_PE_Cy5.478546.fcs	12_11_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478547	Flow cytometry compensation or control	593546	12_11_12_Comp_ICOS_PE_Cy7.478547.fcs	12_11_12_Comp_ICOS_PE_Cy7.fcs	2799
+478548	Flow cytometry result	55341373	HIPCJDM109D7_4.478548.txt	HIPCJDM109D7_4.txt	2799
+478551	Flow cytometry result	48608506	HIPCJDM109D7_1b.478551.fcs	HIPCJDM109D7_1b.fcs	2799
+478552	Flow cytometry compensation or control	541393	12_11_12_Comp_CD27_APC_H7.478552.fcs	12_11_12_Comp_CD27_APC_H7.fcs	2799
+478553	Flow cytometry compensation or control	508181	12_11_12_Comp_CD38_PE_Cy7.478553.fcs	12_11_12_Comp_CD38_PE_Cy7.fcs	2799
+478554	Flow cytometry result	57631821	HIPCJDM109D7_1b.478554.txt	HIPCJDM109D7_1b.txt	2799
+478557	Flow cytometry result	35214495	HIPCJDM074M3_2.478557.fcs	HIPCJDM074M3_2.fcs	2799
+478558	Flow cytometry compensation or control	847633	12_13_12_Comp_Unstained.478558.fcs	12_13_12_Comp_Unstained.fcs	2799
+478559	Flow cytometry compensation or control	550594	12_13_12_Comp_CD11b_PE_Cy7.478559.fcs	12_13_12_Comp_CD11b_PE_Cy7.fcs	2799
+478560	Flow cytometry compensation or control	561348	12_13_12_Comp_PE.478560.fcs	12_13_12_Comp_PE.fcs	2799
+478561	Flow cytometry compensation or control	556385	12_13_12_Comp_APC.478561.fcs	12_13_12_Comp_APC.fcs	2799
+478562	Flow cytometry compensation or control	554271	12_13_12_Comp_CD16_APC_H7.478562.fcs	12_13_12_Comp_CD16_APC_H7.fcs	2799
+478563	Flow cytometry compensation or control	549205	12_13_12_Comp_ECD.478563.fcs	12_13_12_Comp_ECD.fcs	2799
+478564	Flow cytometry compensation or control	555466	12_13_12_Comp_CD20_PE_Cy5.478564.fcs	12_13_12_Comp_CD20_PE_Cy5.fcs	2799
+478565	Flow cytometry compensation or control	557139	12_13_12_Comp_Alexa_700.478565.fcs	12_13_12_Comp_Alexa_700.fcs	2799
+478566	Flow cytometry compensation or control	553344	12_13_12_Comp_FITC.478566.fcs	12_13_12_Comp_FITC.fcs	2799
+478567	Flow cytometry compensation or control	551251	12_13_12_Comp_PO.478567.fcs	12_13_12_Comp_PO.fcs	2799
+478568	Flow cytometry compensation or control	569008	12_13_12_Comp_Pacific_Blue.478568.fcs	12_13_12_Comp_Pacific_Blue.fcs	2799
+478569	Flow cytometry result	41928796	HIPCJDM074M3_2.478569.txt	HIPCJDM074M3_2.txt	2799
+478570	Flow cytometry result	37785348	HIPCJDM074M3_3.478570.fcs	HIPCJDM074M3_3.fcs	2799
+478571	Flow cytometry compensation or control	559981	12_13_12_Comp_CD11c_APC_H7.478571.fcs	12_13_12_Comp_CD11c_APC_H7.fcs	2799
+478572	Flow cytometry compensation or control	553995	12_13_12_Comp_CD1c_PE_Cy7.478572.fcs	12_13_12_Comp_CD1c_PE_Cy7.fcs	2799
+478573	Flow cytometry result	44196409	HIPCJDM074M3_3.478573.txt	HIPCJDM074M3_3.txt	2799
+478574	Flow cytometry result	36676558	HIPCJDM074M3_4.478574.fcs	HIPCJDM074M3_4.fcs	2799
+478575	Flow cytometry compensation or control	567240	12_13_12_Comp_CD4_APC_H7.478575.fcs	12_13_12_Comp_CD4_APC_H7.fcs	2799
+478576	Flow cytometry compensation or control	552714	12_13_12_Comp_CXCR3_PE_Cy5.478576.fcs	12_13_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478577	Flow cytometry compensation or control	574962	12_13_12_Comp_ICOS_PE_Cy7.478577.fcs	12_13_12_Comp_ICOS_PE_Cy7.fcs	2799
+478578	Flow cytometry result	43282825	HIPCJDM074M3_4.478578.txt	HIPCJDM074M3_4.txt	2799
+478579	Flow cytometry result	37932097	HIPCJDM074M3_1b.478579.fcs	HIPCJDM074M3_1b.fcs	2799
+478580	Flow cytometry compensation or control	565037	12_13_12_Comp_CD27_APC_H7.478580.fcs	12_13_12_Comp_CD27_APC_H7.fcs	2799
+478581	Flow cytometry compensation or control	564115	12_13_12_Comp_CD38_PE_Cy7.478581.fcs	12_13_12_Comp_CD38_PE_Cy7.fcs	2799
+478582	Flow cytometry result	44244057	HIPCJDM074M3_1b.478582.txt	HIPCJDM074M3_1b.txt	2799
+478584	Flow cytometry result	74836141	HIPCJDM173M3_2.478584.fcs	HIPCJDM173M3_2.fcs	2799
+478585	Flow cytometry compensation or control	539981	12_18_12_Comp_Unstained.478585.fcs	12_18_12_Comp_Unstained.fcs	2799
+478586	Flow cytometry compensation or control	506346	12_18_12_Comp_CD11b_PE_Cy7.478586.fcs	12_18_12_Comp_CD11b_PE_Cy7.fcs	2799
+478587	Flow cytometry compensation or control	516086	12_18_12_Comp_PE.478587.fcs	12_18_12_Comp_PE.fcs	2799
+478588	Flow cytometry compensation or control	962751	12_18_12_Comp_APC.478588.fcs	12_18_12_Comp_APC.fcs	2799
+478589	Flow cytometry compensation or control	513608	12_18_12_Comp_CD16_APC_H7.478589.fcs	12_18_12_Comp_CD16_APC_H7.fcs	2799
+478590	Flow cytometry compensation or control	520688	12_18_12_Comp_ECD.478590.fcs	12_18_12_Comp_ECD.fcs	2799
+478591	Flow cytometry compensation or control	523361	12_18_12_Comp_CD20_PE_Cy5.478591.fcs	12_18_12_Comp_CD20_PE_Cy5.fcs	2799
+478592	Flow cytometry compensation or control	523836	12_18_12_Comp_Alexa_700.478592.fcs	12_18_12_Comp_Alexa_700.fcs	2799
+478593	Flow cytometry compensation or control	534761	12_18_12_Comp_FITC.478593.fcs	12_18_12_Comp_FITC.fcs	2799
+478594	Flow cytometry compensation or control	527332	12_18_12_Comp_PO.478594.fcs	12_18_12_Comp_PO.fcs	2799
+478595	Flow cytometry compensation or control	517580	12_18_12_Comp_Pacific_Blue.478595.fcs	12_18_12_Comp_Pacific_Blue.fcs	2799
+478596	Flow cytometry result	91545407	HIPCJDM173M3_2.478596.txt	HIPCJDM173M3_2.txt	2799
+478599	Flow cytometry result	69067280	HIPCJDM173M3_3.478599.fcs	HIPCJDM173M3_3.fcs	2799
+478600	Flow cytometry compensation or control	510578	12_18_12_Comp_CD11c_APC_H7.478600.fcs	12_18_12_Comp_CD11c_APC_H7.fcs	2799
+478601	Flow cytometry compensation or control	511400	12_18_12_Comp_CD1c_PE_Cy7.478601.fcs	12_18_12_Comp_CD1c_PE_Cy7.fcs	2799
+478602	Flow cytometry result	84284984	HIPCJDM173M3_3.478602.txt	HIPCJDM173M3_3.txt	2799
+478605	Flow cytometry result	69175744	HIPCJDM173M3_4.478605.fcs	HIPCJDM173M3_4.fcs	2799
+478606	Flow cytometry compensation or control	513053	12_18_12_Comp_CD4_APC_H7.478606.fcs	12_18_12_Comp_CD4_APC_H7.fcs	2799
+478607	Flow cytometry compensation or control	536712	12_18_12_Comp_CXCR3_PE_Cy5.478607.fcs	12_18_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478608	Flow cytometry compensation or control	1381159	12_18_12_Comp_ICOS_PE_Cy7.478608.fcs	12_18_12_Comp_ICOS_PE_Cy7.fcs	2799
+478609	Flow cytometry result	83756225	HIPCJDM173M3_4.478609.txt	HIPCJDM173M3_4.txt	2799
+478612	Flow cytometry result	69916998	HIPCJDM173M3_1b.478612.fcs	HIPCJDM173M3_1b.fcs	2799
+478613	Flow cytometry compensation or control	519128	12_18_12_Comp_CD27_APC_H7.478613.fcs	12_18_12_Comp_CD27_APC_H7.fcs	2799
+478614	Flow cytometry compensation or control	517289	12_18_12_Comp_CD38_PE_Cy7.478614.fcs	12_18_12_Comp_CD38_PE_Cy7.fcs	2799
+478615	Flow cytometry result	83269943	HIPCJDM173M3_1b.478615.txt	HIPCJDM173M3_1b.txt	2799
+478618	Flow cytometry result	42000051	HIPCJDM155D28_2.478618.fcs	HIPCJDM155D28_2.fcs	2799
+478619	Flow cytometry compensation or control	464358	12_19_12_Comp_Unstained.478619.fcs	12_19_12_Comp_Unstained.fcs	2799
+478620	Flow cytometry compensation or control	464392	12_19_12_Comp_CD11b_PE_Cy7.478620.fcs	12_19_12_Comp_CD11b_PE_Cy7.fcs	2799
+478621	Flow cytometry compensation or control	464384	12_19_12_Comp_PE.478621.fcs	12_19_12_Comp_PE.fcs	2799
+478622	Flow cytometry compensation or control	464385	12_19_12_Comp_APC.478622.fcs	12_19_12_Comp_APC.fcs	2799
+478623	Flow cytometry compensation or control	464388	12_19_12_Comp_CD16_APC_H7.478623.fcs	12_19_12_Comp_CD16_APC_H7.fcs	2799
+478624	Flow cytometry compensation or control	464383	12_19_12_Comp_ECD.478624.fcs	12_19_12_Comp_ECD.fcs	2799
+478625	Flow cytometry compensation or control	464389	12_19_12_Comp_CD20_PE_Cy5.478625.fcs	12_19_12_Comp_CD20_PE_Cy5.fcs	2799
+478626	Flow cytometry compensation or control	464404	12_19_12_Comp_Alexa_700.478626.fcs	12_19_12_Comp_Alexa_700.fcs	2799
+478627	Flow cytometry compensation or control	464381	12_19_12_Comp_FITC.478627.fcs	12_19_12_Comp_FITC.fcs	2799
+478628	Flow cytometry compensation or control	464405	12_19_12_Comp_PO.478628.fcs	12_19_12_Comp_PO.fcs	2799
+478629	Flow cytometry compensation or control	464404	12_19_12_Comp_Pacific_Blue.478629.fcs	12_19_12_Comp_Pacific_Blue.fcs	2799
+478630	Flow cytometry result	49791026	HIPCJDM155D28_2.478630.txt	HIPCJDM155D28_2.txt	2799
+478631	Flow cytometry result	39200035	HIPCJDM155D28_3.478631.fcs	HIPCJDM155D28_3.fcs	2799
+478632	Flow cytometry compensation or control	464392	12_19_12_Comp_CD11c_APC_H7.478632.fcs	12_19_12_Comp_CD11c_APC_H7.fcs	2799
+478633	Flow cytometry compensation or control	464389	12_19_12_Comp_CD1c_PE_Cy7.478633.fcs	12_19_12_Comp_CD1c_PE_Cy7.fcs	2799
+478634	Flow cytometry result	46102091	HIPCJDM155D28_3.478634.txt	HIPCJDM155D28_3.txt	2799
+478635	Flow cytometry result	35972670	HIPCJDM155D28_4.478635.fcs	HIPCJDM155D28_4.fcs	2799
+478636	Flow cytometry compensation or control	464385	12_19_12_Comp_CD4_APC_H7.478636.fcs	12_19_12_Comp_CD4_APC_H7.fcs	2799
+478637	Flow cytometry compensation or control	464400	12_19_12_Comp_CXCR3_PE_Cy5.478637.fcs	12_19_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478638	Flow cytometry compensation or control	464379	12_19_12_Comp_ICOS_PE_Cy7.478638.fcs	12_19_12_Comp_ICOS_PE_Cy7.fcs	2799
+478639	Flow cytometry result	42824816	HIPCJDM155D28_4.478639.txt	HIPCJDM155D28_4.txt	2799
+478640	Flow cytometry result	52430190	HIPCJDM155D28_1b.478640.fcs	HIPCJDM155D28_1b.fcs	2799
+478641	Flow cytometry compensation or control	464389	12_19_12_Comp_CD27_APC_H7.478641.fcs	12_19_12_Comp_CD27_APC_H7.fcs	2799
+478642	Flow cytometry compensation or control	464388	12_19_12_Comp_CD38_PE_Cy7.478642.fcs	12_19_12_Comp_CD38_PE_Cy7.fcs	2799
+478643	Flow cytometry result	62160652	HIPCJDM155D28_1b.478643.txt	HIPCJDM155D28_1b.txt	2799
+478644	Flow cytometry result	42987939	HIPCJDM31M3_2.478644.fcs	HIPCJDM31M3_2.fcs	2799
+478645	Flow cytometry compensation or control	464357	12_21_12_Comp_Unstained.478645.fcs	12_21_12_Comp_Unstained.fcs	2799
+478646	Flow cytometry compensation or control	464392	12_21_12_Comp_CD11b_PE_Cy7.478646.fcs	12_21_12_Comp_CD11b_PE_Cy7.fcs	2799
+478647	Flow cytometry compensation or control	464380	12_21_12_Comp_PE.478647.fcs	12_21_12_Comp_PE.fcs	2799
+478648	Flow cytometry compensation or control	464385	12_21_12_Comp_APC.478648.fcs	12_21_12_Comp_APC.fcs	2799
+478649	Flow cytometry compensation or control	464388	12_21_12_Comp_CD16_APC_H7.478649.fcs	12_21_12_Comp_CD16_APC_H7.fcs	2799
+478650	Flow cytometry compensation or control	464380	12_21_12_Comp_ECD.478650.fcs	12_21_12_Comp_ECD.fcs	2799
+478651	Flow cytometry compensation or control	464387	12_21_12_Comp_CD20_PE_Cy5.478651.fcs	12_21_12_Comp_CD20_PE_Cy5.fcs	2799
+478652	Flow cytometry compensation or control	464404	12_21_12_Comp_Alexa_700.478652.fcs	12_21_12_Comp_Alexa_700.fcs	2799
+478653	Flow cytometry compensation or control	464379	12_21_12_Comp_FITC.478653.fcs	12_21_12_Comp_FITC.fcs	2799
+478654	Flow cytometry compensation or control	464405	12_21_12_Comp_PO.478654.fcs	12_21_12_Comp_PO.fcs	2799
+478655	Flow cytometry compensation or control	464404	12_21_12_Comp_Pacific_Blue.478655.fcs	12_21_12_Comp_Pacific_Blue.fcs	2799
+478656	Flow cytometry result	50668588	HIPCJDM31M3_2.478656.txt	HIPCJDM31M3_2.txt	2799
+478657	Flow cytometry result	44224148	HIPCJDM31M3_3.478657.fcs	HIPCJDM31M3_3.fcs	2799
+478658	Flow cytometry compensation or control	464394	12_21_12_Comp_CD11c_APC_H7.478658.fcs	12_21_12_Comp_CD11c_APC_H7.fcs	2799
+478659	Flow cytometry compensation or control	464388	12_21_12_Comp_CD1c_PE_Cy7.478659.fcs	12_21_12_Comp_CD1c_PE_Cy7.fcs	2799
+478660	Flow cytometry result	51411041	HIPCJDM31M3_3.478660.txt	HIPCJDM31M3_3.txt	2799
+478661	Flow cytometry result	36790818	HIPCJDM31M3_4.478661.fcs	HIPCJDM31M3_4.fcs	2799
+478662	Flow cytometry compensation or control	464384	12_21_12_Comp_CD4_APC_H7.478662.fcs	12_21_12_Comp_CD4_APC_H7.fcs	2799
+478663	Flow cytometry compensation or control	464400	12_21_12_Comp_CXCR3_PE_Cy5.478663.fcs	12_21_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478664	Flow cytometry compensation or control	464380	12_21_12_Comp_ICOS_PE_Cy7.478664.fcs	12_21_12_Comp_ICOS_PE_Cy7.fcs	2799
+478665	Flow cytometry result	43722478	HIPCJDM31M3_4.478665.txt	HIPCJDM31M3_4.txt	2799
+478666	Flow cytometry result	49528039	HIPCJDM31M3_1b.478666.fcs	HIPCJDM31M3_1b.fcs	2799
+478667	Flow cytometry compensation or control	464388	12_21_12_Comp_CD27_APC_H7.478667.fcs	12_21_12_Comp_CD27_APC_H7.fcs	2799
+478668	Flow cytometry compensation or control	464388	12_21_12_Comp_CD38_PE_Cy7.478668.fcs	12_21_12_Comp_CD38_PE_Cy7.fcs	2799
+478669	Flow cytometry result	56763520	HIPCJDM31M3_1b.478669.txt	HIPCJDM31M3_1b.txt	2799
+478671	Flow cytometry result	28156162	HIPCJDM8D0_2.478671.fcs	HIPCJDM8D0_2.fcs	2799
+478672	Flow cytometry compensation or control	584325	11_5_12_Comp_Unstained.478672.fcs	11_5_12_Comp_Unstained.fcs	2799
+478673	Flow cytometry compensation or control	541670	11_5_12_Comp_CD11b_PE_Cy7.478673.fcs	11_5_12_Comp_CD11b_PE_Cy7.fcs	2799
+478674	Flow cytometry compensation or control	599803	11_5_12_Comp_PE.478674.fcs	11_5_12_Comp_PE.fcs	2799
+478675	Flow cytometry compensation or control	728238	11_5_12_Comp_APC.478675.fcs	11_5_12_Comp_APC.fcs	2799
+478676	Flow cytometry compensation or control	538453	11_5_12_Comp_HLADR_APC_H7.478676.fcs	11_5_12_Comp_HLADR_APC_H7.fcs	2799
+478677	Flow cytometry compensation or control	612409	11_5_12_Comp_ECD.478677.fcs	11_5_12_Comp_ECD.fcs	2799
+478678	Flow cytometry compensation or control	616555	11_5_12_Comp_CD20_PE_Cy5.478678.fcs	11_5_12_Comp_CD20_PE_Cy5.fcs	2799
+478679	Flow cytometry compensation or control	625679	11_5_12_Comp_Alexa_700.478679.fcs	11_5_12_Comp_Alexa_700.fcs	2799
+478680	Flow cytometry compensation or control	574320	11_5_12_Comp_FITC.478680.fcs	11_5_12_Comp_FITC.fcs	2799
+478681	Flow cytometry compensation or control	556038	11_5_12_Comp_PO.478681.fcs	11_5_12_Comp_PO.fcs	2799
+478682	Flow cytometry compensation or control	555578	11_5_12_Comp_Pacific_Blue.478682.fcs	11_5_12_Comp_Pacific_Blue.fcs	2799
+478683	Flow cytometry result	33979514	HIPCJDM8D0_2.478683.txt	HIPCJDM8D0_2.txt	2799
+478684	Flow cytometry result	28602915	HIPCJDM8D0_3.478684.fcs	HIPCJDM8D0_3.fcs	2799
+478685	Flow cytometry compensation or control	628611	11_5_12_Comp_CD11c_APC_H7.478685.fcs	11_5_12_Comp_CD11c_APC_H7.fcs	2799
+478686	Flow cytometry compensation or control	560988	11_5_12_Comp_CD1c_PE_Cy7.478686.fcs	11_5_12_Comp_CD1c_PE_Cy7.fcs	2799
+478687	Flow cytometry result	34320264	HIPCJDM8D0_3.478687.txt	HIPCJDM8D0_3.txt	2799
+478688	Flow cytometry result	29721819	HIPCJDM8D0_4.478688.fcs	HIPCJDM8D0_4.fcs	2799
+478689	Flow cytometry compensation or control	585365	11_5_12_Comp_CD4_APC_H7.478689.fcs	11_5_12_Comp_CD4_APC_H7.fcs	2799
+478690	Flow cytometry compensation or control	581323	11_5_12_Comp_CXCR3_PE_Cy5.478690.fcs	11_5_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478691	Flow cytometry compensation or control	575514	11_5_12_Comp_ICOS_PE_Cy7.478691.fcs	11_5_12_Comp_ICOS_PE_Cy7.fcs	2799
+478692	Flow cytometry result	35842220	HIPCJDM8D0_4.478692.txt	HIPCJDM8D0_4.txt	2799
+478693	Flow cytometry result	28786921	HIPCJDM8D0_1b.478693.fcs	HIPCJDM8D0_1b.fcs	2799
+478694	Flow cytometry compensation or control	617108	11_5_12_Comp_CD27_APC_H7.478694.fcs	11_5_12_Comp_CD27_APC_H7.fcs	2799
+478695	Flow cytometry compensation or control	555652	11_5_12_Comp_CD38_PE_Cy7.478695.fcs	11_5_12_Comp_CD38_PE_Cy7.fcs	2799
+478696	Flow cytometry result	34417913	HIPCJDM8D0_1b.478696.txt	HIPCJDM8D0_1b.txt	2799
+478697	Flow cytometry result	53993640	HIPCJDM171D0_2.478697.fcs	HIPCJDM171D0_2.fcs	2799
+478698	Flow cytometry compensation or control	548077	11_7_12_Comp_Unstained.478698.fcs	11_7_12_Comp_Unstained.fcs	2799
+478699	Flow cytometry compensation or control	564762	11_7_12_Comp_CD11b_PE_Cy7.478699.fcs	11_7_12_Comp_CD11b_PE_Cy7.fcs	2799
+478700	Flow cytometry compensation or control	548557	11_7_12_Comp_PE.478700.fcs	11_7_12_Comp_PE.fcs	2799
+478701	Flow cytometry compensation or control	611948	11_7_12_Comp_APC.478701.fcs	11_7_12_Comp_APC.fcs	2799
+478702	Flow cytometry compensation or control	598436	11_7_12_Comp_HLADR_APC_H7.478702.fcs	11_7_12_Comp_HLADR_APC_H7.fcs	2799
+478703	Flow cytometry compensation or control	577539	11_7_12_Comp_ECD.478703.fcs	11_7_12_Comp_ECD.fcs	2799
+478704	Flow cytometry compensation or control	559145	11_7_12_Comp_CD20_PE_Cy5.478704.fcs	11_7_12_Comp_CD20_PE_Cy5.fcs	2799
+478705	Flow cytometry compensation or control	592281	11_7_12_Comp_Alexa_700.478705.fcs	11_7_12_Comp_Alexa_700.fcs	2799
+478706	Flow cytometry compensation or control	553160	11_7_12_Comp_FITC.478706.fcs	11_7_12_Comp_FITC.fcs	2799
+478707	Flow cytometry compensation or control	564500	11_7_12_Comp_PO.478707.fcs	11_7_12_Comp_PO.fcs	2799
+478708	Flow cytometry compensation or control	578208	11_7_12_Comp_Pacific_Blue.478708.fcs	11_7_12_Comp_Pacific_Blue.fcs	2799
+478709	Flow cytometry result	64923997	HIPCJDM171D0_2.478709.txt	HIPCJDM171D0_2.txt	2799
+478710	Flow cytometry result	22343435	HIPCJDM044D28_2.478710.fcs	HIPCJDM044D28_2.fcs	2799
+478711	Flow cytometry result	26431590	HIPCJDM044D28_2.478711.txt	HIPCJDM044D28_2.txt	2799
+478712	Flow cytometry result	40645451	HIPCJDM056D0_2.478712.fcs	HIPCJDM056D0_2.fcs	2799
+478713	Flow cytometry result	49095565	HIPCJDM056D0_2.478713.txt	HIPCJDM056D0_2.txt	2799
+478714	Flow cytometry result	56166220	HIPCJDM171D0_3.478714.fcs	HIPCJDM171D0_3.fcs	2799
+478715	Flow cytometry compensation or control	600917	11_7_12_Comp_CD11c_APC_H7.478715.fcs	11_7_12_Comp_CD11c_APC_H7.fcs	2799
+478716	Flow cytometry compensation or control	530442	11_7_12_Comp_CD1c_PE_Cy7.478716.fcs	11_7_12_Comp_CD1c_PE_Cy7.fcs	2799
+478717	Flow cytometry result	66433934	HIPCJDM171D0_3.478717.txt	HIPCJDM171D0_3.txt	2799
+478718	Flow cytometry result	22763050	HIPCJDM044D28_3.478718.fcs	HIPCJDM044D28_3.fcs	2799
+478719	Flow cytometry result	26805045	HIPCJDM044D28_3.478719.txt	HIPCJDM044D28_3.txt	2799
+478720	Flow cytometry result	39702270	HIPCJDM056D0_3.478720.fcs	HIPCJDM056D0_3.fcs	2799
+478721	Flow cytometry result	47677787	HIPCJDM056D0_3.478721.txt	HIPCJDM056D0_3.txt	2799
+478722	Flow cytometry result	55122656	HIPCJDM171D0_4.478722.fcs	HIPCJDM171D0_4.fcs	2799
+478723	Flow cytometry compensation or control	600359	11_7_12_Comp_CD4_APC_H7.478723.fcs	11_7_12_Comp_CD4_APC_H7.fcs	2799
+478724	Flow cytometry compensation or control	568257	11_7_12_Comp_CXCR3_PE_Cy5.478724.fcs	11_7_12_Comp_CXCR3_PE_Cy5.fcs	2799
+478725	Flow cytometry compensation or control	965593	11_7_12_Comp_ICOS_PE_Cy7.478725.fcs	11_7_12_Comp_ICOS_PE_Cy7.fcs	2799
+478726	Flow cytometry result	65282728	HIPCJDM171D0_4.478726.txt	HIPCJDM171D0_4.txt	2799
+478727	Flow cytometry result	22355387	HIPCJDM044D28_4.478727.fcs	HIPCJDM044D28_4.fcs	2799
+478728	Flow cytometry result	26641311	HIPCJDM044D28_4.478728.txt	HIPCJDM044D28_4.txt	2799
+478729	Flow cytometry result	39145748	HIPCJDM056D0_4.478729.fcs	HIPCJDM056D0_4.fcs	2799
+478730	Flow cytometry result	46892611	HIPCJDM056D0_4.478730.txt	HIPCJDM056D0_4.txt	2799
+478731	Flow cytometry result	51481953	HIPCJDM171D0_1b.478731.fcs	HIPCJDM171D0_1b.fcs	2799
+478732	Flow cytometry compensation or control	600270	11_7_12_Comp_CD27_APC_H7.478732.fcs	11_7_12_Comp_CD27_APC_H7.fcs	2799
+478733	Flow cytometry compensation or control	541390	11_7_12_Comp_CD38_PE_Cy7.478733.fcs	11_7_12_Comp_CD38_PE_Cy7.fcs	2799
+478734	Flow cytometry result	60723111	HIPCJDM171D0_1b.478734.txt	HIPCJDM171D0_1b.txt	2799
+478735	Flow cytometry result	21874975	HIPCJDM044D28_1b.478735.fcs	HIPCJDM044D28_1b.fcs	2799
+478736	Flow cytometry result	25628044	HIPCJDM044D28_1b.478736.txt	HIPCJDM044D28_1b.txt	2799
+478737	Flow cytometry result	39620297	HIPCJDM056D0_1b.478737.fcs	HIPCJDM056D0_1b.fcs	2799
+478738	Flow cytometry result	47340300	HIPCJDM056D0_1b.478738.txt	HIPCJDM056D0_1b.txt	2799
+478793	Flow cytometry result	67503006	HIPCJDM144M3_2.478793.fcs	HIPCJDM144M3_2.fcs	2799
+478794	Flow cytometry compensation or control	567952	1_8_13_Comp_Unstained.478794.fcs	1_8_13_Comp_Unstained.fcs	2799
+478795	Flow cytometry compensation or control	540485	1_8_13_Comp_CD11b_PE_Cy7.478795.fcs	1_8_13_Comp_CD11b_PE_Cy7.fcs	2799
+478796	Flow cytometry compensation or control	596955	1_8_13_Comp_PE.478796.fcs	1_8_13_Comp_PE.fcs	2799
+478797	Flow cytometry compensation or control	709749	1_8_13_Comp_APC.478797.fcs	1_8_13_Comp_APC.fcs	2799
+478798	Flow cytometry compensation or control	545541	1_8_13_Comp_CD16_APC_H7.478798.fcs	1_8_13_Comp_CD16_APC_H7.fcs	2799
+478799	Flow cytometry compensation or control	590057	1_8_13_Comp_ECD.478799.fcs	1_8_13_Comp_ECD.fcs	2799
+478800	Flow cytometry compensation or control	601287	1_8_13_Comp_CD20_PE_Cy5.478800.fcs	1_8_13_Comp_CD20_PE_Cy5.fcs	2799
+478801	Flow cytometry compensation or control	547758	1_8_13_Comp_Alexa_700.478801.fcs	1_8_13_Comp_Alexa_700.fcs	2799
+478802	Flow cytometry compensation or control	620691	1_8_13_Comp_FITC.478802.fcs	1_8_13_Comp_FITC.fcs	2799
+478803	Flow cytometry compensation or control	561193	1_8_13_Comp_PO.478803.fcs	1_8_13_Comp_PO.fcs	2799
+478804	Flow cytometry compensation or control	555582	1_8_13_Comp_Pacific_Blue.478804.fcs	1_8_13_Comp_Pacific_Blue.fcs	2799
+478805	Flow cytometry result	82649802	HIPCJDM144M3_2.478805.txt	HIPCJDM144M3_2.txt	2799
+478806	Flow cytometry result	23977440	HIPCJDM160M3_2.478806.fcs	HIPCJDM160M3_2.fcs	2799
+478807	Flow cytometry result	28631291	HIPCJDM160M3_2.478807.txt	HIPCJDM160M3_2.txt	2799
+478810	Flow cytometry result	21806880	HIPCJDM91M3_2.478810.fcs	HIPCJDM91M3_2.fcs	2799
+478811	Flow cytometry result	25816206	HIPCJDM91M3_2.478811.txt	HIPCJDM91M3_2.txt	2799
+478812	Flow cytometry result	59784578	HIPCJDM144M3_3.478812.fcs	HIPCJDM144M3_3.fcs	2799
+478813	Flow cytometry compensation or control	567525	1_8_13_Comp_CD11c_APC_H7.478813.fcs	1_8_13_Comp_CD11c_APC_H7.fcs	2799
+478814	Flow cytometry compensation or control	586935	1_8_13_Comp_CD1c_PE_Cy7.478814.fcs	1_8_13_Comp_CD1c_PE_Cy7.fcs	2799
+478815	Flow cytometry result	70636621	HIPCJDM144M3_3.478815.txt	HIPCJDM144M3_3.txt	2799
+478816	Flow cytometry result	24668730	HIPCJDM160M3_3.478816.fcs	HIPCJDM160M3_3.fcs	2799
+478817	Flow cytometry result	29100005	HIPCJDM160M3_3.478817.txt	HIPCJDM160M3_3.txt	2799
+478820	Flow cytometry result	22560548	HIPCJDM91M3_3.478820.fcs	HIPCJDM91M3_3.fcs	2799
+478821	Flow cytometry result	26602904	HIPCJDM91M3_3.478821.txt	HIPCJDM91M3_3.txt	2799
+478822	Flow cytometry result	44338506	HIPCJDM144M3_4.478822.fcs	HIPCJDM144M3_4.fcs	2799
+478823	Flow cytometry compensation or control	565771	1_8_13_Comp_CD4_APC_H7.478823.fcs	1_8_13_Comp_CD4_APC_H7.fcs	2799
+478824	Flow cytometry compensation or control	588047	1_8_13_Comp_CXCR3_PE_Cy5.478824.fcs	1_8_13_Comp_CXCR3_PE_Cy5.fcs	2799
+478825	Flow cytometry compensation or control	759245	1_8_13_Comp_ICOS_PE_Cy7.478825.fcs	1_8_13_Comp_ICOS_PE_Cy7.fcs	2799
+478826	Flow cytometry result	52168389	HIPCJDM144M3_4.478826.txt	HIPCJDM144M3_4.txt	2799
+478827	Flow cytometry result	20486679	HIPCJDM160M3_4.478827.fcs	HIPCJDM160M3_4.fcs	2799
+478828	Flow cytometry result	24451363	HIPCJDM160M3_4.478828.txt	HIPCJDM160M3_4.txt	2799
+478831	Flow cytometry result	17996604	HIPCJDM91M3_4.478831.fcs	HIPCJDM91M3_4.fcs	2799
+478832	Flow cytometry result	21351058	HIPCJDM91M3_4.478832.txt	HIPCJDM91M3_4.txt	2799
+478833	Flow cytometry result	60145865	HIPCJDM144M3_1b.478833.fcs	HIPCJDM144M3_1b.fcs	2799
+478834	Flow cytometry compensation or control	555011	1_8_13_Comp_CD27_APC_H7.478834.fcs	1_8_13_Comp_CD27_APC_H7.fcs	2799
+478835	Flow cytometry compensation or control	580127	1_8_13_Comp_CD38_PE_Cy7.478835.fcs	1_8_13_Comp_CD38_PE_Cy7.fcs	2799
+478836	Flow cytometry result	71604306	HIPCJDM144M3_1b.478836.txt	HIPCJDM144M3_1b.txt	2799
+478837	Flow cytometry result	15388600	HIPCJDM160M3_1b.478837.fcs	HIPCJDM160M3_1b.fcs	2799
+478838	Flow cytometry result	18194353	HIPCJDM160M3_1b.478838.txt	HIPCJDM160M3_1b.txt	2799
+478841	Flow cytometry result	18495709	HIPCJDM91M3_1b.478841.fcs	HIPCJDM91M3_1b.fcs	2799
+478842	Flow cytometry result	21640007	HIPCJDM91M3_1b.478842.txt	HIPCJDM91M3_1b.txt	2799
+478843	Flow cytometry result	52990838	HIPCJDM109D28_2.478843.fcs	HIPCJDM109D28_2.fcs	2799
+478844	Flow cytometry compensation or control	10703201	HIPCJDM109D28_unstained.478844.fcs	HIPCJDM109D28_unstained.fcs	2799
+478845	Flow cytometry compensation or control	464356	1_2_13_Comp_Unstained.478845.fcs	1_2_13_Comp_Unstained.fcs	2799
+478846	Flow cytometry compensation or control	464393	1_2_13_Comp_CD11b_PE_Cy7.478846.fcs	1_2_13_Comp_CD11b_PE_Cy7.fcs	2799
+478847	Flow cytometry compensation or control	464379	1_2_13_Comp_PE.478847.fcs	1_2_13_Comp_PE.fcs	2799
+478848	Flow cytometry compensation or control	464383	1_2_13_Comp_APC.478848.fcs	1_2_13_Comp_APC.fcs	2799
+478849	Flow cytometry compensation or control	464389	1_2_13_Comp_CD16_APC_H7.478849.fcs	1_2_13_Comp_CD16_APC_H7.fcs	2799
+478850	Flow cytometry compensation or control	464380	1_2_13_Comp_ECD.478850.fcs	1_2_13_Comp_ECD.fcs	2799
+478851	Flow cytometry compensation or control	362083	1_2_13_Comp_CD20_PE_Cy5.478851.fcs	1_2_13_Comp_CD20_PE_Cy5.fcs	2799
+478852	Flow cytometry compensation or control	464405	1_2_13_Comp_Alexa_700.478852.fcs	1_2_13_Comp_Alexa_700.fcs	2799
+478853	Flow cytometry compensation or control	464379	1_2_13_Comp_FITC.478853.fcs	1_2_13_Comp_FITC.fcs	2799
+478854	Flow cytometry compensation or control	464404	1_2_13_Comp_PO.478854.fcs	1_2_13_Comp_PO.fcs	2799
+478855	Flow cytometry compensation or control	577013	1_2_13_Comp_Pacific_Blue.478855.fcs	1_2_13_Comp_Pacific_Blue.fcs	2799
+478856	Flow cytometry result	60586392	HIPCJDM109D28_2.478856.txt	HIPCJDM109D28_2.txt	2799
+478857	Flow cytometry result	67578542	HIPCJDM109D28_3.478857.fcs	HIPCJDM109D28_3.fcs	2799
+478858	Flow cytometry compensation or control	464393	1_2_13_Comp_CD11c_APC_H7.478858.fcs	1_2_13_Comp_CD11c_APC_H7.fcs	2799
+478859	Flow cytometry compensation or control	464388	1_2_13_Comp_CD1c_PE_Cy7.478859.fcs	1_2_13_Comp_CD1c_PE_Cy7.fcs	2799
+478860	Flow cytometry result	76636726	HIPCJDM109D28_3.478860.txt	HIPCJDM109D28_3.txt	2799
+478861	Flow cytometry result	53221284	HIPCJDM109D28_4.478861.fcs	HIPCJDM109D28_4.fcs	2799
+478862	Flow cytometry compensation or control	464385	1_2_13_Comp_CD4_APC_H7.478862.fcs	1_2_13_Comp_CD4_APC_H7.fcs	2799
+478863	Flow cytometry compensation or control	464397	1_2_13_Comp_CXCR3_PE_Cy5.478863.fcs	1_2_13_Comp_CXCR3_PE_Cy5.fcs	2799
+478864	Flow cytometry compensation or control	464378	1_2_13_Comp_ICOS_PE_Cy7.478864.fcs	1_2_13_Comp_ICOS_PE_Cy7.fcs	2799
+478865	Flow cytometry result	63597903	HIPCJDM109D28_4.478865.txt	HIPCJDM109D28_4.txt	2799
+478866	Flow cytometry result	76958586	HIPCJDM109D28_1b.478866.fcs	HIPCJDM109D28_1b.fcs	2799
+478867	Flow cytometry compensation or control	464387	1_2_13_Comp_CD27_APC_H7.478867.fcs	1_2_13_Comp_CD27_APC_H7.fcs	2799
+478868	Flow cytometry compensation or control	464388	1_2_13_Comp_CD38_PE_Cy7.478868.fcs	1_2_13_Comp_CD38_PE_Cy7.fcs	2799
+478869	Flow cytometry result	86501169	HIPCJDM109D28_1b.478869.txt	HIPCJDM109D28_1b.txt	2799
+478870	Flow cytometry result	73781910	HIPCJDM165M3_2.478870.fcs	HIPCJDM165M3_2.fcs	2799
+478871	Flow cytometry compensation or control	6889444	HIPCJDM165M3_unstained.478871.fcs	HIPCJDM165M3_unstained.fcs	2799
+478872	Flow cytometry result	88490403	HIPCJDM165M3_2.478872.txt	HIPCJDM165M3_2.txt	2799
+478873	Flow cytometry result	76443932	HIPCJDM165M3_3.478873.fcs	HIPCJDM165M3_3.fcs	2799
+478874	Flow cytometry result	90105425	HIPCJDM165M3_3.478874.txt	HIPCJDM165M3_3.txt	2799
+478875	Flow cytometry result	74083116	HIPCJDM165M3_4.478875.fcs	HIPCJDM165M3_4.fcs	2799
+478876	Flow cytometry result	87932665	HIPCJDM165M3_4.478876.txt	HIPCJDM165M3_4.txt	2799
+478877	Flow cytometry result	80980915	HIPCJDM165M3_1b.478877.fcs	HIPCJDM165M3_1b.fcs	2799
+478878	Flow cytometry result	95622685	HIPCJDM165M3_1b.478878.txt	HIPCJDM165M3_1b.txt	2799
+478890	Flow cytometry result	60202249	HIPCJDM56M3_2.478890.fcs	HIPCJDM56M3_2.fcs	2799
+478891	Flow cytometry compensation or control	593071	1_28_13_Comp_Unstained.478891.fcs	1_28_13_Comp_Unstained.fcs	2799
+478892	Flow cytometry compensation or control	619135	1_28_13_Comp_CD11b_PE_Cy7.478892.fcs	1_28_13_Comp_CD11b_PE_Cy7.fcs	2799
+478893	Flow cytometry compensation or control	586743	1_28_13_Comp_PE.478893.fcs	1_28_13_Comp_PE.fcs	2799
+478894	Flow cytometry compensation or control	794847	1_28_13_Comp_APC.478894.fcs	1_28_13_Comp_APC.fcs	2799
+478895	Flow cytometry compensation or control	616556	1_28_13_Comp_CD16_APC_H7.478895.fcs	1_28_13_Comp_CD16_APC_H7.fcs	2799
+478896	Flow cytometry compensation or control	604409	1_28_13_Comp_ECD.478896.fcs	1_28_13_Comp_ECD.fcs	2799
+478897	Flow cytometry compensation or control	609199	1_28_13_Comp_CD20_PE_Cy5.478897.fcs	1_28_13_Comp_CD20_PE_Cy5.fcs	2799
+478898	Flow cytometry compensation or control	613812	1_28_13_Comp_Alexa_700.478898.fcs	1_28_13_Comp_Alexa_700.fcs	2799
+478899	Flow cytometry compensation or control	606987	1_28_13_Comp_FITC.478899.fcs	1_28_13_Comp_FITC.fcs	2799
+478900	Flow cytometry compensation or control	630281	1_28_13_Comp_PO.478900.fcs	1_28_13_Comp_PO.fcs	2799
+478901	Flow cytometry compensation or control	924406	1_28_13_Comp_Pacific_Blue.478901.fcs	1_28_13_Comp_Pacific_Blue.fcs	2799
+478902	Flow cytometry result	73820451	HIPCJDM56M3_2.478902.txt	HIPCJDM56M3_2.txt	2799
+478903	Flow cytometry result	28200789	HIPCJDM56M3_3.478903.fcs	HIPCJDM56M3_3.fcs	2799
+478904	Flow cytometry compensation or control	529715	1_28_13_Comp_CD11c_APC_H7.478904.fcs	1_28_13_Comp_CD11c_APC_H7.fcs	2799
+478905	Flow cytometry compensation or control	547188	1_28_13_Comp_CD1c_PE_Cy7.478905.fcs	1_28_13_Comp_CD1c_PE_Cy7.fcs	2799
+478906	Flow cytometry result	34205201	HIPCJDM56M3_3.478906.txt	HIPCJDM56M3_3.txt	2799
+478907	Flow cytometry result	54369716	HIPCJDM56M3_4.478907.fcs	HIPCJDM56M3_4.fcs	2799
+478908	Flow cytometry compensation or control	543233	1_28_13_Comp_CD4_APC_H7.478908.fcs	1_28_13_Comp_CD4_APC_H7.fcs	2799
+478909	Flow cytometry compensation or control	543249	1_28_13_Comp_CXCR3_PE_Cy5.478909.fcs	1_28_13_Comp_CXCR3_PE_Cy5.fcs	2799
+478910	Flow cytometry compensation or control	610847	1_28_13_Comp_ICOS_PE_Cy7.478910.fcs	1_28_13_Comp_ICOS_PE_Cy7.fcs	2799
+478911	Flow cytometry result	65273153	HIPCJDM56M3_4.478911.txt	HIPCJDM56M3_4.txt	2799
+478912	Flow cytometry result	56791907	HIPCJDM56M3_1b.478912.fcs	HIPCJDM56M3_1b.fcs	2799
+478913	Flow cytometry compensation or control	604135	1_28_13_Comp_CD27_APC_H7.478913.fcs	1_28_13_Comp_CD27_APC_H7.fcs	2799
+478914	Flow cytometry compensation or control	610117	1_28_13_Comp_CD38_PE_Cy7.478914.fcs	1_28_13_Comp_CD38_PE_Cy7.fcs	2799
+478915	Flow cytometry result	68809041	HIPCJDM56M3_1b.478915.txt	HIPCJDM56M3_1b.txt	2799
+478916	Flow cytometry result	31749683	HIPCJDM44M3_2.478916.fcs	HIPCJDM44M3_2.fcs	2799
+478917	Flow cytometry compensation or control	464357	1_9_13_Comp_Unstained.478917.fcs	1_9_13_Comp_Unstained.fcs	2799
+478918	Flow cytometry compensation or control	464390	1_9_13_Comp_CD11b_PE_Cy7.478918.fcs	1_9_13_Comp_CD11b_PE_Cy7.fcs	2799
+478919	Flow cytometry compensation or control	464378	1_9_13_Comp_PE.478919.fcs	1_9_13_Comp_PE.fcs	2799
+478920	Flow cytometry compensation or control	464382	1_9_13_Comp_APC.478920.fcs	1_9_13_Comp_APC.fcs	2799
+478921	Flow cytometry compensation or control	641488	1_9_13_Comp_CD16_APC_H7.478921.fcs	1_9_13_Comp_CD16_APC_H7.fcs	2799
+478922	Flow cytometry compensation or control	464380	1_9_13_Comp_ECD.478922.fcs	1_9_13_Comp_ECD.fcs	2799
+478923	Flow cytometry compensation or control	464388	1_9_13_Comp_CD20_PE_Cy5.478923.fcs	1_9_13_Comp_CD20_PE_Cy5.fcs	2799
+478924	Flow cytometry compensation or control	464402	1_9_13_Comp_Alexa_700.478924.fcs	1_9_13_Comp_Alexa_700.fcs	2799
+478925	Flow cytometry compensation or control	464381	1_9_13_Comp_FITC.478925.fcs	1_9_13_Comp_FITC.fcs	2799
+478926	Flow cytometry compensation or control	464407	1_9_13_Comp_PO.478926.fcs	1_9_13_Comp_PO.fcs	2799
+478927	Flow cytometry compensation or control	464406	1_9_13_Comp_Pacific_Blue.478927.fcs	1_9_13_Comp_Pacific_Blue.fcs	2799
+478928	Flow cytometry result	38131352	HIPCJDM44M3_2.478928.txt	HIPCJDM44M3_2.txt	2799
+478929	Flow cytometry result	32736384	HIPCJDM44M3_3.478929.fcs	HIPCJDM44M3_3.fcs	2799
+478930	Flow cytometry compensation or control	464391	1_9_13_Comp_CD11c_APC_H7.478930.fcs	1_9_13_Comp_CD11c_APC_H7.fcs	2799
+478931	Flow cytometry compensation or control	464391	1_9_13_Comp_CD1c_PE_Cy7.478931.fcs	1_9_13_Comp_CD1c_PE_Cy7.fcs	2799
+478932	Flow cytometry result	39081606	HIPCJDM44M3_3.478932.txt	HIPCJDM44M3_3.txt	2799
+478933	Flow cytometry result	27021980	HIPCJDM44M3_4.478933.fcs	HIPCJDM44M3_4.fcs	2799
+478934	Flow cytometry compensation or control	464385	1_9_13_Comp_CD4_APC_H7.478934.fcs	1_9_13_Comp_CD4_APC_H7.fcs	2799
+478935	Flow cytometry compensation or control	464392	1_9_13_Comp_CXCR3_PE_Cy5.478935.fcs	1_9_13_Comp_CXCR3_PE_Cy5.fcs	2799
+478936	Flow cytometry compensation or control	464394	1_9_13_Comp_ICOS_PE_Cy7.478936.fcs	1_9_13_Comp_ICOS_PE_Cy7.fcs	2799
+478937	Flow cytometry result	32442220	HIPCJDM44M3_4.478937.txt	HIPCJDM44M3_4.txt	2799
+478938	Flow cytometry result	28106395	HIPCJDM44M3_1b.478938.fcs	HIPCJDM44M3_1b.fcs	2799
+478939	Flow cytometry compensation or control	464388	1_9_13_Comp_CD27_APC_H7.478939.fcs	1_9_13_Comp_CD27_APC_H7.fcs	2799
+478940	Flow cytometry compensation or control	464387	1_9_13_Comp_CD38_PE_Cy7.478940.fcs	1_9_13_Comp_CD38_PE_Cy7.fcs	2799
+478941	Flow cytometry result	33368709	HIPCJDM44M3_1b.478941.txt	HIPCJDM44M3_1b.txt	2799
+478943	Flow cytometry result	67179529	HIPCJDM67D0_2.478943.fcs	HIPCJDM67D0_2.fcs	2799
+478944	Flow cytometry compensation or control	729965	1_29_13_Comp_Unstained.478944.fcs	1_29_13_Comp_Unstained.fcs	2799
+478945	Flow cytometry compensation or control	583529	1_29_13_Comp_CD11b_PE_Cy7.478945.fcs	1_29_13_Comp_CD11b_PE_Cy7.fcs	2799
+478946	Flow cytometry compensation or control	545337	1_29_13_Comp_PE.478946.fcs	1_29_13_Comp_PE.fcs	2799
+478947	Flow cytometry compensation or control	569997	1_29_13_Comp_APC.478947.fcs	1_29_13_Comp_APC.fcs	2799
+478948	Flow cytometry compensation or control	581134	1_29_13_Comp_CD16_APC_H7.478948.fcs	1_29_13_Comp_CD16_APC_H7.fcs	2799
+478949	Flow cytometry compensation or control	560519	1_29_13_Comp_ECD.478949.fcs	1_29_13_Comp_ECD.fcs	2799
+478950	Flow cytometry compensation or control	571198	1_29_13_Comp_CD20_PE_Cy5.478950.fcs	1_29_13_Comp_CD20_PE_Cy5.fcs	2799
+478951	Flow cytometry compensation or control	553917	1_29_13_Comp_Alexa_700.478951.fcs	1_29_13_Comp_Alexa_700.fcs	2799
+478952	Flow cytometry compensation or control	595021	1_29_13_Comp_FITC.478952.fcs	1_29_13_Comp_FITC.fcs	2799
+478953	Flow cytometry compensation or control	568271	1_29_13_Comp_PO.478953.fcs	1_29_13_Comp_PO.fcs	2799
+478954	Flow cytometry compensation or control	566800	1_29_13_Comp_Pacific_Blue.478954.fcs	1_29_13_Comp_Pacific_Blue.fcs	2799
+478955	Flow cytometry result	81793552	HIPCJDM67D0_2.478955.txt	HIPCJDM67D0_2.txt	2799
+478956	Flow cytometry result	70398430	HIPCJDM67D0_3.478956.fcs	HIPCJDM67D0_3.fcs	2799
+478957	Flow cytometry compensation or control	591447	1_29_13_Comp_CD11c_APC_H7.478957.fcs	1_29_13_Comp_CD11c_APC_H7.fcs	2799
+478958	Flow cytometry compensation or control	765597	1_29_13_Comp_CD1c_PE_Cy7.478958.fcs	1_29_13_Comp_CD1c_PE_Cy7.fcs	2799
+478959	Flow cytometry result	85602762	HIPCJDM67D0_3.478959.txt	HIPCJDM67D0_3.txt	2799
+478960	Flow cytometry result	65438973	HIPCJDM67D0_4.478960.fcs	HIPCJDM67D0_4.fcs	2799
+478961	Flow cytometry compensation or control	545809	1_29_13_Comp_CD4_APC_H7.478961.fcs	1_29_13_Comp_CD4_APC_H7.fcs	2799
+478962	Flow cytometry compensation or control	538096	1_29_13_Comp_CXCR3_PE_Cy5.478962.fcs	1_29_13_Comp_CXCR3_PE_Cy5.fcs	2799
+478963	Flow cytometry compensation or control	585366	1_29_13_Comp_ICOS_PE_Cy7.478963.fcs	1_29_13_Comp_ICOS_PE_Cy7.fcs	2799
+478964	Flow cytometry result	79150000	HIPCJDM67D0_4.478964.txt	HIPCJDM67D0_4.txt	2799
+478965	Flow cytometry result	63134473	HIPCJDM67D0_1b.478965.fcs	HIPCJDM67D0_1b.fcs	2799
+478966	Flow cytometry compensation or control	562734	1_29_13_Comp_CD27_APC_H7.478966.fcs	1_29_13_Comp_CD27_APC_H7.fcs	2799
+478967	Flow cytometry compensation or control	573314	1_29_13_Comp_CD38_PE_Cy7.478967.fcs	1_29_13_Comp_CD38_PE_Cy7.fcs	2799
+478968	Flow cytometry result	76485246	HIPCJDM67D0_1b.478968.txt	HIPCJDM67D0_1b.txt	2799
+478969	Flow cytometry result	50663230	HIPCJDM67D1_2.478969.fcs	HIPCJDM67D1_2.fcs	2799
+478970	Flow cytometry compensation or control	726471	1_31_13_Comp_Unstained.478970.fcs	1_31_13_Comp_Unstained.fcs	2799
+478971	Flow cytometry compensation or control	606622	1_31_13_Comp_CD11b_PE_Cy7.478971.fcs	1_31_13_Comp_CD11b_PE_Cy7.fcs	2799
+478972	Flow cytometry compensation or control	643870	1_31_13_Comp_PE.478972.fcs	1_31_13_Comp_PE.fcs	2799
+478973	Flow cytometry compensation or control	568157	1_31_13_Comp_APC.478973.fcs	1_31_13_Comp_APC.fcs	2799
+478974	Flow cytometry compensation or control	583343	1_31_13_Comp_CD16_APC_H7.478974.fcs	1_31_13_Comp_CD16_APC_H7.fcs	2799
+478975	Flow cytometry compensation or control	594288	1_31_13_Comp_ECD.478975.fcs	1_31_13_Comp_ECD.fcs	2799
+478976	Flow cytometry compensation or control	635601	1_31_13_Comp_CD20_PE_Cy5.478976.fcs	1_31_13_Comp_CD20_PE_Cy5.fcs	2799
+478977	Flow cytometry compensation or control	626506	1_31_13_Comp_Alexa_700.478977.fcs	1_31_13_Comp_Alexa_700.fcs	2799
+478978	Flow cytometry compensation or control	625656	1_31_13_Comp_FITC.478978.fcs	1_31_13_Comp_FITC.fcs	2799
+478979	Flow cytometry compensation or control	640122	1_31_13_Comp_PO.478979.fcs	1_31_13_Comp_PO.fcs	2799
+478980	Flow cytometry compensation or control	2829197	1_31_13_Comp_Pacific_Blue.478980.fcs	1_31_13_Comp_Pacific_Blue.fcs	2799
+478981	Flow cytometry result	61235970	HIPCJDM67D1_2.478981.txt	HIPCJDM67D1_2.txt	2799
+478982	Flow cytometry result	49078159	HIPCJDM67D1_3.478982.fcs	HIPCJDM67D1_3.fcs	2799
+478983	Flow cytometry compensation or control	570834	1_31_13_Comp_CD11c_APC_H7.478983.fcs	1_31_13_Comp_CD11c_APC_H7.fcs	2799
+478984	Flow cytometry compensation or control	629990	1_31_13_Comp_CD1c_PE_Cy7.478984.fcs	1_31_13_Comp_CD1c_PE_Cy7.fcs	2799
+478985	Flow cytometry result	58906780	HIPCJDM67D1_3.478985.txt	HIPCJDM67D1_3.txt	2799
+478986	Flow cytometry result	41887247	HIPCJDM67D1_4.478986.fcs	HIPCJDM67D1_4.fcs	2799
+478987	Flow cytometry compensation or control	613423	1_31_13_Comp_CD4_APC_H7.478987.fcs	1_31_13_Comp_CD4_APC_H7.fcs	2799
+478988	Flow cytometry compensation or control	596598	1_31_13_Comp_CXCR3_PE_Cy5.478988.fcs	1_31_13_Comp_CXCR3_PE_Cy5.fcs	2799
+478989	Flow cytometry compensation or control	767525	1_31_13_Comp_ICOS_PE_Cy7.478989.fcs	1_31_13_Comp_ICOS_PE_Cy7.fcs	2799
+478990	Flow cytometry result	50288299	HIPCJDM67D1_4.478990.txt	HIPCJDM67D1_4.txt	2799
+478991	Flow cytometry result	43379133	HIPCJDM67D1_1b.478991.fcs	HIPCJDM67D1_1b.fcs	2799
+478992	Flow cytometry compensation or control	613610	1_31_13_Comp_CD27_APC_H7.478992.fcs	1_31_13_Comp_CD27_APC_H7.fcs	2799
+478993	Flow cytometry compensation or control	621526	1_31_13_Comp_CD38_PE_Cy7.478993.fcs	1_31_13_Comp_CD38_PE_Cy7.fcs	2799
+478994	Flow cytometry result	52247009	HIPCJDM67D1_1b.478994.txt	HIPCJDM67D1_1b.txt	2799
+478996	Flow cytometry result	28425173	HIPCJDM100D7_1b.478996.fcs	HIPCJDM100D7_1b.fcs	2799
+478997	Flow cytometry compensation or control	573547	2_11_13_Comp_Unstained.478997.fcs	2_11_13_Comp_Unstained.fcs	2799
+478998	Flow cytometry compensation or control	601721	2_11_13_Comp_PE.478998.fcs	2_11_13_Comp_PE.fcs	2799
+478999	Flow cytometry compensation or control	959329	2_11_13_Comp_APC.478999.fcs	2_11_13_Comp_APC.fcs	2799
+479000	Flow cytometry compensation or control	605955	2_11_13_Comp_ECD.479000.fcs	2_11_13_Comp_ECD.fcs	2799
+479001	Flow cytometry compensation or control	592621	2_11_13_Comp_CD20_PE_Cy5.479001.fcs	2_11_13_Comp_CD20_PE_Cy5.fcs	2799
+479002	Flow cytometry compensation or control	618750	2_11_13_Comp_CD27_APC_H7.479002.fcs	2_11_13_Comp_CD27_APC_H7.fcs	2799
+479003	Flow cytometry compensation or control	649769	2_11_13_Comp_Alexa_700.479003.fcs	2_11_13_Comp_Alexa_700.fcs	2799
+479004	Flow cytometry compensation or control	632548	2_11_13_Comp_FITC.479004.fcs	2_11_13_Comp_FITC.fcs	2799
+479005	Flow cytometry compensation or control	581398	2_11_13_Comp_CD38_PE_Cy7.479005.fcs	2_11_13_Comp_CD38_PE_Cy7.fcs	2799
+479006	Flow cytometry compensation or control	626677	2_11_13_Comp_PO.479006.fcs	2_11_13_Comp_PO.fcs	2799
+479007	Flow cytometry compensation or control	627134	2_11_13_Comp_Pacific_Blue.479007.fcs	2_11_13_Comp_Pacific_Blue.fcs	2799
+479008	Flow cytometry result	33862052	HIPCJDM100D7_1b.479008.txt	HIPCJDM100D7_1b.txt	2799
+479009	Flow cytometry result	34479970	HIPCJDM100D7_3.479009.fcs	HIPCJDM100D7_3.fcs	2799
+479010	Flow cytometry compensation or control	641108	2_11_13_Comp_CD11c_APC_H7.479010.fcs	2_11_13_Comp_CD11c_APC_H7.fcs	2799
+479011	Flow cytometry compensation or control	570358	2_11_13_Comp_CD1c_PE_Cy7.479011.fcs	2_11_13_Comp_CD1c_PE_Cy7.fcs	2799
+479012	Flow cytometry result	41343358	HIPCJDM100D7_3.479012.txt	HIPCJDM100D7_3.txt	2799
+479013	Flow cytometry result	33016156	HIPCJDM100D7_2.479013.fcs	HIPCJDM100D7_2.fcs	2799
+479014	Flow cytometry compensation or control	614798	2_11_13_Comp_CD11b_PE_Cy7.479014.fcs	2_11_13_Comp_CD11b_PE_Cy7.fcs	2799
+479015	Flow cytometry compensation or control	617463	2_11_13_Comp_CD16_APC_H7.479015.fcs	2_11_13_Comp_CD16_APC_H7.fcs	2799
+479016	Flow cytometry result	39702698	HIPCJDM100D7_2.479016.txt	HIPCJDM100D7_2.txt	2799
+479017	Flow cytometry result	27777669	HIPCJDM100D7_4.479017.fcs	HIPCJDM100D7_4.fcs	2799
+479018	Flow cytometry compensation or control	644967	2_11_13_Comp_CD4_APC_H7.479018.fcs	2_11_13_Comp_CD4_APC_H7.fcs	2799
+479019	Flow cytometry compensation or control	598333	2_11_13_Comp_CXCR3_PE_Cy5.479019.fcs	2_11_13_Comp_CXCR3_PE_Cy5.fcs	2799
+479020	Flow cytometry compensation or control	748646	2_11_13_Comp_ICOS_PE_Cy7.479020.fcs	2_11_13_Comp_ICOS_PE_Cy7.fcs	2799
+479021	Flow cytometry result	33473522	HIPCJDM100D7_4.479021.txt	HIPCJDM100D7_4.txt	2799
+479022	Flow cytometry result	62582384	HIPCJDM171M3_1b.479022.fcs	HIPCJDM171M3_1b.fcs	2799
+479023	Flow cytometry compensation or control	888373	2_25_13_Comp_Unstained.479023.fcs	2_25_13_Comp_Unstained.fcs	2799
+479024	Flow cytometry compensation or control	822060	2_25_13_Comp_PE.479024.fcs	2_25_13_Comp_PE.fcs	2799
+479025	Flow cytometry compensation or control	877447	2_25_13_Comp_APC.479025.fcs	2_25_13_Comp_APC.fcs	2799
+479026	Flow cytometry compensation or control	740182	2_25_13_Comp_ECD.479026.fcs	2_25_13_Comp_ECD.fcs	2799
+479027	Flow cytometry compensation or control	719396	2_25_13_Comp_CD20_PE_Cy5.479027.fcs	2_25_13_Comp_CD20_PE_Cy5.fcs	2799
+479028	Flow cytometry compensation or control	731449	2_25_13_Comp_CD27_APC_H7.479028.fcs	2_25_13_Comp_CD27_APC_H7.fcs	2799
+479029	Flow cytometry compensation or control	859620	2_25_13_Comp_Alexa_700.479029.fcs	2_25_13_Comp_Alexa_700.fcs	2799
+479030	Flow cytometry compensation or control	736133	2_25_13_Comp_FITC.479030.fcs	2_25_13_Comp_FITC.fcs	2799
+479031	Flow cytometry compensation or control	729977	2_25_13_Comp_CD38_PE_Cy7.479031.fcs	2_25_13_Comp_CD38_PE_Cy7.fcs	2799
+479032	Flow cytometry compensation or control	737997	2_25_13_Comp_PO.479032.fcs	2_25_13_Comp_PO.fcs	2799
+479033	Flow cytometry compensation or control	1064962	2_25_13_Comp_Pacific_Blue.479033.fcs	2_25_13_Comp_Pacific_Blue.fcs	2799
+479034	Flow cytometry result	74542133	HIPCJDM171M3_1b.479034.txt	HIPCJDM171M3_1b.txt	2799
+479035	Flow cytometry result	65356650	HIPCJDM171M3_3.479035.fcs	HIPCJDM171M3_3.fcs	2799
+479036	Flow cytometry compensation or control	724736	2_25_13_Comp_CD11c_APC_H7.479036.fcs	2_25_13_Comp_CD11c_APC_H7.fcs	2799
+479037	Flow cytometry compensation or control	756381	2_25_13_Comp_CD1c_PE_Cy7.479037.fcs	2_25_13_Comp_CD1c_PE_Cy7.fcs	2799
+479038	Flow cytometry result	77914611	HIPCJDM171M3_3.479038.txt	HIPCJDM171M3_3.txt	2799
+479039	Flow cytometry result	71198273	HIPCJDM171M3_2.479039.fcs	HIPCJDM171M3_2.fcs	2799
+479040	Flow cytometry compensation or control	807628	2_25_13_Comp_CD11b_PE_Cy7.479040.fcs	2_25_13_Comp_CD11b_PE_Cy7.fcs	2799
+479041	Flow cytometry compensation or control	732371	2_25_13_Comp_CD16_APC_H7.479041.fcs	2_25_13_Comp_CD16_APC_H7.fcs	2799
+479042	Flow cytometry result	86895688	HIPCJDM171M3_2.479042.txt	HIPCJDM171M3_2.txt	2799
+479043	Flow cytometry result	64145739	HIPCJDM171M3_4.479043.fcs	HIPCJDM171M3_4.fcs	2799
+479044	Flow cytometry compensation or control	764750	2_25_13_Comp_CD4_APC_H7.479044.fcs	2_25_13_Comp_CD4_APC_H7.fcs	2799
+479045	Flow cytometry compensation or control	753255	2_25_13_Comp_CXCR3_PE_Cy5.479045.fcs	2_25_13_Comp_CXCR3_PE_Cy5.fcs	2799
+479046	Flow cytometry compensation or control	1131185	2_25_13_Comp_ICOS_PE_Cy7.479046.fcs	2_25_13_Comp_ICOS_PE_Cy7.fcs	2799
+479047	Flow cytometry result	76164363	HIPCJDM171M3_4.479047.txt	HIPCJDM171M3_4.txt	2799
+479049	Flow cytometry result	38730001	HIPCJDM55M3_1b.479049.fcs	HIPCJDM55M3_1b.fcs	2799
+479050	Flow cytometry compensation or control	612849	3_1_13_Comp_Unstained.479050.fcs	3_1_13_Comp_Unstained.fcs	2799
+479051	Flow cytometry compensation or control	756850	3_1_13_Comp_PE.479051.fcs	3_1_13_Comp_PE.fcs	2799
+479052	Flow cytometry compensation or control	889700	3_1_13_Comp_APC.479052.fcs	3_1_13_Comp_APC.fcs	2799
+479053	Flow cytometry compensation or control	674142	3_1_13_Comp_ECD.479053.fcs	3_1_13_Comp_ECD.fcs	2799
+479054	Flow cytometry compensation or control	644986	3_1_13_Comp_CD20_PE_Cy5.479054.fcs	3_1_13_Comp_CD20_PE_Cy5.fcs	2799
+479055	Flow cytometry compensation or control	732751	3_1_13_Comp_CD27_APC_H7.479055.fcs	3_1_13_Comp_CD27_APC_H7.fcs	2799
+479056	Flow cytometry compensation or control	750064	3_1_13_Comp_Alexa_700.479056.fcs	3_1_13_Comp_Alexa_700.fcs	2799
+479057	Flow cytometry compensation or control	673223	3_1_13_Comp_FITC.479057.fcs	3_1_13_Comp_FITC.fcs	2799
+479058	Flow cytometry compensation or control	676633	3_1_13_Comp_CD38_PE_Cy7.479058.fcs	3_1_13_Comp_CD38_PE_Cy7.fcs	2799
+479059	Flow cytometry compensation or control	599923	3_1_13_Comp_PO.479059.fcs	3_1_13_Comp_PO.fcs	2799
+479060	Flow cytometry compensation or control	1142537	3_1_13_Comp_Pacific_Blue.479060.fcs	3_1_13_Comp_Pacific_Blue.fcs	2799
+479061	Flow cytometry result	45999993	HIPCJDM55M3_1b.479061.txt	HIPCJDM55M3_1b.txt	2799
+479062	Flow cytometry result	41732515	HIPCJDM55M3_3.479062.fcs	HIPCJDM55M3_3.fcs	2799
+479063	Flow cytometry compensation or control	757043	3_1_13_Comp_CD11c_APC_H7.479063.fcs	3_1_13_Comp_CD11c_APC_H7.fcs	2799
+479064	Flow cytometry compensation or control	758884	3_1_13_Comp_CD1c_PE_Cy7.479064.fcs	3_1_13_Comp_CD1c_PE_Cy7.fcs	2799
+479065	Flow cytometry result	49894100	HIPCJDM55M3_3.479065.txt	HIPCJDM55M3_3.txt	2799
+479066	Flow cytometry result	40915000	HIPCJDM55M3_2.479066.fcs	HIPCJDM55M3_2.fcs	2799
+479067	Flow cytometry compensation or control	807750	3_1_13_Comp_CD11b_PE_Cy7.479067.fcs	3_1_13_Comp_CD11b_PE_Cy7.fcs	2799
+479068	Flow cytometry compensation or control	1004439	3_1_13_Comp_CD16_APC_H7.479068.fcs	3_1_13_Comp_CD16_APC_H7.fcs	2799
+479069	Flow cytometry result	49621568	HIPCJDM55M3_2.479069.txt	HIPCJDM55M3_2.txt	2799
+479070	Flow cytometry result	40007415	HIPCJDM55M3_4.479070.fcs	HIPCJDM55M3_4.fcs	2799
+479071	Flow cytometry compensation or control	763571	3_1_13_Comp_CD4_APC_H7.479071.fcs	3_1_13_Comp_CD4_APC_H7.fcs	2799
+479072	Flow cytometry compensation or control	649774	3_1_13_Comp_CXCR3_PE_Cy5.479072.fcs	3_1_13_Comp_CXCR3_PE_Cy5.fcs	2799
+479073	Flow cytometry compensation or control	886388	3_1_13_Comp_ICOS_PE_Cy7.479073.fcs	3_1_13_Comp_ICOS_PE_Cy7.fcs	2799
+479074	Flow cytometry result	48063761	HIPCJDM55M3_4.479074.txt	HIPCJDM55M3_4.txt	2799
+479075	Flow cytometry result	34576018	HIPCJDM67D31_1b.479075.fcs	HIPCJDM67D31_1b.fcs	2799
+479076	Flow cytometry result	41324736	HIPCJDM67D31_1b.479076.txt	HIPCJDM67D31_1b.txt	2799
+479077	Flow cytometry result	40036402	HIPCJDM67D31_3.479077.fcs	HIPCJDM67D31_3.fcs	2799
+479078	Flow cytometry result	47995710	HIPCJDM67D31_3.479078.txt	HIPCJDM67D31_3.txt	2799
+479079	Flow cytometry result	42191683	HIPCJDM67D31_2.479079.fcs	HIPCJDM67D31_2.fcs	2799
+479080	Flow cytometry result	51083988	HIPCJDM67D31_2.479080.txt	HIPCJDM67D31_2.txt	2799
+479081	Flow cytometry result	32772627	HIPCJDM67D31_4.479081.fcs	HIPCJDM67D31_4.fcs	2799
+479082	Flow cytometry result	39533077	HIPCJDM67D31_4.479082.txt	HIPCJDM67D31_4.txt	2799
+479084	Flow cytometry result	53577606	HIPCJDM155M3_2.479084.fcs	HIPCJDM155M3_2.fcs	2799
+479085	Flow cytometry compensation or control	613753	3_20_13_Comp_Unstained.479085.fcs	3_20_13_Comp_Unstained.fcs	2799
+479086	Flow cytometry compensation or control	735222	3_20_13_Comp_CD11b_PE_Cy7.479086.fcs	3_20_13_Comp_CD11b_PE_Cy7.fcs	2799
+479087	Flow cytometry compensation or control	690131	3_20_13_Comp_PE.479087.fcs	3_20_13_Comp_PE.fcs	2799
+479088	Flow cytometry compensation or control	900820	3_20_13_Comp_APC.479088.fcs	3_20_13_Comp_APC.fcs	2799
+479089	Flow cytometry compensation or control	723630	3_20_13_Comp_CD16_APC_H7.479089.fcs	3_20_13_Comp_CD16_APC_H7.fcs	2799
+479090	Flow cytometry compensation or control	714058	3_20_13_Comp_ECD.479090.fcs	3_20_13_Comp_ECD.fcs	2799
+479091	Flow cytometry compensation or control	696952	3_20_13_Comp_CD20_PE_Cy5.479091.fcs	3_20_13_Comp_CD20_PE_Cy5.fcs	2799
+479092	Flow cytometry compensation or control	725763	3_20_13_Comp_Alexa_700.479092.fcs	3_20_13_Comp_Alexa_700.fcs	2799
+479093	Flow cytometry compensation or control	744418	3_20_13_Comp_FITC.479093.fcs	3_20_13_Comp_FITC.fcs	2799
+479094	Flow cytometry compensation or control	742326	3_20_13_Comp_PO.479094.fcs	3_20_13_Comp_PO.fcs	2799
+479095	Flow cytometry compensation or control	1126159	3_20_13_Comp_Pacific_Blue.479095.fcs	3_20_13_Comp_Pacific_Blue.fcs	2799
+479096	Flow cytometry result	59648891	HIPCJDM155M3_2.479096.txt	HIPCJDM155M3_2.txt	2799
+479097	Flow cytometry result	52315095	HIPCJDM155M3_3.479097.fcs	HIPCJDM155M3_3.fcs	2799
+479098	Flow cytometry compensation or control	679563	3_20_13_Comp_CD11c_APC_H7.479098.fcs	3_20_13_Comp_CD11c_APC_H7.fcs	2799
+479099	Flow cytometry compensation or control	765586	3_20_13_Comp_CD1c_PE_Cy7.479099.fcs	3_20_13_Comp_CD1c_PE_Cy7.fcs	2799
+479100	Flow cytometry result	57900115	HIPCJDM155M3_3.479100.txt	HIPCJDM155M3_3.txt	2799
+479101	Flow cytometry result	41698470	HIPCJDM155M3_4.479101.fcs	HIPCJDM155M3_4.fcs	2799
+479102	Flow cytometry compensation or control	704305	3_20_13_Comp_CD4_APC_H7.479102.fcs	3_20_13_Comp_CD4_APC_H7.fcs	2799
+479103	Flow cytometry compensation or control	727408	3_20_13_Comp_CXCR3_PE_Cy5.479103.fcs	3_20_13_Comp_CXCR3_PE_Cy5.fcs	2799
+479104	Flow cytometry compensation or control	1185842	3_20_13_Comp_ICOS_PE_Cy7.479104.fcs	3_20_13_Comp_ICOS_PE_Cy7.fcs	2799
+479105	Flow cytometry result	46004232	HIPCJDM155M3_4.479105.txt	HIPCJDM155M3_4.txt	2799
+479106	Flow cytometry result	46052838	HIPCJDM155M3_1b.479106.fcs	HIPCJDM155M3_1b.fcs	2799
+479107	Flow cytometry compensation or control	756385	3_20_13_Comp_CD27_APC_H7.479107.fcs	3_20_13_Comp_CD27_APC_H7.fcs	2799
+479108	Flow cytometry compensation or control	732094	3_20_13_Comp_CD38_PE_Cy7.479108.fcs	3_20_13_Comp_CD38_PE_Cy7.fcs	2799
+479109	Flow cytometry result	50865838	HIPCJDM155M3_1b.479109.txt	HIPCJDM155M3_1b.txt	2799
+479110	Flow cytometry result	57571511	HIPCJDM109M3_2.479110.fcs	HIPCJDM109M3_2.fcs	2799
+479111	Flow cytometry compensation or control	1614445	3_25_13_Comp_Unstained.479111.fcs	3_25_13_Comp_Unstained.fcs	2799
+479112	Flow cytometry compensation or control	740194	3_25_13_Comp_CD11b_PE_Cy7.479112.fcs	3_25_13_Comp_CD11b_PE_Cy7.fcs	2799
+479113	Flow cytometry compensation or control	1670692	3_25_13_Comp_PE.479113.fcs	3_25_13_Comp_PE.fcs	2799
+479114	Flow cytometry compensation or control	823449	3_25_13_Comp_APC.479114.fcs	3_25_13_Comp_APC.fcs	2799
+479115	Flow cytometry compensation or control	1327270	3_25_13_Comp_CD16_APC_H7.479115.fcs	3_25_13_Comp_CD16_APC_H7.fcs	2799
+479116	Flow cytometry compensation or control	733377	3_25_13_Comp_ECD.479116.fcs	3_25_13_Comp_ECD.fcs	2799
+479117	Flow cytometry compensation or control	787572	3_25_13_Comp_CD20_PE_Cy5.479117.fcs	3_25_13_Comp_CD20_PE_Cy5.fcs	2799
+479118	Flow cytometry compensation or control	544342	3_25_13_Comp_Alexa_700.479118.fcs	3_25_13_Comp_Alexa_700.fcs	2799
+479119	Flow cytometry compensation or control	1036981	3_25_13_Comp_FITC.479119.fcs	3_25_13_Comp_FITC.fcs	2799
+479120	Flow cytometry compensation or control	991846	3_25_13_Comp_PO.479120.fcs	3_25_13_Comp_PO.fcs	2799
+479121	Flow cytometry compensation or control	182785	3_25_13_Comp_Pacific_Blue.479121.fcs	3_25_13_Comp_Pacific_Blue.fcs	2799
+479122	Flow cytometry result	70305041	HIPCJDM109M3_2.479122.txt	HIPCJDM109M3_2.txt	2799
+479123	Flow cytometry result	54644072	HIPCJDM109M3_3.479123.fcs	HIPCJDM109M3_3.fcs	2799
+479124	Flow cytometry compensation or control	880314	3_25_13_Comp_CD11c_APC_H7.479124.fcs	3_25_13_Comp_CD11c_APC_H7.fcs	2799
+479125	Flow cytometry compensation or control	2189398	3_25_13_Comp_CD1c_PE_Cy7.479125.fcs	3_25_13_Comp_CD1c_PE_Cy7.fcs	2799
+479126	Flow cytometry result	65730663	HIPCJDM109M3_3.479126.txt	HIPCJDM109M3_3.txt	2799
+479127	Flow cytometry result	42734938	HIPCJDM109M3_4.479127.fcs	HIPCJDM109M3_4.fcs	2799
+479128	Flow cytometry compensation or control	644328	3_25_13_Comp_CD4_APC_H7.479128.fcs	3_25_13_Comp_CD4_APC_H7.fcs	2799
+479129	Flow cytometry compensation or control	854737	3_25_13_Comp_CXCR3_PE_Cy5.479129.fcs	3_25_13_Comp_CXCR3_PE_Cy5.fcs	2799
+479130	Flow cytometry compensation or control	2263273	3_25_13_Comp_ICOS_PE_Cy7.479130.fcs	3_25_13_Comp_ICOS_PE_Cy7.fcs	2799
+479131	Flow cytometry result	51404172	HIPCJDM109M3_4.479131.txt	HIPCJDM109M3_4.txt	2799
+479132	Flow cytometry result	48931239	HIPCJDM109M3_1b.479132.fcs	HIPCJDM109M3_1b.fcs	2799
+479133	Flow cytometry compensation or control	1491944	3_25_13_Comp_CD27_APC_H7.479133.fcs	3_25_13_Comp_CD27_APC_H7.fcs	2799
+479134	Flow cytometry compensation or control	438711	3_25_13_Comp_CD38_PE_Cy7.479134.fcs	3_25_13_Comp_CD38_PE_Cy7.fcs	2799
+479135	Flow cytometry result	58507736	HIPCJDM109M3_1b.479135.txt	HIPCJDM109M3_1b.txt	2799
+479137	Flow cytometry result	34659829	HIPCJDM100M3_2.479137.fcs	HIPCJDM100M3_2.fcs	2799
+479138	Flow cytometry compensation or control	801074	4_1_13_Comp_Unstained.479138.fcs	4_1_13_Comp_Unstained.fcs	2799
+479139	Flow cytometry compensation or control	754547	4_1_13_Comp_CD11b_PE_Cy7.479139.fcs	4_1_13_Comp_CD11b_PE_Cy7.fcs	2799
+479140	Flow cytometry compensation or control	680103	4_1_13_Comp_PE.479140.fcs	4_1_13_Comp_PE.fcs	2799
+479141	Flow cytometry compensation or control	939823	4_1_13_Comp_APC.479141.fcs	4_1_13_Comp_APC.fcs	2799
+479142	Flow cytometry compensation or control	757208	4_1_13_Comp_CD16_APC_H7.479142.fcs	4_1_13_Comp_CD16_APC_H7.fcs	2799
+479143	Flow cytometry compensation or control	764748	4_1_13_Comp_ECD.479143.fcs	4_1_13_Comp_ECD.fcs	2799
+479144	Flow cytometry compensation or control	701180	4_1_13_Comp_CD20_PE_Cy5.479144.fcs	4_1_13_Comp_CD20_PE_Cy5.fcs	2799
+479145	Flow cytometry compensation or control	780132	4_1_13_Comp_Alexa_700.479145.fcs	4_1_13_Comp_Alexa_700.fcs	2799
+479146	Flow cytometry compensation or control	729513	4_1_13_Comp_FITC.479146.fcs	4_1_13_Comp_FITC.fcs	2799
+479147	Flow cytometry compensation or control	712148	4_1_13_Comp_PO.479147.fcs	4_1_13_Comp_PO.fcs	2799
+479148	Flow cytometry compensation or control	751436	4_1_13_Comp_Pacific_Blue.479148.fcs	4_1_13_Comp_Pacific_Blue.fcs	2799
+479149	Flow cytometry result	41872330	HIPCJDM100M3_2.479149.txt	HIPCJDM100M3_2.txt	2799
+479150	Flow cytometry result	33881971	HIPCJDM100M3_3.479150.fcs	HIPCJDM100M3_3.fcs	2799
+479151	Flow cytometry compensation or control	751510	4_1_13_Comp_CD11c_APC_H7.479151.fcs	4_1_13_Comp_CD11c_APC_H7.fcs	2799
+479152	Flow cytometry compensation or control	719673	4_1_13_Comp_CD1c_PE_Cy7.479152.fcs	4_1_13_Comp_CD1c_PE_Cy7.fcs	2799
+479153	Flow cytometry result	40701828	HIPCJDM100M3_3.479153.txt	HIPCJDM100M3_3.txt	2799
+479154	Flow cytometry result	28865018	HIPCJDM100M3_4.479154.fcs	HIPCJDM100M3_4.fcs	2799
+479155	Flow cytometry compensation or control	763830	4_1_13_Comp_CD4_APC_H7.479155.fcs	4_1_13_Comp_CD4_APC_H7.fcs	2799
+479156	Flow cytometry compensation or control	759330	4_1_13_Comp_CXCR3_PE_Cy5.479156.fcs	4_1_13_Comp_CXCR3_PE_Cy5.fcs	2799
+479157	Flow cytometry compensation or control	1258877	4_1_13_Comp_ICOS_PE_Cy7.479157.fcs	4_1_13_Comp_ICOS_PE_Cy7.fcs	2799
+479158	Flow cytometry result	34965373	HIPCJDM100M3_4.479158.txt	HIPCJDM100M3_4.txt	2799
+479159	Flow cytometry result	27244816	HIPCJDM100M3_1b.479159.fcs	HIPCJDM100M3_1b.fcs	2799
+479160	Flow cytometry compensation or control	731356	4_1_13_Comp_CD27_APC_H7.479160.fcs	4_1_13_Comp_CD27_APC_H7.fcs	2799
+479161	Flow cytometry compensation or control	735499	4_1_13_Comp_CD38_PE_Cy7.479161.fcs	4_1_13_Comp_CD38_PE_Cy7.fcs	2799
+479162	Flow cytometry result	32636049	HIPCJDM100M3_1b.479162.txt	HIPCJDM100M3_1b.txt	2799
+479190	Flow cytometry result	28382209	HIPCJDM100D0_2.479190.fcs	HIPCJDM100D0_2.fcs	2799
+479191	Flow cytometry compensation or control	464361	2_4_13_Comp_Unstained.479191.fcs	2_4_13_Comp_Unstained.fcs	2799
+479192	Flow cytometry compensation or control	464392	2_4_13_Comp_CD11b_PE_Cy7.479192.fcs	2_4_13_Comp_CD11b_PE_Cy7.fcs	2799
+479193	Flow cytometry compensation or control	464378	2_4_13_Comp_PE.479193.fcs	2_4_13_Comp_PE.fcs	2799
+479194	Flow cytometry compensation or control	924383	2_4_13_Comp_APC.479194.fcs	2_4_13_Comp_APC.fcs	2799
+479195	Flow cytometry compensation or control	464389	2_4_13_Comp_CD16_APC_H7.479195.fcs	2_4_13_Comp_CD16_APC_H7.fcs	2799
+479196	Flow cytometry compensation or control	464380	2_4_13_Comp_ECD.479196.fcs	2_4_13_Comp_ECD.fcs	2799
+479197	Flow cytometry compensation or control	464387	2_4_13_Comp_CD20_PE_Cy5.479197.fcs	2_4_13_Comp_CD20_PE_Cy5.fcs	2799
+479198	Flow cytometry compensation or control	464403	2_4_13_Comp_Alexa_700.479198.fcs	2_4_13_Comp_Alexa_700.fcs	2799
+479199	Flow cytometry compensation or control	464381	2_4_13_Comp_FITC.479199.fcs	2_4_13_Comp_FITC.fcs	2799
+479200	Flow cytometry compensation or control	464403	2_4_13_Comp_PO.479200.fcs	2_4_13_Comp_PO.fcs	2799
+479201	Flow cytometry compensation or control	464405	2_4_13_Comp_Pacific_Blue.479201.fcs	2_4_13_Comp_Pacific_Blue.fcs	2799
+479202	Flow cytometry result	34012791	HIPCJDM100D0_2.479202.txt	HIPCJDM100D0_2.txt	2799
+479203	Flow cytometry result	51102154	HIPCJDM8M3_2.479203.fcs	HIPCJDM8M3_2.fcs	2799
+479204	Flow cytometry result	62149973	HIPCJDM8M3_2.479204.txt	HIPCJDM8M3_2.txt	2799
+479205	Flow cytometry result	29201747	HIPCJDM100D0_3.479205.fcs	HIPCJDM100D0_3.fcs	2799
+479206	Flow cytometry compensation or control	464390	2_4_13_Comp_CD11c_APC_H7.479206.fcs	2_4_13_Comp_CD11c_APC_H7.fcs	2799
+479207	Flow cytometry compensation or control	464387	2_4_13_Comp_CD1c_PE_Cy7.479207.fcs	2_4_13_Comp_CD1c_PE_Cy7.fcs	2799
+479208	Flow cytometry result	34996441	HIPCJDM100D0_3.479208.txt	HIPCJDM100D0_3.txt	2799
+479209	Flow cytometry result	50458251	HIPCJDM8M3_3.479209.fcs	HIPCJDM8M3_3.fcs	2799
+479210	Flow cytometry result	60766687	HIPCJDM8M3_3.479210.txt	HIPCJDM8M3_3.txt	2799
+479211	Flow cytometry result	24450860	HIPCJDM100D0_4.479211.fcs	HIPCJDM100D0_4.fcs	2799
+479212	Flow cytometry compensation or control	464384	2_4_13_Comp_CD4_APC_H7.479212.fcs	2_4_13_Comp_CD4_APC_H7.fcs	2799
+479213	Flow cytometry compensation or control	464391	2_4_13_Comp_CXCR3_PE_Cy5.479213.fcs	2_4_13_Comp_CXCR3_PE_Cy5.fcs	2799
+479214	Flow cytometry compensation or control	464389	2_4_13_Comp_ICOS_PE_Cy7.479214.fcs	2_4_13_Comp_ICOS_PE_Cy7.fcs	2799
+479215	Flow cytometry result	29405965	HIPCJDM100D0_4.479215.txt	HIPCJDM100D0_4.txt	2799
+479216	Flow cytometry result	43050404	HIPCJDM8M3_4.479216.fcs	HIPCJDM8M3_4.fcs	2799
+479217	Flow cytometry result	51964474	HIPCJDM8M3_4.479217.txt	HIPCJDM8M3_4.txt	2799
+479218	Flow cytometry result	23397925	HIPCJDM100D0_1b.479218.fcs	HIPCJDM100D0_1b.fcs	2799
+479219	Flow cytometry compensation or control	464389	2_4_13_Comp_CD27_APC_H7.479219.fcs	2_4_13_Comp_CD27_APC_H7.fcs	2799
+479220	Flow cytometry compensation or control	464388	2_4_13_Comp_CD38_PE_Cy7.479220.fcs	2_4_13_Comp_CD38_PE_Cy7.fcs	2799
+479221	Flow cytometry result	27852670	HIPCJDM100D0_1b.479221.txt	HIPCJDM100D0_1b.txt	2799
+479222	Flow cytometry result	45754199	HIPCJDM8M3_1b.479222.fcs	HIPCJDM8M3_1b.fcs	2799
+479223	Flow cytometry result	54965572	HIPCJDM8M3_1b.479223.txt	HIPCJDM8M3_1b.txt	2799
+479250	Flow cytometry result	44814050	HIPCJDM67D10_2.479250.fcs	HIPCJDM67D10_2.fcs	2799
+479251	Flow cytometry compensation or control	1508839	2_8_13_Comp_Unstained.479251.fcs	2_8_13_Comp_Unstained.fcs	2799
+479252	Flow cytometry compensation or control	618398	2_8_13_Comp_CD11b_PE_Cy7.479252.fcs	2_8_13_Comp_CD11b_PE_Cy7.fcs	2799
+479253	Flow cytometry compensation or control	649758	2_8_13_Comp_PE.479253.fcs	2_8_13_Comp_PE.fcs	2799
+479254	Flow cytometry compensation or control	464386	2_8_13_Comp_APC.479254.fcs	2_8_13_Comp_APC.fcs	2799
+479255	Flow cytometry compensation or control	602938	2_8_13_Comp_CD16_APC_H7.479255.fcs	2_8_13_Comp_CD16_APC_H7.fcs	2799
+479256	Flow cytometry compensation or control	656019	2_8_13_Comp_ECD.479256.fcs	2_8_13_Comp_ECD.fcs	2799
+479257	Flow cytometry compensation or control	642222	2_8_13_Comp_CD20_PE_Cy5.479257.fcs	2_8_13_Comp_CD20_PE_Cy5.fcs	2799
+479258	Flow cytometry compensation or control	648585	2_8_13_Comp_Alexa_700.479258.fcs	2_8_13_Comp_Alexa_700.fcs	2799
+479259	Flow cytometry compensation or control	605966	2_8_13_Comp_FITC.479259.fcs	2_8_13_Comp_FITC.fcs	2799
+479260	Flow cytometry compensation or control	656130	2_8_13_Comp_PO.479260.fcs	2_8_13_Comp_PO.fcs	2799
+479261	Flow cytometry compensation or control	464404	2_8_13_Comp_Pacific_Blue.479261.fcs	2_8_13_Comp_Pacific_Blue.fcs	2799
+479262	Flow cytometry result	53747470	HIPCJDM67D10_2.479262.txt	HIPCJDM67D10_2.txt	2799
+479263	Flow cytometry result	44555628	HIPCJDM67D10_3.479263.fcs	HIPCJDM67D10_3.fcs	2799
+479264	Flow cytometry compensation or control	646641	2_8_13_Comp_CD11c_APC_H7.479264.fcs	2_8_13_Comp_CD11c_APC_H7.fcs	2799
+479265	Flow cytometry compensation or control	624100	2_8_13_Comp_CD1c_PE_Cy7.479265.fcs	2_8_13_Comp_CD1c_PE_Cy7.fcs	2799
+479266	Flow cytometry result	53006698	HIPCJDM67D10_3.479266.txt	HIPCJDM67D10_3.txt	2799
+479267	Flow cytometry result	33355906	HIPCJDM67D10_4.479267.fcs	HIPCJDM67D10_4.fcs	2799
+479268	Flow cytometry compensation or control	711955	2_8_13_Comp_CD4_APC_H7.479268.fcs	2_8_13_Comp_CD4_APC_H7.fcs	2799
+479269	Flow cytometry compensation or control	709574	2_8_13_Comp_CXCR3_PE_Cy5.479269.fcs	2_8_13_Comp_CXCR3_PE_Cy5.fcs	2799
+479270	Flow cytometry compensation or control	837631	2_8_13_Comp_ICOS_PE_Cy7.479270.fcs	2_8_13_Comp_ICOS_PE_Cy7.fcs	2799
+479271	Flow cytometry result	39884197	HIPCJDM67D10_4.479271.txt	HIPCJDM67D10_4.txt	2799
+479272	Flow cytometry result	47656674	HIPCJDM67D10_1b.479272.fcs	HIPCJDM67D10_1b.fcs	2799
+479273	Flow cytometry compensation or control	657770	2_8_13_Comp_CD27_APC_H7.479273.fcs	2_8_13_Comp_CD27_APC_H7.fcs	2799
+479274	Flow cytometry compensation or control	683347	2_8_13_Comp_CD38_PE_Cy7.479274.fcs	2_8_13_Comp_CD38_PE_Cy7.fcs	2799
+479275	Flow cytometry result	56264823	HIPCJDM67D10_1b.479275.txt	HIPCJDM67D10_1b.txt	2799
+479277	Flow cytometry result	52924276	HIPCJDM91D0_3.479277.fcs	HIPCJDM91D0_3.fcs	2799
+479278	Flow cytometry compensation or control	640707	10_1_12_Comp_Unstained.479278.fcs	10_1_12_Comp_Unstained.fcs	2799
+479279	Flow cytometry compensation or control	596828	10_1_12_Comp_APC_H7.479279.fcs	10_1_12_Comp_APC_H7.fcs	2799
+479280	Flow cytometry compensation or control	611632	10_1_12_Comp_PE.479280.fcs	10_1_12_Comp_PE.fcs	2799
+479281	Flow cytometry compensation or control	590473	10_1_12_Comp_APC.479281.fcs	10_1_12_Comp_APC.fcs	2799
+479282	Flow cytometry compensation or control	618809	10_1_12_Comp_ECD.479282.fcs	10_1_12_Comp_ECD.fcs	2799
+479283	Flow cytometry compensation or control	609523	10_1_12_Comp_PE_Cy5.479283.fcs	10_1_12_Comp_PE_Cy5.fcs	2799
+479284	Flow cytometry compensation or control	572172	10_1_12_Comp_PE_Cy7.479284.fcs	10_1_12_Comp_PE_Cy7.fcs	2799
+479285	Flow cytometry compensation or control	591233	10_1_12_Comp_Alexa_700.479285.fcs	10_1_12_Comp_Alexa_700.fcs	2799
+479286	Flow cytometry compensation or control	595075	10_1_12_Comp_FITC.479286.fcs	10_1_12_Comp_FITC.fcs	2799
+479287	Flow cytometry compensation or control	594911	10_1_12_Comp_PO.479287.fcs	10_1_12_Comp_PO.fcs	2799
+479288	Flow cytometry compensation or control	596563	10_1_12_Comp_Pacific_Blue.479288.fcs	10_1_12_Comp_Pacific_Blue.fcs	2799
+479289	Flow cytometry result	55717818	HIPCJDM91D0_3.479289.txt	HIPCJDM91D0_3.txt	2799
+479290	Flow cytometry result	51560098	HIPCJDM91D0_2.479290.fcs	HIPCJDM91D0_2.fcs	2799
+479291	Flow cytometry result	54573576	HIPCJDM91D0_2.479291.txt	HIPCJDM91D0_2.txt	2799
+479292	Flow cytometry result	44436167	HIPCJDM91D0_4.479292.fcs	HIPCJDM91D0_4.fcs	2799
+479293	Flow cytometry result	47347707	HIPCJDM91D0_4.479293.txt	HIPCJDM91D0_4.txt	2799
+479294	Flow cytometry result	53686404	HIPCJDM91D0_1b.479294.fcs	HIPCJDM91D0_1b.fcs	2799
+479295	Flow cytometry result	56509315	HIPCJDM91D0_1b.479295.txt	HIPCJDM91D0_1b.txt	2799
+479296	Flow cytometry result	56701843	HIPCJDM165D0_3.479296.fcs	HIPCJDM165D0_3.fcs	2799
+479297	Flow cytometry compensation or control	1071995	10_3_12_Comp_Unstained.479297.fcs	10_3_12_Comp_Unstained.fcs	2799
+479298	Flow cytometry compensation or control	757572	10_3_12_Comp_CD11c_APC_H7.479298.fcs	10_3_12_Comp_CD11c_APC_H7.fcs	2799
+479299	Flow cytometry compensation or control	901264	10_3_12_Comp_PE.479299.fcs	10_3_12_Comp_PE.fcs	2799
+479300	Flow cytometry compensation or control	5829890	10_3_12_Comp_APC.479300.fcs	10_3_12_Comp_APC.fcs	2799
+479301	Flow cytometry compensation or control	926199	10_3_12_Comp_ECD.479301.fcs	10_3_12_Comp_ECD.fcs	2799
+479302	Flow cytometry compensation or control	806512	10_3_12_Comp_CD20_PE_Cy5.479302.fcs	10_3_12_Comp_CD20_PE_Cy5.fcs	2799
+479303	Flow cytometry compensation or control	817369	10_3_12_Comp_CD1c_PE_Cy7.479303.fcs	10_3_12_Comp_CD1c_PE_Cy7.fcs	2799
+479304	Flow cytometry compensation or control	1026777	10_3_12_Comp_Alexa_700.479304.fcs	10_3_12_Comp_Alexa_700.fcs	2799
+479305	Flow cytometry compensation or control	839793	10_3_12_Comp_FITC.479305.fcs	10_3_12_Comp_FITC.fcs	2799
+479306	Flow cytometry compensation or control	705053	10_3_12_Comp_PO.479306.fcs	10_3_12_Comp_PO.fcs	2799
+479307	Flow cytometry compensation or control	791345	10_3_12_Comp_Pacific_Blue.479307.fcs	10_3_12_Comp_Pacific_Blue.fcs	2799
+479308	Flow cytometry result	67333949	HIPCJDM165D0_3.479308.txt	HIPCJDM165D0_3.txt	2799
+479309	Flow cytometry result	56075135	HIPCJDM165D0_2.479309.fcs	HIPCJDM165D0_2.fcs	2799
+479310	Flow cytometry compensation or control	839446	10_3_12_Comp_CD4_APC_H7.479310.fcs	10_3_12_Comp_CD4_APC_H7.fcs	2799
+479311	Flow cytometry result	67948858	HIPCJDM165D0_2.479311.txt	HIPCJDM165D0_2.txt	2799
+479312	Flow cytometry result	55214194	HIPCJDM165D0_4.479312.fcs	HIPCJDM165D0_4.fcs	2799
+479313	Flow cytometry compensation or control	778089	10_3_12_Comp_CXCR3_PE_Cy5.479313.fcs	10_3_12_Comp_CXCR3_PE_Cy5.fcs	2799
+479314	Flow cytometry compensation or control	776890	10_3_12_Comp_ICOS_PE_Cy7.479314.fcs	10_3_12_Comp_ICOS_PE_Cy7.fcs	2799
+479315	Flow cytometry result	65393536	HIPCJDM165D0_4.479315.txt	HIPCJDM165D0_4.txt	2799
+479316	Flow cytometry result	58089382	HIPCJDM165D0_1b.479316.fcs	HIPCJDM165D0_1b.fcs	2799
+479317	Flow cytometry compensation or control	759316	10_3_12_Comp_CD27_APC_H7.479317.fcs	10_3_12_Comp_CD27_APC_H7.fcs	2799
+479318	Flow cytometry compensation or control	733466	10_3_12_Comp_CD38_PE_Cy7.479318.fcs	10_3_12_Comp_CD38_PE_Cy7.fcs	2799
+479319	Flow cytometry result	68684160	HIPCJDM165D0_1b.479319.txt	HIPCJDM165D0_1b.txt	2799
+479320	Flow cytometry result	59305911	HIPCJDM165D1_2.479320.fcs	HIPCJDM165D1_2.fcs	2799
+479321	Flow cytometry compensation or control	975409	10_4_12_Comp_Unstained.479321.fcs	10_4_12_Comp_Unstained.fcs	2799
+479322	Flow cytometry compensation or control	597131	10_4_12_Comp_CD11b_PE_Cy7.479322.fcs	10_4_12_Comp_CD11b_PE_Cy7.fcs	2799
+479323	Flow cytometry compensation or control	620031	10_4_12_Comp_PE.479323.fcs	10_4_12_Comp_PE.fcs	2799
+479324	Flow cytometry compensation or control	789947	10_4_12_Comp_APC.479324.fcs	10_4_12_Comp_APC.fcs	2799
+479325	Flow cytometry compensation or control	595838	10_4_12_Comp_CD16_APC_H7.479325.fcs	10_4_12_Comp_CD16_APC_H7.fcs	2799
+479326	Flow cytometry compensation or control	622517	10_4_12_Comp_ECD.479326.fcs	10_4_12_Comp_ECD.fcs	2799
+479327	Flow cytometry compensation or control	608256	10_4_12_Comp_CD20_PE_Cy5.479327.fcs	10_4_12_Comp_CD20_PE_Cy5.fcs	2799
+479328	Flow cytometry compensation or control	602935	10_4_12_Comp_Alexa_700.479328.fcs	10_4_12_Comp_Alexa_700.fcs	2799
+479329	Flow cytometry compensation or control	659485	10_4_12_Comp_FITC.479329.fcs	10_4_12_Comp_FITC.fcs	2799
+479330	Flow cytometry compensation or control	576630	10_4_12_Comp_PO.479330.fcs	10_4_12_Comp_PO.fcs	2799
+479331	Flow cytometry compensation or control	571745	10_4_12_Comp_Pacific_Blue.479331.fcs	10_4_12_Comp_Pacific_Blue.fcs	2799
+479332	Flow cytometry result	71021001	HIPCJDM165D1_2.479332.txt	HIPCJDM165D1_2.txt	2799
+479333	Flow cytometry result	62944319	HIPCJDM165D1_3.479333.fcs	HIPCJDM165D1_3.fcs	2799
+479334	Flow cytometry compensation or control	588479	10_4_12_Comp_CD11c_APC_H7.479334.fcs	10_4_12_Comp_CD11c_APC_H7.fcs	2799
+479335	Flow cytometry compensation or control	571916	10_4_12_Comp_CD1c_PE_Cy7.479335.fcs	10_4_12_Comp_CD1c_PE_Cy7.fcs	2799
+479336	Flow cytometry result	75882659	HIPCJDM165D1_3.479336.txt	HIPCJDM165D1_3.txt	2799
+479337	Flow cytometry result	62590209	HIPCJDM165D1_4.479337.fcs	HIPCJDM165D1_4.fcs	2799
+479338	Flow cytometry compensation or control	590685	10_4_12_Comp_CD4_APC_H7.479338.fcs	10_4_12_Comp_CD4_APC_H7.fcs	2799
+479339	Flow cytometry compensation or control	591613	10_4_12_Comp_CXCR3_PE_Cy5.479339.fcs	10_4_12_Comp_CXCR3_PE_Cy5.fcs	2799
+479340	Flow cytometry compensation or control	1301295	10_4_12_Comp_ICOS_PE_Cy7.479340.fcs	10_4_12_Comp_ICOS_PE_Cy7.fcs	2799
+479341	Flow cytometry result	75667342	HIPCJDM165D1_4.479341.txt	HIPCJDM165D1_4.txt	2799
+479342	Flow cytometry result	60648652	HIPCJDM165D1_1b.479342.fcs	HIPCJDM165D1_1b.fcs	2799
+479343	Flow cytometry compensation or control	605312	10_4_12_Comp_CD27_APC_H7.479343.fcs	10_4_12_Comp_CD27_APC_H7.fcs	2799
+479344	Flow cytometry compensation or control	576517	10_4_12_Comp_CD38_PE_Cy7.479344.fcs	10_4_12_Comp_CD38_PE_Cy7.fcs	2799
+479345	Flow cytometry result	73181686	HIPCJDM165D1_1b.479345.txt	HIPCJDM165D1_1b.txt	2799
+479347	Flow cytometry result	40885130	150720.479347.fcs	150720.fcs	2799
+479348	Flow cytometry compensation or control	551556	150702.479348.fcs	150702.fcs	2799
+479349	Flow cytometry compensation or control	538147	150709.479349.fcs	150709.fcs	2799
+479350	Flow cytometry compensation or control	548451	150716.479350.fcs	150716.fcs	2799
+479351	Flow cytometry compensation or control	568408	150704.479351.fcs	150704.fcs	2799
+479352	Flow cytometry compensation or control	614594	150712.479352.fcs	150712.fcs	2799
+479353	Flow cytometry compensation or control	578161	150705.479353.fcs	150705.fcs	2799
+479354	Flow cytometry compensation or control	548449	150710.479354.fcs	150710.fcs	2799
+479355	Flow cytometry compensation or control	549737	150706.479355.fcs	150706.fcs	2799
+479356	Flow cytometry compensation or control	557557	150714.479356.fcs	150714.fcs	2799
+479357	Flow cytometry compensation or control	545328	150713.479357.fcs	150713.fcs	2799
+479358	Flow cytometry compensation or control	548633	150708.479358.fcs	150708.fcs	2799
+479359	Flow cytometry compensation or control	546331	150717.479359.fcs	150717.fcs	2799
+479360	Flow cytometry compensation or control	534105	150719.479360.fcs	150719.fcs	2799
+479361	Flow cytometry compensation or control	561791	150707.479361.fcs	150707.fcs	2799
+479362	Flow cytometry compensation or control	541255	150703.479362.fcs	150703.fcs	2799
+479363	Flow cytometry compensation or control	539713	150715.479363.fcs	150715.fcs	2799
+479364	Flow cytometry compensation or control	556095	150718.479364.fcs	150718.fcs	2799
+479365	Flow cytometry compensation or control	771825	150711.479365.fcs	150711.fcs	2799
+479366	Flow cytometry result	48826256	150720.479366.txt	150720.txt	2799
+479367	Flow cytometry result	37975257	150722.479367.fcs	150722.fcs	2799
+479368	Flow cytometry result	45441850	150722.479368.txt	150722.txt	2799
+479369	Flow cytometry result	38511156	150721.479369.fcs	150721.fcs	2799
+479370	Flow cytometry result	46693844	150721.479370.txt	150721.txt	2799
+479371	Flow cytometry result	37446069	150723.479371.fcs	150723.fcs	2799
+479372	Flow cytometry result	45096871	150723.479372.txt	150723.txt	2799
+479374	Flow cytometry result	26525670	149820.479374.fcs	149820.fcs	2799
+479375	Flow cytometry compensation or control	558912	149858.479375.fcs	149858.fcs	2799
+479376	Flow cytometry compensation or control	555807	149870.479376.fcs	149870.fcs	2799
+479377	Flow cytometry compensation or control	545956	149860.479377.fcs	149860.fcs	2799
+479378	Flow cytometry compensation or control	801258	149867.479378.fcs	149867.fcs	2799
+479379	Flow cytometry compensation or control	587081	149861.479379.fcs	149861.fcs	2799
+479380	Flow cytometry compensation or control	553321	149865.479380.fcs	149865.fcs	2799
+479381	Flow cytometry compensation or control	598401	149862.479381.fcs	149862.fcs	2799
+479382	Flow cytometry compensation or control	578897	149869.479382.fcs	149869.fcs	2799
+479383	Flow cytometry compensation or control	554524	149868.479383.fcs	149868.fcs	2799
+479384	Flow cytometry compensation or control	554972	149859.479384.fcs	149859.fcs	2799
+479385	Flow cytometry compensation or control	549641	149864.479385.fcs	149864.fcs	2799
+479386	Flow cytometry compensation or control	549731	149871.479386.fcs	149871.fcs	2799
+479387	Flow cytometry compensation or control	547809	149873.479387.fcs	149873.fcs	2799
+479388	Flow cytometry compensation or control	555807	149863.479388.fcs	149863.fcs	2799
+479389	Flow cytometry compensation or control	541555	149872.479389.fcs	149872.fcs	2799
+479390	Flow cytometry compensation or control	768785	149866.479390.fcs	149866.fcs	2799
+479391	Flow cytometry result	30159083	149820.479391.txt	149820.txt	2799
+479392	Flow cytometry result	24934709	149822.479392.fcs	149822.fcs	2799
+479393	Flow cytometry result	28377497	149822.479393.txt	149822.txt	2799
+479394	Flow cytometry result	24550516	149821.479394.fcs	149821.fcs	2799
+479395	Flow cytometry result	28094002	149821.479395.txt	149821.txt	2799
+479396	Flow cytometry result	23989221	149823.479396.fcs	149823.fcs	2799
+479397	Flow cytometry result	27487056	149823.479397.txt	149823.txt	2799
+479399	Flow cytometry result	30355410	HIPCJDM155D7_2.479399.fcs	HIPCJDM155D7_2.fcs	2799
+479400	Flow cytometry compensation or control	505019	11_27_12_Comp_Unstained.479400.fcs	11_27_12_Comp_Unstained.fcs	2799
+479401	Flow cytometry compensation or control	499719	11_27_12_Comp_CD11b_PE_Cy7.479401.fcs	11_27_12_Comp_CD11b_PE_Cy7.fcs	2799
+479402	Flow cytometry compensation or control	536322	11_27_12_Comp_PE.479402.fcs	11_27_12_Comp_PE.fcs	2799
+479403	Flow cytometry compensation or control	762646	11_27_12_Comp_APC.479403.fcs	11_27_12_Comp_APC.fcs	2799
+479404	Flow cytometry compensation or control	503676	11_27_12_Comp_HLADR_APC_H7.479404.fcs	11_27_12_Comp_HLADR_APC_H7.fcs	2799
+479405	Flow cytometry compensation or control	534943	11_27_12_Comp_ECD.479405.fcs	11_27_12_Comp_ECD.fcs	2799
+479406	Flow cytometry compensation or control	533571	11_27_12_Comp_CD20_PE_Cy5.479406.fcs	11_27_12_Comp_CD20_PE_Cy5.fcs	2799
+479407	Flow cytometry compensation or control	508287	11_27_12_Comp_Alexa_700.479407.fcs	11_27_12_Comp_Alexa_700.fcs	2799
+479408	Flow cytometry compensation or control	658774	11_27_12_Comp_FITC.479408.fcs	11_27_12_Comp_FITC.fcs	2799
+479409	Flow cytometry compensation or control	511506	11_27_12_Comp_PO.479409.fcs	11_27_12_Comp_PO.fcs	2799
+479410	Flow cytometry compensation or control	505804	11_27_12_Comp_Pacific_Blue.479410.fcs	11_27_12_Comp_Pacific_Blue.fcs	2799
+479411	Flow cytometry result	36468251	HIPCJDM155D7_2.479411.txt	HIPCJDM155D7_2.txt	2799
+479412	Flow cytometry result	31759515	HIPCJDM155D7_3.479412.fcs	HIPCJDM155D7_3.fcs	2799
+479413	Flow cytometry compensation or control	517843	11_27_12_Comp_CD11c_APC_H7.479413.fcs	11_27_12_Comp_CD11c_APC_H7.fcs	2799
+479414	Flow cytometry compensation or control	530443	11_27_12_Comp_CD1c_PE_Cy7.479414.fcs	11_27_12_Comp_CD1c_PE_Cy7.fcs	2799
+479415	Flow cytometry result	37770876	HIPCJDM155D7_3.479415.txt	HIPCJDM155D7_3.txt	2799
+479416	Flow cytometry result	32474903	HIPCJDM155D7_4.479416.fcs	HIPCJDM155D7_4.fcs	2799
+479417	Flow cytometry compensation or control	509095	11_27_12_Comp_CD4_APC_H7.479417.fcs	11_27_12_Comp_CD4_APC_H7.fcs	2799
+479418	Flow cytometry compensation or control	533397	11_27_12_Comp_CXCR3_PE_Cy5.479418.fcs	11_27_12_Comp_CXCR3_PE_Cy5.fcs	2799
+479419	Flow cytometry compensation or control	825386	11_27_12_Comp_ICOS_PE_Cy7.479419.fcs	11_27_12_Comp_ICOS_PE_Cy7.fcs	2799
+479420	Flow cytometry result	38904013	HIPCJDM155D7_4.479420.txt	HIPCJDM155D7_4.txt	2799
+479421	Flow cytometry result	32623060	HIPCJDM155D7_1b.479421.fcs	HIPCJDM155D7_1b.fcs	2799
+479422	Flow cytometry compensation or control	507626	11_27_12_Comp_CD27_APC_H7.479422.fcs	11_27_12_Comp_CD27_APC_H7.fcs	2799
+479423	Flow cytometry compensation or control	528512	11_27_12_Comp_CD38_PE_Cy7.479423.fcs	11_27_12_Comp_CD38_PE_Cy7.fcs	2799
+479424	Flow cytometry result	38704541	HIPCJDM155D7_1b.479424.txt	HIPCJDM155D7_1b.txt	2799
+479426	Flow cytometry result	37892995	HIPCJDM8D28_2.479426.fcs	HIPCJDM8D28_2.fcs	2799
+479427	Flow cytometry compensation or control	2311280	12_3_12_Comp_Unstained.479427.fcs	12_3_12_Comp_Unstained.fcs	2799
+479428	Flow cytometry compensation or control	604327	12_3_12_Comp_CD11b_PE_Cy7.479428.fcs	12_3_12_Comp_CD11b_PE_Cy7.fcs	2799
+479429	Flow cytometry compensation or control	653715	12_3_12_Comp_PE.479429.fcs	12_3_12_Comp_PE.fcs	2799
+479430	Flow cytometry compensation or control	766326	12_3_12_Comp_APC.479430.fcs	12_3_12_Comp_APC.fcs	2799
+479431	Flow cytometry compensation or control	643706	12_3_12_Comp_HLADR_APC_H7.479431.fcs	12_3_12_Comp_HLADR_APC_H7.fcs	2799
+479432	Flow cytometry compensation or control	661444	12_3_12_Comp_ECD.479432.fcs	12_3_12_Comp_ECD.fcs	2799
+479433	Flow cytometry compensation or control	674790	12_3_12_Comp_CD20_PE_Cy5.479433.fcs	12_3_12_Comp_CD20_PE_Cy5.fcs	2799
+479434	Flow cytometry compensation or control	635710	12_3_12_Comp_Alexa_700.479434.fcs	12_3_12_Comp_Alexa_700.fcs	2799
+479435	Flow cytometry compensation or control	653536	12_3_12_Comp_FITC.479435.fcs	12_3_12_Comp_FITC.fcs	2799
+479436	Flow cytometry compensation or control	600656	12_3_12_Comp_PO.479436.fcs	12_3_12_Comp_PO.fcs	2799
+479437	Flow cytometry compensation or control	630744	12_3_12_Comp_Pacific_Blue.479437.fcs	12_3_12_Comp_Pacific_Blue.fcs	2799
+479438	Flow cytometry result	46017294	HIPCJDM8D28_2.479438.txt	HIPCJDM8D28_2.txt	2799
+479439	Flow cytometry result	39011068	HIPCJDM8D28_3.479439.fcs	HIPCJDM8D28_3.fcs	2799
+479440	Flow cytometry compensation or control	654002	12_3_12_Comp_CD11c_APC_H7.479440.fcs	12_3_12_Comp_CD11c_APC_H7.fcs	2799
+479441	Flow cytometry compensation or control	645627	12_3_12_Comp_CD1c_PE_Cy7.479441.fcs	12_3_12_Comp_CD1c_PE_Cy7.fcs	2799
+479442	Flow cytometry result	47035153	HIPCJDM8D28_3.479442.txt	HIPCJDM8D28_3.txt	2799
+479443	Flow cytometry result	39210981	HIPCJDM8D28_4.479443.fcs	HIPCJDM8D28_4.fcs	2799
+479444	Flow cytometry compensation or control	665219	12_3_12_Comp_CD4_APC_H7.479444.fcs	12_3_12_Comp_CD4_APC_H7.fcs	2799
+479445	Flow cytometry compensation or control	659062	12_3_12_Comp_CXCR3_PE_Cy5.479445.fcs	12_3_12_Comp_CXCR3_PE_Cy5.fcs	2799
+479446	Flow cytometry compensation or control	1295415	12_3_12_Comp_ICOS_PE_Cy7.479446.fcs	12_3_12_Comp_ICOS_PE_Cy7.fcs	2799
+479447	Flow cytometry result	47293923	HIPCJDM8D28_4.479447.txt	HIPCJDM8D28_4.txt	2799
+479448	Flow cytometry result	41026791	HIPCJDM8D28_1b.479448.fcs	HIPCJDM8D28_1b.fcs	2799
+479449	Flow cytometry compensation or control	635139	12_3_12_Comp_CD27_APC_H7.479449.fcs	12_3_12_Comp_CD27_APC_H7.fcs	2799
+479450	Flow cytometry compensation or control	689787	12_3_12_Comp_CD38_PE_Cy7.479450.fcs	12_3_12_Comp_CD38_PE_Cy7.fcs	2799
+479451	Flow cytometry result	49249268	HIPCJDM8D28_1b.479451.txt	HIPCJDM8D28_1b.txt	2799
+479548	Flow cytometry workspace	74234562	HIPCJDM_Fluzone2012_IMMP.479548.xml	HIPCJDM_Fluzone2012_IMMP.xml	2799
+703285	Illumina BeadArray	74983405	SDY372_EXP13710_microarray.703285.tsv	SDY372_EXP13710_microarray.tsv	2799

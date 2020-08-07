@@ -1,0 +1,16 @@
+NAME	DESCRIPTION	LINK	SORT_ORDER
+Affymetrix	Affymetrix reagent	http://www.affymetrix.com/support/technical/whitepapers.affx	1
+ELISA	ELISA reagent	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16553&ns=NCI_Thesaurus	2
+ELISPOT	ELISPOT reagent	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C102632&ns=NCI_Thesaurus	3
+Flow_Cytometry	Flow Cytometry reagent	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16585&ns=NCI_Thesaurus, http://bioconductor.org/packages/release/bioc/html/flowCore.html	4
+HAI	Hemagluttination Inhibition reagent	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C120688&ns=NCI_Thesaurus	6
+HLA_Typing_System	HLA Typing System reagent	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C71329&ns=NCI_Thesaurus	7
+Illumina	Illumina reagent	http://illumina.com, https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C45447&ns=NCI_Thesaurus	8
+KIR_Typing_System	KIR Typing System reagent	http://immport.org/immport-open/public/home/documentation	9
+Mass_Cytometry	Mass Cytometry reagent	http://immport.org/immport-open/public/home/documentation; https://en.wikipedia.org/wiki/Mass_cytometry	10
+MBAA	MBAA reagent	http://immport.org/immport-open/public/home/documentation	11
+PCR	PCR reagent (includes all types of traditional PCR and quantitative PCR reagents)	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C28408&ns=NCI_Thesaurus	12
+Sequencing	Sequencing reagent	http://immport.org/immport-open/public/home/documentation	13
+Virus_Neutralization	Virus Neutralization reagent	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C94196&ns=NCI_Thesaurus	14
+Other	Other reagent	http://immport.org/immport-open/public/home/documentation	15
+Array	Replaces Affy and Illumina	http://immport.org/immport-open/public/home/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C18158&ns=NCI_Thesaurus	5

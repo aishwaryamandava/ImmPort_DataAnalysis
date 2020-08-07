@@ -1,0 +1,11 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY202	arm or cohorts
+SDY202	demographics
+SDY202	documentation
+SDY202	inclusionExclusion
+SDY202	mechassays
+SDY202	publications
+SDY202	resources
+SDY202	study files
+SDY202	subject
+SDY202	summary

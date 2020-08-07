@@ -1,0 +1,3 @@
+STUDY_LINK_ID	NAME	STUDY_ACCESSION	TYPE	VALUE	WORKSPACE_ID
+806	clinicaltrials.gov	SDY514		https://clinicaltrials.gov/ct2/show/NCT01987349	2883
+334	Brodin Lab.github Twin data visualization	SDY514		http://brodinlab.github.io/Twin_data_visualization/biocells.html	2883

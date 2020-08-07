@@ -1,0 +1,941 @@
+FILE_INFO_ID	DETAIL	FILESIZE_BYTES	NAME	ORIGINAL_FILE_NAME	WORKSPACE_ID
+566429	Flow cytometry workspace	49	placeholder.566429.txt	placeholder.txt	2771
+727386	Flow cytometry result	9148886	export_206_0.727386.fcs	export_206_0.fcs	2771
+727387	Flow cytometry result	4940029	HIPc-H1N1-B2.727387.wsp	HIPc-H1N1-B2.wsp	2771
+727388	Flow cytometry result	2723600	B2.727388.jo	B2.jo	2771
+727389	Flow cytometry compensation or control	39	no_compensation.727389.txt	no_compensation.txt	2771
+727390	Flow cytometry result	9171425	export_206_70.727390.fcs	export_206_70.fcs	2771
+727391	Flow cytometry result	8125405	export_217_7.727391.fcs	export_217_7.fcs	2771
+727392	Flow cytometry result	18467421	export_218_pre 7.727392.fcs	export_218_pre 7.fcs	2771
+727393	Flow cytometry result	18169146	export_223_0.727393.fcs	export_223_0.fcs	2771
+727394	Flow cytometry result	16466344	export_223_7.727394.fcs	export_223_7.fcs	2771
+727395	Flow cytometry result	22221305	export_223_70.727395.fcs	export_223_70.fcs	2771
+727396	Flow cytometry result	15613942	export_223_pre 7.727396.fcs	export_223_pre 7.fcs	2771
+727397	Flow cytometry result	37988083	export_226_0.727397.fcs	export_226_0.fcs	2771
+727398	Flow cytometry result	54104563	export_226_1.727398.fcs	export_226_1.fcs	2771
+727399	Flow cytometry result	33787891	export_226_7.727399.fcs	export_226_7.fcs	2771
+727400	Flow cytometry result	37910900	export_226_70.727400.fcs	export_226_70.fcs	2771
+727401	Flow cytometry result	37957991	export_226_pre 7.727401.fcs	export_226_pre 7.fcs	2771
+727402	Flow cytometry result	28499058	export_231_7.727402.fcs	export_231_7.fcs	2771
+727403	Flow cytometry result	8199640	export_232_1.727403.fcs	export_232_1.fcs	2771
+727404	Flow cytometry result	7804505	export_232_70.727404.fcs	export_232_70.fcs	2771
+727405	Flow cytometry result	20082330	export_234_1.727405.fcs	export_234_1.fcs	2771
+727406	Flow cytometry result	10415827	export_234_70.727406.fcs	export_234_70.fcs	2771
+727407	Flow cytometry result	9045017	export_235_1.727407.fcs	export_235_1.fcs	2771
+727408	Flow cytometry result	8736498	export_235_70.727408.fcs	export_235_70.fcs	2771
+727409	Flow cytometry result	6200918	export_236_7.727409.fcs	export_236_7.fcs	2771
+727410	Flow cytometry result	30731635	export_243_0.727410.fcs	export_243_0.fcs	2771
+727411	Flow cytometry result	16716691	export_243_1.727411.fcs	export_243_1.fcs	2771
+727412	Flow cytometry result	27441524	export_243_7.727412.fcs	export_243_7.fcs	2771
+727413	Flow cytometry result	34706036	export_243_70.727413.fcs	export_243_70.fcs	2771
+727414	Flow cytometry result	28212215	export_243_pre 7.727414.fcs	export_243_pre 7.fcs	2771
+727415	Flow cytometry result	20940761	export_244_1.727415.fcs	export_244_1.fcs	2771
+727416	Flow cytometry result	7859801	export_244_70.727416.fcs	export_244_70.fcs	2771
+727417	Flow cytometry result	69154264	export_247_0.727417.fcs	export_247_0.fcs	2771
+727418	Flow cytometry result	54424793	export_247_1.727418.fcs	export_247_1.fcs	2771
+727419	Flow cytometry result	14463066	export_247_7.727419.fcs	export_247_7.fcs	2771
+727420	Flow cytometry result	10031322	export_247_70.727420.fcs	export_247_70.fcs	2771
+727421	Flow cytometry result	74221918	export_247_pre 7.727421.fcs	export_247_pre 7.fcs	2771
+727422	Flow cytometry result	16668497	export_249_0.727422.fcs	export_249_0.fcs	2771
+727423	Flow cytometry result	10617212	export_250_pre 7.727423.fcs	export_250_pre 7.fcs	2771
+727424	Flow cytometry result	12935512	export_254_0.727424.fcs	export_254_0.fcs	2771
+727425	Flow cytometry result	17614505	export_254_7.727425.fcs	export_254_7.fcs	2771
+727426	Flow cytometry result	15032153	export_256_7.727426.fcs	export_256_7.fcs	2771
+727427	Flow cytometry result	18592985	export_257_7.727427.fcs	export_257_7.fcs	2771
+727428	Flow cytometry result	7169749	export_259_7.727428.fcs	export_259_7.fcs	2771
+727429	Flow cytometry result	11058906	export_259_70.727429.fcs	export_259_70.fcs	2771
+727430	Flow cytometry result	16184584	export_263_0.727430.fcs	export_263_0.fcs	2771
+727431	Flow cytometry result	12776536	export_263_7.727431.fcs	export_263_7.fcs	2771
+727432	Flow cytometry result	13997658	export_263_70.727432.fcs	export_263_70.fcs	2771
+727433	Flow cytometry result	24516713	export_265_7.727433.fcs	export_265_7.fcs	2771
+727434	Flow cytometry result	6988887	export_267_1.727434.fcs	export_267_1.fcs	2771
+727435	Flow cytometry result	5394519	export_267_7.727435.fcs	export_267_7.fcs	2771
+727436	Flow cytometry result	9289432	export_267_70.727436.fcs	export_267_70.fcs	2771
+727437	Flow cytometry result	42192882	export_275_0.727437.fcs	export_275_0.fcs	2771
+727438	Flow cytometry result	21808244	export_275_1.727438.fcs	export_275_1.fcs	2771
+727439	Flow cytometry result	30418291	export_275_7.727439.fcs	export_275_7.fcs	2771
+727440	Flow cytometry result	44265332	export_275_70.727440.fcs	export_275_70.fcs	2771
+727441	Flow cytometry result	33329399	export_275_pre 7.727441.fcs	export_275_pre 7.fcs	2771
+727442	Flow cytometry result	11191385	export_279_1.727442.fcs	export_279_1.fcs	2771
+727443	Flow cytometry result	8522200	export_279_7.727443.fcs	export_279_7.fcs	2771
+727444	Flow cytometry result	9247961	export_280_1.727444.fcs	export_280_1.fcs	2771
+727445	Flow cytometry result	7833304	export_282_0.727445.fcs	export_282_0.fcs	2771
+727446	Flow cytometry result	5203287	export_282_1.727446.fcs	export_282_1.fcs	2771
+727447	Flow cytometry result	11668314	export_282_70.727447.fcs	export_282_70.fcs	2771
+727448	Flow cytometry result	21768483	export_200_pre 7.727448.fcs	export_200_pre 7.fcs	2771
+727449	Flow cytometry result	18401395	export_201_pre 7.727449.fcs	export_201_pre 7.fcs	2771
+727450	Flow cytometry result	7720219	export_202_pre 7.727450.fcs	export_202_pre 7.fcs	2771
+727451	Flow cytometry result	22527069	export_204_pre 7.727451.fcs	export_204_pre 7.fcs	2771
+727452	Flow cytometry result	30088795	export_205_pre 7.727452.fcs	export_205_pre 7.fcs	2771
+727453	Flow cytometry result	6356009	export_206_pre 7.727453.fcs	export_206_pre 7.fcs	2771
+727454	Flow cytometry result	34264797	export_207_pre 7.727454.fcs	export_207_pre 7.fcs	2771
+727455	Flow cytometry result	26863411	export_209_pre 7.727455.fcs	export_209_pre 7.fcs	2771
+727456	Flow cytometry result	3690715	export_212_pre 7.727456.fcs	export_212_pre 7.fcs	2771
+727457	Flow cytometry result	4740498	export_213_pre 7.727457.fcs	export_213_pre 7.fcs	2771
+727458	Flow cytometry result	32138230	export_215_pre 7.727458.fcs	export_215_pre 7.fcs	2771
+727459	Flow cytometry result	9196698	export_217_pre 7.727459.fcs	export_217_pre 7.fcs	2771
+727460	Flow cytometry result	31126965	export_221_pre 7.727460.fcs	export_221_pre 7.fcs	2771
+727461	Flow cytometry result	62065294	export_222_pre 7.727461.fcs	export_222_pre 7.fcs	2771
+727462	Flow cytometry result	19916349	export_224_pre 7.727462.fcs	export_224_pre 7.fcs	2771
+727463	Flow cytometry result	59308123	export_227_pre 7.727463.fcs	export_227_pre 7.fcs	2771
+727464	Flow cytometry result	21174622	export_228_pre 7.727464.fcs	export_228_pre 7.fcs	2771
+727465	Flow cytometry result	24899038	export_229_pre 7.727465.fcs	export_229_pre 7.fcs	2771
+727466	Flow cytometry result	6460265	export_230_pre 7.727466.fcs	export_230_pre 7.fcs	2771
+727467	Flow cytometry result	9969140	export_231_pre 7.727467.fcs	export_231_pre 7.fcs	2771
+727468	Flow cytometry result	20273756	export_232_pre 7.727468.fcs	export_232_pre 7.fcs	2771
+727469	Flow cytometry result	24670941	export_233_pre 7.727469.fcs	export_233_pre 7.fcs	2771
+727470	Flow cytometry result	32490382	export_234_pre 7.727470.fcs	export_234_pre 7.fcs	2771
+727471	Flow cytometry result	37970805	export_235_pre 7.727471.fcs	export_235_pre 7.fcs	2771
+727472	Flow cytometry result	35561950	export_236_pre 7.727472.fcs	export_236_pre 7.fcs	2771
+727473	Flow cytometry result	26955357	export_237_pre 7.727473.fcs	export_237_pre 7.fcs	2771
+727474	Flow cytometry result	32448119	export_241_pre 7.727474.fcs	export_241_pre 7.fcs	2771
+727475	Flow cytometry result	42894455	export_242_pre 7.727475.fcs	export_242_pre 7.fcs	2771
+727476	Flow cytometry result	10764499	export_244_pre 7.727476.fcs	export_244_pre 7.fcs	2771
+727477	Flow cytometry result	13387484	export_245_pre 7.727477.fcs	export_245_pre 7.fcs	2771
+727478	Flow cytometry result	12273140	export_246_pre 7.727478.fcs	export_246_pre 7.fcs	2771
+727479	Flow cytometry result	32337501	export_248_pre 7.727479.fcs	export_248_pre 7.fcs	2771
+727480	Flow cytometry result	40211205	export_249_pre 7.727480.fcs	export_249_pre 7.fcs	2771
+727481	Flow cytometry result	12308204	export_251_pre 7.727481.fcs	export_251_pre 7.fcs	2771
+727482	Flow cytometry result	38848605	export_254_pre 7.727482.fcs	export_254_pre 7.fcs	2771
+727483	Flow cytometry result	80965727	export_256_pre 7.727483.fcs	export_256_pre 7.fcs	2771
+727484	Flow cytometry result	40075485	export_257_pre 7.727484.fcs	export_257_pre 7.fcs	2771
+727485	Flow cytometry result	76581214	export_259_pre 7.727485.fcs	export_259_pre 7.fcs	2771
+727486	Flow cytometry result	10768124	export_260_pre 7.727486.fcs	export_260_pre 7.fcs	2771
+727487	Flow cytometry result	46451013	export_261_pre 7.727487.fcs	export_261_pre 7.fcs	2771
+727488	Flow cytometry result	18903669	export_262_pre 7.727488.fcs	export_262_pre 7.fcs	2771
+727489	Flow cytometry result	39265197	export_263_pre 7.727489.fcs	export_263_pre 7.fcs	2771
+727490	Flow cytometry result	22062237	export_265_pre 7.727490.fcs	export_265_pre 7.fcs	2771
+727491	Flow cytometry result	30441237	export_267_pre 7.727491.fcs	export_267_pre 7.fcs	2771
+727492	Flow cytometry result	18898844	export_268_pre 7.727492.fcs	export_268_pre 7.fcs	2771
+727493	Flow cytometry result	31195004	export_272_pre 7.727493.fcs	export_272_pre 7.fcs	2771
+727494	Flow cytometry result	36787389	export_273_pre 7.727494.fcs	export_273_pre 7.fcs	2771
+727495	Flow cytometry result	23905363	export_274_pre 7.727495.fcs	export_274_pre 7.fcs	2771
+727496	Flow cytometry result	38574141	export_277_pre 7.727496.fcs	export_277_pre 7.fcs	2771
+727497	Flow cytometry result	45175389	export_279_pre 7.727497.fcs	export_279_pre 7.fcs	2771
+727498	Flow cytometry result	44716893	export_280_pre 7.727498.fcs	export_280_pre 7.fcs	2771
+727499	Flow cytometry result	24293445	export_282_pre 7.727499.fcs	export_282_pre 7.fcs	2771
+727500	Flow cytometry result	19302140	export_283_pre 7.727500.fcs	export_283_pre 7.fcs	2771
+727501	Flow cytometry result	26371221	export_284_pre 7.727501.fcs	export_284_pre 7.fcs	2771
+727502	Flow cytometry result	16342551	export_200_0.727502.fcs	export_200_0.fcs	2771
+727503	Flow cytometry result	20500698	export_200_1.727503.fcs	export_200_1.fcs	2771
+727504	Flow cytometry result	18444087	export_200_7.727504.fcs	export_200_7.fcs	2771
+727505	Flow cytometry result	14159368	export_200_70.727505.fcs	export_200_70.fcs	2771
+727506	Flow cytometry result	17568927	export_201_0.727506.fcs	export_201_0.fcs	2771
+727507	Flow cytometry result	15055194	export_201_1.727507.fcs	export_201_1.fcs	2771
+727508	Flow cytometry result	29161361	export_201_7.727508.fcs	export_201_7.fcs	2771
+727509	Flow cytometry result	18691842	export_201_70.727509.fcs	export_201_70.fcs	2771
+727510	Flow cytometry result	4607655	export_202_0.727510.fcs	export_202_0.fcs	2771
+727511	Flow cytometry result	4661006	export_202_1.727511.fcs	export_202_1.fcs	2771
+727512	Flow cytometry result	5193014	export_202_7.727512.fcs	export_202_7.fcs	2771
+727513	Flow cytometry result	4880391	export_202_70.727513.fcs	export_202_70.fcs	2771
+727514	Flow cytometry result	45463815	export_204_0.727514.fcs	export_204_0.fcs	2771
+727515	Flow cytometry result	21507831	export_204_1.727515.fcs	export_204_1.fcs	2771
+727516	Flow cytometry result	25844825	export_204_7.727516.fcs	export_204_7.fcs	2771
+727517	Flow cytometry result	23613402	export_204_70.727517.fcs	export_204_70.fcs	2771
+727518	Flow cytometry result	41256999	export_205_0.727518.fcs	export_205_0.fcs	2771
+727519	Flow cytometry result	21848537	export_205_1.727519.fcs	export_205_1.fcs	2771
+727520	Flow cytometry result	22370103	export_205_7.727520.fcs	export_205_7.fcs	2771
+727521	Flow cytometry result	25342264	export_205_70.727521.fcs	export_205_70.fcs	2771
+727522	Flow cytometry result	7776566	export_206_1.727522.fcs	export_206_1.fcs	2771
+727523	Flow cytometry result	5536795	export_206_7.727523.fcs	export_206_7.fcs	2771
+727524	Flow cytometry result	44728985	export_207_0.727524.fcs	export_207_0.fcs	2771
+727525	Flow cytometry result	19003097	export_207_1.727525.fcs	export_207_1.fcs	2771
+727526	Flow cytometry result	23415255	export_207_7.727526.fcs	export_207_7.fcs	2771
+727527	Flow cytometry result	35830362	export_207_70.727527.fcs	export_207_70.fcs	2771
+727528	Flow cytometry result	36673624	export_209_0.727528.fcs	export_209_0.fcs	2771
+727529	Flow cytometry result	19491545	export_209_1.727529.fcs	export_209_1.fcs	2771
+727530	Flow cytometry result	42774761	export_209_7.727530.fcs	export_209_7.fcs	2771
+727531	Flow cytometry result	58816506	export_209_70.727531.fcs	export_209_70.fcs	2771
+727532	Flow cytometry result	26182505	export_212_0.727532.fcs	export_212_0.fcs	2771
+727533	Flow cytometry result	17739354	export_212_1.727533.fcs	export_212_1.fcs	2771
+727534	Flow cytometry result	36979265	export_212_7.727534.fcs	export_212_7.fcs	2771
+727535	Flow cytometry result	51270618	export_212_70.727535.fcs	export_212_70.fcs	2771
+727536	Flow cytometry result	4539182	export_213_0.727536.fcs	export_213_0.fcs	2771
+727537	Flow cytometry result	4922728	export_213_1.727537.fcs	export_213_1.fcs	2771
+727538	Flow cytometry result	14167242	export_213_7.727538.fcs	export_213_7.fcs	2771
+727539	Flow cytometry result	13006314	export_213_70.727539.fcs	export_213_70.fcs	2771
+727540	Flow cytometry result	19382130	export_215_0.727540.fcs	export_215_0.fcs	2771
+727541	Flow cytometry result	61575715	export_215_1.727541.fcs	export_215_1.fcs	2771
+727542	Flow cytometry result	38956914	export_215_7.727542.fcs	export_215_7.fcs	2771
+727543	Flow cytometry result	48504692	export_215_70.727543.fcs	export_215_70.fcs	2771
+727544	Flow cytometry result	11276271	export_217_0.727544.fcs	export_217_0.fcs	2771
+727545	Flow cytometry result	11639153	export_217_1.727545.fcs	export_217_1.fcs	2771
+727546	Flow cytometry result	11529637	export_217_70.727546.fcs	export_217_70.fcs	2771
+727547	Flow cytometry result	84832049	export_218_0.727547.fcs	export_218_0.fcs	2771
+727548	Flow cytometry result	27344729	export_218_1.727548.fcs	export_218_1.fcs	2771
+727549	Flow cytometry result	39643480	export_218_7.727549.fcs	export_218_7.fcs	2771
+727550	Flow cytometry result	31159002	export_218_70.727550.fcs	export_218_70.fcs	2771
+727551	Flow cytometry result	37610775	export_221_0.727551.fcs	export_221_0.fcs	2771
+727552	Flow cytometry result	15519449	export_221_1.727552.fcs	export_221_1.fcs	2771
+727553	Flow cytometry result	18009926	export_221_7.727553.fcs	export_221_7.fcs	2771
+727554	Flow cytometry result	22447432	export_221_70.727554.fcs	export_221_70.fcs	2771
+727555	Flow cytometry result	40723480	export_222_0.727555.fcs	export_222_0.fcs	2771
+727556	Flow cytometry result	40006361	export_222_1.727556.fcs	export_222_1.fcs	2771
+727557	Flow cytometry result	42766552	export_222_7.727557.fcs	export_222_7.fcs	2771
+727558	Flow cytometry result	36208217	export_222_70.727558.fcs	export_222_70.fcs	2771
+727559	Flow cytometry result	28179999	export_224_0.727559.fcs	export_224_0.fcs	2771
+727560	Flow cytometry result	32452697	export_224_1.727560.fcs	export_224_1.fcs	2771
+727561	Flow cytometry result	30863511	export_224_7.727561.fcs	export_224_7.fcs	2771
+727562	Flow cytometry result	26228441	export_224_70.727562.fcs	export_224_70.fcs	2771
+727563	Flow cytometry result	46256465	export_227_0.727563.fcs	export_227_0.fcs	2771
+727564	Flow cytometry result	53187545	export_227_1.727564.fcs	export_227_1.fcs	2771
+727565	Flow cytometry result	26603993	export_227_7.727565.fcs	export_227_7.fcs	2771
+727566	Flow cytometry result	12324952	export_227_70.727566.fcs	export_227_70.fcs	2771
+727567	Flow cytometry result	22126168	export_228_0.727567.fcs	export_228_0.fcs	2771
+727568	Flow cytometry result	10056664	export_228_1.727568.fcs	export_228_1.fcs	2771
+727569	Flow cytometry result	23870296	export_228_7.727569.fcs	export_228_7.fcs	2771
+727570	Flow cytometry result	16717532	export_228_70.727570.fcs	export_228_70.fcs	2771
+727571	Flow cytometry result	29435610	export_229_0.727571.fcs	export_229_0.fcs	2771
+727572	Flow cytometry result	37689689	export_229_1.727572.fcs	export_229_1.fcs	2771
+727573	Flow cytometry result	37650953	export_229_7.727573.fcs	export_229_7.fcs	2771
+727574	Flow cytometry result	47772282	export_229_70.727574.fcs	export_229_70.fcs	2771
+727575	Flow cytometry result	8351054	export_230_0.727575.fcs	export_230_0.fcs	2771
+727576	Flow cytometry result	11164239	export_230_1.727576.fcs	export_230_1.fcs	2771
+727577	Flow cytometry result	6979165	export_230_7.727577.fcs	export_230_7.fcs	2771
+727578	Flow cytometry result	5963822	export_230_70.727578.fcs	export_230_70.fcs	2771
+727579	Flow cytometry result	43059186	export_231_0.727579.fcs	export_231_0.fcs	2771
+727580	Flow cytometry result	43766514	export_231_1.727580.fcs	export_231_1.fcs	2771
+727581	Flow cytometry result	24399091	export_231_70.727581.fcs	export_231_70.fcs	2771
+727582	Flow cytometry result	37662041	export_232_0.727582.fcs	export_232_0.fcs	2771
+727583	Flow cytometry result	50296313	export_232_7.727583.fcs	export_232_7.fcs	2771
+727584	Flow cytometry result	44863193	export_233_0.727584.fcs	export_233_0.fcs	2771
+727585	Flow cytometry result	35412185	export_233_1.727585.fcs	export_233_1.fcs	2771
+727586	Flow cytometry result	40567384	export_233_7.727586.fcs	export_233_7.fcs	2771
+727587	Flow cytometry result	57422298	export_233_70.727587.fcs	export_233_70.fcs	2771
+727588	Flow cytometry result	44605170	export_234_0.727588.fcs	export_234_0.fcs	2771
+727589	Flow cytometry result	24653826	export_234_7.727589.fcs	export_234_7.fcs	2771
+727590	Flow cytometry result	57297906	export_235_0.727590.fcs	export_235_0.fcs	2771
+727591	Flow cytometry result	34583922	export_235_7.727591.fcs	export_235_7.fcs	2771
+727592	Flow cytometry result	28096984	export_236_0.727592.fcs	export_236_0.fcs	2771
+727593	Flow cytometry result	8606297	export_236_1.727593.fcs	export_236_1.fcs	2771
+727594	Flow cytometry result	18091651	export_236_70.727594.fcs	export_236_70.fcs	2771
+727595	Flow cytometry result	17096536	export_237_0.727595.fcs	export_237_0.fcs	2771
+727596	Flow cytometry result	29246682	export_237_1.727596.fcs	export_237_1.fcs	2771
+727597	Flow cytometry result	21471832	export_237_7.727597.fcs	export_237_7.fcs	2771
+727598	Flow cytometry result	27325146	export_237_70.727598.fcs	export_237_70.fcs	2771
+727599	Flow cytometry result	25374835	export_241_0.727599.fcs	export_241_0.fcs	2771
+727600	Flow cytometry result	24682482	export_241_1.727600.fcs	export_241_1.fcs	2771
+727601	Flow cytometry result	33994315	export_241_7.727601.fcs	export_241_7.fcs	2771
+727602	Flow cytometry result	40793204	export_241_70.727602.fcs	export_241_70.fcs	2771
+727603	Flow cytometry result	53385715	export_242_0.727603.fcs	export_242_0.fcs	2771
+727604	Flow cytometry result	28100467	export_242_1.727604.fcs	export_242_1.fcs	2771
+727605	Flow cytometry result	27750259	export_242_7.727605.fcs	export_242_7.fcs	2771
+727606	Flow cytometry result	22316276	export_242_70.727606.fcs	export_242_70.fcs	2771
+727607	Flow cytometry result	11185191	export_244_0.727607.fcs	export_244_0.fcs	2771
+727608	Flow cytometry result	6959653	export_244_7.727608.fcs	export_244_7.fcs	2771
+727609	Flow cytometry result	14865784	export_245_0.727609.fcs	export_245_0.fcs	2771
+727610	Flow cytometry result	25610704	export_245_1.727610.fcs	export_245_1.fcs	2771
+727611	Flow cytometry result	18240784	export_245_7.727611.fcs	export_245_7.fcs	2771
+727612	Flow cytometry result	18983179	export_245_70.727612.fcs	export_245_70.fcs	2771
+727613	Flow cytometry result	12260248	export_246_0.727613.fcs	export_246_0.fcs	2771
+727614	Flow cytometry result	15466336	export_246_1.727614.fcs	export_246_1.fcs	2771
+727615	Flow cytometry result	9072087	export_246_7.727615.fcs	export_246_7.fcs	2771
+727616	Flow cytometry result	10256273	export_246_70.727616.fcs	export_246_70.fcs	2771
+727617	Flow cytometry result	29868761	export_248_0.727617.fcs	export_248_0.fcs	2771
+727618	Flow cytometry result	45896681	export_248_1.727618.fcs	export_248_1.fcs	2771
+727619	Flow cytometry result	28168337	export_248_7.727619.fcs	export_248_7.fcs	2771
+727620	Flow cytometry result	23432106	export_248_70.727620.fcs	export_248_70.fcs	2771
+727621	Flow cytometry result	47386864	export_249_1.727621.fcs	export_249_1.fcs	2771
+727622	Flow cytometry result	32456584	export_249_7.727622.fcs	export_249_7.fcs	2771
+727623	Flow cytometry result	11242075	export_249_70.727623.fcs	export_249_70.fcs	2771
+727624	Flow cytometry result	21167584	export_250_0.727624.fcs	export_250_0.fcs	2771
+727625	Flow cytometry result	27815775	export_250_1.727625.fcs	export_250_1.fcs	2771
+727626	Flow cytometry result	23798680	export_250_7.727626.fcs	export_250_7.fcs	2771
+727627	Flow cytometry result	9090304	export_250_70.727627.fcs	export_250_70.fcs	2771
+727628	Flow cytometry result	19866976	export_251_0.727628.fcs	export_251_0.fcs	2771
+727629	Flow cytometry result	6358838	export_251_1.727629.fcs	export_251_1.fcs	2771
+727630	Flow cytometry result	5302598	export_251_7.727630.fcs	export_251_7.fcs	2771
+727631	Flow cytometry result	8315727	export_251_70.727631.fcs	export_251_70.fcs	2771
+727632	Flow cytometry result	88935834	export_254_1.727632.fcs	export_254_1.fcs	2771
+727633	Flow cytometry result	238168	export_254_70.727633.fcs	export_254_70.fcs	2771
+727634	Flow cytometry result	78646746	export_256_0.727634.fcs	export_256_0.fcs	2771
+727635	Flow cytometry result	47056601	export_256_1.727635.fcs	export_256_1.fcs	2771
+727636	Flow cytometry result	22319706	export_256_70.727636.fcs	export_256_70.fcs	2771
+727637	Flow cytometry result	32795994	export_257_0.727637.fcs	export_257_0.fcs	2771
+727638	Flow cytometry result	39947609	export_257_1.727638.fcs	export_257_1.fcs	2771
+727639	Flow cytometry result	25405770	export_257_70.727639.fcs	export_257_70.fcs	2771
+727640	Flow cytometry result	34500953	export_259_0.727640.fcs	export_259_0.fcs	2771
+727641	Flow cytometry result	75737873	export_259_1.727641.fcs	export_259_1.fcs	2771
+727642	Flow cytometry result	16868752	export_260_0.727642.fcs	export_260_0.fcs	2771
+727643	Flow cytometry result	20400064	export_260_1.727643.fcs	export_260_1.fcs	2771
+727644	Flow cytometry result	14057656	export_260_7.727644.fcs	export_260_7.fcs	2771
+727645	Flow cytometry result	10198243	export_260_70.727645.fcs	export_260_70.fcs	2771
+727646	Flow cytometry result	46682777	export_261_0.727646.fcs	export_261_0.fcs	2771
+727647	Flow cytometry result	76484730	export_261_1.727647.fcs	export_261_1.fcs	2771
+727648	Flow cytometry result	23451113	export_261_7.727648.fcs	export_261_7.fcs	2771
+727649	Flow cytometry result	22107450	export_261_70.727649.fcs	export_261_70.fcs	2771
+727650	Flow cytometry result	32980313	export_262_0.727650.fcs	export_262_0.fcs	2771
+727651	Flow cytometry result	20846297	export_262_1.727651.fcs	export_262_1.fcs	2771
+727652	Flow cytometry result	22326975	export_262_7.727652.fcs	export_262_7.fcs	2771
+727653	Flow cytometry result	26939010	export_262_70.727653.fcs	export_262_70.fcs	2771
+727654	Flow cytometry result	62232977	export_263_1.727654.fcs	export_263_1.fcs	2771
+727655	Flow cytometry result	24837545	export_265_0.727655.fcs	export_265_0.fcs	2771
+727656	Flow cytometry result	32945752	export_265_1.727656.fcs	export_265_1.fcs	2771
+727657	Flow cytometry result	19688970	export_265_70.727657.fcs	export_265_70.fcs	2771
+727658	Flow cytometry result	25865561	export_267_0.727658.fcs	export_267_0.fcs	2771
+727659	Flow cytometry result	17610329	export_268_0.727659.fcs	export_268_0.fcs	2771
+727660	Flow cytometry result	14874329	export_268_1.727660.fcs	export_268_1.fcs	2771
+727661	Flow cytometry result	19058607	export_268_7.727661.fcs	export_268_7.fcs	2771
+727662	Flow cytometry result	19304490	export_268_70.727662.fcs	export_268_70.fcs	2771
+727663	Flow cytometry result	20082665	export_272_0.727663.fcs	export_272_0.fcs	2771
+727664	Flow cytometry result	15395033	export_272_1.727664.fcs	export_272_1.fcs	2771
+727665	Flow cytometry result	9523286	export_272_7.727665.fcs	export_272_7.fcs	2771
+727666	Flow cytometry result	17104024	export_272_70.727666.fcs	export_272_70.fcs	2771
+727667	Flow cytometry result	29380385	export_273_0.727667.fcs	export_273_0.fcs	2771
+727668	Flow cytometry result	38391905	export_273_1.727668.fcs	export_273_1.fcs	2771
+727669	Flow cytometry result	12065753	export_273_7.727669.fcs	export_273_7.fcs	2771
+727670	Flow cytometry result	11852994	export_273_70.727670.fcs	export_273_70.fcs	2771
+727671	Flow cytometry result	23028399	export_274_0.727671.fcs	export_274_0.fcs	2771
+727672	Flow cytometry result	30720953	export_274_1.727672.fcs	export_274_1.fcs	2771
+727673	Flow cytometry result	29221623	export_274_7.727673.fcs	export_274_7.fcs	2771
+727674	Flow cytometry result	23853880	export_274_70.727674.fcs	export_274_70.fcs	2771
+727675	Flow cytometry result	38143001	export_277_0.727675.fcs	export_277_0.fcs	2771
+727676	Flow cytometry result	25701977	export_277_1.727676.fcs	export_277_1.fcs	2771
+727677	Flow cytometry result	51582231	export_277_7.727677.fcs	export_277_7.fcs	2771
+727678	Flow cytometry result	45849450	export_277_70.727678.fcs	export_277_70.fcs	2771
+727679	Flow cytometry result	39160793	export_279_0.727679.fcs	export_279_0.fcs	2771
+727680	Flow cytometry result	35765850	export_279_70.727680.fcs	export_279_70.fcs	2771
+727681	Flow cytometry result	57024856	export_280_0.727681.fcs	export_280_0.fcs	2771
+727682	Flow cytometry result	37288793	export_280_7.727682.fcs	export_280_7.fcs	2771
+727683	Flow cytometry result	37192025	export_280_70.727683.fcs	export_280_70.fcs	2771
+727684	Flow cytometry result	31331800	export_282_7.727684.fcs	export_282_7.fcs	2771
+727685	Flow cytometry result	11497912	export_283_0.727685.fcs	export_283_0.fcs	2771
+727686	Flow cytometry result	30155992	export_283_1.727686.fcs	export_283_1.fcs	2771
+727687	Flow cytometry result	9793959	export_283_7.727687.fcs	export_283_7.fcs	2771
+727688	Flow cytometry result	19920905	export_283_70.727688.fcs	export_283_70.fcs	2771
+727689	Flow cytometry result	21505242	export_284_0.727689.fcs	export_284_0.fcs	2771
+727690	Flow cytometry result	19998426	export_284_1.727690.fcs	export_284_1.fcs	2771
+727691	Flow cytometry result	26093801	export_284_7.727691.fcs	export_284_7.fcs	2771
+727692	Flow cytometry result	32025952	export_284_70.727692.fcs	export_284_70.fcs	2771
+727694	Flow cytometry result	23070966	export_200_0.727694.fcs	export_200_0.fcs	2771
+727695	Flow cytometry result	2899477	DC mono.727695.jo	DC mono.jo	2771
+727696	Flow cytometry result	63627052	DC_all_080216.727696.wsp	DC_all_080216.wsp	2771
+727697	Flow cytometry result	79571225	DC_mono_all.727697.jo	DC_mono_all.jo	2771
+727698	Flow cytometry result	4980594	HIPc-H1N1-DCmono.727698.wsp	HIPc-H1N1-DCmono.wsp	2771
+727699	Flow cytometry compensation or control	13808671	QC_control_AB_051810.727699.fcs	QC_control_AB_051810.fcs	2771
+727700	Flow cytometry compensation or control	15875872	QC_control_AB_062910.727700.fcs	QC_control_AB_062910.fcs	2771
+727701	Flow cytometry compensation or control	27103289	QC_control_CF_071910.727701.fcs	QC_control_CF_071910.fcs	2771
+727702	Flow cytometry compensation or control	67157184	QC_control_QC_072610.727702.fcs	QC_control_QC_072610.fcs	2771
+727703	Flow cytometry result	12298469	export_200_1.727703.fcs	export_200_1.fcs	2771
+727704	Flow cytometry result	22118622	export_200_7.727704.fcs	export_200_7.fcs	2771
+727705	Flow cytometry result	20467231	export_200_70.727705.fcs	export_200_70.fcs	2771
+727706	Flow cytometry result	19553418	export_200_pre 7.727706.fcs	export_200_pre 7.fcs	2771
+727707	Flow cytometry result	26861118	export_201_0.727707.fcs	export_201_0.fcs	2771
+727708	Flow cytometry result	9629284	export_201_1.727708.fcs	export_201_1.fcs	2771
+727709	Flow cytometry result	18286566	export_201_7.727709.fcs	export_201_7.fcs	2771
+727710	Flow cytometry result	18508903	export_201_70.727710.fcs	export_201_70.fcs	2771
+727711	Flow cytometry result	21667329	export_201_pre 7.727711.fcs	export_201_pre 7.fcs	2771
+727712	Flow cytometry result	21906965	export_202_0.727712.fcs	export_202_0.fcs	2771
+727713	Flow cytometry result	35631103	export_202_1.727713.fcs	export_202_1.fcs	2771
+727714	Flow cytometry result	36105079	export_202_7.727714.fcs	export_202_7.fcs	2771
+727715	Flow cytometry result	26440662	export_202_70.727715.fcs	export_202_70.fcs	2771
+727716	Flow cytometry result	24359721	export_202_pre 7.727716.fcs	export_202_pre 7.fcs	2771
+727717	Flow cytometry result	26308300	export_204_0.727717.fcs	export_204_0.fcs	2771
+727718	Flow cytometry result	22892622	export_204_1.727718.fcs	export_204_1.fcs	2771
+727719	Flow cytometry result	21783246	export_204_7.727719.fcs	export_204_7.fcs	2771
+727720	Flow cytometry result	19203560	export_204_70.727720.fcs	export_204_70.fcs	2771
+727721	Flow cytometry result	23340466	export_204_pre 7.727721.fcs	export_204_pre 7.fcs	2771
+727722	Flow cytometry result	35179998	export_205_0.727722.fcs	export_205_0.fcs	2771
+727723	Flow cytometry result	9707621	export_205_1.727723.fcs	export_205_1.fcs	2771
+727724	Flow cytometry result	29594238	export_205_7.727724.fcs	export_205_7.fcs	2771
+727725	Flow cytometry result	26532511	export_205_70.727725.fcs	export_205_70.fcs	2771
+727726	Flow cytometry result	24206698	export_205_pre 7.727726.fcs	export_205_pre 7.fcs	2771
+727727	Flow cytometry result	12642918	export_206_0.727727.fcs	export_206_0.fcs	2771
+727728	Flow cytometry result	38229774	export_206_1.727728.fcs	export_206_1.fcs	2771
+727729	Flow cytometry result	33511686	export_206_7.727729.fcs	export_206_7.fcs	2771
+727730	Flow cytometry result	11724775	export_206_70.727730.fcs	export_206_70.fcs	2771
+727731	Flow cytometry result	35813098	export_206_pre 7.727731.fcs	export_206_pre 7.fcs	2771
+727732	Flow cytometry result	29502438	export_207_0.727732.fcs	export_207_0.fcs	2771
+727733	Flow cytometry result	11331943	export_207_1.727733.fcs	export_207_1.fcs	2771
+727734	Flow cytometry result	30106086	export_207_7.727734.fcs	export_207_7.fcs	2771
+727735	Flow cytometry result	17136871	export_207_70.727735.fcs	export_207_70.fcs	2771
+727736	Flow cytometry result	27083242	export_207_pre 7.727736.fcs	export_207_pre 7.fcs	2771
+727737	Flow cytometry result	12983259	export_209_0.727737.fcs	export_209_0.fcs	2771
+727738	Flow cytometry result	14407782	export_209_1.727738.fcs	export_209_1.fcs	2771
+727739	Flow cytometry result	27231846	export_209_7.727739.fcs	export_209_7.fcs	2771
+727740	Flow cytometry result	25570014	export_209_70.727740.fcs	export_209_70.fcs	2771
+727741	Flow cytometry result	26770762	export_209_pre 7.727741.fcs	export_209_pre 7.fcs	2771
+727742	Flow cytometry result	22901550	export_212_0.727742.fcs	export_212_0.fcs	2771
+727743	Flow cytometry result	17613798	export_212_1.727743.fcs	export_212_1.fcs	2771
+727744	Flow cytometry result	18733972	export_212_7.727744.fcs	export_212_7.fcs	2771
+727745	Flow cytometry result	35249767	export_212_70.727745.fcs	export_212_70.fcs	2771
+727746	Flow cytometry result	5624793	export_212_pre 7.727746.fcs	export_212_pre 7.fcs	2771
+727747	Flow cytometry result	45930127	export_213_0.727747.fcs	export_213_0.fcs	2771
+727748	Flow cytometry result	15124351	export_213_1.727748.fcs	export_213_1.fcs	2771
+727749	Flow cytometry result	34473487	export_213_7.727749.fcs	export_213_7.fcs	2771
+727750	Flow cytometry result	30721280	export_213_70.727750.fcs	export_213_70.fcs	2771
+727751	Flow cytometry result	24154883	export_213_pre 7.727751.fcs	export_213_pre 7.fcs	2771
+727752	Flow cytometry result	10115490	export_215_0.727752.fcs	export_215_0.fcs	2771
+727753	Flow cytometry result	37104546	export_215_1.727753.fcs	export_215_1.fcs	2771
+727754	Flow cytometry result	36071562	export_215_7.727754.fcs	export_215_7.fcs	2771
+727755	Flow cytometry result	28593283	export_215_70.727755.fcs	export_215_70.fcs	2771
+727756	Flow cytometry result	27210958	export_215_pre 7.727756.fcs	export_215_pre 7.fcs	2771
+727757	Flow cytometry result	35326874	export_217_0.727757.fcs	export_217_0.fcs	2771
+727758	Flow cytometry result	11957478	export_217_1.727758.fcs	export_217_1.fcs	2771
+727759	Flow cytometry result	20789862	export_217_7.727759.fcs	export_217_7.fcs	2771
+727760	Flow cytometry result	25034983	export_217_70.727760.fcs	export_217_70.fcs	2771
+727761	Flow cytometry result	27204203	export_217_pre 7.727761.fcs	export_217_pre 7.fcs	2771
+727762	Flow cytometry result	30884548	export_218_0.727762.fcs	export_218_0.fcs	2771
+727763	Flow cytometry result	17001652	export_218_1.727763.fcs	export_218_1.fcs	2771
+727764	Flow cytometry result	30247782	export_218_7.727764.fcs	export_218_7.fcs	2771
+727765	Flow cytometry result	25542367	export_218_70.727765.fcs	export_218_70.fcs	2771
+727766	Flow cytometry result	15197194	export_218_pre 7.727766.fcs	export_218_pre 7.fcs	2771
+727767	Flow cytometry result	27307804	export_221_0.727767.fcs	export_221_0.fcs	2771
+727768	Flow cytometry result	11698278	export_221_1.727768.fcs	export_221_1.fcs	2771
+727769	Flow cytometry result	23412822	export_221_7.727769.fcs	export_221_7.fcs	2771
+727770	Flow cytometry result	22872893	export_221_70.727770.fcs	export_221_70.fcs	2771
+727771	Flow cytometry result	21222152	export_221_pre 7.727771.fcs	export_221_pre 7.fcs	2771
+727772	Flow cytometry result	31440137	export_222_0.727772.fcs	export_222_0.fcs	2771
+727773	Flow cytometry result	36968729	export_222_1.727773.fcs	export_222_1.fcs	2771
+727774	Flow cytometry result	27320801	export_222_7.727774.fcs	export_222_7.fcs	2771
+727775	Flow cytometry result	24623610	export_222_70.727775.fcs	export_222_70.fcs	2771
+727776	Flow cytometry result	48851181	export_222_pre 7.727776.fcs	export_222_pre 7.fcs	2771
+727777	Flow cytometry result	14620890	export_223_0.727777.fcs	export_223_0.fcs	2771
+727778	Flow cytometry result	28723890	export_223_7.727778.fcs	export_223_7.fcs	2771
+727779	Flow cytometry result	29489827	export_223_70.727779.fcs	export_223_70.fcs	2771
+727780	Flow cytometry result	5580068	export_223_pre 7.727780.fcs	export_223_pre 7.fcs	2771
+727781	Flow cytometry result	27651964	export_224_0.727781.fcs	export_224_0.fcs	2771
+727782	Flow cytometry result	21891966	export_224_1.727782.fcs	export_224_1.fcs	2771
+727783	Flow cytometry result	13098748	export_224_7.727783.fcs	export_224_7.fcs	2771
+727784	Flow cytometry result	25538767	export_224_70.727784.fcs	export_224_70.fcs	2771
+727785	Flow cytometry result	19533608	export_224_pre 7.727785.fcs	export_224_pre 7.fcs	2771
+727786	Flow cytometry result	25021158	export_226_0.727786.fcs	export_226_0.fcs	2771
+727787	Flow cytometry result	19897636	export_226_1.727787.fcs	export_226_1.fcs	2771
+727788	Flow cytometry result	30876774	export_226_7.727788.fcs	export_226_7.fcs	2771
+727789	Flow cytometry result	32642791	export_226_70.727789.fcs	export_226_70.fcs	2771
+727790	Flow cytometry result	40346218	export_226_pre 7.727790.fcs	export_226_pre 7.fcs	2771
+727791	Flow cytometry result	23124244	export_227_0.727791.fcs	export_227_0.fcs	2771
+727792	Flow cytometry result	14676340	export_227_1.727792.fcs	export_227_1.fcs	2771
+727793	Flow cytometry result	17145364	export_227_7.727793.fcs	export_227_7.fcs	2771
+727794	Flow cytometry result	14664103	export_227_70.727794.fcs	export_227_70.fcs	2771
+727795	Flow cytometry result	18884528	export_227_pre 7.727795.fcs	export_227_pre 7.fcs	2771
+727796	Flow cytometry result	18116428	export_228_0.727796.fcs	export_228_0.fcs	2771
+727797	Flow cytometry result	6535010	export_228_1.727797.fcs	export_228_1.fcs	2771
+727798	Flow cytometry result	19688332	export_228_7.727798.fcs	export_228_7.fcs	2771
+727799	Flow cytometry result	18357988	export_228_70.727799.fcs	export_228_70.fcs	2771
+727800	Flow cytometry result	11879181	export_228_pre 7.727800.fcs	export_228_pre 7.fcs	2771
+727801	Flow cytometry result	30282342	export_229_0.727801.fcs	export_229_0.fcs	2771
+727802	Flow cytometry result	23681382	export_229_1.727802.fcs	export_229_1.fcs	2771
+727803	Flow cytometry result	26859965	export_229_7.727803.fcs	export_229_7.fcs	2771
+727804	Flow cytometry result	28471830	export_229_70.727804.fcs	export_229_70.fcs	2771
+727805	Flow cytometry result	17148392	export_229_pre 7.727805.fcs	export_229_pre 7.fcs	2771
+727806	Flow cytometry result	16488148	export_230_0.727806.fcs	export_230_0.fcs	2771
+727807	Flow cytometry result	17679387	export_230_1.727807.fcs	export_230_1.fcs	2771
+727808	Flow cytometry result	12473574	export_230_7.727808.fcs	export_230_7.fcs	2771
+727809	Flow cytometry result	21065910	export_230_70.727809.fcs	export_230_70.fcs	2771
+727810	Flow cytometry result	26797904	export_230_pre 7.727810.fcs	export_230_pre 7.fcs	2771
+727811	Flow cytometry result	30081954	export_231_0.727811.fcs	export_231_0.fcs	2771
+727812	Flow cytometry result	25520826	export_231_1.727812.fcs	export_231_1.fcs	2771
+727813	Flow cytometry result	21127458	export_231_7.727813.fcs	export_231_7.fcs	2771
+727814	Flow cytometry result	16904227	export_231_70.727814.fcs	export_231_70.fcs	2771
+727815	Flow cytometry result	5651492	export_231_pre 7.727815.fcs	export_231_pre 7.fcs	2771
+727816	Flow cytometry result	23013076	export_232_0.727816.fcs	export_232_0.fcs	2771
+727817	Flow cytometry result	6735461	export_232_1.727817.fcs	export_232_1.fcs	2771
+727818	Flow cytometry result	26857804	export_232_7.727818.fcs	export_232_7.fcs	2771
+727819	Flow cytometry result	5135981	export_232_70.727819.fcs	export_232_70.fcs	2771
+727820	Flow cytometry result	12401002	export_232_pre 7.727820.fcs	export_232_pre 7.fcs	2771
+727821	Flow cytometry result	15245393	export_233_0.727821.fcs	export_233_0.fcs	2771
+727822	Flow cytometry result	30607241	export_233_1.727822.fcs	export_233_1.fcs	2771
+727823	Flow cytometry result	18742073	export_233_7.727823.fcs	export_233_7.fcs	2771
+727824	Flow cytometry result	20459562	export_233_70.727824.fcs	export_233_70.fcs	2771
+727825	Flow cytometry result	20848293	export_233_pre 7.727825.fcs	export_233_pre 7.fcs	2771
+727826	Flow cytometry result	16121621	export_234_0.727826.fcs	export_234_0.fcs	2771
+727827	Flow cytometry result	14405503	export_234_1.727827.fcs	export_234_1.fcs	2771
+727828	Flow cytometry result	18773093	export_234_7.727828.fcs	export_234_7.fcs	2771
+727829	Flow cytometry result	4806317	export_234_70.727829.fcs	export_234_70.fcs	2771
+727830	Flow cytometry result	15185841	export_234_pre 7.727830.fcs	export_234_pre 7.fcs	2771
+727831	Flow cytometry result	28936866	export_235_0.727831.fcs	export_235_0.fcs	2771
+727832	Flow cytometry result	8550857	export_235_1.727832.fcs	export_235_1.fcs	2771
+727833	Flow cytometry result	28837218	export_235_7.727833.fcs	export_235_7.fcs	2771
+727834	Flow cytometry result	3884321	export_235_70.727834.fcs	export_235_70.fcs	2771
+727835	Flow cytometry result	39467302	export_235_pre 7.727835.fcs	export_235_pre 7.fcs	2771
+727836	Flow cytometry result	24215908	export_236_0.727836.fcs	export_236_0.fcs	2771
+727837	Flow cytometry result	6798818	export_236_1.727837.fcs	export_236_1.fcs	2771
+727838	Flow cytometry result	4954466	export_236_7.727838.fcs	export_236_7.fcs	2771
+727839	Flow cytometry result	13854823	export_236_70.727839.fcs	export_236_70.fcs	2771
+727840	Flow cytometry result	24626023	export_236_pre 7.727840.fcs	export_236_pre 7.fcs	2771
+727841	Flow cytometry result	15800548	export_237_0.727841.fcs	export_237_0.fcs	2771
+727842	Flow cytometry result	14825957	export_237_1.727842.fcs	export_237_1.fcs	2771
+727843	Flow cytometry result	17073508	export_237_7.727843.fcs	export_237_7.fcs	2771
+727844	Flow cytometry result	17345382	export_237_70.727844.fcs	export_237_70.fcs	2771
+727845	Flow cytometry result	17881065	export_237_pre 7.727845.fcs	export_237_pre 7.fcs	2771
+727846	Flow cytometry result	13188964	export_241_0.727846.fcs	export_241_0.fcs	2771
+727847	Flow cytometry result	17754340	export_241_1.727847.fcs	export_241_1.fcs	2771
+727848	Flow cytometry result	19082164	export_241_7.727848.fcs	export_241_7.fcs	2771
+727849	Flow cytometry result	17690981	export_241_70.727849.fcs	export_241_70.fcs	2771
+727850	Flow cytometry result	20724200	export_241_pre 7.727850.fcs	export_241_pre 7.fcs	2771
+727851	Flow cytometry result	11065828	export_242_0.727851.fcs	export_242_0.fcs	2771
+727852	Flow cytometry result	6464738	export_242_1.727852.fcs	export_242_1.fcs	2771
+727853	Flow cytometry result	12324964	export_242_7.727853.fcs	export_242_7.fcs	2771
+727854	Flow cytometry result	10466789	export_242_70.727854.fcs	export_242_70.fcs	2771
+727855	Flow cytometry result	14093289	export_242_pre 7.727855.fcs	export_242_pre 7.fcs	2771
+727856	Flow cytometry result	16082814	export_243_0.727856.fcs	export_243_0.fcs	2771
+727857	Flow cytometry result	10440317	export_243_1.727857.fcs	export_243_1.fcs	2771
+727858	Flow cytometry result	19901693	export_243_7.727858.fcs	export_243_7.fcs	2771
+727859	Flow cytometry result	16725269	export_243_70.727859.fcs	export_243_70.fcs	2771
+727860	Flow cytometry result	17697920	export_243_pre 7.727860.fcs	export_243_pre 7.fcs	2771
+727861	Flow cytometry result	30320788	export_244_0.727861.fcs	export_244_0.fcs	2771
+727862	Flow cytometry result	10640743	export_244_1.727862.fcs	export_244_1.fcs	2771
+727863	Flow cytometry result	20067411	export_244_7.727863.fcs	export_244_7.fcs	2771
+727864	Flow cytometry result	5278181	export_244_70.727864.fcs	export_244_70.fcs	2771
+727865	Flow cytometry result	28433746	export_244_pre 7.727865.fcs	export_244_pre 7.fcs	2771
+727866	Flow cytometry result	10537122	export_245_0.727866.fcs	export_245_0.fcs	2771
+727867	Flow cytometry result	56285346	export_245_1.727867.fcs	export_245_1.fcs	2771
+727868	Flow cytometry result	32607138	export_245_7.727868.fcs	export_245_7.fcs	2771
+727869	Flow cytometry result	9060258	export_245_70.727869.fcs	export_245_70.fcs	2771
+727870	Flow cytometry result	45333286	export_245_pre 7.727870.fcs	export_245_pre 7.fcs	2771
+727871	Flow cytometry result	34270986	export_246_0.727871.fcs	export_246_0.fcs	2771
+727872	Flow cytometry result	18916122	export_246_1.727872.fcs	export_246_1.fcs	2771
+727873	Flow cytometry result	11459874	export_246_7.727873.fcs	export_246_7.fcs	2771
+727874	Flow cytometry result	19876387	export_246_70.727874.fcs	export_246_70.fcs	2771
+727875	Flow cytometry result	41790382	export_246_pre 7.727875.fcs	export_246_pre 7.fcs	2771
+727876	Flow cytometry result	35781990	export_247_0.727876.fcs	export_247_0.fcs	2771
+727877	Flow cytometry result	21391782	export_247_1.727877.fcs	export_247_1.fcs	2771
+727878	Flow cytometry result	4683748	export_247_7.727878.fcs	export_247_7.fcs	2771
+727879	Flow cytometry result	4798949	export_247_70.727879.fcs	export_247_70.fcs	2771
+727880	Flow cytometry result	32913655	export_247_pre 7.727880.fcs	export_247_pre 7.fcs	2771
+727881	Flow cytometry result	18508637	export_248_0.727881.fcs	export_248_0.fcs	2771
+727882	Flow cytometry result	30375245	export_248_1.727882.fcs	export_248_1.fcs	2771
+727883	Flow cytometry result	17744069	export_248_7.727883.fcs	export_248_7.fcs	2771
+727884	Flow cytometry result	18702464	export_248_70.727884.fcs	export_248_70.fcs	2771
+727885	Flow cytometry result	19617729	export_248_pre 7.727885.fcs	export_248_pre 7.fcs	2771
+727886	Flow cytometry result	10247910	export_249_0.727886.fcs	export_249_0.fcs	2771
+727887	Flow cytometry result	16676788	export_249_1.727887.fcs	export_249_1.fcs	2771
+727888	Flow cytometry result	20903116	export_249_7.727888.fcs	export_249_7.fcs	2771
+727889	Flow cytometry result	9728358	export_249_70.727889.fcs	export_249_70.fcs	2771
+727890	Flow cytometry result	18384704	export_249_pre 7.727890.fcs	export_249_pre 7.fcs	2771
+727891	Flow cytometry result	25392162	export_250_0.727891.fcs	export_250_0.fcs	2771
+727892	Flow cytometry result	19834482	export_250_1.727892.fcs	export_250_1.fcs	2771
+727893	Flow cytometry result	22650402	export_250_7.727893.fcs	export_250_7.fcs	2771
+727894	Flow cytometry result	6032729	export_250_70.727894.fcs	export_250_70.fcs	2771
+727895	Flow cytometry result	9500325	export_250_pre 7.727895.fcs	export_250_pre 7.fcs	2771
+727896	Flow cytometry result	31016226	export_251_0.727896.fcs	export_251_0.fcs	2771
+727897	Flow cytometry result	29713314	export_251_1.727897.fcs	export_251_1.fcs	2771
+727898	Flow cytometry result	13556514	export_251_7.727898.fcs	export_251_7.fcs	2771
+727899	Flow cytometry result	13161379	export_251_70.727899.fcs	export_251_70.fcs	2771
+727900	Flow cytometry result	33209710	export_251_pre 7.727900.fcs	export_251_pre 7.fcs	2771
+727901	Flow cytometry result	10002533	export_254_0.727901.fcs	export_254_0.fcs	2771
+727902	Flow cytometry result	28148404	export_254_1.727902.fcs	export_254_1.fcs	2771
+727903	Flow cytometry result	7880405	export_254_7.727903.fcs	export_254_7.fcs	2771
+727904	Flow cytometry result	30285367	export_254_70.727904.fcs	export_254_70.fcs	2771
+727905	Flow cytometry result	24678802	export_254_pre 7.727905.fcs	export_254_pre 7.fcs	2771
+727906	Flow cytometry result	21742564	export_256_0.727906.fcs	export_256_0.fcs	2771
+727907	Flow cytometry result	24518886	export_256_1.727907.fcs	export_256_1.fcs	2771
+727908	Flow cytometry result	7251557	export_256_7.727908.fcs	export_256_7.fcs	2771
+727909	Flow cytometry result	20622823	export_256_70.727909.fcs	export_256_70.fcs	2771
+727910	Flow cytometry result	20987576	export_256_pre 7.727910.fcs	export_256_pre 7.fcs	2771
+727911	Flow cytometry result	28488245	export_257_0.727911.fcs	export_257_0.fcs	2771
+727912	Flow cytometry result	19546132	export_257_1.727912.fcs	export_257_1.fcs	2771
+727913	Flow cytometry result	18645990	export_257_7.727913.fcs	export_257_7.fcs	2771
+727914	Flow cytometry result	26449279	export_257_70.727914.fcs	export_257_70.fcs	2771
+727915	Flow cytometry result	20727368	export_257_pre 7.727915.fcs	export_257_pre 7.fcs	2771
+727916	Flow cytometry result	34072422	export_259_0.727916.fcs	export_259_0.fcs	2771
+727917	Flow cytometry result	25394694	export_259_1.727917.fcs	export_259_1.fcs	2771
+727918	Flow cytometry result	5991268	export_259_7.727918.fcs	export_259_7.fcs	2771
+727919	Flow cytometry result	5752805	export_259_70.727919.fcs	export_259_70.fcs	2771
+727920	Flow cytometry result	34933112	export_259_pre 7.727920.fcs	export_259_pre 7.fcs	2771
+727921	Flow cytometry result	32378826	export_260_0.727921.fcs	export_260_0.fcs	2771
+727922	Flow cytometry result	26301810	export_260_1.727922.fcs	export_260_1.fcs	2771
+727923	Flow cytometry result	11213346	export_260_7.727923.fcs	export_260_7.fcs	2771
+727924	Flow cytometry result	8016546	export_260_70.727924.fcs	export_260_70.fcs	2771
+727925	Flow cytometry result	13693606	export_260_pre 7.727925.fcs	export_260_pre 7.fcs	2771
+727926	Flow cytometry result	24455777	export_261_0.727926.fcs	export_261_0.fcs	2771
+727927	Flow cytometry result	26326337	export_261_1.727927.fcs	export_261_1.fcs	2771
+727928	Flow cytometry result	25242665	export_261_7.727928.fcs	export_261_7.fcs	2771
+727929	Flow cytometry result	13441290	export_261_70.727929.fcs	export_261_70.fcs	2771
+727930	Flow cytometry result	21380085	export_261_pre 7.727930.fcs	export_261_pre 7.fcs	2771
+727931	Flow cytometry result	38689735	export_262_0.727931.fcs	export_262_0.fcs	2771
+727932	Flow cytometry result	18884478	export_262_1.727932.fcs	export_262_1.fcs	2771
+727933	Flow cytometry result	34302269	export_262_7.727933.fcs	export_262_7.fcs	2771
+727934	Flow cytometry result	24339200	export_262_70.727934.fcs	export_262_70.fcs	2771
+727935	Flow cytometry result	25985627	export_262_pre 7.727935.fcs	export_262_pre 7.fcs	2771
+727936	Flow cytometry result	8589029	export_263_0.727936.fcs	export_263_0.fcs	2771
+727937	Flow cytometry result	21211204	export_263_1.727937.fcs	export_263_1.fcs	2771
+727938	Flow cytometry result	13463142	export_263_7.727938.fcs	export_263_7.fcs	2771
+727939	Flow cytometry result	10818151	export_263_70.727939.fcs	export_263_70.fcs	2771
+727940	Flow cytometry result	37173610	export_263_pre 7.727940.fcs	export_263_pre 7.fcs	2771
+727941	Flow cytometry result	19233535	export_265_0.727941.fcs	export_265_0.fcs	2771
+727942	Flow cytometry result	18668407	export_265_1.727942.fcs	export_265_1.fcs	2771
+727943	Flow cytometry result	25478527	export_265_7.727943.fcs	export_265_7.fcs	2771
+727944	Flow cytometry result	14908928	export_265_70.727944.fcs	export_265_70.fcs	2771
+727945	Flow cytometry result	27704195	export_265_pre 7.727945.fcs	export_265_pre 7.fcs	2771
+727946	Flow cytometry result	28793958	export_267_0.727946.fcs	export_267_0.fcs	2771
+727947	Flow cytometry result	9011813	export_267_1.727947.fcs	export_267_1.fcs	2771
+727948	Flow cytometry result	4606564	export_267_7.727948.fcs	export_267_7.fcs	2771
+727949	Flow cytometry result	4207973	export_267_70.727949.fcs	export_267_70.fcs	2771
+727950	Flow cytometry result	29161378	export_267_pre 7.727950.fcs	export_267_pre 7.fcs	2771
+727951	Flow cytometry result	10607213	export_268_0.727951.fcs	export_268_0.fcs	2771
+727952	Flow cytometry result	14119735	export_268_1.727952.fcs	export_268_1.fcs	2771
+727953	Flow cytometry result	19726589	export_268_7.727953.fcs	export_268_7.fcs	2771
+727954	Flow cytometry result	15113550	export_268_70.727954.fcs	export_268_70.fcs	2771
+727955	Flow cytometry result	18666105	export_268_pre 7.727955.fcs	export_268_pre 7.fcs	2771
+727956	Flow cytometry result	19929629	export_272_0.727956.fcs	export_272_0.fcs	2771
+727957	Flow cytometry result	15678463	export_272_1.727957.fcs	export_272_1.fcs	2771
+727958	Flow cytometry result	25090591	export_272_7.727958.fcs	export_272_7.fcs	2771
+727959	Flow cytometry result	14529342	export_272_70.727959.fcs	export_272_70.fcs	2771
+727960	Flow cytometry result	16870643	export_272_pre 7.727960.fcs	export_272_pre 7.fcs	2771
+727961	Flow cytometry result	22596198	export_273_0.727961.fcs	export_273_0.fcs	2771
+727962	Flow cytometry result	28372110	export_273_1.727962.fcs	export_273_1.fcs	2771
+727963	Flow cytometry result	7615589	export_273_7.727963.fcs	export_273_7.fcs	2771
+727964	Flow cytometry result	11295079	export_273_70.727964.fcs	export_273_70.fcs	2771
+727965	Flow cytometry result	33768299	export_273_pre 7.727965.fcs	export_273_pre 7.fcs	2771
+727966	Flow cytometry result	26359301	export_274_0.727966.fcs	export_274_0.fcs	2771
+727967	Flow cytometry result	19546880	export_274_1.727967.fcs	export_274_1.fcs	2771
+727968	Flow cytometry result	21701550	export_274_7.727968.fcs	export_274_7.fcs	2771
+727969	Flow cytometry result	32988847	export_274_70.727969.fcs	export_274_70.fcs	2771
+727970	Flow cytometry result	24165395	export_274_pre 7.727970.fcs	export_274_pre 7.fcs	2771
+727971	Flow cytometry result	21296884	export_275_0.727971.fcs	export_275_0.fcs	2771
+727972	Flow cytometry result	24995383	export_275_1.727972.fcs	export_275_1.fcs	2771
+727973	Flow cytometry result	29647806	export_275_7.727973.fcs	export_275_7.fcs	2771
+727974	Flow cytometry result	32317422	export_275_70.727974.fcs	export_275_70.fcs	2771
+727975	Flow cytometry result	30092842	export_275_pre 7.727975.fcs	export_275_pre 7.fcs	2771
+727976	Flow cytometry result	19562550	export_277_0.727976.fcs	export_277_0.fcs	2771
+727977	Flow cytometry result	12526566	export_277_1.727977.fcs	export_277_1.fcs	2771
+727978	Flow cytometry result	49298838	export_277_7.727978.fcs	export_277_7.fcs	2771
+727979	Flow cytometry result	31157359	export_277_70.727979.fcs	export_277_70.fcs	2771
+727980	Flow cytometry result	28418410	export_277_pre 7.727980.fcs	export_277_pre 7.fcs	2771
+727981	Flow cytometry result	30619014	export_279_0.727981.fcs	export_279_0.fcs	2771
+727982	Flow cytometry result	5525860	export_279_1.727982.fcs	export_279_1.fcs	2771
+727983	Flow cytometry result	4038629	export_279_7.727983.fcs	export_279_7.fcs	2771
+727984	Flow cytometry result	27151208	export_279_70.727984.fcs	export_279_70.fcs	2771
+727985	Flow cytometry result	30329290	export_279_pre 7.727985.fcs	export_279_pre 7.fcs	2771
+727986	Flow cytometry result	15669076	export_280_0.727986.fcs	export_280_0.fcs	2771
+727987	Flow cytometry result	4397476	export_280_1.727987.fcs	export_280_1.fcs	2771
+727988	Flow cytometry result	21141292	export_280_7.727988.fcs	export_280_7.fcs	2771
+727989	Flow cytometry result	16294109	export_280_70.727989.fcs	export_280_70.fcs	2771
+727990	Flow cytometry result	21561632	export_280_pre 7.727990.fcs	export_280_pre 7.fcs	2771
+727991	Flow cytometry result	7720421	export_282_0.727991.fcs	export_282_0.fcs	2771
+727992	Flow cytometry result	3525989	export_282_1.727992.fcs	export_282_1.fcs	2771
+727993	Flow cytometry result	32228430	export_282_7.727993.fcs	export_282_7.fcs	2771
+727994	Flow cytometry result	10428774	export_282_70.727994.fcs	export_282_70.fcs	2771
+727995	Flow cytometry result	25458487	export_282_pre 7.727995.fcs	export_282_pre 7.fcs	2771
+727996	Flow cytometry result	25075362	export_283_0.727996.fcs	export_283_0.fcs	2771
+727997	Flow cytometry result	22176426	export_283_1.727997.fcs	export_283_1.fcs	2771
+727998	Flow cytometry result	18996042	export_283_7.727998.fcs	export_283_7.fcs	2771
+727999	Flow cytometry result	31443619	export_283_70.727999.fcs	export_283_70.fcs	2771
+728000	Flow cytometry result	26653318	export_283_pre 7.728000.fcs	export_283_pre 7.fcs	2771
+728001	Flow cytometry result	17289797	export_284_0.728001.fcs	export_284_0.fcs	2771
+728002	Flow cytometry result	14820917	export_284_1.728002.fcs	export_284_1.fcs	2771
+728003	Flow cytometry result	16084444	export_284_7.728003.fcs	export_284_7.fcs	2771
+728004	Flow cytometry result	19254317	export_284_70.728004.fcs	export_284_70.fcs	2771
+728005	Flow cytometry result	14079826	export_284_pre 7.728005.fcs	export_284_pre 7.fcs	2771
+728390	Flow cytometry result	28357420	export_200_0.728390.fcs	export_200_0.fcs	2771
+728391	Flow cytometry result	5192256	HIPc-H1N1-T1.728391.wsp	HIPc-H1N1-T1.wsp	2771
+728392	Flow cytometry result	3072873	T1.728392.jo	T1.jo	2771
+728393	Flow cytometry compensation or control	3295489	export_QC control_236 T1 70.728393.fcs	export_QC control_236 T1 70.fcs	2771
+728394	Flow cytometry compensation or control	5593943	export_QC control_237 T1pre.728394.fcs	export_QC control_237 T1pre.fcs	2771
+728395	Flow cytometry compensation or control	17090907	export_QC control_AB 050510.728395.fcs	export_QC control_AB 050510.fcs	2771
+728396	Flow cytometry compensation or control	26675547	export_QC control_AB 051010.728396.fcs	export_QC control_AB 051010.fcs	2771
+728397	Flow cytometry compensation or control	29997913	export_QC control_AB 051110.728397.fcs	export_QC control_AB 051110.fcs	2771
+728398	Flow cytometry compensation or control	8473586	export_QC control_AB 051710.728398.fcs	export_QC control_AB 051710.fcs	2771
+728399	Flow cytometry compensation or control	3916226	export_QC control_AB 051810.728399.fcs	export_QC control_AB 051810.fcs	2771
+728400	Flow cytometry compensation or control	21989211	export_QC control_AB 062910.728400.fcs	export_QC control_AB 062910.fcs	2771
+728401	Flow cytometry compensation or control	51408988	export_QC control_CF 051110.728401.fcs	export_QC control_CF 051110.fcs	2771
+728402	Flow cytometry compensation or control	25215963	export_QC control_CF 062110.728402.fcs	export_QC control_CF 062110.fcs	2771
+728403	Flow cytometry compensation or control	4323312	export_QC control_CF 071910.728403.fcs	export_QC control_CF 071910.fcs	2771
+728404	Flow cytometry compensation or control	111325660	export_QC control_QC 061410.728404.fcs	export_QC control_QC 061410.fcs	2771
+728405	Flow cytometry compensation or control	48298441	export_QC control_QC 070610.728405.fcs	export_QC control_QC 070610.fcs	2771
+728406	Flow cytometry compensation or control	56158251	export_QC control_QC 072610.728406.fcs	export_QC control_QC 072610.fcs	2771
+728407	Flow cytometry result	19053796	export_200_1.728407.fcs	export_200_1.fcs	2771
+728408	Flow cytometry result	28803098	export_200_7.728408.fcs	export_200_7.fcs	2771
+728409	Flow cytometry result	22895067	export_200_70.728409.fcs	export_200_70.fcs	2771
+728410	Flow cytometry result	25121382	export_200_pre.728410.fcs	export_200_pre.fcs	2771
+728411	Flow cytometry result	23437586	export_201_0.728411.fcs	export_201_0.fcs	2771
+728412	Flow cytometry result	12452836	export_201_1.728412.fcs	export_201_1.fcs	2771
+728413	Flow cytometry result	19123852	export_201_7.728413.fcs	export_201_7.fcs	2771
+728414	Flow cytometry result	22232165	export_201_70.728414.fcs	export_201_70.fcs	2771
+728415	Flow cytometry result	23787366	export_201_pre.728415.fcs	export_201_pre.fcs	2771
+728416	Flow cytometry result	25356987	export_202_0.728416.fcs	export_202_0.fcs	2771
+728417	Flow cytometry result	20620325	export_202_1.728417.fcs	export_202_1.fcs	2771
+728418	Flow cytometry result	19710171	export_202_7.728418.fcs	export_202_7.fcs	2771
+728419	Flow cytometry result	20815084	export_202_70.728419.fcs	export_202_70.fcs	2771
+728420	Flow cytometry result	22463597	export_202_pre.728420.fcs	export_202_pre.fcs	2771
+728421	Flow cytometry result	51027124	export_204_0.728421.fcs	export_204_0.fcs	2771
+728422	Flow cytometry result	28641604	export_204_1.728422.fcs	export_204_1.fcs	2771
+728423	Flow cytometry result	33200357	export_204_7.728423.fcs	export_204_7.fcs	2771
+728424	Flow cytometry result	29052005	export_204_70.728424.fcs	export_204_70.fcs	2771
+728425	Flow cytometry result	26075238	export_204_pre.728425.fcs	export_204_pre.fcs	2771
+728426	Flow cytometry result	27971428	export_205_0.728426.fcs	export_205_0.fcs	2771
+728427	Flow cytometry result	7369059	export_205_1.728427.fcs	export_205_1.fcs	2771
+728428	Flow cytometry result	28624612	export_205_7.728428.fcs	export_205_7.fcs	2771
+728429	Flow cytometry result	29898725	export_205_70.728429.fcs	export_205_70.fcs	2771
+728430	Flow cytometry result	23864550	export_205_pre.728430.fcs	export_205_pre.fcs	2771
+728431	Flow cytometry result	6926690	export_206_0.728431.fcs	export_206_0.fcs	2771
+728432	Flow cytometry result	19213562	export_206_1.728432.fcs	export_206_1.fcs	2771
+728433	Flow cytometry result	17801354	export_206_7.728433.fcs	export_206_7.fcs	2771
+728434	Flow cytometry result	6865635	export_206_70.728434.fcs	export_206_70.fcs	2771
+728435	Flow cytometry result	16037860	export_206_pre.728435.fcs	export_206_pre.fcs	2771
+728436	Flow cytometry result	17914611	export_207_0.728436.fcs	export_207_0.fcs	2771
+728437	Flow cytometry result	11184484	export_207_1.728437.fcs	export_207_1.fcs	2771
+728438	Flow cytometry result	14485538	export_207_7.728438.fcs	export_207_7.fcs	2771
+728439	Flow cytometry result	16302821	export_207_70.728439.fcs	export_207_70.fcs	2771
+728440	Flow cytometry result	23358030	export_207_pre.728440.fcs	export_207_pre.fcs	2771
+728441	Flow cytometry result	31015012	export_209_0.728441.fcs	export_209_0.fcs	2771
+728442	Flow cytometry result	14526436	export_209_1.728442.fcs	export_209_1.fcs	2771
+728443	Flow cytometry result	19194340	export_209_7.728443.fcs	export_209_7.fcs	2771
+728444	Flow cytometry result	30390629	export_209_70.728444.fcs	export_209_70.fcs	2771
+728445	Flow cytometry result	28197006	export_209_pre.728445.fcs	export_209_pre.fcs	2771
+728446	Flow cytometry result	19410409	export_212_0.728446.fcs	export_212_0.fcs	2771
+728447	Flow cytometry result	18985900	export_212_1.728447.fcs	export_212_1.fcs	2771
+728448	Flow cytometry result	20098370	export_212_7.728448.fcs	export_212_7.fcs	2771
+728449	Flow cytometry result	15794067	export_212_70.728449.fcs	export_212_70.fcs	2771
+728450	Flow cytometry result	6918629	export_212_pre.728450.fcs	export_212_pre.fcs	2771
+728451	Flow cytometry result	33307370	export_213_0.728451.fcs	export_213_0.fcs	2771
+728452	Flow cytometry result	13383677	export_213_1.728452.fcs	export_213_1.fcs	2771
+728453	Flow cytometry result	25112187	export_213_7.728453.fcs	export_213_7.fcs	2771
+728454	Flow cytometry result	25813396	export_213_70.728454.fcs	export_213_70.fcs	2771
+728455	Flow cytometry result	25773941	export_213_pre.728455.fcs	export_213_pre.fcs	2771
+728456	Flow cytometry result	7895548	export_215_0.728456.fcs	export_215_0.fcs	2771
+728457	Flow cytometry result	24375843	export_215_1.728457.fcs	export_215_1.fcs	2771
+728458	Flow cytometry result	20793193	export_215_7.728458.fcs	export_215_7.fcs	2771
+728459	Flow cytometry result	22178908	export_215_70.728459.fcs	export_215_70.fcs	2771
+728460	Flow cytometry result	27094639	export_215_pre.728460.fcs	export_215_pre.fcs	2771
+728461	Flow cytometry result	20956970	export_217_0.728461.fcs	export_217_0.fcs	2771
+728462	Flow cytometry result	12380260	export_217_1.728462.fcs	export_217_1.fcs	2771
+728463	Flow cytometry result	16894948	export_217_7.728463.fcs	export_217_7.fcs	2771
+728464	Flow cytometry result	25480157	export_217_70.728464.fcs	export_217_70.fcs	2771
+728465	Flow cytometry result	22167655	export_217_pre.728465.fcs	export_217_pre.fcs	2771
+728466	Flow cytometry result	22675250	export_218_0.728466.fcs	export_218_0.fcs	2771
+728467	Flow cytometry result	21238561	export_218_1.728467.fcs	export_218_1.fcs	2771
+728468	Flow cytometry result	19769906	export_218_7.728468.fcs	export_218_7.fcs	2771
+728469	Flow cytometry result	17778027	export_218_70.728469.fcs	export_218_70.fcs	2771
+728470	Flow cytometry result	8916197	export_218_pre.728470.fcs	export_218_pre.fcs	2771
+728471	Flow cytometry result	42586708	export_221_0.728471.fcs	export_221_0.fcs	2771
+728472	Flow cytometry result	10261732	export_221_1.728472.fcs	export_221_1.fcs	2771
+728473	Flow cytometry result	27673348	export_221_7.728473.fcs	export_221_7.fcs	2771
+728474	Flow cytometry result	39263188	export_221_70.728474.fcs	export_221_70.fcs	2771
+728475	Flow cytometry result	35477862	export_221_pre.728475.fcs	export_221_pre.fcs	2771
+728476	Flow cytometry result	17088412	export_222_0.728476.fcs	export_222_0.fcs	2771
+728477	Flow cytometry result	18151492	export_222_1.728477.fcs	export_222_1.fcs	2771
+728478	Flow cytometry result	18753410	export_222_7.728478.fcs	export_222_7.fcs	2771
+728479	Flow cytometry result	20727579	export_222_70.728479.fcs	export_222_70.fcs	2771
+728480	Flow cytometry result	16861324	export_222_pre.728480.fcs	export_222_pre.fcs	2771
+728481	Flow cytometry result	5665275	export_223_0.728481.fcs	export_223_0.fcs	2771
+728482	Flow cytometry result	18358731	export_223_7.728482.fcs	export_223_7.fcs	2771
+728483	Flow cytometry result	20339166	export_223_70.728483.fcs	export_223_70.fcs	2771
+728484	Flow cytometry result	4530557	export_223_pre.728484.fcs	export_223_pre.fcs	2771
+728485	Flow cytometry result	32037196	export_224_0.728485.fcs	export_224_0.fcs	2771
+728486	Flow cytometry result	28508044	export_224_1.728486.fcs	export_224_1.fcs	2771
+728487	Flow cytometry result	41561068	export_224_7.728487.fcs	export_224_7.fcs	2771
+728488	Flow cytometry result	28130405	export_224_70.728488.fcs	export_224_70.fcs	2771
+728489	Flow cytometry result	27441510	export_224_pre.728489.fcs	export_224_pre.fcs	2771
+728490	Flow cytometry result	18448994	export_226_0.728490.fcs	export_226_0.fcs	2771
+728491	Flow cytometry result	14685410	export_226_1.728491.fcs	export_226_1.fcs	2771
+728492	Flow cytometry result	16252132	export_226_7.728492.fcs	export_226_7.fcs	2771
+728493	Flow cytometry result	15554021	export_226_70.728493.fcs	export_226_70.fcs	2771
+728494	Flow cytometry result	22976356	export_226_pre.728494.fcs	export_226_pre.fcs	2771
+728495	Flow cytometry result	26362370	export_227_0.728495.fcs	export_227_0.fcs	2771
+728496	Flow cytometry result	24506930	export_227_1.728496.fcs	export_227_1.fcs	2771
+728497	Flow cytometry result	22542410	export_227_7.728497.fcs	export_227_7.fcs	2771
+728498	Flow cytometry result	19227029	export_227_70.728498.fcs	export_227_70.fcs	2771
+728499	Flow cytometry result	25907475	export_227_pre.728499.fcs	export_227_pre.fcs	2771
+728500	Flow cytometry result	22017890	export_228_0.728500.fcs	export_228_0.fcs	2771
+728501	Flow cytometry result	8123617	export_228_1.728501.fcs	export_228_1.fcs	2771
+728502	Flow cytometry result	15070178	export_228_7.728502.fcs	export_228_7.fcs	2771
+728503	Flow cytometry result	11653347	export_228_70.728503.fcs	export_228_70.fcs	2771
+728504	Flow cytometry result	16165733	export_228_pre.728504.fcs	export_228_pre.fcs	2771
+728505	Flow cytometry result	14150090	export_229_0.728505.fcs	export_229_0.fcs	2771
+728506	Flow cytometry result	17532652	export_229_1.728506.fcs	export_229_1.fcs	2771
+728507	Flow cytometry result	14619386	export_229_7.728507.fcs	export_229_7.fcs	2771
+728508	Flow cytometry result	17817123	export_229_70.728508.fcs	export_229_70.fcs	2771
+728509	Flow cytometry result	18130830	export_229_pre.728509.fcs	export_229_pre.fcs	2771
+728510	Flow cytometry result	23717954	export_230_0.728510.fcs	export_230_0.fcs	2771
+728511	Flow cytometry result	23074349	export_230_1.728511.fcs	export_230_1.fcs	2771
+728512	Flow cytometry result	8469219	export_230_7.728512.fcs	export_230_7.fcs	2771
+728513	Flow cytometry result	19572341	export_230_70.728513.fcs	export_230_70.fcs	2771
+728514	Flow cytometry result	15288340	export_230_pre.728514.fcs	export_230_pre.fcs	2771
+728515	Flow cytometry result	30822653	export_231_0.728515.fcs	export_231_0.fcs	2771
+728516	Flow cytometry result	21985661	export_231_1.728516.fcs	export_231_1.fcs	2771
+728517	Flow cytometry result	23146876	export_231_7.728517.fcs	export_231_7.fcs	2771
+728518	Flow cytometry result	11280989	export_231_70.728518.fcs	export_231_70.fcs	2771
+728519	Flow cytometry result	6698621	export_231_pre.728519.fcs	export_231_pre.fcs	2771
+728520	Flow cytometry result	34762469	export_232_0.728520.fcs	export_232_0.fcs	2771
+728521	Flow cytometry result	5743586	export_232_1.728521.fcs	export_232_1.fcs	2771
+728522	Flow cytometry result	32219786	export_232_7.728522.fcs	export_232_7.fcs	2771
+728523	Flow cytometry result	5434852	export_232_70.728523.fcs	export_232_70.fcs	2771
+728524	Flow cytometry result	15185382	export_232_pre.728524.fcs	export_232_pre.fcs	2771
+728525	Flow cytometry result	30979516	export_233_0.728525.fcs	export_233_0.fcs	2771
+728526	Flow cytometry result	12151011	export_233_1.728526.fcs	export_233_1.fcs	2771
+728527	Flow cytometry result	24938642	export_233_7.728527.fcs	export_233_7.fcs	2771
+728528	Flow cytometry result	18511205	export_233_70.728528.fcs	export_233_70.fcs	2771
+728529	Flow cytometry result	28494438	export_233_pre.728529.fcs	export_233_pre.fcs	2771
+728530	Flow cytometry result	29300859	export_234_0.728530.fcs	export_234_0.fcs	2771
+728531	Flow cytometry result	6192891	export_234_1.728531.fcs	export_234_1.fcs	2771
+728532	Flow cytometry result	26952003	export_234_7.728532.fcs	export_234_7.fcs	2771
+728533	Flow cytometry result	6013180	export_234_70.728533.fcs	export_234_70.fcs	2771
+728534	Flow cytometry result	35699072	export_234_pre.728534.fcs	export_234_pre.fcs	2771
+728535	Flow cytometry result	20020563	export_235_0.728535.fcs	export_235_0.fcs	2771
+728536	Flow cytometry result	5832315	export_235_1.728536.fcs	export_235_1.fcs	2771
+728537	Flow cytometry result	18084339	export_235_7.728537.fcs	export_235_7.fcs	2771
+728538	Flow cytometry result	5381164	export_235_70.728538.fcs	export_235_70.fcs	2771
+728539	Flow cytometry result	15754205	export_235_pre.728539.fcs	export_235_pre.fcs	2771
+728540	Flow cytometry result	13148642	export_236_0.728540.fcs	export_236_0.fcs	2771
+728541	Flow cytometry result	4739039	export_236_1.728541.fcs	export_236_1.fcs	2771
+728542	Flow cytometry result	7772257	export_236_7.728542.fcs	export_236_7.fcs	2771
+728543	Flow cytometry result	7150177	export_236_70.728543.fcs	export_236_70.fcs	2771
+728544	Flow cytometry result	13040356	export_236_pre.728544.fcs	export_236_pre.fcs	2771
+728545	Flow cytometry result	11094626	export_237_0.728545.fcs	export_237_0.fcs	2771
+728546	Flow cytometry result	11563493	export_237_1.728546.fcs	export_237_1.fcs	2771
+728547	Flow cytometry result	18969698	export_237_7.728547.fcs	export_237_7.fcs	2771
+728548	Flow cytometry result	17889123	export_237_70.728548.fcs	export_237_70.fcs	2771
+728549	Flow cytometry result	11501284	export_237_pre.728549.fcs	export_237_pre.fcs	2771
+728550	Flow cytometry result	17684066	export_241_0.728550.fcs	export_241_0.fcs	2771
+728551	Flow cytometry result	19556066	export_241_1.728551.fcs	export_241_1.fcs	2771
+728552	Flow cytometry result	21982178	export_241_7.728552.fcs	export_241_7.fcs	2771
+728553	Flow cytometry result	11998946	export_241_70.728553.fcs	export_241_70.fcs	2771
+728554	Flow cytometry result	24189412	export_241_pre.728554.fcs	export_241_pre.fcs	2771
+728555	Flow cytometry result	17624163	export_242_0.728555.fcs	export_242_0.fcs	2771
+728556	Flow cytometry result	6765408	export_242_1.728556.fcs	export_242_1.fcs	2771
+728557	Flow cytometry result	11322722	export_242_7.728557.fcs	export_242_7.fcs	2771
+728558	Flow cytometry result	14463077	export_242_70.728558.fcs	export_242_70.fcs	2771
+728559	Flow cytometry result	25213540	export_242_pre.728559.fcs	export_242_pre.fcs	2771
+728560	Flow cytometry result	21576674	export_243_0.728560.fcs	export_243_0.fcs	2771
+728561	Flow cytometry result	14627810	export_243_1.728561.fcs	export_243_1.fcs	2771
+728562	Flow cytometry result	18942051	export_243_7.728562.fcs	export_243_7.fcs	2771
+728563	Flow cytometry result	22259811	export_243_70.728563.fcs	export_243_70.fcs	2771
+728564	Flow cytometry result	19020389	export_243_pre.728564.fcs	export_243_pre.fcs	2771
+728565	Flow cytometry result	27433154	export_244_0.728565.fcs	export_244_0.fcs	2771
+728566	Flow cytometry result	5455587	export_244_1.728566.fcs	export_244_1.fcs	2771
+728567	Flow cytometry result	26125060	export_244_7.728567.fcs	export_244_7.fcs	2771
+728568	Flow cytometry result	3101114	export_244_70.728568.fcs	export_244_70.fcs	2771
+728569	Flow cytometry result	14972262	export_244_pre.728569.fcs	export_244_pre.fcs	2771
+728570	Flow cytometry result	9030842	export_245_0.728570.fcs	export_245_0.fcs	2771
+728571	Flow cytometry result	20214963	export_245_1.728571.fcs	export_245_1.fcs	2771
+728572	Flow cytometry result	19274355	export_245_7.728572.fcs	export_245_7.fcs	2771
+728573	Flow cytometry result	6054652	export_245_70.728573.fcs	export_245_70.fcs	2771
+728574	Flow cytometry result	14897909	export_245_pre.728574.fcs	export_245_pre.fcs	2771
+728575	Flow cytometry result	16000227	export_246_0.728575.fcs	export_246_0.fcs	2771
+728576	Flow cytometry result	17839035	export_246_1.728576.fcs	export_246_1.fcs	2771
+728577	Flow cytometry result	5748218	export_246_7.728577.fcs	export_246_7.fcs	2771
+728578	Flow cytometry result	6888700	export_246_70.728578.fcs	export_246_70.fcs	2771
+728579	Flow cytometry result	13398149	export_246_pre.728579.fcs	export_246_pre.fcs	2771
+728580	Flow cytometry result	24930148	export_247_0.728580.fcs	export_247_0.fcs	2771
+728581	Flow cytometry result	3400416	export_247_1.728581.fcs	export_247_1.fcs	2771
+728582	Flow cytometry result	13337572	export_247_7.728582.fcs	export_247_7.fcs	2771
+728583	Flow cytometry result	5399139	export_247_70.728583.fcs	export_247_70.fcs	2771
+728584	Flow cytometry result	17684428	export_247_pre.728584.fcs	export_247_pre.fcs	2771
+728585	Flow cytometry result	29060813	export_248_0.728585.fcs	export_248_0.fcs	2771
+728586	Flow cytometry result	36283133	export_248_1.728586.fcs	export_248_1.fcs	2771
+728587	Flow cytometry result	27596693	export_248_7.728587.fcs	export_248_7.fcs	2771
+728588	Flow cytometry result	21054846	export_248_70.728588.fcs	export_248_70.fcs	2771
+728589	Flow cytometry result	22149247	export_248_pre.728589.fcs	export_248_pre.fcs	2771
+728590	Flow cytometry result	6977378	export_249_0.728590.fcs	export_249_0.fcs	2771
+728591	Flow cytometry result	31500076	export_249_1.728591.fcs	export_249_1.fcs	2771
+728592	Flow cytometry result	21211562	export_249_7.728592.fcs	export_249_7.fcs	2771
+728593	Flow cytometry result	9216868	export_249_70.728593.fcs	export_249_70.fcs	2771
+728594	Flow cytometry result	24112734	export_249_pre.728594.fcs	export_249_pre.fcs	2771
+728595	Flow cytometry result	25479893	export_250_0.728595.fcs	export_250_0.fcs	2771
+728596	Flow cytometry result	33567293	export_250_1.728596.fcs	export_250_1.fcs	2771
+728597	Flow cytometry result	12060030	export_250_7.728597.fcs	export_250_7.fcs	2771
+728598	Flow cytometry result	4932604	export_250_70.728598.fcs	export_250_70.fcs	2771
+728599	Flow cytometry result	5750525	export_250_pre.728599.fcs	export_250_pre.fcs	2771
+728600	Flow cytometry result	15325155	export_251_0.728600.fcs	export_251_0.fcs	2771
+728601	Flow cytometry result	13311101	export_251_1.728601.fcs	export_251_1.fcs	2771
+728602	Flow cytometry result	7803388	export_251_7.728602.fcs	export_251_7.fcs	2771
+728603	Flow cytometry result	8456573	export_251_70.728603.fcs	export_251_70.fcs	2771
+728604	Flow cytometry result	12199637	export_251_pre.728604.fcs	export_251_pre.fcs	2771
+728605	Flow cytometry result	7003875	export_254_0.728605.fcs	export_254_0.fcs	2771
+728606	Flow cytometry result	42620404	export_254_1.728606.fcs	export_254_1.fcs	2771
+728607	Flow cytometry result	5771234	export_254_7.728607.fcs	export_254_7.fcs	2771
+728608	Flow cytometry result	22400283	export_254_70.728608.fcs	export_254_70.fcs	2771
+728609	Flow cytometry result	33321606	export_254_pre.728609.fcs	export_254_pre.fcs	2771
+728610	Flow cytometry result	21211490	export_256_0.728610.fcs	export_256_0.fcs	2771
+728611	Flow cytometry result	24888675	export_256_1.728611.fcs	export_256_1.fcs	2771
+728612	Flow cytometry result	5698658	export_256_7.728612.fcs	export_256_7.fcs	2771
+728613	Flow cytometry result	24763036	export_256_70.728613.fcs	export_256_70.fcs	2771
+728614	Flow cytometry result	26006692	export_256_pre.728614.fcs	export_256_pre.fcs	2771
+728615	Flow cytometry result	25049884	export_257_0.728615.fcs	export_257_0.fcs	2771
+728616	Flow cytometry result	29097004	export_257_1.728616.fcs	export_257_1.fcs	2771
+728617	Flow cytometry result	7410531	export_257_7.728617.fcs	export_257_7.fcs	2771
+728618	Flow cytometry result	26541653	export_257_70.728618.fcs	export_257_70.fcs	2771
+728619	Flow cytometry result	26754124	export_257_pre.728619.fcs	export_257_pre.fcs	2771
+728620	Flow cytometry result	22798660	export_259_0.728620.fcs	export_259_0.fcs	2771
+728621	Flow cytometry result	29023204	export_259_1.728621.fcs	export_259_1.fcs	2771
+728622	Flow cytometry result	6108770	export_259_7.728622.fcs	export_259_7.fcs	2771
+728623	Flow cytometry result	6379491	export_259_70.728623.fcs	export_259_70.fcs	2771
+728624	Flow cytometry result	18922827	export_259_pre.728624.fcs	export_259_pre.fcs	2771
+728625	Flow cytometry result	27503741	export_260_0.728625.fcs	export_260_0.fcs	2771
+728626	Flow cytometry result	38372861	export_260_1.728626.fcs	export_260_1.fcs	2771
+728627	Flow cytometry result	6051195	export_260_7.728627.fcs	export_260_7.fcs	2771
+728628	Flow cytometry result	6884092	export_260_70.728628.fcs	export_260_70.fcs	2771
+728629	Flow cytometry result	5601918	export_260_pre.728629.fcs	export_260_pre.fcs	2771
+728630	Flow cytometry result	23592676	export_261_0.728630.fcs	export_261_0.fcs	2771
+728631	Flow cytometry result	24433777	export_261_1.728631.fcs	export_261_1.fcs	2771
+728632	Flow cytometry result	11720164	export_261_7.728632.fcs	export_261_7.fcs	2771
+728633	Flow cytometry result	10449508	export_261_70.728633.fcs	export_261_70.fcs	2771
+728634	Flow cytometry result	23864334	export_261_pre.728634.fcs	export_261_pre.fcs	2771
+728635	Flow cytometry result	25636349	export_262_0.728635.fcs	export_262_0.fcs	2771
+728636	Flow cytometry result	16239485	export_262_1.728636.fcs	export_262_1.fcs	2771
+728637	Flow cytometry result	20954691	export_262_7.728637.fcs	export_262_7.fcs	2771
+728638	Flow cytometry result	21266814	export_262_70.728638.fcs	export_262_70.fcs	2771
+728639	Flow cytometry result	27916375	export_262_pre.728639.fcs	export_262_pre.fcs	2771
+728640	Flow cytometry result	5620322	export_263_0.728640.fcs	export_263_0.fcs	2771
+728641	Flow cytometry result	31080890	export_263_1.728641.fcs	export_263_1.fcs	2771
+728642	Flow cytometry result	5453283	export_263_7.728642.fcs	export_263_7.fcs	2771
+728643	Flow cytometry result	5703267	export_263_70.728643.fcs	export_263_70.fcs	2771
+728644	Flow cytometry result	18040108	export_263_pre.728644.fcs	export_263_pre.fcs	2771
+728645	Flow cytometry result	23035133	export_265_0.728645.fcs	export_265_0.fcs	2771
+728646	Flow cytometry result	11603837	export_265_1.728646.fcs	export_265_1.fcs	2771
+728647	Flow cytometry result	30675629	export_265_7.728647.fcs	export_265_7.fcs	2771
+728648	Flow cytometry result	24859758	export_265_70.728648.fcs	export_265_70.fcs	2771
+728649	Flow cytometry result	24047239	export_265_pre.728649.fcs	export_265_pre.fcs	2771
+728650	Flow cytometry result	29016292	export_267_0.728650.fcs	export_267_0.fcs	2771
+728651	Flow cytometry result	6134114	export_267_1.728651.fcs	export_267_1.fcs	2771
+728652	Flow cytometry result	6257378	export_267_7.728652.fcs	export_267_7.fcs	2771
+728653	Flow cytometry result	5736674	export_267_70.728653.fcs	export_267_70.fcs	2771
+728654	Flow cytometry result	25769812	export_267_pre.728654.fcs	export_267_pre.fcs	2771
+728655	Flow cytometry result	35995133	export_268_0.728655.fcs	export_268_0.fcs	2771
+728656	Flow cytometry result	26613246	export_268_1.728656.fcs	export_268_1.fcs	2771
+728657	Flow cytometry result	31223909	export_268_7.728657.fcs	export_268_7.fcs	2771
+728658	Flow cytometry result	27989886	export_268_70.728658.fcs	export_268_70.fcs	2771
+728659	Flow cytometry result	21757567	export_268_pre.728659.fcs	export_268_pre.fcs	2771
+728660	Flow cytometry result	39029429	export_272_0.728660.fcs	export_272_0.fcs	2771
+728661	Flow cytometry result	16173462	export_272_1.728661.fcs	export_272_1.fcs	2771
+728662	Flow cytometry result	24684651	export_272_7.728662.fcs	export_272_7.fcs	2771
+728663	Flow cytometry result	29615358	export_272_70.728663.fcs	export_272_70.fcs	2771
+728664	Flow cytometry result	26401279	export_272_pre.728664.fcs	export_272_pre.fcs	2771
+728665	Flow cytometry result	16678010	export_273_0.728665.fcs	export_273_0.fcs	2771
+728666	Flow cytometry result	19432946	export_273_1.728666.fcs	export_273_1.fcs	2771
+728667	Flow cytometry result	6120290	export_273_7.728667.fcs	export_273_7.fcs	2771
+728668	Flow cytometry result	9371236	export_273_70.728668.fcs	export_273_70.fcs	2771
+728669	Flow cytometry result	19418476	export_273_pre.728669.fcs	export_273_pre.fcs	2771
+728670	Flow cytometry result	21344066	export_274_0.728670.fcs	export_274_0.fcs	2771
+728671	Flow cytometry result	24694733	export_274_1.728671.fcs	export_274_1.fcs	2771
+728672	Flow cytometry result	22986605	export_274_7.728672.fcs	export_274_7.fcs	2771
+728673	Flow cytometry result	19588058	export_274_70.728673.fcs	export_274_70.fcs	2771
+728674	Flow cytometry result	29207551	export_274_pre.728674.fcs	export_274_pre.fcs	2771
+728675	Flow cytometry result	5721696	export_275_0.728675.fcs	export_275_0.fcs	2771
+728676	Flow cytometry result	4754019	export_275_1.728676.fcs	export_275_1.fcs	2771
+728677	Flow cytometry result	7376331	export_275_7.728677.fcs	export_275_7.fcs	2771
+728678	Flow cytometry result	6097612	export_275_70.728678.fcs	export_275_70.fcs	2771
+728679	Flow cytometry result	6842597	export_275_pre.728679.fcs	export_275_pre.fcs	2771
+728680	Flow cytometry result	19696538	export_277_0.728680.fcs	export_277_0.fcs	2771
+728681	Flow cytometry result	14489572	export_277_1.728681.fcs	export_277_1.fcs	2771
+728682	Flow cytometry result	18072938	export_277_7.728682.fcs	export_277_7.fcs	2771
+728683	Flow cytometry result	16509027	export_277_70.728683.fcs	export_277_70.fcs	2771
+728684	Flow cytometry result	20123715	export_277_pre.728684.fcs	export_277_pre.fcs	2771
+728685	Flow cytometry result	20554130	export_279_0.728685.fcs	export_279_0.fcs	2771
+728686	Flow cytometry result	4688354	export_279_1.728686.fcs	export_279_1.fcs	2771
+728687	Flow cytometry result	5571938	export_279_7.728687.fcs	export_279_7.fcs	2771
+728688	Flow cytometry result	15205827	export_279_70.728688.fcs	export_279_70.fcs	2771
+728689	Flow cytometry result	17936644	export_279_pre.728689.fcs	export_279_pre.fcs	2771
+728690	Flow cytometry result	24319082	export_280_0.728690.fcs	export_280_0.fcs	2771
+728691	Flow cytometry result	5679074	export_280_1.728691.fcs	export_280_1.fcs	2771
+728692	Flow cytometry result	21522098	export_280_7.728692.fcs	export_280_7.fcs	2771
+728693	Flow cytometry result	22343475	export_280_70.728693.fcs	export_280_70.fcs	2771
+728694	Flow cytometry result	27070062	export_280_pre.728694.fcs	export_280_pre.fcs	2771
+728695	Flow cytometry result	6215905	export_282_0.728695.fcs	export_282_0.fcs	2771
+728696	Flow cytometry result	5471714	export_282_1.728696.fcs	export_282_1.fcs	2771
+728697	Flow cytometry result	26423642	export_282_7.728697.fcs	export_282_7.fcs	2771
+728698	Flow cytometry result	6460131	export_282_70.728698.fcs	export_282_70.fcs	2771
+728699	Flow cytometry result	28638294	export_282_pre.728699.fcs	export_282_pre.fcs	2771
+728700	Flow cytometry result	18515838	export_283_0.728700.fcs	export_283_0.fcs	2771
+728701	Flow cytometry result	24787971	export_283_1.728701.fcs	export_283_1.fcs	2771
+728702	Flow cytometry result	8461180	export_283_7.728702.fcs	export_283_7.fcs	2771
+728703	Flow cytometry result	21812790	export_283_70.728703.fcs	export_283_70.fcs	2771
+728704	Flow cytometry result	21955925	export_283_pre.728704.fcs	export_283_pre.fcs	2771
+728705	Flow cytometry result	26055220	export_284_0.728705.fcs	export_284_0.fcs	2771
+728706	Flow cytometry result	19674724	export_284_1.728706.fcs	export_284_1.fcs	2771
+728707	Flow cytometry result	24753602	export_284_7.728707.fcs	export_284_7.fcs	2771
+728708	Flow cytometry result	23172915	export_284_70.728708.fcs	export_284_70.fcs	2771
+728709	Flow cytometry result	27027941	export_284_pre.728709.fcs	export_284_pre.fcs	2771

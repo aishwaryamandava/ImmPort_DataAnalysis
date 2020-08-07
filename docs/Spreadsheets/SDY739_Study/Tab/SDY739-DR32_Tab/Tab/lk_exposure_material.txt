@@ -1,0 +1,27 @@
+NAME	EXPOSURE_MATERIAL_ID	DESCRIPTION	LINK
+BCG Vaccine	VO_0000771	BCG Vaccine	http://www.ontobee.org/ontology/VO?iri=http://purl.obolibrary.org/obo/VO_0000771
+Borrelia burgdorferi	NCBITaxon_139	Borrelia burgdorferi	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=139
+Dengue virus	NCBITaxon_12637	Dengue virus	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=12637
+Dengue virus 1	NCBITaxon_11053	Dengue virus 1	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11053
+Dengue virus 2	NCBITaxon_11060	Dengue virus 2	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11060
+Human alphaherpesvirus 3	NCBITaxon_10335	Human alphaherpesvirus 3	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=10335
+Influenza A H1N1 2009 Monovalent Vaccine Novartis	VO_0000081	Influenza A H1N1 2009 Monovalent Vaccine Novartis	http://www.ontobee.org/ontology/VO?iri=http://purl.obolibrary.org/obo/VO_0000081
+Influenza A virus	NCBITaxon_11320	Influenza A virus	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11320
+Mycobacterium tuberculosis	NCBITaxon_1773	Mycobacterium tuberculosis	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1773
+Purified Protein Derivative	Unknown ID	Purified Protein Derivative	
+Varicella-zoster virus vaccine	VO_0000669	Varicella-zoster virus vaccine	http://www.ontobee.org/ontology/VO?iri=http://purl.obolibrary.org/obo/VO_0000669
+West Nile virus	NCBITaxon_11082	West Nile virus	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11082
+Multiple Sclerosis	DOID:2377	Multiple Sclerosis	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_2377
+Myasthenia Gravis	DOID:437	Myasthenia Gravis	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_437
+Neuromyelitis Optica	DOID:8869	Neuromyelitis Optica	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_8869
+Parkinson's disease	DOID:14330	Parkinson's disease	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_14330
+Alzheimer's disease	DOID:10652	Alzheimer's disease	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_10652
+Diabetes Mellitus	DOID:9351	Diabetes Mellitus	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_9351
+Sjogren's syndrome	DOID:12894	Sjogren's syndrome	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_12894
+Lupus Erythematosus	DOID:9074	Lupus Erythematosus	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_9074
+Systemic Scleroderma	DOID:418	Systemic Scleroderma	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_418
+Pemphigus Vulgaris	DOID:0060851	Pemphigus Vulgaris	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_0060851
+Rheumatoid Arthritis	DOID:7148	Rheumatoid Arthritis	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_7148
+Ulcerative Colitis	DOID:8577	Ulcerative Colitis	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_8577
+Psoriasis	DOID:8893	Psoriasis	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_8893
+Crohn's disease	DOID:8778	Crohn's disease	http://www.ontobee.org/ontology/DOID?iri=http://purl.obolibrary.org/obo/DOID_8778

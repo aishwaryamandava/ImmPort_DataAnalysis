@@ -1,0 +1,10 @@
+TREATMENT_ACCESSION	NAME	AMOUNT_UNIT	AMOUNT_VALUE	DURATION_UNIT	DURATION_VALUE	TEMPERATURE_UNIT	TEMPERATURE_VALUE	WORKSPACE_ID
+TRT1753	Unstim	Not_Specified	Not_Specified	Not_Specified	Not_Specified	Not_Specified	Not_Specified	2883
+TRT1754	interferon alpha	ug/ml	10000	Minutes	15	C	37	2883
+TRT1755	interferon gamma	ng/ml	50	Minutes	15	C	37	2883
+TRT1783	No treatment	Not_Specified	Not_Specified	Not_Specified	Not_Specified	Not_Specified	Not_Specified	2883
+TRT1785	No HAI treatment	Not_Specified	Not_Specified	Not_Specified	Not_Specified	Not_Specified	Not_Specified	2883
+TRT1834	No treatment	Not_Specified	Not_Specified	Not_Specified	Not_Specified	Not_Specified	Not_Specified	2883
+TRT492	IL-6	ng/ml	50	Minutes	15	C	37	2883
+TRT494	IL-10	ng/ml	50	Minutes	15	C	37	2883
+TRT495	IL-21	ng/ml	50	Minutes	15	C	37	2883

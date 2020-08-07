@@ -1,0 +1,2 @@
+STUDY_ACCESSION	PUBMED_ID	AUTHORS	DOI	ISSUE	JOURNAL	MONTH	PAGES	TITLE	YEAR	WORKSPACE_ID
+SDY80	24725414	Tsang JS(1), Schwartzberg PL(2), Kotliarov Y(3), Biancotto A(3), Xie Z(3), Germain RN(4), Wang E(5), Olnes MJ(6), Narayanan M(7), Golding H(8), Moir S(9), Dickler HB(3), Perl S(3), Cheung F(3); Baylor HIPC Center; CHI Consortium.	10.1016/j.cell.2014.03.031.	157 2	Cell.	Apr	499-513	Global analyses of human immune variation reveal baseline predictors of postvaccination responses.	2014	2771

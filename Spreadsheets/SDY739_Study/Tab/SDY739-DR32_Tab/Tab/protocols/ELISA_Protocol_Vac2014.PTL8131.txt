@@ -1,0 +1,34 @@
+March 25, 2015
+Raj K. Kurupati
+
+ELISA Protocol
+
+Materials:
+	
+	Nunc Maxisorp 96 well plates
+	Round bottom 96 well dilution plates
+	Concentration of the virus to be tested against
+	Isotype standards for IgA1, IgG and IgM
+	Heat inactivated human serum (treated at 56oC for 30 min)
+Purified Influenza A/H1N1/2009/California and 
+Influenza A/TEXAS/50/2012 (H3N2)
+	3%BSA in PBS
+	PBS containing 0.05% Tween (PBST)
+
+Protocol:
+Day 1
+1. 96 well Nunc Maxisorp plates were coated with 10 µg/ml of either H1N1 or H3N2 virus in bicarbonate buffer overnight at 4øC.
+2. Isotype standards for IgA1, IgG and IgM (Athens Research & Technology, Inc., Georgia, USA) and blanks wells were also included in each plate.
+Day 2
+1. After coating, plates were washed and blocked with 3%BSA in PBS containing 0.05% Tween. 
+2. Heat-inactivated sera of young and old subjects from day 0, 10 and 28 were diluted to 1/250 and added to the plate for 2h at room temperature.
+3. Plates were washed 4X with PBST using plate washer. 
+4. Alkaline phosphatase conjugated mouse anti-human IgA1 at 1:1000, IgG at 1:3000 and IgM at1:1000 (SouthernBiotech, Alabama, USA) dilutions were added to the plates.
+5. Plates were further incubated for 1h at room temperature. 
+6. After the incubation, the plates were washed 4X with PBST.
+7. Plates were developed using alkaline phosphatase substrate containing pNPP tablets (Sigma Aldrich, Missouri, USA) in DEA buffer.
+8.  The absorbance was recorded at 405nm. 
+9. The absorbance values were plotted against standard curves from each plate for every isotype and the concentration was determined and is expressed in µg/ml.
+
+
+

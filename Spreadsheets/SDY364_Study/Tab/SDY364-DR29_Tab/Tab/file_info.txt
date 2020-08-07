@@ -1,0 +1,1207 @@
+FILE_INFO_ID	DETAIL	FILESIZE_BYTES	NAME	ORIGINAL_FILE_NAME	WORKSPACE_ID
+464920	Flow cytometry result	38139307	11_27_12_NCHVK_129_B_panel.464920.fcs	11_27_12_NCHVK_129_B_panel.fcs	2799
+464921	Flow cytometry compensation or control	8095625	11_27_12_NCHVK_129_Ctrl_panel.464921.fcs	11_27_12_NCHVK_129_Ctrl_panel.fcs	2799
+464922	Flow cytometry compensation or control	7202748	11_27_12_Comp_Unstained.464922.fcs	11_27_12_Comp_Unstained.fcs	2799
+464923	Flow cytometry compensation or control	7202476	11_27_12_Comp_FITC.464923.fcs	11_27_12_Comp_FITC.fcs	2799
+464924	Flow cytometry compensation or control	7202474	11_27_12_Comp_PE.464924.fcs	11_27_12_Comp_PE.fcs	2799
+464925	Flow cytometry compensation or control	7202478	11_27_12_Comp_PE_TxR.464925.fcs	11_27_12_Comp_PE_TxR.fcs	2799
+464926	Flow cytometry compensation or control	7202478	11_27_12_Comp_PE_Cy5.464926.fcs	11_27_12_Comp_PE_Cy5.fcs	2799
+464927	Flow cytometry compensation or control	7202478	11_27_12_Comp_PE_Cy7.464927.fcs	11_27_12_Comp_PE_Cy7.fcs	2799
+464928	Flow cytometry compensation or control	7202484	11_27_12_Comp_Pacific_Blue.464928.fcs	11_27_12_Comp_Pacific_Blue.fcs	2799
+464929	Flow cytometry compensation or control	7202480	11_27_12_Comp_QDot_565.464929.fcs	11_27_12_Comp_QDot_565.fcs	2799
+464930	Flow cytometry compensation or control	7202475	11_27_12_Comp_APC.464930.fcs	11_27_12_Comp_APC.fcs	2799
+464931	Flow cytometry compensation or control	7202481	11_27_12_Comp_Alexa_700.464931.fcs	11_27_12_Comp_Alexa_700.fcs	2799
+464932	Flow cytometry compensation or control	7202479	11_27_12_Comp_APC_Cy7.464932.fcs	11_27_12_Comp_APC_Cy7.fcs	2799
+464933	Flow cytometry compensation or control	7202480	11_27_12_Comp_PE_Cy5_5.464933.fcs	11_27_12_Comp_PE_Cy5_5.fcs	2799
+464934	Flow cytometry result	39923730	11_27_12_NCHVK_129_B_panel.464934.txt	11_27_12_NCHVK_129_B_panel.txt	2799
+464935	Flow cytometry result	40369928	11_27_12_NCHVK_129_DC_panel.464935.fcs	11_27_12_NCHVK_129_DC_panel.fcs	2799
+464936	Flow cytometry result	42969260	11_27_12_NCHVK_129_DC_panel.464936.txt	11_27_12_NCHVK_129_DC_panel.txt	2799
+464937	Flow cytometry result	42061510	11_27_12_NCHVK_129_Mono_panel.464937.fcs	11_27_12_NCHVK_129_Mono_panel.fcs	2799
+464938	Flow cytometry result	44129205	11_27_12_NCHVK_129_Mono_panel.464938.txt	11_27_12_NCHVK_129_Mono_panel.txt	2799
+464939	Flow cytometry result	37880392	11_27_12_NCHVK_129_T_panel.464939.fcs	11_27_12_NCHVK_129_T_panel.fcs	2799
+464940	Flow cytometry result	40040225	11_27_12_NCHVK_129_T_panel.464940.txt	11_27_12_NCHVK_129_T_panel.txt	2799
+464941	Flow cytometry result	25104139	11_27_12_NCHVK_130_B_panel.464941.fcs	11_27_12_NCHVK_130_B_panel.fcs	2799
+464942	Flow cytometry compensation or control	5979617	11_27_12_NCHVK_130_Ctrl_panel.464942.fcs	11_27_12_NCHVK_130_Ctrl_panel.fcs	2799
+464943	Flow cytometry result	26276756	11_27_12_NCHVK_130_B_panel.464943.txt	11_27_12_NCHVK_130_B_panel.txt	2799
+464944	Flow cytometry result	25280744	11_27_12_NCHVK_130_DC_panel.464944.fcs	11_27_12_NCHVK_130_DC_panel.fcs	2799
+464945	Flow cytometry result	26687046	11_27_12_NCHVK_130_DC_panel.464945.txt	11_27_12_NCHVK_130_DC_panel.txt	2799
+464946	Flow cytometry result	26640910	11_27_12_NCHVK_130_Mono_panel.464946.fcs	11_27_12_NCHVK_130_Mono_panel.fcs	2799
+464947	Flow cytometry result	27942445	11_27_12_NCHVK_130_Mono_panel.464947.txt	11_27_12_NCHVK_130_Mono_panel.txt	2799
+464948	Flow cytometry result	28388848	11_27_12_NCHVK_130_T_panel.464948.fcs	11_27_12_NCHVK_130_T_panel.fcs	2799
+464949	Flow cytometry result	30049421	11_27_12_NCHVK_130_T_panel.464949.txt	11_27_12_NCHVK_130_T_panel.txt	2799
+464971	Flow cytometry result	22187262	10_25_12_NCHVK_129_B_panel_Day0.464971.fcs	10_25_12_NCHVK_129_B_panel_Day0.fcs	2799
+464972	Flow cytometry compensation or control	5809180	10_25_12_NCHVK_129_Ctrl_panel_Day0.464972.fcs	10_25_12_NCHVK_129_Ctrl_panel_Day0.fcs	2799
+464973	Flow cytometry compensation or control	7202756	10_25_12_Comp_Unstained.464973.fcs	10_25_12_Comp_Unstained.fcs	2799
+464974	Flow cytometry compensation or control	7202484	10_25_12_Comp_FITC.464974.fcs	10_25_12_Comp_FITC.fcs	2799
+464975	Flow cytometry compensation or control	7202482	10_25_12_Comp_PE.464975.fcs	10_25_12_Comp_PE.fcs	2799
+464976	Flow cytometry compensation or control	7202486	10_25_12_Comp_PE_TxR.464976.fcs	10_25_12_Comp_PE_TxR.fcs	2799
+464977	Flow cytometry compensation or control	7202486	10_25_12_Comp_PE_Cy5.464977.fcs	10_25_12_Comp_PE_Cy5.fcs	2799
+464978	Flow cytometry compensation or control	7202486	10_25_12_Comp_PE_Cy7.464978.fcs	10_25_12_Comp_PE_Cy7.fcs	2799
+464979	Flow cytometry compensation or control	7202492	10_25_12_Comp_Pacific_Blue.464979.fcs	10_25_12_Comp_Pacific_Blue.fcs	2799
+464980	Flow cytometry compensation or control	7202488	10_25_12_Comp_QDot_565.464980.fcs	10_25_12_Comp_QDot_565.fcs	2799
+464981	Flow cytometry compensation or control	7202483	10_25_12_Comp_APC.464981.fcs	10_25_12_Comp_APC.fcs	2799
+464982	Flow cytometry compensation or control	7202489	10_25_12_Comp_Alexa_700.464982.fcs	10_25_12_Comp_Alexa_700.fcs	2799
+464983	Flow cytometry compensation or control	7202487	10_25_12_Comp_APC_Cy7.464983.fcs	10_25_12_Comp_APC_Cy7.fcs	2799
+464984	Flow cytometry compensation or control	7202488	10_25_12_Comp_PE_Cy5_5.464984.fcs	10_25_12_Comp_PE_Cy5_5.fcs	2799
+464985	Flow cytometry result	23764946	10_25_12_NCHVK_129_B_panel_Day0.464985.txt	10_25_12_NCHVK_129_B_panel_Day0.txt	2799
+464986	Flow cytometry result	22842523	10_25_12_NCHVK_129_DC_panel_Day0.464986.fcs	10_25_12_NCHVK_129_DC_panel_Day0.fcs	2799
+464987	Flow cytometry result	24747876	10_25_12_NCHVK_129_DC_panel_Day0.464987.txt	10_25_12_NCHVK_129_DC_panel_Day0.txt	2799
+464988	Flow cytometry result	31192304	10_25_12_NCHVK_129_Mono_panel_Day0.464988.fcs	10_25_12_NCHVK_129_Mono_panel_Day0.fcs	2799
+464989	Flow cytometry result	32674636	10_25_12_NCHVK_129_Mono_panel_Day0.464989.txt	10_25_12_NCHVK_129_Mono_panel_Day0.txt	2799
+464990	Flow cytometry result	28078371	10_25_12_NCHVK_129_T_panel_Day0.464990.fcs	10_25_12_NCHVK_129_T_panel_Day0.fcs	2799
+464991	Flow cytometry result	30122913	10_25_12_NCHVK_129_T_panel_Day0.464991.txt	10_25_12_NCHVK_129_T_panel_Day0.txt	2799
+464992	Flow cytometry result	24357141	10_26_12_NCHVK_129_B_panel.464992.fcs	10_26_12_NCHVK_129_B_panel.fcs	2799
+464993	Flow cytometry compensation or control	6025411	10_26_12_NCHVK_129_Ctrl_panel.464993.fcs	10_26_12_NCHVK_129_Ctrl_panel.fcs	2799
+464994	Flow cytometry compensation or control	7202473	10_26_12_Comp_Unstained.464994.fcs	10_26_12_Comp_Unstained.fcs	2799
+464995	Flow cytometry compensation or control	7202476	10_26_12_Comp_FITC.464995.fcs	10_26_12_Comp_FITC.fcs	2799
+464996	Flow cytometry compensation or control	7202474	10_26_12_Comp_PE.464996.fcs	10_26_12_Comp_PE.fcs	2799
+464997	Flow cytometry compensation or control	7202478	10_26_12_Comp_PE_TxR.464997.fcs	10_26_12_Comp_PE_TxR.fcs	2799
+464998	Flow cytometry compensation or control	7202478	10_26_12_Comp_PE_Cy5.464998.fcs	10_26_12_Comp_PE_Cy5.fcs	2799
+464999	Flow cytometry compensation or control	7202478	10_26_12_Comp_PE_Cy7.464999.fcs	10_26_12_Comp_PE_Cy7.fcs	2799
+465000	Flow cytometry compensation or control	7202484	10_26_12_Comp_Pacific_Blue.465000.fcs	10_26_12_Comp_Pacific_Blue.fcs	2799
+465001	Flow cytometry compensation or control	7202480	10_26_12_Comp_QDot_565.465001.fcs	10_26_12_Comp_QDot_565.fcs	2799
+465002	Flow cytometry compensation or control	7202475	10_26_12_Comp_APC.465002.fcs	10_26_12_Comp_APC.fcs	2799
+465003	Flow cytometry compensation or control	7202481	10_26_12_Comp_Alexa_700.465003.fcs	10_26_12_Comp_Alexa_700.fcs	2799
+465004	Flow cytometry compensation or control	7202479	10_26_12_Comp_APC_Cy7.465004.fcs	10_26_12_Comp_APC_Cy7.fcs	2799
+465005	Flow cytometry compensation or control	7202480	10_26_12_Comp_PE_Cy5_5.465005.fcs	10_26_12_Comp_PE_Cy5_5.fcs	2799
+465006	Flow cytometry result	25933837	10_26_12_NCHVK_129_B_panel.465006.txt	10_26_12_NCHVK_129_B_panel.txt	2799
+465007	Flow cytometry result	26468962	10_26_12_NCHVK_129_DC_panel.465007.fcs	10_26_12_NCHVK_129_DC_panel.fcs	2799
+465008	Flow cytometry result	28189591	10_26_12_NCHVK_129_DC_panel.465008.txt	10_26_12_NCHVK_129_DC_panel.txt	2799
+465009	Flow cytometry result	24513239	10_26_12_NCHVK_129_Mono_panel.465009.fcs	10_26_12_NCHVK_129_Mono_panel.fcs	2799
+465010	Flow cytometry result	26124052	10_26_12_NCHVK_129_Mono_panel.465010.txt	10_26_12_NCHVK_129_Mono_panel.txt	2799
+465011	Flow cytometry result	27615570	10_26_12_NCHVK_129_T_panel.465011.fcs	10_26_12_NCHVK_129_T_panel.fcs	2799
+465012	Flow cytometry result	29393040	10_26_12_NCHVK_129_T_panel.465012.txt	10_26_12_NCHVK_129_T_panel.txt	2799
+465013	Flow cytometry result	12452500	10_25_12_NCHVK_130_panel_Day0.465013.fcs	10_25_12_NCHVK_130_panel_Day0.fcs	2799
+465014	Flow cytometry compensation or control	4556020	10_25_12_NCHVK_130_Ctrl_panel_Day0.465014.fcs	10_25_12_NCHVK_130_Ctrl_panel_Day0.fcs	2799
+465015	Flow cytometry result	13587514	10_25_12_NCHVK_130_panel_Day0.465015.txt	10_25_12_NCHVK_130_panel_Day0.txt	2799
+465016	Flow cytometry result	18640387	10_25_12_NCHVK_130_DC_panel_Day0.465016.fcs	10_25_12_NCHVK_130_DC_panel_Day0.fcs	2799
+465017	Flow cytometry result	19866676	10_25_12_NCHVK_130_DC_panel_Day0.465017.txt	10_25_12_NCHVK_130_DC_panel_Day0.txt	2799
+465018	Flow cytometry result	15476648	10_25_12_NCHVK_130_Mono_panel_Day0.465018.fcs	10_25_12_NCHVK_130_Mono_panel_Day0.fcs	2799
+465019	Flow cytometry result	16662384	10_25_12_NCHVK_130_Mono_panel_Day0.465019.txt	10_25_12_NCHVK_130_Mono_panel_Day0.txt	2799
+465020	Flow cytometry result	14447835	10_25_12_NCHVK_130_T_panel_Day0.465020.fcs	10_25_12_NCHVK_130_T_panel_Day0.fcs	2799
+465021	Flow cytometry result	15978259	10_25_12_NCHVK_130_T_panel_Day0.465021.txt	10_25_12_NCHVK_130_T_panel_Day0.txt	2799
+465022	Flow cytometry result	23618334	10_25_12_NCHVK_130_B_panel_Day1.465022.fcs	10_25_12_NCHVK_130_B_panel_Day1.fcs	2799
+465023	Flow cytometry compensation or control	9920092	10_25_12_NCHVK_130_Ctrl_panel_Day1.465023.fcs	10_25_12_NCHVK_130_Ctrl_panel_Day1.fcs	2799
+465024	Flow cytometry result	24853752	10_25_12_NCHVK_130_B_panel_Day1.465024.txt	10_25_12_NCHVK_130_B_panel_Day1.txt	2799
+465025	Flow cytometry result	29958931	10_25_12_NCHVK_130_DC_panel_Day1.465025.fcs	10_25_12_NCHVK_130_DC_panel_Day1.fcs	2799
+465026	Flow cytometry result	31193740	10_25_12_NCHVK_130_DC_panel_Day1.465026.txt	10_25_12_NCHVK_130_DC_panel_Day1.txt	2799
+465027	Flow cytometry result	33199448	10_25_12_NCHVK_130_Mono_panel_Day1.465027.fcs	10_25_12_NCHVK_130_Mono_panel_Day1.fcs	2799
+465028	Flow cytometry result	34426596	10_25_12_NCHVK_130_Mono_panel_Day1.465028.txt	10_25_12_NCHVK_130_Mono_panel_Day1.txt	2799
+465029	Flow cytometry result	33159627	10_25_12_NCHVK_130_T_panel_Day1.465029.fcs	10_25_12_NCHVK_130_T_panel_Day1.fcs	2799
+465030	Flow cytometry result	34575332	10_25_12_NCHVK_130_T_panel_Day1.465030.txt	10_25_12_NCHVK_130_T_panel_Day1.txt	2799
+465032	Flow cytometry result	22887892	11_1_12_NCHVK_119_B_panel.465032.fcs	11_1_12_NCHVK_119_B_panel.fcs	2799
+465033	Flow cytometry compensation or control	5733722	11_1_12_NCHVK_119_Ctrl_panel.465033.fcs	11_1_12_NCHVK_119_Ctrl_panel.fcs	2799
+465034	Flow cytometry compensation or control	7202478	11_1_12_Comp_Unstained.465034.fcs	11_1_12_Comp_Unstained.fcs	2799
+465035	Flow cytometry compensation or control	7202481	11_1_12_Comp_FITC.465035.fcs	11_1_12_Comp_FITC.fcs	2799
+465036	Flow cytometry compensation or control	7202479	11_1_12_Comp_PE.465036.fcs	11_1_12_Comp_PE.fcs	2799
+465037	Flow cytometry compensation or control	7202483	11_1_12_Comp_PE_TxR.465037.fcs	11_1_12_Comp_PE_TxR.fcs	2799
+465038	Flow cytometry compensation or control	7202483	11_1_12_Comp_PE_Cy5.465038.fcs	11_1_12_Comp_PE_Cy5.fcs	2799
+465039	Flow cytometry compensation or control	7202483	11_1_12_Comp_PE_Cy7.465039.fcs	11_1_12_Comp_PE_Cy7.fcs	2799
+465040	Flow cytometry compensation or control	7202489	11_1_12_Comp_Pacific_Blue.465040.fcs	11_1_12_Comp_Pacific_Blue.fcs	2799
+465041	Flow cytometry compensation or control	7202485	11_1_12_Comp_QDot_565.465041.fcs	11_1_12_Comp_QDot_565.fcs	2799
+465042	Flow cytometry compensation or control	7202480	11_1_12_Comp_APC.465042.fcs	11_1_12_Comp_APC.fcs	2799
+465043	Flow cytometry compensation or control	7202486	11_1_12_Comp_Alexa_700.465043.fcs	11_1_12_Comp_Alexa_700.fcs	2799
+465044	Flow cytometry compensation or control	7202484	11_1_12_Comp_APC_Cy7.465044.fcs	11_1_12_Comp_APC_Cy7.fcs	2799
+465045	Flow cytometry compensation or control	7202485	11_1_12_Comp_PE_Cy5_5.465045.fcs	11_1_12_Comp_PE_Cy5_5.fcs	2799
+465046	Flow cytometry result	24778913	11_1_12_NCHVK_119_B_panel.465046.txt	11_1_12_NCHVK_119_B_panel.txt	2799
+465047	Flow cytometry result	21202721	11_1_12_NCHVK_119_DC_panel.465047.fcs	11_1_12_NCHVK_119_DC_panel.fcs	2799
+465048	Flow cytometry result	23403947	11_1_12_NCHVK_119_DC_panel.465048.txt	11_1_12_NCHVK_119_DC_panel.txt	2799
+465049	Flow cytometry result	24595950	11_1_12_NCHVK_119_Mono_panel.465049.fcs	11_1_12_NCHVK_119_Mono_panel.fcs	2799
+465050	Flow cytometry result	26763351	11_1_12_NCHVK_119_Mono_panel.465050.txt	11_1_12_NCHVK_119_Mono_panel.txt	2799
+465051	Flow cytometry result	23379937	11_1_12_NCHVK_119_T_panel.465051.fcs	11_1_12_NCHVK_119_T_panel.fcs	2799
+465052	Flow cytometry result	25906611	11_1_12_NCHVK_119_T_panel.465052.txt	11_1_12_NCHVK_119_T_panel.txt	2799
+465053	Flow cytometry result	20630404	11_1_12_NCHVK_123_B_panel.465053.fcs	11_1_12_NCHVK_123_B_panel.fcs	2799
+465054	Flow cytometry compensation or control	6036914	11_1_12_NCHVK_123_Ctrl_panel.465054.fcs	11_1_12_NCHVK_123_Ctrl_panel.fcs	2799
+465055	Flow cytometry result	22956130	11_1_12_NCHVK_123_B_panel.465055.txt	11_1_12_NCHVK_123_B_panel.txt	2799
+465056	Flow cytometry result	21275369	11_1_12_NCHVK_123_DC_panel.465056.fcs	11_1_12_NCHVK_123_DC_panel.fcs	2799
+465057	Flow cytometry result	24083890	11_1_12_NCHVK_123_DC_panel.465057.txt	11_1_12_NCHVK_123_DC_panel.txt	2799
+465058	Flow cytometry result	20185734	11_1_12_NCHVK_123_Mono_panel.465058.fcs	11_1_12_NCHVK_123_Mono_panel.fcs	2799
+465059	Flow cytometry result	22788343	11_1_12_NCHVK_123_Mono_panel.465059.txt	11_1_12_NCHVK_123_Mono_panel.txt	2799
+465060	Flow cytometry result	21439681	11_1_12_NCHVK_123_T_panel.465060.fcs	11_1_12_NCHVK_123_T_panel.fcs	2799
+465061	Flow cytometry result	24173235	11_1_12_NCHVK_123_T_panel.465061.txt	11_1_12_NCHVK_123_T_panel.txt	2799
+465062	Flow cytometry result	23445532	11_1_12_NCHVK_127_B_panel.465062.fcs	11_1_12_NCHVK_127_B_panel.fcs	2799
+465063	Flow cytometry compensation or control	5577266	11_1_12_NCHVK_127_Ctrl_panel.465063.fcs	11_1_12_NCHVK_127_Ctrl_panel.fcs	2799
+465064	Flow cytometry result	24931981	11_1_12_NCHVK_127_B_panel.465064.txt	11_1_12_NCHVK_127_B_panel.txt	2799
+465065	Flow cytometry result	21084425	11_1_12_NCHVK_127_DC_panel.465065.fcs	11_1_12_NCHVK_127_DC_panel.fcs	2799
+465066	Flow cytometry result	22837873	11_1_12_NCHVK_127_DC_panel.465066.txt	11_1_12_NCHVK_127_DC_panel.txt	2799
+465067	Flow cytometry result	21126054	11_1_12_NCHVK_127_Mono_panel.465067.fcs	11_1_12_NCHVK_127_Mono_panel.fcs	2799
+465068	Flow cytometry result	22707959	11_1_12_NCHVK_127_Mono_panel.465068.txt	11_1_12_NCHVK_127_Mono_panel.txt	2799
+465069	Flow cytometry result	24253225	11_1_12_NCHVK_127_T_panel.465069.fcs	11_1_12_NCHVK_127_T_panel.fcs	2799
+465070	Flow cytometry result	26242325	11_1_12_NCHVK_127_T_panel.465070.txt	11_1_12_NCHVK_127_T_panel.txt	2799
+465071	Flow cytometry result	27002840	11_1_12_NCHVK_129_B_panel_Day7.465071.fcs	11_1_12_NCHVK_129_B_panel_Day7.fcs	2799
+465072	Flow cytometry compensation or control	6920214	11_1_12_NCHVK_129_Ctrl_panel_Day7.465072.fcs	11_1_12_NCHVK_129_Ctrl_panel_Day7.fcs	2799
+465073	Flow cytometry result	29146232	11_1_12_NCHVK_129_B_panel_Day7.465073.txt	11_1_12_NCHVK_129_B_panel_Day7.txt	2799
+465074	Flow cytometry result	26011533	11_1_12_NCHVK_129_DC_panel_Day7.465074.fcs	11_1_12_NCHVK_129_DC_panel_Day7.fcs	2799
+465075	Flow cytometry result	28911457	11_1_12_NCHVK_129_DC_panel_Day7.465075.txt	11_1_12_NCHVK_129_DC_panel_Day7.txt	2799
+465076	Flow cytometry result	25243018	11_1_12_NCHVK_129_Mono_panel_Day7.465076.fcs	11_1_12_NCHVK_129_Mono_panel_Day7.fcs	2799
+465077	Flow cytometry result	27689679	11_1_12_NCHVK_129_Mono_panel_Day7.465077.txt	11_1_12_NCHVK_129_Mono_panel_Day7.txt	2799
+465078	Flow cytometry result	27117605	11_1_12_NCHVK_129_T_panel_Day7.465078.fcs	11_1_12_NCHVK_129_T_panel_Day7.fcs	2799
+465079	Flow cytometry result	29880054	11_1_12_NCHVK_129_T_panel_Day7.465079.txt	11_1_12_NCHVK_129_T_panel_Day7.txt	2799
+465080	Flow cytometry result	17697346	11_2_12_NCHVK_130_B_panel.465080.fcs	11_2_12_NCHVK_130_B_panel.fcs	2799
+465081	Flow cytometry compensation or control	4161680	11_2_12_NCHVK_130_Ctrl_panel.465081.fcs	11_2_12_NCHVK_130_Ctrl_panel.fcs	2799
+465082	Flow cytometry compensation or control	7202754	11_2_12_Comp_Unstained.465082.fcs	11_2_12_Comp_Unstained.fcs	2799
+465083	Flow cytometry compensation or control	7202482	11_2_12_Comp_FITC.465083.fcs	11_2_12_Comp_FITC.fcs	2799
+465084	Flow cytometry compensation or control	7202480	11_2_12_Comp_PE.465084.fcs	11_2_12_Comp_PE.fcs	2799
+465085	Flow cytometry compensation or control	7202484	11_2_12_Comp_PE_TxR.465085.fcs	11_2_12_Comp_PE_TxR.fcs	2799
+465086	Flow cytometry compensation or control	7202484	11_2_12_Comp_PE_Cy5.465086.fcs	11_2_12_Comp_PE_Cy5.fcs	2799
+465087	Flow cytometry compensation or control	7202484	11_2_12_Comp_PE_Cy7.465087.fcs	11_2_12_Comp_PE_Cy7.fcs	2799
+465088	Flow cytometry compensation or control	7202490	11_2_12_Comp_Pacific_Blue.465088.fcs	11_2_12_Comp_Pacific_Blue.fcs	2799
+465089	Flow cytometry compensation or control	7202486	11_2_12_Comp_QDot_565.465089.fcs	11_2_12_Comp_QDot_565.fcs	2799
+465090	Flow cytometry compensation or control	7202481	11_2_12_Comp_APC.465090.fcs	11_2_12_Comp_APC.fcs	2799
+465091	Flow cytometry compensation or control	7202487	11_2_12_Comp_Alexa_700.465091.fcs	11_2_12_Comp_Alexa_700.fcs	2799
+465092	Flow cytometry compensation or control	7202485	11_2_12_Comp_APC_Cy7.465092.fcs	11_2_12_Comp_APC_Cy7.fcs	2799
+465093	Flow cytometry compensation or control	7202486	11_2_12_Comp_PE_Cy5_5.465093.fcs	11_2_12_Comp_PE_Cy5_5.fcs	2799
+465094	Flow cytometry result	18842529	11_2_12_NCHVK_130_B_panel.465094.txt	11_2_12_NCHVK_130_B_panel.txt	2799
+465095	Flow cytometry result	15585935	11_2_12_NCHVK_130_DC_panel.465095.fcs	11_2_12_NCHVK_130_DC_panel.fcs	2799
+465096	Flow cytometry result	16894492	11_2_12_NCHVK_130_DC_panel.465096.txt	11_2_12_NCHVK_130_DC_panel.txt	2799
+465097	Flow cytometry result	17399629	11_2_12_NCHVK_130_Mono_panel.465097.fcs	11_2_12_NCHVK_130_Mono_panel.fcs	2799
+465098	Flow cytometry result	18628055	11_2_12_NCHVK_130_Mono_panel.465098.txt	11_2_12_NCHVK_130_Mono_panel.txt	2799
+465099	Flow cytometry result	16567519	11_2_12_NCHVK_130_T_panel.465099.fcs	11_2_12_NCHVK_130_T_panel.fcs	2799
+465100	Flow cytometry result	18137151	11_2_12_NCHVK_130_T_panel.465100.txt	11_2_12_NCHVK_130_T_panel.txt	2799
+465102	Flow cytometry result	22041633	10_4_12_NCHVK_109_B_panel_Day30.465102.fcs	10_4_12_NCHVK_109_B_panel_Day30.fcs	2799
+465103	Flow cytometry compensation or control	6444031	10_4_12_NCHVK_109_Ctrl_panel_Day30.465103.fcs	10_4_12_NCHVK_109_Ctrl_panel_Day30.fcs	2799
+465104	Flow cytometry compensation or control	7202471	10_4_12_Comp_Unstained.465104.fcs	10_4_12_Comp_Unstained.fcs	2799
+465105	Flow cytometry compensation or control	7202474	10_4_12_Comp_FITC.465105.fcs	10_4_12_Comp_FITC.fcs	2799
+465106	Flow cytometry compensation or control	7202472	10_4_12_Comp_PE.465106.fcs	10_4_12_Comp_PE.fcs	2799
+465107	Flow cytometry compensation or control	7202476	10_4_12_Comp_PE_TxR.465107.fcs	10_4_12_Comp_PE_TxR.fcs	2799
+465108	Flow cytometry compensation or control	7202476	10_4_12_Comp_PE_Cy5.465108.fcs	10_4_12_Comp_PE_Cy5.fcs	2799
+465109	Flow cytometry compensation or control	7202476	10_4_12_Comp_PE_Cy7.465109.fcs	10_4_12_Comp_PE_Cy7.fcs	2799
+465110	Flow cytometry compensation or control	7202482	10_4_12_Comp_Pacific_Blue.465110.fcs	10_4_12_Comp_Pacific_Blue.fcs	2799
+465111	Flow cytometry compensation or control	7202478	10_4_12_Comp_QDot_565.465111.fcs	10_4_12_Comp_QDot_565.fcs	2799
+465112	Flow cytometry compensation or control	7202473	10_4_12_Comp_APC.465112.fcs	10_4_12_Comp_APC.fcs	2799
+465113	Flow cytometry compensation or control	7202479	10_4_12_Comp_Alexa_700.465113.fcs	10_4_12_Comp_Alexa_700.fcs	2799
+465114	Flow cytometry compensation or control	7202477	10_4_12_Comp_APC_Cy7.465114.fcs	10_4_12_Comp_APC_Cy7.fcs	2799
+465115	Flow cytometry compensation or control	7202478	10_4_12_Comp_PE_Cy5_5.465115.fcs	10_4_12_Comp_PE_Cy5_5.fcs	2799
+465116	Flow cytometry result	24079621	10_4_12_NCHVK_109_B_panel_Day30.465116.txt	10_4_12_NCHVK_109_B_panel_Day30.txt	2799
+465117	Flow cytometry result	22493566	10_4_12_NCHVK_109_DC_panel_Day30.465117.fcs	10_4_12_NCHVK_109_DC_panel_Day30.fcs	2799
+465118	Flow cytometry result	24971559	10_4_12_NCHVK_109_DC_panel_Day30.465118.txt	10_4_12_NCHVK_109_DC_panel_Day30.txt	2799
+465119	Flow cytometry result	22632756	10_4_12_NCHVK_109_Mono_panel_Day30.465119.fcs	10_4_12_NCHVK_109_Mono_panel_Day30.fcs	2799
+465120	Flow cytometry result	24998348	10_4_12_NCHVK_109_Mono_panel_Day30.465120.txt	10_4_12_NCHVK_109_Mono_panel_Day30.txt	2799
+465121	Flow cytometry result	23645142	10_4_12_NCHVK_109_T_panel_Day30.465121.fcs	10_4_12_NCHVK_109_T_panel_Day30.fcs	2799
+465122	Flow cytometry result	26287505	10_4_12_NCHVK_109_T_panel_Day30.465122.txt	10_4_12_NCHVK_109_T_panel_Day30.txt	2799
+465123	Flow cytometry result	26371778	10_4_12_NCHVK_119_B_panel.465123.fcs	10_4_12_NCHVK_119_B_panel.fcs	2799
+465124	Flow cytometry compensation or control	7340208	10_4_12_NCHVK_119_Ctrl_panel.465124.fcs	10_4_12_NCHVK_119_Ctrl_panel.fcs	2799
+465125	Flow cytometry result	27977699	10_4_12_NCHVK_119_B_panel.465125.txt	10_4_12_NCHVK_119_B_panel.txt	2799
+465126	Flow cytometry result	28846407	10_4_12_NCHVK_119_DC_panel.465126.fcs	10_4_12_NCHVK_119_DC_panel.fcs	2799
+465127	Flow cytometry result	30633122	10_4_12_NCHVK_119_DC_panel.465127.txt	10_4_12_NCHVK_119_DC_panel.txt	2799
+465128	Flow cytometry result	30581621	10_4_12_NCHVK_119_Mono_panel.465128.fcs	10_4_12_NCHVK_119_Mono_panel.fcs	2799
+465129	Flow cytometry result	32266195	10_4_12_NCHVK_119_Mono_panel.465129.txt	10_4_12_NCHVK_119_Mono_panel.txt	2799
+465130	Flow cytometry result	32059703	10_4_12_NCHVK_119_T_panel.465130.fcs	10_4_12_NCHVK_119_T_panel.fcs	2799
+465131	Flow cytometry result	33979512	10_4_12_NCHVK_119_T_panel.465131.txt	10_4_12_NCHVK_119_T_panel.txt	2799
+465132	Flow cytometry result	51391130	10_4_12_NCHVK_125_B_panel.465132.fcs	10_4_12_NCHVK_125_B_panel.fcs	2799
+465133	Flow cytometry compensation or control	11698800	10_4_12_NCHVK_125_Ctrl_panel.465133.fcs	10_4_12_NCHVK_125_Ctrl_panel.fcs	2799
+465134	Flow cytometry result	53727577	10_4_12_NCHVK_125_B_panel.465134.txt	10_4_12_NCHVK_125_B_panel.txt	2799
+465135	Flow cytometry result	49202463	10_4_12_NCHVK_125_DC_panel.465135.fcs	10_4_12_NCHVK_125_DC_panel.fcs	2799
+465136	Flow cytometry result	52018706	10_4_12_NCHVK_125_DC_panel.465136.txt	10_4_12_NCHVK_125_DC_panel.txt	2799
+465137	Flow cytometry result	48058109	10_4_12_NCHVK_125_Mono_panel.465137.fcs	10_4_12_NCHVK_125_Mono_panel.fcs	2799
+465138	Flow cytometry result	50609432	10_4_12_NCHVK_125_Mono_panel.465138.txt	10_4_12_NCHVK_125_Mono_panel.txt	2799
+465139	Flow cytometry result	54303599	10_4_12_NCHVK_125_T_panel.465139.fcs	10_4_12_NCHVK_125_T_panel.fcs	2799
+465140	Flow cytometry result	57233007	10_4_12_NCHVK_125_T_panel.465140.txt	10_4_12_NCHVK_125_T_panel.txt	2799
+465141	Flow cytometry result	27631346	10_4_12_NCHVK_127_B_panel.465141.fcs	10_4_12_NCHVK_127_B_panel.fcs	2799
+465142	Flow cytometry compensation or control	6412344	10_4_12_NCHVK_127_Ctrl_panel.465142.fcs	10_4_12_NCHVK_127_Ctrl_panel.fcs	2799
+465143	Flow cytometry result	29465221	10_4_12_NCHVK_127_B_panel.465143.txt	10_4_12_NCHVK_127_B_panel.txt	2799
+465144	Flow cytometry result	26441247	10_4_12_NCHVK_127_DC_panel.465144.fcs	10_4_12_NCHVK_127_DC_panel.fcs	2799
+465145	Flow cytometry result	28534006	10_4_12_NCHVK_127_DC_panel.465145.txt	10_4_12_NCHVK_127_DC_panel.txt	2799
+465146	Flow cytometry result	28155293	10_4_12_NCHVK_127_Mono_panel.465146.fcs	10_4_12_NCHVK_127_Mono_panel.fcs	2799
+465147	Flow cytometry result	30388821	10_4_12_NCHVK_127_Mono_panel.465147.txt	10_4_12_NCHVK_127_Mono_panel.txt	2799
+465148	Flow cytometry result	27796799	10_4_12_NCHVK_127_T_panel.465148.fcs	10_4_12_NCHVK_127_T_panel.fcs	2799
+465149	Flow cytometry result	30071103	10_4_12_NCHVK_127_T_panel.465149.txt	10_4_12_NCHVK_127_T_panel.txt	2799
+465150	Flow cytometry result	25289995	10_8_12_NCHVK_103_B_panel_Day40.465150.fcs	10_8_12_NCHVK_103_B_panel_Day40.fcs	2799
+465151	Flow cytometry compensation or control	7478046	10_8_12_NCHVK_103_Ctrl_panel_Day40.465151.fcs	10_8_12_NCHVK_103_Ctrl_panel_Day40.fcs	2799
+465152	Flow cytometry compensation or control	7202471	10_8_12_Comp_Unstained.465152.fcs	10_8_12_Comp_Unstained.fcs	2799
+465153	Flow cytometry compensation or control	7202474	10_8_12_Comp_FITC.465153.fcs	10_8_12_Comp_FITC.fcs	2799
+465154	Flow cytometry compensation or control	7202472	10_8_12_Comp_PE.465154.fcs	10_8_12_Comp_PE.fcs	2799
+465155	Flow cytometry compensation or control	7202476	10_8_12_Comp_PE_TxR.465155.fcs	10_8_12_Comp_PE_TxR.fcs	2799
+465156	Flow cytometry compensation or control	7202476	10_8_12_Comp_PE_Cy5.465156.fcs	10_8_12_Comp_PE_Cy5.fcs	2799
+465157	Flow cytometry compensation or control	7202476	10_8_12_Comp_PE_Cy7.465157.fcs	10_8_12_Comp_PE_Cy7.fcs	2799
+465158	Flow cytometry compensation or control	7202482	10_8_12_Comp_Pacific_Blue.465158.fcs	10_8_12_Comp_Pacific_Blue.fcs	2799
+465159	Flow cytometry compensation or control	7202478	10_8_12_Comp_QDot_565.465159.fcs	10_8_12_Comp_QDot_565.fcs	2799
+465160	Flow cytometry compensation or control	7202473	10_8_12_Comp_APC.465160.fcs	10_8_12_Comp_APC.fcs	2799
+465161	Flow cytometry compensation or control	7202479	10_8_12_Comp_Alexa_700.465161.fcs	10_8_12_Comp_Alexa_700.fcs	2799
+465162	Flow cytometry compensation or control	7202477	10_8_12_Comp_APC_Cy7.465162.fcs	10_8_12_Comp_APC_Cy7.fcs	2799
+465163	Flow cytometry compensation or control	7202478	10_8_12_Comp_PE_Cy5_5.465163.fcs	10_8_12_Comp_PE_Cy5_5.fcs	2799
+465164	Flow cytometry result	27439455	10_8_12_NCHVK_103_B_panel_Day40.465164.txt	10_8_12_NCHVK_103_B_panel_Day40.txt	2799
+465165	Flow cytometry result	27814173	10_8_12_NCHVK_103_DC_panel_Day40.465165.fcs	10_8_12_NCHVK_103_DC_panel_Day40.fcs	2799
+465166	Flow cytometry result	30671684	10_8_12_NCHVK_103_DC_panel_Day40.465166.txt	10_8_12_NCHVK_103_DC_panel_Day40.txt	2799
+465167	Flow cytometry result	19962802	10_8_12_NCHVK_103_Mono_panel_Day40.465167.fcs	10_8_12_NCHVK_103_Mono_panel_Day40.fcs	2799
+465168	Flow cytometry result	21674998	10_8_12_NCHVK_103_Mono_panel_Day40.465168.txt	10_8_12_NCHVK_103_Mono_panel_Day40.txt	2799
+465169	Flow cytometry result	28808789	10_8_12_NCHVK_103_T_panel_Day40.465169.fcs	10_8_12_NCHVK_103_T_panel_Day40.fcs	2799
+465170	Flow cytometry result	31589902	10_8_12_NCHVK_103_T_panel_Day40.465170.txt	10_8_12_NCHVK_103_T_panel_Day40.txt	2799
+465171	Flow cytometry result	20460248	10_8_12_NCHVK_123_B_panel.465171.fcs	10_8_12_NCHVK_123_B_panel.fcs	2799
+465172	Flow cytometry compensation or control	6115648	10_8_12_NCHVK_123_Ctrl_panel.465172.fcs	10_8_12_NCHVK_123_Ctrl_panel.fcs	2799
+465173	Flow cytometry result	22659611	10_8_12_NCHVK_123_B_panel.465173.txt	10_8_12_NCHVK_123_B_panel.txt	2799
+465174	Flow cytometry result	22729159	10_8_12_NCHVK_123_DC_panel.465174.fcs	10_8_12_NCHVK_123_DC_panel.fcs	2799
+465175	Flow cytometry result	25242229	10_8_12_NCHVK_123_DC_panel.465175.txt	10_8_12_NCHVK_123_DC_panel.txt	2799
+465176	Flow cytometry result	19710428	10_8_12_NCHVK_123_Mono_panel.465176.fcs	10_8_12_NCHVK_123_Mono_panel.fcs	2799
+465177	Flow cytometry result	22237048	10_8_12_NCHVK_123_Mono_panel.465177.txt	10_8_12_NCHVK_123_Mono_panel.txt	2799
+465178	Flow cytometry result	22219335	10_8_12_NCHVK_123_T_panel.465178.fcs	10_8_12_NCHVK_123_T_panel.fcs	2799
+465179	Flow cytometry result	24823607	10_8_12_NCHVK_123_T_panel.465179.txt	10_8_12_NCHVK_123_T_panel.txt	2799
+465185	Flow cytometry result	35068853	10_10_12_NCHVK_119_B_panel.465185.fcs	10_10_12_NCHVK_119_B_panel.fcs	2799
+465186	Flow cytometry compensation or control	10528347	10_10_12_NCHVK_119_Ctrl_panel.465186.fcs	10_10_12_NCHVK_119_Ctrl_panel.fcs	2799
+465187	Flow cytometry compensation or control	7202472	10_10_12_Comp_Unstained.465187.fcs	10_10_12_Comp_Unstained.fcs	2799
+465188	Flow cytometry compensation or control	7202475	10_10_12_Comp_FITC.465188.fcs	10_10_12_Comp_FITC.fcs	2799
+465189	Flow cytometry compensation or control	7202473	10_10_12_Comp_PE.465189.fcs	10_10_12_Comp_PE.fcs	2799
+465190	Flow cytometry compensation or control	7202477	10_10_12_Comp_PE_TxR.465190.fcs	10_10_12_Comp_PE_TxR.fcs	2799
+465191	Flow cytometry compensation or control	7202477	10_10_12_Comp_PE_Cy5.465191.fcs	10_10_12_Comp_PE_Cy5.fcs	2799
+465192	Flow cytometry compensation or control	7202477	10_10_12_Comp_PE_Cy7.465192.fcs	10_10_12_Comp_PE_Cy7.fcs	2799
+465193	Flow cytometry compensation or control	7202483	10_10_12_Comp_Pacific_Blue.465193.fcs	10_10_12_Comp_Pacific_Blue.fcs	2799
+465194	Flow cytometry compensation or control	7202479	10_10_12_Comp_QDot_565.465194.fcs	10_10_12_Comp_QDot_565.fcs	2799
+465195	Flow cytometry compensation or control	7202474	10_10_12_Comp_APC.465195.fcs	10_10_12_Comp_APC.fcs	2799
+465196	Flow cytometry compensation or control	7202480	10_10_12_Comp_Alexa_700.465196.fcs	10_10_12_Comp_Alexa_700.fcs	2799
+465197	Flow cytometry compensation or control	7202478	10_10_12_Comp_APC_Cy7.465197.fcs	10_10_12_Comp_APC_Cy7.fcs	2799
+465198	Flow cytometry compensation or control	7202479	10_10_12_Comp_PE_Cy5_5.465198.fcs	10_10_12_Comp_PE_Cy5_5.fcs	2799
+465199	Flow cytometry result	36477864	10_10_12_NCHVK_119_B_panel.465199.txt	10_10_12_NCHVK_119_B_panel.txt	2799
+465200	Flow cytometry result	39525354	10_10_12_NCHVK_119_DC_panel.465200.fcs	10_10_12_NCHVK_119_DC_panel.fcs	2799
+465201	Flow cytometry result	41091437	10_10_12_NCHVK_119_DC_panel.465201.txt	10_10_12_NCHVK_119_DC_panel.txt	2799
+465202	Flow cytometry result	44917376	10_10_12_NCHVK_119_Mono_panel.465202.fcs	10_10_12_NCHVK_119_Mono_panel.fcs	2799
+465203	Flow cytometry result	46289464	10_10_12_NCHVK_119_Mono_panel.465203.txt	10_10_12_NCHVK_119_Mono_panel.txt	2799
+465204	Flow cytometry result	39432626	10_10_12_NCHVK_119_T_panel.465204.fcs	10_10_12_NCHVK_119_T_panel.fcs	2799
+465205	Flow cytometry result	41251745	10_10_12_NCHVK_119_T_panel.465205.txt	10_10_12_NCHVK_119_T_panel.txt	2799
+465206	Flow cytometry result	22182005	10_10_12_NCHVK_127_B_panel.465206.fcs	10_10_12_NCHVK_127_B_panel.fcs	2799
+465207	Flow cytometry compensation or control	6784131	10_10_12_NCHVK_127_Ctrl_panel.465207.fcs	10_10_12_NCHVK_127_Ctrl_panel.fcs	2799
+465208	Flow cytometry result	23704141	10_10_12_NCHVK_127_B_panel.465208.txt	10_10_12_NCHVK_127_B_panel.txt	2799
+465209	Flow cytometry result	29625426	10_10_12_NCHVK_127_DC_panel.465209.fcs	10_10_12_NCHVK_127_DC_panel.fcs	2799
+465210	Flow cytometry result	31232221	10_10_12_NCHVK_127_DC_panel.465210.txt	10_10_12_NCHVK_127_DC_panel.txt	2799
+465211	Flow cytometry result	21876872	10_10_12_NCHVK_127_Mono_panel.465211.fcs	10_10_12_NCHVK_127_Mono_panel.fcs	2799
+465212	Flow cytometry result	23613314	10_10_12_NCHVK_127_Mono_panel.465212.txt	10_10_12_NCHVK_127_Mono_panel.txt	2799
+465213	Flow cytometry result	22481450	10_10_12_NCHVK_127_T_panel.465213.fcs	10_10_12_NCHVK_127_T_panel.fcs	2799
+465214	Flow cytometry result	24561252	10_10_12_NCHVK_127_T_panel.465214.txt	10_10_12_NCHVK_127_T_panel.txt	2799
+465217	Flow cytometry result	45200143	9_26_12_NCHVK_115_B_panel.465217.fcs	9_26_12_NCHVK_115_B_panel.fcs	2799
+465218	Flow cytometry compensation or control	7936733	9_26_12_NCHVK_115_Ctrl_panel.465218.fcs	9_26_12_NCHVK_115_Ctrl_panel.fcs	2799
+465219	Flow cytometry compensation or control	7202471	9_26_12_Comp_Unstained.465219.fcs	9_26_12_Comp_Unstained.fcs	2799
+465220	Flow cytometry compensation or control	7202474	9_26_12_Comp_FITC.465220.fcs	9_26_12_Comp_FITC.fcs	2799
+465221	Flow cytometry compensation or control	7202472	9_26_12_Comp_PE.465221.fcs	9_26_12_Comp_PE.fcs	2799
+465222	Flow cytometry compensation or control	7202476	9_26_12_Comp_PE_TxR.465222.fcs	9_26_12_Comp_PE_TxR.fcs	2799
+465223	Flow cytometry compensation or control	7202476	9_26_12_Comp_PE_Cy5.465223.fcs	9_26_12_Comp_PE_Cy5.fcs	2799
+465224	Flow cytometry compensation or control	7202476	9_26_12_Comp_PE_Cy7.465224.fcs	9_26_12_Comp_PE_Cy7.fcs	2799
+465225	Flow cytometry compensation or control	7202482	9_26_12_Comp_Pacific_Blue.465225.fcs	9_26_12_Comp_Pacific_Blue.fcs	2799
+465226	Flow cytometry compensation or control	7202478	9_26_12_Comp_QDot_565.465226.fcs	9_26_12_Comp_QDot_565.fcs	2799
+465227	Flow cytometry compensation or control	7202473	9_26_12_Comp_APC.465227.fcs	9_26_12_Comp_APC.fcs	2799
+465228	Flow cytometry compensation or control	7202477	9_26_12_Comp_APC_Cy7.465228.fcs	9_26_12_Comp_APC_Cy7.fcs	2799
+465229	Flow cytometry compensation or control	7202478	9_26_12_Comp_PE_Cy5_5.465229.fcs	9_26_12_Comp_PE_Cy5_5.fcs	2799
+465230	Flow cytometry compensation or control	7202754	9_26_12_Comp_Alexa_700.465230.fcs	9_26_12_Comp_Alexa_700.fcs	2799
+465231	Flow cytometry result	46417659	9_26_12_NCHVK_115_B_panel.465231.txt	9_26_12_NCHVK_115_B_panel.txt	2799
+465232	Flow cytometry result	38635964	9_26_12_NCHVK_115_DC_panel.465232.fcs	9_26_12_NCHVK_115_DC_panel.fcs	2799
+465233	Flow cytometry result	40270060	9_26_12_NCHVK_115_DC_panel.465233.txt	9_26_12_NCHVK_115_DC_panel.txt	2799
+465234	Flow cytometry result	36608817	9_26_12_NCHVK_115_Mono_panel.465234.fcs	9_26_12_NCHVK_115_Mono_panel.fcs	2799
+465235	Flow cytometry result	38144460	9_26_12_NCHVK_115_Mono_panel.465235.txt	9_26_12_NCHVK_115_Mono_panel.txt	2799
+465236	Flow cytometry result	37462876	9_26_12_NCHVK_115_T_panel.465236.fcs	9_26_12_NCHVK_115_T_panel.fcs	2799
+465237	Flow cytometry result	39314532	9_26_12_NCHVK_115_T_panel.465237.txt	9_26_12_NCHVK_115_T_panel.txt	2799
+465238	Flow cytometry result	24968863	9_26_12_NCHVK_124_B_panel.465238.fcs	9_26_12_NCHVK_124_B_panel.fcs	2799
+465239	Flow cytometry compensation or control	5710421	9_26_12_NCHVK_124_Ctrl_panel.465239.fcs	9_26_12_NCHVK_124_Ctrl_panel.fcs	2799
+465240	Flow cytometry result	26556228	9_26_12_NCHVK_124_B_panel.465240.txt	9_26_12_NCHVK_124_B_panel.txt	2799
+465241	Flow cytometry result	28088180	9_26_12_NCHVK_124_DC_panel.465241.fcs	9_26_12_NCHVK_124_DC_panel.fcs	2799
+465242	Flow cytometry result	29851062	9_26_12_NCHVK_124_DC_panel.465242.txt	9_26_12_NCHVK_124_DC_panel.txt	2799
+465243	Flow cytometry result	24285801	9_26_12_NCHVK_124_Mono_panel.465243.fcs	9_26_12_NCHVK_124_Mono_panel.fcs	2799
+465244	Flow cytometry result	25998751	9_26_12_NCHVK_124_Mono_panel.465244.txt	9_26_12_NCHVK_124_Mono_panel.txt	2799
+465245	Flow cytometry result	24617500	9_26_12_NCHVK_124_T_panel.465245.fcs	9_26_12_NCHVK_124_T_panel.fcs	2799
+465246	Flow cytometry result	26493331	9_26_12_NCHVK_124_T_panel.465246.txt	9_26_12_NCHVK_124_T_panel.txt	2799
+465247	Flow cytometry result	27221722	9_27_12_NCHVK_105_B_panel.465247.fcs	9_27_12_NCHVK_105_B_panel.fcs	2799
+465248	Flow cytometry compensation or control	7117640	9_27_12_NCHVK_105_Ctrl_panel.465248.fcs	9_27_12_NCHVK_105_Ctrl_panel.fcs	2799
+465249	Flow cytometry compensation or control	7202472	9_27_12_Comp_Unstained.465249.fcs	9_27_12_Comp_Unstained.fcs	2799
+465250	Flow cytometry compensation or control	7202475	9_27_12_Comp_FITC.465250.fcs	9_27_12_Comp_FITC.fcs	2799
+465251	Flow cytometry compensation or control	7202473	9_27_12_Comp_PE.465251.fcs	9_27_12_Comp_PE.fcs	2799
+465252	Flow cytometry compensation or control	7202477	9_27_12_Comp_PE_TxR.465252.fcs	9_27_12_Comp_PE_TxR.fcs	2799
+465253	Flow cytometry compensation or control	7202477	9_27_12_Comp_PE_Cy5.465253.fcs	9_27_12_Comp_PE_Cy5.fcs	2799
+465254	Flow cytometry compensation or control	7202477	9_27_12_Comp_PE_Cy7.465254.fcs	9_27_12_Comp_PE_Cy7.fcs	2799
+465255	Flow cytometry compensation or control	7202483	9_27_12_Comp_Pacific_Blue.465255.fcs	9_27_12_Comp_Pacific_Blue.fcs	2799
+465256	Flow cytometry compensation or control	7202479	9_27_12_Comp_QDot_565.465256.fcs	9_27_12_Comp_QDot_565.fcs	2799
+465257	Flow cytometry compensation or control	7202474	9_27_12_Comp_APC.465257.fcs	9_27_12_Comp_APC.fcs	2799
+465258	Flow cytometry compensation or control	7202480	9_27_12_Comp_Alexa_700.465258.fcs	9_27_12_Comp_Alexa_700.fcs	2799
+465259	Flow cytometry compensation or control	7202478	9_27_12_Comp_APC_Cy7.465259.fcs	9_27_12_Comp_APC_Cy7.fcs	2799
+465260	Flow cytometry compensation or control	7202479	9_27_12_Comp_PE_Cy5_5.465260.fcs	9_27_12_Comp_PE_Cy5_5.fcs	2799
+465261	Flow cytometry result	29214395	9_27_12_NCHVK_105_B_panel.465261.txt	9_27_12_NCHVK_105_B_panel.txt	2799
+465262	Flow cytometry result	32441927	9_27_12_NCHVK_105_DC_panel.465262.fcs	9_27_12_NCHVK_105_DC_panel.fcs	2799
+465263	Flow cytometry result	34801118	9_27_12_NCHVK_105_DC_panel.465263.txt	9_27_12_NCHVK_105_DC_panel.txt	2799
+465264	Flow cytometry result	29039940	9_27_12_NCHVK_105_Mono_panel.465264.fcs	9_27_12_NCHVK_105_Mono_panel.fcs	2799
+465265	Flow cytometry result	31352207	9_27_12_NCHVK_105_Mono_panel.465265.txt	9_27_12_NCHVK_105_Mono_panel.txt	2799
+465266	Flow cytometry result	35770423	9_27_12_NCHVK_105_T_panel.465266.fcs	9_27_12_NCHVK_105_T_panel.fcs	2799
+465267	Flow cytometry result	38373186	9_27_12_NCHVK_105_T_panel.465267.txt	9_27_12_NCHVK_105_T_panel.txt	2799
+466230	Flow cytometry result	24253609	10_15_12_NCHVK_111_B_panel.466230.fcs	10_15_12_NCHVK_111_B_panel.fcs	2799
+466231	Flow cytometry compensation or control	6566783	10_15_12_NCHVK_111_Ctrl_panel.466231.fcs	10_15_12_NCHVK_111_Ctrl_panel.fcs	2799
+466232	Flow cytometry compensation or control	7202748	10_15_12_Comp_Unstained.466232.fcs	10_15_12_Comp_Unstained.fcs	2799
+466233	Flow cytometry compensation or control	7202476	10_15_12_Comp_FITC.466233.fcs	10_15_12_Comp_FITC.fcs	2799
+466234	Flow cytometry compensation or control	7202474	10_15_12_Comp_PE.466234.fcs	10_15_12_Comp_PE.fcs	2799
+466235	Flow cytometry compensation or control	7202478	10_15_12_Comp_PE_TxR.466235.fcs	10_15_12_Comp_PE_TxR.fcs	2799
+466236	Flow cytometry compensation or control	7202478	10_15_12_Comp_PE_Cy5.466236.fcs	10_15_12_Comp_PE_Cy5.fcs	2799
+466237	Flow cytometry compensation or control	7202478	10_15_12_Comp_PE_Cy7.466237.fcs	10_15_12_Comp_PE_Cy7.fcs	2799
+466238	Flow cytometry compensation or control	7202484	10_15_12_Comp_Pacific_Blue.466238.fcs	10_15_12_Comp_Pacific_Blue.fcs	2799
+466239	Flow cytometry compensation or control	7202480	10_15_12_Comp_QDot_565.466239.fcs	10_15_12_Comp_QDot_565.fcs	2799
+466240	Flow cytometry compensation or control	7202475	10_15_12_Comp_APC.466240.fcs	10_15_12_Comp_APC.fcs	2799
+466241	Flow cytometry compensation or control	7202481	10_15_12_Comp_Alexa_700.466241.fcs	10_15_12_Comp_Alexa_700.fcs	2799
+466242	Flow cytometry compensation or control	7202479	10_15_12_Comp_APC_Cy7.466242.fcs	10_15_12_Comp_APC_Cy7.fcs	2799
+466243	Flow cytometry compensation or control	7202480	10_15_12_Comp_PE_Cy5_5.466243.fcs	10_15_12_Comp_PE_Cy5_5.fcs	2799
+466244	Flow cytometry result	26542334	10_15_12_NCHVK_111_B_panel.466244.txt	10_15_12_NCHVK_111_B_panel.txt	2799
+466245	Flow cytometry result	24657014	10_15_12_NCHVK_111_DC_panel.466245.fcs	10_15_12_NCHVK_111_DC_panel.fcs	2799
+466246	Flow cytometry result	27445311	10_15_12_NCHVK_111_DC_panel.466246.txt	10_15_12_NCHVK_111_DC_panel.txt	2799
+466247	Flow cytometry result	25532187	10_15_12_NCHVK_111_Mono_panel.466247.fcs	10_15_12_NCHVK_111_Mono_panel.fcs	2799
+466248	Flow cytometry result	28150114	10_15_12_NCHVK_111_Mono_panel.466248.txt	10_15_12_NCHVK_111_Mono_panel.txt	2799
+466249	Flow cytometry result	25859521	10_15_12_NCHVK_111_T_panel.466249.fcs	10_15_12_NCHVK_111_T_panel.fcs	2799
+466250	Flow cytometry result	28788813	10_15_12_NCHVK_111_T_panel.466250.txt	10_15_12_NCHVK_111_T_panel.txt	2799
+466251	Flow cytometry result	30746425	10_15_12_NCHVK_112_B_panel.466251.fcs	10_15_12_NCHVK_112_B_panel.fcs	2799
+466252	Flow cytometry compensation or control	8716487	10_15_12_NCHVK_112_Ctrl_panel.466252.fcs	10_15_12_NCHVK_112_Ctrl_panel.fcs	2799
+466253	Flow cytometry result	33837298	10_15_12_NCHVK_112_B_panel.466253.txt	10_15_12_NCHVK_112_B_panel.txt	2799
+466254	Flow cytometry result	28493750	10_15_12_NCHVK_112_DC_panel.466254.fcs	10_15_12_NCHVK_112_DC_panel.fcs	2799
+466255	Flow cytometry result	31245290	10_15_12_NCHVK_112_DC_panel.466255.txt	10_15_12_NCHVK_112_DC_panel.txt	2799
+466256	Flow cytometry result	30114123	10_15_12_NCHVK_112_Mono_panel.466256.fcs	10_15_12_NCHVK_112_Mono_panel.fcs	2799
+466257	Flow cytometry result	33457778	10_15_12_NCHVK_112_Mono_panel.466257.txt	10_15_12_NCHVK_112_Mono_panel.txt	2799
+466258	Flow cytometry result	29727118	10_15_12_NCHVK_112_T_panel.466258.fcs	10_15_12_NCHVK_112_T_panel.fcs	2799
+466259	Flow cytometry result	33310406	10_15_12_NCHVK_112_T_panel.466259.txt	10_15_12_NCHVK_112_T_panel.txt	2799
+466260	Flow cytometry result	53803345	10_15_12_NCHVK_113_B_panel.466260.fcs	10_15_12_NCHVK_113_B_panel.fcs	2799
+466261	Flow cytometry compensation or control	14562455	10_15_12_NCHVK_113_Ctrl_panel.466261.fcs	10_15_12_NCHVK_113_Ctrl_panel.fcs	2799
+466262	Flow cytometry result	59632339	10_15_12_NCHVK_113_B_panel.466262.txt	10_15_12_NCHVK_113_B_panel.txt	2799
+466263	Flow cytometry result	57261638	10_15_12_NCHVK_113_DC_panel.466263.fcs	10_15_12_NCHVK_113_DC_panel.fcs	2799
+466264	Flow cytometry result	63966164	10_15_12_NCHVK_113_DC_panel.466264.txt	10_15_12_NCHVK_113_DC_panel.txt	2799
+466265	Flow cytometry result	51866331	10_15_12_NCHVK_113_Mono_panel.466265.fcs	10_15_12_NCHVK_113_Mono_panel.fcs	2799
+466266	Flow cytometry result	58278490	10_15_12_NCHVK_113_Mono_panel.466266.txt	10_15_12_NCHVK_113_Mono_panel.txt	2799
+466267	Flow cytometry result	55910134	10_15_12_NCHVK_113_T_panel.466267.fcs	10_15_12_NCHVK_113_T_panel.fcs	2799
+466268	Flow cytometry result	63371183	10_15_12_NCHVK_113_T_panel.466268.txt	10_15_12_NCHVK_113_T_panel.txt	2799
+466269	Flow cytometry result	25378969	10_15_12_NCHVK_114_B_panel.466269.fcs	10_15_12_NCHVK_114_B_panel.fcs	2799
+466270	Flow cytometry compensation or control	6640583	10_15_12_NCHVK_114_Ctrl_panel.466270.fcs	10_15_12_NCHVK_114_Ctrl_panel.fcs	2799
+466271	Flow cytometry result	27339237	10_15_12_NCHVK_114_B_panel.466271.txt	10_15_12_NCHVK_114_B_panel.txt	2799
+466272	Flow cytometry result	27035822	10_15_12_NCHVK_114_DC_panel.466272.fcs	10_15_12_NCHVK_114_DC_panel.fcs	2799
+466273	Flow cytometry result	29304657	10_15_12_NCHVK_114_DC_panel.466273.txt	10_15_12_NCHVK_114_DC_panel.txt	2799
+466274	Flow cytometry result	26115243	10_15_12_NCHVK_114_Mono_panel.466274.fcs	10_15_12_NCHVK_114_Mono_panel.fcs	2799
+466275	Flow cytometry result	28252696	10_15_12_NCHVK_114_Mono_panel.466275.txt	10_15_12_NCHVK_114_Mono_panel.txt	2799
+466276	Flow cytometry result	23436334	10_15_12_NCHVK_114_T_panel.466276.fcs	10_15_12_NCHVK_114_T_panel.fcs	2799
+466277	Flow cytometry result	25812687	10_15_12_NCHVK_114_T_panel.466277.txt	10_15_12_NCHVK_114_T_panel.txt	2799
+466280	Flow cytometry result	33601403	10_3_12_NCHVK_119_B_panel_Day0.466280.fcs	10_3_12_NCHVK_119_B_panel_Day0.fcs	2799
+466281	Flow cytometry compensation or control	7142435	10_3_12_NCHVK_119_Ctrl_panel_Day0.466281.fcs	10_3_12_NCHVK_119_Ctrl_panel_Day0.fcs	2799
+466282	Flow cytometry compensation or control	7202477	10_3_12_Comp_Unstained.466282.fcs	10_3_12_Comp_Unstained.fcs	2799
+466283	Flow cytometry compensation or control	7202480	10_3_12_Comp_FITC.466283.fcs	10_3_12_Comp_FITC.fcs	2799
+466284	Flow cytometry compensation or control	7202478	10_3_12_Comp_PE.466284.fcs	10_3_12_Comp_PE.fcs	2799
+466285	Flow cytometry compensation or control	7202482	10_3_12_Comp_PE_TxR.466285.fcs	10_3_12_Comp_PE_TxR.fcs	2799
+466286	Flow cytometry compensation or control	7202482	10_3_12_Comp_PE_Cy5.466286.fcs	10_3_12_Comp_PE_Cy5.fcs	2799
+466287	Flow cytometry compensation or control	7202482	10_3_12_Comp_PE_Cy7.466287.fcs	10_3_12_Comp_PE_Cy7.fcs	2799
+466288	Flow cytometry compensation or control	7202488	10_3_12_Comp_Pacific_Blue.466288.fcs	10_3_12_Comp_Pacific_Blue.fcs	2799
+466289	Flow cytometry compensation or control	7202484	10_3_12_Comp_QDot_565.466289.fcs	10_3_12_Comp_QDot_565.fcs	2799
+466290	Flow cytometry compensation or control	7202479	10_3_12_Comp_APC.466290.fcs	10_3_12_Comp_APC.fcs	2799
+466291	Flow cytometry compensation or control	3298645	10_3_12_Comp_Alexa_700.466291.fcs	10_3_12_Comp_Alexa_700.fcs	2799
+466292	Flow cytometry compensation or control	7202483	10_3_12_Comp_APC_Cy7.466292.fcs	10_3_12_Comp_APC_Cy7.fcs	2799
+466293	Flow cytometry compensation or control	7202484	10_3_12_Comp_PE_Cy5_5.466293.fcs	10_3_12_Comp_PE_Cy5_5.fcs	2799
+466294	Flow cytometry result	35074474	10_3_12_NCHVK_119_B_panel_Day0.466294.txt	10_3_12_NCHVK_119_B_panel_Day0.txt	2799
+466295	Flow cytometry result	30241130	10_3_12_NCHVK_119_DC_panel_Day0.466295.fcs	10_3_12_NCHVK_119_DC_panel_Day0.fcs	2799
+466296	Flow cytometry result	31995925	10_3_12_NCHVK_119_DC_panel_Day0.466296.txt	10_3_12_NCHVK_119_DC_panel_Day0.txt	2799
+466297	Flow cytometry result	32395672	10_3_12_NCHVK_119_Mono_panel_Day0.466297.fcs	10_3_12_NCHVK_119_Mono_panel_Day0.fcs	2799
+466298	Flow cytometry result	34030230	10_3_12_NCHVK_119_Mono_panel_Day0.466298.txt	10_3_12_NCHVK_119_Mono_panel_Day0.txt	2799
+466299	Flow cytometry result	29237602	10_3_12_NCHVK_119_T_panel_Day0.466299.fcs	10_3_12_NCHVK_119_T_panel_Day0.fcs	2799
+466300	Flow cytometry result	31268910	10_3_12_NCHVK_119_T_panel_Day0.466300.txt	10_3_12_NCHVK_119_T_panel_Day0.txt	2799
+466301	Flow cytometry result	17550587	10_3_12_NCHVK_120_B_panel_Day0.466301.fcs	10_3_12_NCHVK_120_B_panel_Day0.fcs	2799
+466302	Flow cytometry compensation or control	5212691	10_3_12_NCHVK_120_Ctrl_panel_Day0.466302.fcs	10_3_12_NCHVK_120_Ctrl_panel_Day0.fcs	2799
+466303	Flow cytometry result	19258817	10_3_12_NCHVK_120_B_panel_Day0.466303.txt	10_3_12_NCHVK_120_B_panel_Day0.txt	2799
+466304	Flow cytometry result	17808602	10_3_12_NCHVK_120_DC_panel_Day0.466304.fcs	10_3_12_NCHVK_120_DC_panel_Day0.fcs	2799
+466305	Flow cytometry result	20087101	10_3_12_NCHVK_120_DC_panel_Day0.466305.txt	10_3_12_NCHVK_120_DC_panel_Day0.txt	2799
+466306	Flow cytometry result	18055720	10_3_12_NCHVK_120_Mono_panel_Day0.466306.fcs	10_3_12_NCHVK_120_Mono_panel_Day0.fcs	2799
+466307	Flow cytometry result	19934187	10_3_12_NCHVK_120_Mono_panel_Day0.466307.txt	10_3_12_NCHVK_120_Mono_panel_Day0.txt	2799
+466308	Flow cytometry result	18951610	10_3_12_NCHVK_120_T_panel_Day0.466308.fcs	10_3_12_NCHVK_120_T_panel_Day0.fcs	2799
+466309	Flow cytometry result	21541350	10_3_12_NCHVK_120_T_panel_Day0.466309.txt	10_3_12_NCHVK_120_T_panel_Day0.txt	2799
+466310	Flow cytometry result	20922491	10_3_12_NCHVK_123_B_panel_Day1.466310.fcs	10_3_12_NCHVK_123_B_panel_Day1.fcs	2799
+466311	Flow cytometry compensation or control	5634827	10_3_12_NCHVK_123_Ctrl_panel_Day1.466311.fcs	10_3_12_NCHVK_123_Ctrl_panel_Day1.fcs	2799
+466312	Flow cytometry result	23172819	10_3_12_NCHVK_123_B_panel_Day1.466312.txt	10_3_12_NCHVK_123_B_panel_Day1.txt	2799
+466313	Flow cytometry result	19460210	10_3_12_NCHVK_123_DC_panel_Day1.466313.fcs	10_3_12_NCHVK_123_DC_panel_Day1.fcs	2799
+466314	Flow cytometry result	22242760	10_3_12_NCHVK_123_DC_panel_Day1.466314.txt	10_3_12_NCHVK_123_DC_panel_Day1.txt	2799
+466315	Flow cytometry result	17748496	10_3_12_NCHVK_123_Mono_panel_Day1.466315.fcs	10_3_12_NCHVK_123_Mono_panel_Day1.fcs	2799
+466316	Flow cytometry result	20153238	10_3_12_NCHVK_123_Mono_panel_Day1.466316.txt	10_3_12_NCHVK_123_Mono_panel_Day1.txt	2799
+466317	Flow cytometry result	20285698	10_3_12_NCHVK_123_T_panel_Day1.466317.fcs	10_3_12_NCHVK_123_T_panel_Day1.fcs	2799
+466318	Flow cytometry result	23308202	10_3_12_NCHVK_123_T_panel_Day1.466318.txt	10_3_12_NCHVK_123_T_panel_Day1.txt	2799
+466319	Flow cytometry result	44185763	10_3_12_NCHVK_125_B_panel_Day0.466319.fcs	10_3_12_NCHVK_125_B_panel_Day0.fcs	2799
+466320	Flow cytometry compensation or control	14004899	10_3_12_NCHVK_125_Ctrl_panel_Day0.466320.fcs	10_3_12_NCHVK_125_Ctrl_panel_Day0.fcs	2799
+466321	Flow cytometry result	45992208	10_3_12_NCHVK_125_B_panel_Day0.466321.txt	10_3_12_NCHVK_125_B_panel_Day0.txt	2799
+466322	Flow cytometry result	53939498	10_3_12_NCHVK_125_DC_panel_Day0.466322.fcs	10_3_12_NCHVK_125_DC_panel_Day0.fcs	2799
+466323	Flow cytometry result	56169541	10_3_12_NCHVK_125_DC_panel_Day0.466323.txt	10_3_12_NCHVK_125_DC_panel_Day0.txt	2799
+466324	Flow cytometry result	44996176	10_3_12_NCHVK_125_Mono_panel_Day0.466324.fcs	10_3_12_NCHVK_125_Mono_panel_Day0.fcs	2799
+466325	Flow cytometry result	46508443	10_3_12_NCHVK_125_Mono_panel_Day0.466325.txt	10_3_12_NCHVK_125_Mono_panel_Day0.txt	2799
+466326	Flow cytometry result	64476850	10_3_12_NCHVK_125_T_panel_Day0.466326.fcs	10_3_12_NCHVK_125_T_panel_Day0.fcs	2799
+466327	Flow cytometry result	67278666	10_3_12_NCHVK_125_T_panel_Day0.466327.txt	10_3_12_NCHVK_125_T_panel_Day0.txt	2799
+466328	Flow cytometry result	34550485	10_3_12_NCHVK_127_B_panel_Day0.466328.fcs	10_3_12_NCHVK_127_B_panel_Day0.fcs	2799
+466329	Flow cytometry compensation or control	7933067	10_3_12_NCHVK_127_Ctrl_panel_Day0.466329.fcs	10_3_12_NCHVK_127_Ctrl_panel_Day0.fcs	2799
+466330	Flow cytometry result	36216328	10_3_12_NCHVK_127_B_panel_Day0.466330.txt	10_3_12_NCHVK_127_B_panel_Day0.txt	2799
+466331	Flow cytometry result	29425730	10_3_12_NCHVK_127_DC_panel_Day0.466331.fcs	10_3_12_NCHVK_127_DC_panel_Day0.fcs	2799
+466332	Flow cytometry result	31378663	10_3_12_NCHVK_127_DC_panel_Day0.466332.txt	10_3_12_NCHVK_127_DC_panel_Day0.txt	2799
+466333	Flow cytometry result	46870696	10_3_12_NCHVK_127_Mono_panel_Day0.466333.fcs	10_3_12_NCHVK_127_Mono_panel_Day0.fcs	2799
+466334	Flow cytometry result	48184468	10_3_12_NCHVK_127_Mono_panel_Day0.466334.txt	10_3_12_NCHVK_127_Mono_panel_Day0.txt	2799
+466335	Flow cytometry result	32520226	10_3_12_NCHVK_127_T_panel_Day0.466335.fcs	10_3_12_NCHVK_127_T_panel_Day0.fcs	2799
+466336	Flow cytometry result	34896896	10_3_12_NCHVK_127_T_panel_Day0.466336.txt	10_3_12_NCHVK_127_T_panel_Day0.txt	2799
+466338	Flow cytometry result	19090083	10_2_12_NCHVK_123_B_panel.466338.fcs	10_2_12_NCHVK_123_B_panel.fcs	2799
+466339	Flow cytometry compensation or control	5721529	10_2_12_NCHVK_123_Ctrl_panel.466339.fcs	10_2_12_NCHVK_123_Ctrl_panel.fcs	2799
+466340	Flow cytometry compensation or control	7202471	10_2_12_Comp_Unstained.466340.fcs	10_2_12_Comp_Unstained.fcs	2799
+466341	Flow cytometry compensation or control	7202474	10_2_12_Comp_FITC.466341.fcs	10_2_12_Comp_FITC.fcs	2799
+466342	Flow cytometry compensation or control	7202472	10_2_12_Comp_PE.466342.fcs	10_2_12_Comp_PE.fcs	2799
+466343	Flow cytometry compensation or control	7202476	10_2_12_Comp_PE_TxR.466343.fcs	10_2_12_Comp_PE_TxR.fcs	2799
+466344	Flow cytometry compensation or control	7202476	10_2_12_Comp_PE_Cy5.466344.fcs	10_2_12_Comp_PE_Cy5.fcs	2799
+466345	Flow cytometry compensation or control	7202476	10_2_12_Comp_PE_Cy7.466345.fcs	10_2_12_Comp_PE_Cy7.fcs	2799
+466346	Flow cytometry compensation or control	7202482	10_2_12_Comp_Pacific_Blue.466346.fcs	10_2_12_Comp_Pacific_Blue.fcs	2799
+466347	Flow cytometry compensation or control	7202478	10_2_12_Comp_QDot_565.466347.fcs	10_2_12_Comp_QDot_565.fcs	2799
+466348	Flow cytometry compensation or control	7202473	10_2_12_Comp_APC.466348.fcs	10_2_12_Comp_APC.fcs	2799
+466349	Flow cytometry compensation or control	7202479	10_2_12_Comp_Alexa_700.466349.fcs	10_2_12_Comp_Alexa_700.fcs	2799
+466350	Flow cytometry compensation or control	7202477	10_2_12_Comp_APC_Cy7.466350.fcs	10_2_12_Comp_APC_Cy7.fcs	2799
+466351	Flow cytometry compensation or control	7202478	10_2_12_Comp_PE_Cy5_5.466351.fcs	10_2_12_Comp_PE_Cy5_5.fcs	2799
+466352	Flow cytometry result	21280385	10_2_12_NCHVK_123_B_panel.466352.txt	10_2_12_NCHVK_123_B_panel.txt	2799
+466353	Flow cytometry result	19975384	10_2_12_NCHVK_123_DC_panel.466353.fcs	10_2_12_NCHVK_123_DC_panel.fcs	2799
+466354	Flow cytometry result	22924043	10_2_12_NCHVK_123_DC_panel.466354.txt	10_2_12_NCHVK_123_DC_panel.txt	2799
+466355	Flow cytometry result	18378941	10_2_12_NCHVK_123_Mono_panel.466355.fcs	10_2_12_NCHVK_123_Mono_panel.fcs	2799
+466356	Flow cytometry result	20889267	10_2_12_NCHVK_123_Mono_panel.466356.txt	10_2_12_NCHVK_123_Mono_panel.txt	2799
+466357	Flow cytometry result	20607912	10_2_12_NCHVK_123_T_panel.466357.fcs	10_2_12_NCHVK_123_T_panel.fcs	2799
+466358	Flow cytometry result	23268140	10_2_12_NCHVK_123_T_panel.466358.txt	10_2_12_NCHVK_123_T_panel.txt	2799
+466360	Flow cytometry result	26184082	9_20_12_NCHVK_115_B_panel.466360.fcs	9_20_12_NCHVK_115_B_panel.fcs	2799
+466361	Flow cytometry compensation or control	7012328	9_20_12_NCHVK_115_Ctrl_panel.466361.fcs	9_20_12_NCHVK_115_Ctrl_panel.fcs	2799
+466362	Flow cytometry compensation or control	7202471	9_20_12_Comp_Unstained.466362.fcs	9_20_12_Comp_Unstained.fcs	2799
+466363	Flow cytometry compensation or control	7202474	9_20_12_Comp_FITC.466363.fcs	9_20_12_Comp_FITC.fcs	2799
+466364	Flow cytometry compensation or control	7202472	9_20_12_Comp_PE.466364.fcs	9_20_12_Comp_PE.fcs	2799
+466365	Flow cytometry compensation or control	7202476	9_20_12_Comp_PE_TxR.466365.fcs	9_20_12_Comp_PE_TxR.fcs	2799
+466366	Flow cytometry compensation or control	7202476	9_20_12_Comp_PE_Cy5.466366.fcs	9_20_12_Comp_PE_Cy5.fcs	2799
+466367	Flow cytometry compensation or control	7202476	9_20_12_Comp_PE_Cy7.466367.fcs	9_20_12_Comp_PE_Cy7.fcs	2799
+466368	Flow cytometry compensation or control	7202482	9_20_12_Comp_Pacific_Blue.466368.fcs	9_20_12_Comp_Pacific_Blue.fcs	2799
+466369	Flow cytometry compensation or control	7202478	9_20_12_Comp_QDot_565.466369.fcs	9_20_12_Comp_QDot_565.fcs	2799
+466370	Flow cytometry compensation or control	7202473	9_20_12_Comp_APC.466370.fcs	9_20_12_Comp_APC.fcs	2799
+466371	Flow cytometry compensation or control	7202479	9_20_12_Comp_Alexa_700.466371.fcs	9_20_12_Comp_Alexa_700.fcs	2799
+466372	Flow cytometry compensation or control	7202477	9_20_12_Comp_APC_Cy7.466372.fcs	9_20_12_Comp_APC_Cy7.fcs	2799
+466373	Flow cytometry compensation or control	7202478	9_20_12_Comp_PE_Cy5_5.466373.fcs	9_20_12_Comp_PE_Cy5_5.fcs	2799
+466374	Flow cytometry result	27395940	9_20_12_NCHVK_115_B_panel.466374.txt	9_20_12_NCHVK_115_B_panel.txt	2799
+466375	Flow cytometry result	28964495	9_20_12_NCHVK_115_DC_panel.466375.fcs	9_20_12_NCHVK_115_DC_panel.fcs	2799
+466376	Flow cytometry result	30414470	9_20_12_NCHVK_115_DC_panel.466376.txt	9_20_12_NCHVK_115_DC_panel.txt	2799
+466377	Flow cytometry result	28453956	9_20_12_NCHVK_115_Mono_panel.466377.fcs	9_20_12_NCHVK_115_Mono_panel.fcs	2799
+466378	Flow cytometry result	29895357	9_20_12_NCHVK_115_Mono_panel.466378.txt	9_20_12_NCHVK_115_Mono_panel.txt	2799
+466379	Flow cytometry result	29171503	9_20_12_NCHVK_115_T_panel.466379.fcs	9_20_12_NCHVK_115_T_panel.fcs	2799
+466380	Flow cytometry result	30939268	9_20_12_NCHVK_115_T_panel.466380.txt	9_20_12_NCHVK_115_T_panel.txt	2799
+466381	Flow cytometry result	21258274	9_20_12_NCHVK_124_B_panel.466381.fcs	9_20_12_NCHVK_124_B_panel.fcs	2799
+466382	Flow cytometry compensation or control	5482760	9_20_12_NCHVK_124_Ctrl_panel.466382.fcs	9_20_12_NCHVK_124_Ctrl_panel.fcs	2799
+466383	Flow cytometry result	23140472	9_20_12_NCHVK_124_B_panel.466383.txt	9_20_12_NCHVK_124_B_panel.txt	2799
+466384	Flow cytometry result	21186983	9_20_12_NCHVK_124_DC_panel.466384.fcs	9_20_12_NCHVK_124_DC_panel.fcs	2799
+466385	Flow cytometry result	23439060	9_20_12_NCHVK_124_DC_panel.466385.txt	9_20_12_NCHVK_124_DC_panel.txt	2799
+466386	Flow cytometry result	21954876	9_20_12_NCHVK_124_Mono_panel.466386.fcs	9_20_12_NCHVK_124_Mono_panel.fcs	2799
+466387	Flow cytometry result	24016697	9_20_12_NCHVK_124_Mono_panel.466387.txt	9_20_12_NCHVK_124_Mono_panel.txt	2799
+466388	Flow cytometry result	19954207	9_20_12_NCHVK_124_T_panel.466388.fcs	9_20_12_NCHVK_124_T_panel.fcs	2799
+466389	Flow cytometry result	22188365	9_20_12_NCHVK_124_T_panel.466389.txt	9_20_12_NCHVK_124_T_panel.txt	2799
+466391	Flow cytometry result	30263325	9_19_12_NCHVK_111_B_panel.466391.fcs	9_19_12_NCHVK_111_B_panel.fcs	2799
+466392	Flow cytometry compensation or control	6878995	9_19_12_NCHVK_111_Ctrl_panel.466392.fcs	9_19_12_NCHVK_111_Ctrl_panel.fcs	2799
+466393	Flow cytometry compensation or control	7202746	9_19_12_Comp_Unstained.466393.fcs	9_19_12_Comp_Unstained.fcs	2799
+466394	Flow cytometry compensation or control	7202474	9_19_12_Comp_FITC.466394.fcs	9_19_12_Comp_FITC.fcs	2799
+466395	Flow cytometry compensation or control	7202472	9_19_12_Comp_PE.466395.fcs	9_19_12_Comp_PE.fcs	2799
+466396	Flow cytometry compensation or control	7202476	9_19_12_Comp_PE_TxR.466396.fcs	9_19_12_Comp_PE_TxR.fcs	2799
+466397	Flow cytometry compensation or control	7202476	9_19_12_Comp_PE_Cy5.466397.fcs	9_19_12_Comp_PE_Cy5.fcs	2799
+466398	Flow cytometry compensation or control	7202476	9_19_12_Comp_PE_Cy7.466398.fcs	9_19_12_Comp_PE_Cy7.fcs	2799
+466399	Flow cytometry compensation or control	7202482	9_19_12_Comp_Pacific_Blue.466399.fcs	9_19_12_Comp_Pacific_Blue.fcs	2799
+466400	Flow cytometry compensation or control	7202478	9_19_12_Comp_QDot_565.466400.fcs	9_19_12_Comp_QDot_565.fcs	2799
+466401	Flow cytometry compensation or control	7202473	9_19_12_Comp_APC.466401.fcs	9_19_12_Comp_APC.fcs	2799
+466402	Flow cytometry compensation or control	7202479	9_19_12_Comp_Alexa_700.466402.fcs	9_19_12_Comp_Alexa_700.fcs	2799
+466403	Flow cytometry compensation or control	7202477	9_19_12_Comp_APC_Cy7.466403.fcs	9_19_12_Comp_APC_Cy7.fcs	2799
+466404	Flow cytometry compensation or control	7202478	9_19_12_Comp_PE_Cy5_5.466404.fcs	9_19_12_Comp_PE_Cy5_5.fcs	2799
+466405	Flow cytometry result	32533845	9_19_12_NCHVK_111_B_panel.466405.txt	9_19_12_NCHVK_111_B_panel.txt	2799
+466406	Flow cytometry result	27147802	9_19_12_NCHVK_111_DC_panel.466406.fcs	9_19_12_NCHVK_111_DC_panel.fcs	2799
+466407	Flow cytometry result	30114696	9_19_12_NCHVK_111_DC_panel.466407.txt	9_19_12_NCHVK_111_DC_panel.txt	2799
+466408	Flow cytometry result	29796623	9_19_12_NCHVK_111_Mono_panel.466408.fcs	9_19_12_NCHVK_111_Mono_panel.fcs	2799
+466409	Flow cytometry result	32370332	9_19_12_NCHVK_111_Mono_panel.466409.txt	9_19_12_NCHVK_111_Mono_panel.txt	2799
+466410	Flow cytometry result	28921962	9_19_12_NCHVK_111_T_panel.466410.fcs	9_19_12_NCHVK_111_T_panel.fcs	2799
+466411	Flow cytometry result	31727285	9_19_12_NCHVK_111_T_panel.466411.txt	9_19_12_NCHVK_111_T_panel.txt	2799
+466412	Flow cytometry result	27295485	9_19_12_NCHVK_115_B_panel.466412.fcs	9_19_12_NCHVK_115_B_panel.fcs	2799
+466413	Flow cytometry compensation or control	5973595	9_19_12_NCHVK_115_Ctrl_panel.466413.fcs	9_19_12_NCHVK_115_Ctrl_panel.fcs	2799
+466414	Flow cytometry result	28693765	9_19_12_NCHVK_115_B_panel.466414.txt	9_19_12_NCHVK_115_B_panel.txt	2799
+466415	Flow cytometry result	25383514	9_19_12_NCHVK_115_DC_panel.466415.fcs	9_19_12_NCHVK_115_DC_panel.fcs	2799
+466416	Flow cytometry result	27001723	9_19_12_NCHVK_115_DC_panel.466416.txt	9_19_12_NCHVK_115_DC_panel.txt	2799
+466417	Flow cytometry result	30111119	9_19_12_NCHVK_115_Mono_panel.466417.fcs	9_19_12_NCHVK_115_Mono_panel.fcs	2799
+466418	Flow cytometry result	31570822	9_19_12_NCHVK_115_Mono_panel.466418.txt	9_19_12_NCHVK_115_Mono_panel.txt	2799
+466419	Flow cytometry result	28428402	9_19_12_NCHVK_115_T_panel.466419.fcs	9_19_12_NCHVK_115_T_panel.fcs	2799
+466420	Flow cytometry result	30337144	9_19_12_NCHVK_115_T_panel.466420.txt	9_19_12_NCHVK_115_T_panel.txt	2799
+466421	Flow cytometry result	25478493	9_19_12_NCHVK_124_B_panel.466421.fcs	9_19_12_NCHVK_124_B_panel.fcs	2799
+466422	Flow cytometry compensation or control	5860771	9_19_12_NCHVK_124_Ctrl_panel.466422.fcs	9_19_12_NCHVK_124_Ctrl_panel.fcs	2799
+466423	Flow cytometry result	27284517	9_19_12_NCHVK_124_B_panel.466423.txt	9_19_12_NCHVK_124_B_panel.txt	2799
+466424	Flow cytometry result	23145106	9_19_12_NCHVK_124_DC_panel.466424.fcs	9_19_12_NCHVK_124_DC_panel.fcs	2799
+466425	Flow cytometry result	25555048	9_19_12_NCHVK_124_DC_panel.466425.txt	9_19_12_NCHVK_124_DC_panel.txt	2799
+466426	Flow cytometry result	27208007	9_19_12_NCHVK_124_Mono_panel.466426.fcs	9_19_12_NCHVK_124_Mono_panel.fcs	2799
+466427	Flow cytometry result	29133382	9_19_12_NCHVK_124_Mono_panel.466427.txt	9_19_12_NCHVK_124_Mono_panel.txt	2799
+466428	Flow cytometry result	25405482	9_19_12_NCHVK_124_T_panel.466428.fcs	9_19_12_NCHVK_124_T_panel.fcs	2799
+466429	Flow cytometry result	27708820	9_19_12_NCHVK_124_T_panel.466429.txt	9_19_12_NCHVK_124_T_panel.txt	2799
+466433	Flow cytometry result	29188946	9_18_12_NCHVK_112_B_panel.466433.fcs	9_18_12_NCHVK_112_B_panel.fcs	2799
+466434	Flow cytometry compensation or control	7505616	9_18_12_NCHVK_112_Ctrl_panel.466434.fcs	9_18_12_NCHVK_112_Ctrl_panel.fcs	2799
+466435	Flow cytometry compensation or control	7202471	9_18_12_Comp_Unstained.466435.fcs	9_18_12_Comp_Unstained.fcs	2799
+466436	Flow cytometry compensation or control	7202474	9_18_12_Comp_FITC.466436.fcs	9_18_12_Comp_FITC.fcs	2799
+466437	Flow cytometry compensation or control	7202472	9_18_12_Comp_PE.466437.fcs	9_18_12_Comp_PE.fcs	2799
+466438	Flow cytometry compensation or control	7202476	9_18_12_Comp_PE_TxR.466438.fcs	9_18_12_Comp_PE_TxR.fcs	2799
+466439	Flow cytometry compensation or control	7202476	9_18_12_Comp_PE_Cy5.466439.fcs	9_18_12_Comp_PE_Cy5.fcs	2799
+466440	Flow cytometry compensation or control	7202476	9_18_12_Comp_PE_Cy7.466440.fcs	9_18_12_Comp_PE_Cy7.fcs	2799
+466441	Flow cytometry compensation or control	7202482	9_18_12_Comp_Pacific_Blue.466441.fcs	9_18_12_Comp_Pacific_Blue.fcs	2799
+466442	Flow cytometry compensation or control	7202478	9_18_12_Comp_QDot_565.466442.fcs	9_18_12_Comp_QDot_565.fcs	2799
+466443	Flow cytometry compensation or control	7202473	9_18_12_Comp_APC.466443.fcs	9_18_12_Comp_APC.fcs	2799
+466444	Flow cytometry compensation or control	7202479	9_18_12_Comp_Alexa_700.466444.fcs	9_18_12_Comp_Alexa_700.fcs	2799
+466445	Flow cytometry compensation or control	7202477	9_18_12_Comp_APC_Cy7.466445.fcs	9_18_12_Comp_APC_Cy7.fcs	2799
+466446	Flow cytometry compensation or control	7202478	9_18_12_Comp_PE_Cy5_5.466446.fcs	9_18_12_Comp_PE_Cy5_5.fcs	2799
+466447	Flow cytometry result	31564017	9_18_12_NCHVK_112_B_panel.466447.txt	9_18_12_NCHVK_112_B_panel.txt	2799
+466448	Flow cytometry result	29614023	9_18_12_NCHVK_112_DC_panel.466448.fcs	9_18_12_NCHVK_112_DC_panel.fcs	2799
+466449	Flow cytometry result	32283874	9_18_12_NCHVK_112_DC_panel.466449.txt	9_18_12_NCHVK_112_DC_panel.txt	2799
+466450	Flow cytometry result	29124076	9_18_12_NCHVK_112_Mono_panel.466450.fcs	9_18_12_NCHVK_112_Mono_panel.fcs	2799
+466451	Flow cytometry result	31557102	9_18_12_NCHVK_112_Mono_panel.466451.txt	9_18_12_NCHVK_112_Mono_panel.txt	2799
+466452	Flow cytometry result	28978631	9_18_12_NCHVK_112_T_panel.466452.fcs	9_18_12_NCHVK_112_T_panel.fcs	2799
+466453	Flow cytometry result	31414280	9_18_12_NCHVK_112_T_panel.466453.txt	9_18_12_NCHVK_112_T_panel.txt	2799
+466454	Flow cytometry result	57227186	9_18_12_NCHVK_113_B_panel.466454.fcs	9_18_12_NCHVK_113_B_panel.fcs	2799
+466455	Flow cytometry compensation or control	14205864	9_18_12_NCHVK_113_Ctrl_panel.466455.fcs	9_18_12_NCHVK_113_Ctrl_panel.fcs	2799
+466456	Flow cytometry result	61601444	9_18_12_NCHVK_113_B_panel.466456.txt	9_18_12_NCHVK_113_B_panel.txt	2799
+466457	Flow cytometry result	55680759	9_18_12_NCHVK_113_DC_panel.466457.fcs	9_18_12_NCHVK_113_DC_panel.fcs	2799
+466458	Flow cytometry result	60879276	9_18_12_NCHVK_113_DC_panel.466458.txt	9_18_12_NCHVK_113_DC_panel.txt	2799
+466459	Flow cytometry result	57256276	9_18_12_NCHVK_113_Mono_panel.466459.fcs	9_18_12_NCHVK_113_Mono_panel.fcs	2799
+466460	Flow cytometry result	61925985	9_18_12_NCHVK_113_Mono_panel.466460.txt	9_18_12_NCHVK_113_Mono_panel.txt	2799
+466461	Flow cytometry result	57611951	9_18_12_NCHVK_113_T_panel.466461.fcs	9_18_12_NCHVK_113_T_panel.fcs	2799
+466462	Flow cytometry result	62646385	9_18_12_NCHVK_113_T_panel.466462.txt	9_18_12_NCHVK_113_T_panel.txt	2799
+466463	Flow cytometry result	19176554	9_18_12_NCHVK_114_B_panel.466463.fcs	9_18_12_NCHVK_114_B_panel.fcs	2799
+466464	Flow cytometry compensation or control	5186208	9_18_12_NCHVK_114_Ctrl_panel.466464.fcs	9_18_12_NCHVK_114_Ctrl_panel.fcs	2799
+466465	Flow cytometry result	20573532	9_18_12_NCHVK_114_B_panel.466465.txt	9_18_12_NCHVK_114_B_panel.txt	2799
+466466	Flow cytometry result	18442863	9_18_12_NCHVK_114_DC_panel.466466.fcs	9_18_12_NCHVK_114_DC_panel.fcs	2799
+466467	Flow cytometry result	20135635	9_18_12_NCHVK_114_DC_panel.466467.txt	9_18_12_NCHVK_114_DC_panel.txt	2799
+466468	Flow cytometry result	20583868	9_18_12_NCHVK_114_Mono_panel.466468.fcs	9_18_12_NCHVK_114_Mono_panel.fcs	2799
+466469	Flow cytometry result	22243759	9_18_12_NCHVK_114_Mono_panel.466469.txt	9_18_12_NCHVK_114_Mono_panel.txt	2799
+466470	Flow cytometry result	20001815	9_18_12_NCHVK_114_T_panel.466470.fcs	9_18_12_NCHVK_114_T_panel.fcs	2799
+466471	Flow cytometry result	21816944	9_18_12_NCHVK_114_T_panel.466471.txt	9_18_12_NCHVK_114_T_panel.txt	2799
+466473	Flow cytometry result	37704565	9_17_12_NCHVK_111_B_panel.466473.fcs	9_17_12_NCHVK_111_B_panel.fcs	2799
+466474	Flow cytometry compensation or control	9809507	9_17_12_NCHVK_111_Ctrl_panel.466474.fcs	9_17_12_NCHVK_111_Ctrl_panel.fcs	2799
+466475	Flow cytometry compensation or control	7202471	9_17_12_Comp_Unstained.466475.fcs	9_17_12_Comp_Unstained.fcs	2799
+466476	Flow cytometry compensation or control	7202474	9_17_12_Comp_FITC.466476.fcs	9_17_12_Comp_FITC.fcs	2799
+466477	Flow cytometry compensation or control	7202472	9_17_12_Comp_PE.466477.fcs	9_17_12_Comp_PE.fcs	2799
+466478	Flow cytometry compensation or control	7202476	9_17_12_Comp_PE_TxR.466478.fcs	9_17_12_Comp_PE_TxR.fcs	2799
+466479	Flow cytometry compensation or control	7202476	9_17_12_Comp_PE_Cy5.466479.fcs	9_17_12_Comp_PE_Cy5.fcs	2799
+466480	Flow cytometry compensation or control	7202476	9_17_12_Comp_PE_Cy7.466480.fcs	9_17_12_Comp_PE_Cy7.fcs	2799
+466481	Flow cytometry compensation or control	7202482	9_17_12_Comp_Pacific_Blue.466481.fcs	9_17_12_Comp_Pacific_Blue.fcs	2799
+466482	Flow cytometry compensation or control	7202478	9_17_12_Comp_QDot_565.466482.fcs	9_17_12_Comp_QDot_565.fcs	2799
+466483	Flow cytometry compensation or control	7202473	9_17_12_Comp_APC.466483.fcs	9_17_12_Comp_APC.fcs	2799
+466484	Flow cytometry compensation or control	7202479	9_17_12_Comp_Alexa_700.466484.fcs	9_17_12_Comp_Alexa_700.fcs	2799
+466485	Flow cytometry compensation or control	7202477	9_17_12_Comp_APC_Cy7.466485.fcs	9_17_12_Comp_APC_Cy7.fcs	2799
+466486	Flow cytometry compensation or control	7202478	9_17_12_Comp_PE_Cy5_5.466486.fcs	9_17_12_Comp_PE_Cy5_5.fcs	2799
+466487	Flow cytometry result	40056721	9_17_12_NCHVK_111_B_panel.466487.txt	9_17_12_NCHVK_111_B_panel.txt	2799
+466488	Flow cytometry result	42257258	9_17_12_NCHVK_111_DC_panel.466488.fcs	9_17_12_NCHVK_111_DC_panel.fcs	2799
+466489	Flow cytometry result	46609985	9_17_12_NCHVK_111_DC_panel.466489.txt	9_17_12_NCHVK_111_DC_panel.txt	2799
+466490	Flow cytometry result	39226863	9_17_12_NCHVK_111_Mono_panel.466490.fcs	9_17_12_NCHVK_111_Mono_panel.fcs	2799
+466491	Flow cytometry result	42139274	9_17_12_NCHVK_111_Mono_panel.466491.txt	9_17_12_NCHVK_111_Mono_panel.txt	2799
+466492	Flow cytometry result	39666130	9_17_12_NCHVK_111_T_panel.466492.fcs	9_17_12_NCHVK_111_T_panel.fcs	2799
+466493	Flow cytometry result	43136818	9_17_12_NCHVK_111_T_panel.466493.txt	9_17_12_NCHVK_111_T_panel.txt	2799
+466494	Flow cytometry result	30158605	9_17_12_NCHVK_112_B_panel.466494.fcs	9_17_12_NCHVK_112_B_panel.fcs	2799
+466495	Flow cytometry compensation or control	6977531	9_17_12_NCHVK_112_Ctrl_panel.466495.fcs	9_17_12_NCHVK_112_Ctrl_panel.fcs	2799
+466496	Flow cytometry result	31981182	9_17_12_NCHVK_112_B_panel.466496.txt	9_17_12_NCHVK_112_B_panel.txt	2799
+466497	Flow cytometry result	26046746	9_17_12_NCHVK_112_DC_panel.466497.fcs	9_17_12_NCHVK_112_DC_panel.fcs	2799
+466498	Flow cytometry result	28198059	9_17_12_NCHVK_112_DC_panel.466498.txt	9_17_12_NCHVK_112_DC_panel.txt	2799
+466499	Flow cytometry result	27327495	9_17_12_NCHVK_112_Mono_panel.466499.fcs	9_17_12_NCHVK_112_Mono_panel.fcs	2799
+466500	Flow cytometry result	29398636	9_17_12_NCHVK_112_Mono_panel.466500.txt	9_17_12_NCHVK_112_Mono_panel.txt	2799
+466501	Flow cytometry result	28848778	9_17_12_NCHVK_112_T_panel.466501.fcs	9_17_12_NCHVK_112_T_panel.fcs	2799
+466502	Flow cytometry result	31074246	9_17_12_NCHVK_112_T_panel.466502.txt	9_17_12_NCHVK_112_T_panel.txt	2799
+466503	Flow cytometry result	62809597	9_17_12_NCHVK_113_B_panel.466503.fcs	9_17_12_NCHVK_113_B_panel.fcs	2799
+466504	Flow cytometry compensation or control	15630491	9_17_12_NCHVK_113_Ctrl_panel.466504.fcs	9_17_12_NCHVK_113_Ctrl_panel.fcs	2799
+466505	Flow cytometry result	67873661	9_17_12_NCHVK_113_B_panel.466505.txt	9_17_12_NCHVK_113_B_panel.txt	2799
+466506	Flow cytometry result	59485058	9_17_12_NCHVK_113_DC_panel.466506.fcs	9_17_12_NCHVK_113_DC_panel.fcs	2799
+466507	Flow cytometry result	65248632	9_17_12_NCHVK_113_DC_panel.466507.txt	9_17_12_NCHVK_113_DC_panel.txt	2799
+466508	Flow cytometry result	57535383	9_17_12_NCHVK_113_Mono_panel.466508.fcs	9_17_12_NCHVK_113_Mono_panel.fcs	2799
+466509	Flow cytometry result	63352064	9_17_12_NCHVK_113_Mono_panel.466509.txt	9_17_12_NCHVK_113_Mono_panel.txt	2799
+466510	Flow cytometry result	62946394	9_17_12_NCHVK_113_T_panel.466510.fcs	9_17_12_NCHVK_113_T_panel.fcs	2799
+466511	Flow cytometry result	68964253	9_17_12_NCHVK_113_T_panel.466511.txt	9_17_12_NCHVK_113_T_panel.txt	2799
+466512	Flow cytometry result	19508941	9_17_12_NCHVK_114_B_panel.466512.fcs	9_17_12_NCHVK_114_B_panel.fcs	2799
+466513	Flow cytometry compensation or control	5522195	9_17_12_NCHVK_114_Ctrl_panel.466513.fcs	9_17_12_NCHVK_114_Ctrl_panel.fcs	2799
+466514	Flow cytometry result	21006988	9_17_12_NCHVK_114_B_panel.466514.txt	9_17_12_NCHVK_114_B_panel.txt	2799
+466515	Flow cytometry result	16706330	9_17_12_NCHVK_114_DC_panel.466515.fcs	9_17_12_NCHVK_114_DC_panel.fcs	2799
+466516	Flow cytometry result	18288498	9_17_12_NCHVK_114_DC_panel.466516.txt	9_17_12_NCHVK_114_DC_panel.txt	2799
+466517	Flow cytometry result	15145527	9_17_12_NCHVK_114_Mono_panel.466517.fcs	9_17_12_NCHVK_114_Mono_panel.fcs	2799
+466518	Flow cytometry result	16752255	9_17_12_NCHVK_114_Mono_panel.466518.txt	9_17_12_NCHVK_114_Mono_panel.txt	2799
+466519	Flow cytometry result	15525538	9_17_12_NCHVK_114_T_panel.466519.fcs	9_17_12_NCHVK_114_T_panel.fcs	2799
+466520	Flow cytometry result	17257428	9_17_12_NCHVK_114_T_panel.466520.txt	9_17_12_NCHVK_114_T_panel.txt	2799
+466527	Flow cytometry result	59713759	9_11_12_NCHVK_90_B_panel.466527.fcs	9_11_12_NCHVK_90_B_panel.fcs	2799
+466528	Flow cytometry compensation or control	12777581	9_11_12_NCHVK_90_Ctrl_panel.466528.fcs	9_11_12_NCHVK_90_Ctrl_panel.fcs	2799
+466529	Flow cytometry compensation or control	7202750	9_11_12_Comp_Unstained.466529.fcs	9_11_12_Comp_Unstained.fcs	2799
+466530	Flow cytometry compensation or control	7202478	9_11_12_Comp_FITC.466530.fcs	9_11_12_Comp_FITC.fcs	2799
+466531	Flow cytometry compensation or control	7202476	9_11_12_Comp_PE.466531.fcs	9_11_12_Comp_PE.fcs	2799
+466532	Flow cytometry compensation or control	7202480	9_11_12_Comp_PE_TxR.466532.fcs	9_11_12_Comp_PE_TxR.fcs	2799
+466533	Flow cytometry compensation or control	7202480	9_11_12_Comp_PE_Cy5.466533.fcs	9_11_12_Comp_PE_Cy5.fcs	2799
+466534	Flow cytometry compensation or control	7202480	9_11_12_Comp_PE_Cy7.466534.fcs	9_11_12_Comp_PE_Cy7.fcs	2799
+466535	Flow cytometry compensation or control	7202486	9_11_12_Comp_Pacific_Blue.466535.fcs	9_11_12_Comp_Pacific_Blue.fcs	2799
+466536	Flow cytometry compensation or control	7202482	9_11_12_Comp_QDot_565.466536.fcs	9_11_12_Comp_QDot_565.fcs	2799
+466537	Flow cytometry compensation or control	7202477	9_11_12_Comp_APC.466537.fcs	9_11_12_Comp_APC.fcs	2799
+466538	Flow cytometry compensation or control	7202483	9_11_12_Comp_Alexa_700.466538.fcs	9_11_12_Comp_Alexa_700.fcs	2799
+466539	Flow cytometry compensation or control	7202481	9_11_12_Comp_APC_Cy7.466539.fcs	9_11_12_Comp_APC_Cy7.fcs	2799
+466540	Flow cytometry compensation or control	7202482	9_11_12_Comp_PE_Cy5_5.466540.fcs	9_11_12_Comp_PE_Cy5_5.fcs	2799
+466541	Flow cytometry result	62890866	9_11_12_NCHVK_90_B_panel.466541.txt	9_11_12_NCHVK_90_B_panel.txt	2799
+466542	Flow cytometry result	53492876	9_11_12_NCHVK_90_DC_panel.466542.fcs	9_11_12_NCHVK_90_DC_panel.fcs	2799
+466543	Flow cytometry result	56789750	9_11_12_NCHVK_90_DC_panel.466543.txt	9_11_12_NCHVK_90_DC_panel.txt	2799
+466544	Flow cytometry result	61540545	9_11_12_NCHVK_90_Mono_panel.466544.fcs	9_11_12_NCHVK_90_Mono_panel.fcs	2799
+466545	Flow cytometry result	64978723	9_11_12_NCHVK_90_Mono_panel.466545.txt	9_11_12_NCHVK_90_Mono_panel.txt	2799
+466546	Flow cytometry result	65891860	9_11_12_NCHVK_90_T_panel.466546.fcs	9_11_12_NCHVK_90_T_panel.fcs	2799
+466547	Flow cytometry result	70467356	9_11_12_NCHVK_90_T_panel.466547.txt	9_11_12_NCHVK_90_T_panel.txt	2799
+466548	Flow cytometry result	69656671	9_11_12_NCHVK_91_B_panel.466548.fcs	9_11_12_NCHVK_91_B_panel.fcs	2799
+466549	Flow cytometry compensation or control	12385829	9_11_12_NCHVK_91_Ctrl_panel.466549.fcs	9_11_12_NCHVK_91_Ctrl_panel.fcs	2799
+466550	Flow cytometry result	71947610	9_11_12_NCHVK_91_B_panel.466550.txt	9_11_12_NCHVK_91_B_panel.txt	2799
+466551	Flow cytometry result	38432564	9_11_12_NCHVK_91_DC_panel.466551.fcs	9_11_12_NCHVK_91_DC_panel.fcs	2799
+466552	Flow cytometry result	40129363	9_11_12_NCHVK_91_DC_panel.466552.txt	9_11_12_NCHVK_91_DC_panel.txt	2799
+466553	Flow cytometry result	54033825	9_11_12_NCHVK_91_Mono_panel.466553.fcs	9_11_12_NCHVK_91_Mono_panel.fcs	2799
+466554	Flow cytometry result	56072612	9_11_12_NCHVK_91_Mono_panel.466554.txt	9_11_12_NCHVK_91_Mono_panel.txt	2799
+466555	Flow cytometry result	50663644	9_11_12_NCHVK_91_T_panel.466555.fcs	9_11_12_NCHVK_91_T_panel.fcs	2799
+466556	Flow cytometry result	53799905	9_11_12_NCHVK_91_T_panel.466556.txt	9_11_12_NCHVK_91_T_panel.txt	2799
+466557	Flow cytometry result	63226783	9_11_12_NCHVK_93_B_panel.466557.fcs	9_11_12_NCHVK_93_B_panel.fcs	2799
+466558	Flow cytometry compensation or control	10173557	9_11_12_NCHVK_93_Ctrl_panel.466558.fcs	9_11_12_NCHVK_93_Ctrl_panel.fcs	2799
+466559	Flow cytometry result	65960370	9_11_12_NCHVK_93_B_panel.466559.txt	9_11_12_NCHVK_93_B_panel.txt	2799
+466560	Flow cytometry result	50951996	9_11_12_NCHVK_93_DC_panel.466560.fcs	9_11_12_NCHVK_93_DC_panel.fcs	2799
+466561	Flow cytometry result	53937189	9_11_12_NCHVK_93_DC_panel.466561.txt	9_11_12_NCHVK_93_DC_panel.txt	2799
+466562	Flow cytometry result	61150881	9_11_12_NCHVK_93_Mono_panel.466562.fcs	9_11_12_NCHVK_93_Mono_panel.fcs	2799
+466563	Flow cytometry result	64280916	9_11_12_NCHVK_93_Mono_panel.466563.txt	9_11_12_NCHVK_93_Mono_panel.txt	2799
+466564	Flow cytometry result	47579020	9_11_12_NCHVK_93_T_panel.466564.fcs	9_11_12_NCHVK_93_T_panel.fcs	2799
+466565	Flow cytometry result	51194295	9_11_12_NCHVK_93_T_panel.466565.txt	9_11_12_NCHVK_93_T_panel.txt	2799
+466566	Flow cytometry result	15351751	9_11_12_NCHVK_94_B_panel.466566.fcs	9_11_12_NCHVK_94_B_panel.fcs	2799
+466567	Flow cytometry compensation or control	4174661	9_11_12_NCHVK_94_Ctrl_panel.466567.fcs	9_11_12_NCHVK_94_Ctrl_panel.fcs	2799
+466568	Flow cytometry result	16677194	9_11_12_NCHVK_94_B_panel.466568.txt	9_11_12_NCHVK_94_B_panel.txt	2799
+466569	Flow cytometry result	15320276	9_11_12_NCHVK_94_DC_panel.466569.fcs	9_11_12_NCHVK_94_DC_panel.fcs	2799
+466570	Flow cytometry result	16888745	9_11_12_NCHVK_94_DC_panel.466570.txt	9_11_12_NCHVK_94_DC_panel.txt	2799
+466571	Flow cytometry result	14470545	9_11_12_NCHVK_94_Mono_panel.466571.fcs	9_11_12_NCHVK_94_Mono_panel.fcs	2799
+466572	Flow cytometry result	15890641	9_11_12_NCHVK_94_Mono_panel.466572.txt	9_11_12_NCHVK_94_Mono_panel.txt	2799
+466573	Flow cytometry result	16292932	9_11_12_NCHVK_94_T_panel.466573.fcs	9_11_12_NCHVK_94_T_panel.fcs	2799
+466574	Flow cytometry result	17915447	9_11_12_NCHVK_94_T_panel.466574.txt	9_11_12_NCHVK_94_T_panel.txt	2799
+466591	Flow cytometry result	34495278	9_6_12_NCHVK_105_B_panel.466591.fcs	9_6_12_NCHVK_105_B_panel.fcs	2799
+466592	Flow cytometry compensation or control	8701900	9_6_12_NCHVK_105_Ctrl_panel.466592.fcs	9_6_12_NCHVK_105_Ctrl_panel.fcs	2799
+466593	Flow cytometry compensation or control	7202470	9_6_12_Comp_Unstained.466593.fcs	9_6_12_Comp_Unstained.fcs	2799
+466594	Flow cytometry compensation or control	7202473	9_6_12_Comp_FITC.466594.fcs	9_6_12_Comp_FITC.fcs	2799
+466595	Flow cytometry compensation or control	7202471	9_6_12_Comp_PE.466595.fcs	9_6_12_Comp_PE.fcs	2799
+466596	Flow cytometry compensation or control	7202475	9_6_12_Comp_PE_TxR.466596.fcs	9_6_12_Comp_PE_TxR.fcs	2799
+466597	Flow cytometry compensation or control	7202475	9_6_12_Comp_PE_Cy5.466597.fcs	9_6_12_Comp_PE_Cy5.fcs	2799
+466598	Flow cytometry compensation or control	7202475	9_6_12_Comp_PE_Cy7.466598.fcs	9_6_12_Comp_PE_Cy7.fcs	2799
+466599	Flow cytometry compensation or control	7202481	9_6_12_Comp_Pacific_Blue.466599.fcs	9_6_12_Comp_Pacific_Blue.fcs	2799
+466600	Flow cytometry compensation or control	7202477	9_6_12_Comp_QDot_565.466600.fcs	9_6_12_Comp_QDot_565.fcs	2799
+466601	Flow cytometry compensation or control	7202472	9_6_12_Comp_APC.466601.fcs	9_6_12_Comp_APC.fcs	2799
+466602	Flow cytometry compensation or control	7202478	9_6_12_Comp_Alexa_700.466602.fcs	9_6_12_Comp_Alexa_700.fcs	2799
+466603	Flow cytometry compensation or control	7202476	9_6_12_Comp_APC_Cy7.466603.fcs	9_6_12_Comp_APC_Cy7.fcs	2799
+466604	Flow cytometry compensation or control	7202477	9_6_12_Comp_PE_Cy5_5.466604.fcs	9_6_12_Comp_PE_Cy5_5.fcs	2799
+466605	Flow cytometry result	36095805	9_6_12_NCHVK_105_B_panel.466605.txt	9_6_12_NCHVK_105_B_panel.txt	2799
+466606	Flow cytometry result	37234924	9_6_12_NCHVK_105_DC_panel.466606.fcs	9_6_12_NCHVK_105_DC_panel.fcs	2799
+466607	Flow cytometry result	39579011	9_6_12_NCHVK_105_DC_panel.466607.txt	9_6_12_NCHVK_105_DC_panel.txt	2799
+466608	Flow cytometry result	39600296	9_6_12_NCHVK_105_Mono_panel.466608.fcs	9_6_12_NCHVK_105_Mono_panel.fcs	2799
+466609	Flow cytometry result	41610496	9_6_12_NCHVK_105_Mono_panel.466609.txt	9_6_12_NCHVK_105_Mono_panel.txt	2799
+466610	Flow cytometry result	41176659	9_6_12_NCHVK_105_T_panel.466610.fcs	9_6_12_NCHVK_105_T_panel.fcs	2799
+466611	Flow cytometry result	43632761	9_6_12_NCHVK_105_T_panel.466611.txt	9_6_12_NCHVK_105_T_panel.txt	2799
+466612	Flow cytometry result	30121638	9_6_12_NCHVK_109_B_panel.466612.fcs	9_6_12_NCHVK_109_B_panel.fcs	2799
+466613	Flow cytometry compensation or control	7823428	9_6_12_NCHVK_109_Ctrl_panel.466613.fcs	9_6_12_NCHVK_109_Ctrl_panel.fcs	2799
+466614	Flow cytometry result	31753438	9_6_12_NCHVK_109_B_panel.466614.txt	9_6_12_NCHVK_109_B_panel.txt	2799
+466615	Flow cytometry result	28730875	9_6_12_NCHVK_109_DC_panel.466615.fcs	9_6_12_NCHVK_109_DC_panel.fcs	2799
+466616	Flow cytometry result	30589316	9_6_12_NCHVK_109_DC_panel.466616.txt	9_6_12_NCHVK_109_DC_panel.txt	2799
+466617	Flow cytometry result	24594200	9_6_12_NCHVK_109_Mono_panel.466617.fcs	9_6_12_NCHVK_109_Mono_panel.fcs	2799
+466618	Flow cytometry result	26617398	9_6_12_NCHVK_109_Mono_panel.466618.txt	9_6_12_NCHVK_109_Mono_panel.txt	2799
+466619	Flow cytometry result	25615803	9_6_12_NCHVK_109_T_panel.466619.fcs	9_6_12_NCHVK_109_T_panel.fcs	2799
+466620	Flow cytometry result	27792333	9_6_12_NCHVK_109_T_panel.466620.txt	9_6_12_NCHVK_109_T_panel.txt	2799
+466622	Flow cytometry result	32436140	10_22_12_NCHVK_115_B_panel.466622.fcs	10_22_12_NCHVK_115_B_panel.fcs	2799
+466623	Flow cytometry compensation or control	9786714	10_22_12_NCHVK_115_Ctrl_panel.466623.fcs	10_22_12_NCHVK_115_Ctrl_panel.fcs	2799
+466624	Flow cytometry compensation or control	7202477	10_22_12_Comp_Unstained.466624.fcs	10_22_12_Comp_Unstained.fcs	2799
+466625	Flow cytometry compensation or control	7202480	10_22_12_Comp_FITC.466625.fcs	10_22_12_Comp_FITC.fcs	2799
+466626	Flow cytometry compensation or control	7202478	10_22_12_Comp_PE.466626.fcs	10_22_12_Comp_PE.fcs	2799
+466627	Flow cytometry compensation or control	7202482	10_22_12_Comp_PE_TxR.466627.fcs	10_22_12_Comp_PE_TxR.fcs	2799
+466628	Flow cytometry compensation or control	7202482	10_22_12_Comp_PE_Cy5.466628.fcs	10_22_12_Comp_PE_Cy5.fcs	2799
+466629	Flow cytometry compensation or control	7202482	10_22_12_Comp_PE_Cy7.466629.fcs	10_22_12_Comp_PE_Cy7.fcs	2799
+466630	Flow cytometry compensation or control	7202488	10_22_12_Comp_Pacific_Blue.466630.fcs	10_22_12_Comp_Pacific_Blue.fcs	2799
+466631	Flow cytometry compensation or control	7202484	10_22_12_Comp_QDot_565.466631.fcs	10_22_12_Comp_QDot_565.fcs	2799
+466632	Flow cytometry compensation or control	7202479	10_22_12_Comp_APC.466632.fcs	10_22_12_Comp_APC.fcs	2799
+466633	Flow cytometry compensation or control	7202485	10_22_12_Comp_Alexa_700.466633.fcs	10_22_12_Comp_Alexa_700.fcs	2799
+466634	Flow cytometry compensation or control	7202483	10_22_12_Comp_APC_Cy7.466634.fcs	10_22_12_Comp_APC_Cy7.fcs	2799
+466635	Flow cytometry compensation or control	7202484	10_22_12_Comp_PE_Cy5_5.466635.fcs	10_22_12_Comp_PE_Cy5_5.fcs	2799
+466636	Flow cytometry result	34138420	10_22_12_NCHVK_115_B_panel.466636.txt	10_22_12_NCHVK_115_B_panel.txt	2799
+466637	Flow cytometry result	40506321	10_22_12_NCHVK_115_DC_panel.466637.fcs	10_22_12_NCHVK_115_DC_panel.fcs	2799
+466638	Flow cytometry result	42512746	10_22_12_NCHVK_115_DC_panel.466638.txt	10_22_12_NCHVK_115_DC_panel.txt	2799
+466639	Flow cytometry result	40556446	10_22_12_NCHVK_115_Mono_panel.466639.fcs	10_22_12_NCHVK_115_Mono_panel.fcs	2799
+466640	Flow cytometry result	42377187	10_22_12_NCHVK_115_Mono_panel.466640.txt	10_22_12_NCHVK_115_Mono_panel.txt	2799
+466641	Flow cytometry result	41739545	10_22_12_NCHVK_115_T_panel.466641.fcs	10_22_12_NCHVK_115_T_panel.fcs	2799
+466642	Flow cytometry result	43994221	10_22_12_NCHVK_115_T_panel.466642.txt	10_22_12_NCHVK_115_T_panel.txt	2799
+466643	Flow cytometry result	20505668	10_22_12_NCHVK_124_B_panel.466643.fcs	10_22_12_NCHVK_124_B_panel.fcs	2799
+466644	Flow cytometry compensation or control	4981578	10_22_12_NCHVK_124_Ctrl_panel.466644.fcs	10_22_12_NCHVK_124_Ctrl_panel.fcs	2799
+466645	Flow cytometry result	22072056	10_22_12_NCHVK_124_B_panel.466645.txt	10_22_12_NCHVK_124_B_panel.txt	2799
+466646	Flow cytometry result	19569801	10_22_12_NCHVK_124_DC_panel.466646.fcs	10_22_12_NCHVK_124_DC_panel.fcs	2799
+466647	Flow cytometry result	21163393	10_22_12_NCHVK_124_DC_panel.466647.txt	10_22_12_NCHVK_124_DC_panel.txt	2799
+466648	Flow cytometry result	17827198	10_22_12_NCHVK_124_Mono_panel.466648.fcs	10_22_12_NCHVK_124_Mono_panel.fcs	2799
+466649	Flow cytometry result	19387765	10_22_12_NCHVK_124_Mono_panel.466649.txt	10_22_12_NCHVK_124_Mono_panel.txt	2799
+466650	Flow cytometry result	18152489	10_22_12_NCHVK_124_T_panel.466650.fcs	10_22_12_NCHVK_124_T_panel.fcs	2799
+466651	Flow cytometry result	20016753	10_22_12_NCHVK_124_T_panel.466651.txt	10_22_12_NCHVK_124_T_panel.txt	2799
+466653	Flow cytometry result	28677135	9_24_12_NCHVK_111_B_panel.466653.fcs	9_24_12_NCHVK_111_B_panel.fcs	2799
+466654	Flow cytometry compensation or control	6737125	9_24_12_NCHVK_111_Ctrl_panel.466654.fcs	9_24_12_NCHVK_111_Ctrl_panel.fcs	2799
+466655	Flow cytometry compensation or control	7202471	9_24_12_Comp_Unstained.466655.fcs	9_24_12_Comp_Unstained.fcs	2799
+466656	Flow cytometry compensation or control	7202474	9_24_12_Comp_FITC.466656.fcs	9_24_12_Comp_FITC.fcs	2799
+466657	Flow cytometry compensation or control	7202472	9_24_12_Comp_PE.466657.fcs	9_24_12_Comp_PE.fcs	2799
+466658	Flow cytometry compensation or control	7202476	9_24_12_Comp_PE_TxR.466658.fcs	9_24_12_Comp_PE_TxR.fcs	2799
+466659	Flow cytometry compensation or control	7202476	9_24_12_Comp_PE_Cy5.466659.fcs	9_24_12_Comp_PE_Cy5.fcs	2799
+466660	Flow cytometry compensation or control	7202476	9_24_12_Comp_PE_Cy7.466660.fcs	9_24_12_Comp_PE_Cy7.fcs	2799
+466661	Flow cytometry compensation or control	7202482	9_24_12_Comp_Pacific_Blue.466661.fcs	9_24_12_Comp_Pacific_Blue.fcs	2799
+466662	Flow cytometry compensation or control	7202478	9_24_12_Comp_QDot_565.466662.fcs	9_24_12_Comp_QDot_565.fcs	2799
+466663	Flow cytometry compensation or control	7202473	9_24_12_Comp_APC.466663.fcs	9_24_12_Comp_APC.fcs	2799
+466664	Flow cytometry compensation or control	7202479	9_24_12_Comp_Alexa_700.466664.fcs	9_24_12_Comp_Alexa_700.fcs	2799
+466665	Flow cytometry compensation or control	7202477	9_24_12_Comp_APC_Cy7.466665.fcs	9_24_12_Comp_APC_Cy7.fcs	2799
+466666	Flow cytometry compensation or control	7202478	9_24_12_Comp_PE_Cy5_5.466666.fcs	9_24_12_Comp_PE_Cy5_5.fcs	2799
+466667	Flow cytometry result	31192123	9_24_12_NCHVK_111_B_panel.466667.txt	9_24_12_NCHVK_111_B_panel.txt	2799
+466668	Flow cytometry result	24660748	9_24_12_NCHVK_111_DC_panel.466668.fcs	9_24_12_NCHVK_111_DC_panel.fcs	2799
+466669	Flow cytometry result	27575213	9_24_12_NCHVK_111_DC_panel.466669.txt	9_24_12_NCHVK_111_DC_panel.txt	2799
+466670	Flow cytometry result	24553337	9_24_12_NCHVK_111_Mono_panel.466670.fcs	9_24_12_NCHVK_111_Mono_panel.fcs	2799
+466671	Flow cytometry result	27260038	9_24_12_NCHVK_111_Mono_panel.466671.txt	9_24_12_NCHVK_111_Mono_panel.txt	2799
+466672	Flow cytometry result	25915572	9_24_12_NCHVK_111_T_panel.466672.fcs	9_24_12_NCHVK_111_T_panel.fcs	2799
+466673	Flow cytometry result	29083604	9_24_12_NCHVK_111_T_panel.466673.txt	9_24_12_NCHVK_111_T_panel.txt	2799
+466674	Flow cytometry result	28264791	9_24_12_NCHVK_112_B_panel.466674.fcs	9_24_12_NCHVK_112_B_panel.fcs	2799
+466675	Flow cytometry compensation or control	6498805	9_24_12_NCHVK_112_Ctrl_panel.466675.fcs	9_24_12_NCHVK_112_Ctrl_panel.fcs	2799
+466676	Flow cytometry result	30332410	9_24_12_NCHVK_112_B_panel.466676.txt	9_24_12_NCHVK_112_B_panel.txt	2799
+466677	Flow cytometry result	24833908	9_24_12_NCHVK_112_DC_panel.466677.fcs	9_24_12_NCHVK_112_DC_panel.fcs	2799
+466678	Flow cytometry result	27209375	9_24_12_NCHVK_112_DC_panel.466678.txt	9_24_12_NCHVK_112_DC_panel.txt	2799
+466679	Flow cytometry result	26472137	9_24_12_NCHVK_112_Mono_panel.466679.fcs	9_24_12_NCHVK_112_Mono_panel.fcs	2799
+466680	Flow cytometry result	28953396	9_24_12_NCHVK_112_Mono_panel.466680.txt	9_24_12_NCHVK_112_Mono_panel.txt	2799
+466681	Flow cytometry result	27491076	9_24_12_NCHVK_112_T_panel.466681.fcs	9_24_12_NCHVK_112_T_panel.fcs	2799
+466682	Flow cytometry result	29943422	9_24_12_NCHVK_112_T_panel.466682.txt	9_24_12_NCHVK_112_T_panel.txt	2799
+466683	Flow cytometry result	46989327	9_24_12_NCHVK_113_B_panel.466683.fcs	9_24_12_NCHVK_113_B_panel.fcs	2799
+466684	Flow cytometry compensation or control	10740829	9_24_12_NCHVK_113_Ctrl_panel.466684.fcs	9_24_12_NCHVK_113_Ctrl_panel.fcs	2799
+466685	Flow cytometry result	50732910	9_24_12_NCHVK_113_B_panel.466685.txt	9_24_12_NCHVK_113_B_panel.txt	2799
+466686	Flow cytometry result	35402500	9_24_12_NCHVK_113_DC_panel.466686.fcs	9_24_12_NCHVK_113_DC_panel.fcs	2799
+466687	Flow cytometry result	39796049	9_24_12_NCHVK_113_DC_panel.466687.txt	9_24_12_NCHVK_113_DC_panel.txt	2799
+466688	Flow cytometry result	39325289	9_24_12_NCHVK_113_Mono_panel.466688.fcs	9_24_12_NCHVK_113_Mono_panel.fcs	2799
+466689	Flow cytometry result	44091315	9_24_12_NCHVK_113_Mono_panel.466689.txt	9_24_12_NCHVK_113_Mono_panel.txt	2799
+466690	Flow cytometry result	37472724	9_24_12_NCHVK_113_T_panel.466690.fcs	9_24_12_NCHVK_113_T_panel.fcs	2799
+466691	Flow cytometry result	41862715	9_24_12_NCHVK_113_T_panel.466691.txt	9_24_12_NCHVK_113_T_panel.txt	2799
+466692	Flow cytometry result	20289063	9_24_12_NCHVK_114_B_panel.466692.fcs	9_24_12_NCHVK_114_B_panel.fcs	2799
+466693	Flow cytometry compensation or control	5095309	9_24_12_NCHVK_114_Ctrl_panel.466693.fcs	9_24_12_NCHVK_114_Ctrl_panel.fcs	2799
+466694	Flow cytometry result	21836878	9_24_12_NCHVK_114_B_panel.466694.txt	9_24_12_NCHVK_114_B_panel.txt	2799
+466695	Flow cytometry result	17861860	9_24_12_NCHVK_114_DC_panel.466695.fcs	9_24_12_NCHVK_114_DC_panel.fcs	2799
+466696	Flow cytometry result	19834448	9_24_12_NCHVK_114_DC_panel.466696.txt	9_24_12_NCHVK_114_DC_panel.txt	2799
+466697	Flow cytometry result	18872393	9_24_12_NCHVK_114_Mono_panel.466697.fcs	9_24_12_NCHVK_114_Mono_panel.fcs	2799
+466698	Flow cytometry result	20830415	9_24_12_NCHVK_114_Mono_panel.466698.txt	9_24_12_NCHVK_114_Mono_panel.txt	2799
+466699	Flow cytometry result	18907956	9_24_12_NCHVK_114_T_panel.466699.fcs	9_24_12_NCHVK_114_T_panel.fcs	2799
+466700	Flow cytometry result	20910530	9_24_12_NCHVK_114_T_panel.466700.txt	9_24_12_NCHVK_114_T_panel.txt	2799
+466806	Flow cytometry result	46174616	9_25_12_NCHVK_103_B_panel.466806.fcs	9_25_12_NCHVK_103_B_panel.fcs	2799
+466807	Flow cytometry compensation or control	12607038	9_25_12_NCHVK_103_Ctrl_panel.466807.fcs	9_25_12_NCHVK_103_Ctrl_panel.fcs	2799
+466808	Flow cytometry compensation or control	7202472	9_25_12_Comp_Unstained.466808.fcs	9_25_12_Comp_Unstained.fcs	2799
+466809	Flow cytometry compensation or control	7202475	9_25_12_Comp_FITC.466809.fcs	9_25_12_Comp_FITC.fcs	2799
+466810	Flow cytometry compensation or control	7202473	9_25_12_Comp_PE.466810.fcs	9_25_12_Comp_PE.fcs	2799
+466811	Flow cytometry compensation or control	7202477	9_25_12_Comp_PE_TxR.466811.fcs	9_25_12_Comp_PE_TxR.fcs	2799
+466812	Flow cytometry compensation or control	7202477	9_25_12_Comp_PE_Cy5.466812.fcs	9_25_12_Comp_PE_Cy5.fcs	2799
+466813	Flow cytometry compensation or control	7202477	9_25_12_Comp_PE_Cy7.466813.fcs	9_25_12_Comp_PE_Cy7.fcs	2799
+466814	Flow cytometry compensation or control	7202483	9_25_12_Comp_Pacific_Blue.466814.fcs	9_25_12_Comp_Pacific_Blue.fcs	2799
+466815	Flow cytometry compensation or control	7202479	9_25_12_Comp_QDot_565.466815.fcs	9_25_12_Comp_QDot_565.fcs	2799
+466816	Flow cytometry compensation or control	7202474	9_25_12_Comp_APC.466816.fcs	9_25_12_Comp_APC.fcs	2799
+466817	Flow cytometry compensation or control	7202480	9_25_12_Comp_Alexa_700.466817.fcs	9_25_12_Comp_Alexa_700.fcs	2799
+466818	Flow cytometry compensation or control	7202478	9_25_12_Comp_APC_Cy7.466818.fcs	9_25_12_Comp_APC_Cy7.fcs	2799
+466819	Flow cytometry compensation or control	7202479	9_25_12_Comp_PE_Cy5_5.466819.fcs	9_25_12_Comp_PE_Cy5_5.fcs	2799
+466820	Flow cytometry result	48554935	9_25_12_NCHVK_103_B_panel.466820.txt	9_25_12_NCHVK_103_B_panel.txt	2799
+466821	Flow cytometry result	45056373	9_25_12_NCHVK_103_DC_panel.466821.fcs	9_25_12_NCHVK_103_DC_panel.fcs	2799
+466822	Flow cytometry result	48139575	9_25_12_NCHVK_103_DC_panel.466822.txt	9_25_12_NCHVK_103_DC_panel.txt	2799
+466823	Flow cytometry result	52225858	9_25_12_NCHVK_103_Mono_panel.466823.fcs	9_25_12_NCHVK_103_Mono_panel.fcs	2799
+466824	Flow cytometry result	55494707	9_25_12_NCHVK_103_Mono_panel.466824.txt	9_25_12_NCHVK_103_Mono_panel.txt	2799
+466825	Flow cytometry result	46356773	9_25_12_NCHVK_103_T_panel.466825.fcs	9_25_12_NCHVK_103_T_panel.fcs	2799
+466826	Flow cytometry result	49621893	9_25_12_NCHVK_103_T_panel.466826.txt	9_25_12_NCHVK_103_T_panel.txt	2799
+466827	Flow cytometry result	68560640	9_25_12_NCHVK_104_B_panel.466827.fcs	9_25_12_NCHVK_104_B_panel.fcs	2799
+466828	Flow cytometry compensation or control	13339998	9_25_12_NCHVK_104_Ctrl_panel.466828.fcs	9_25_12_NCHVK_104_Ctrl_panel.fcs	2799
+466829	Flow cytometry result	71366877	9_25_12_NCHVK_104_B_panel.466829.txt	9_25_12_NCHVK_104_B_panel.txt	2799
+466830	Flow cytometry result	59767917	9_25_12_NCHVK_104_DC_panel.466830.fcs	9_25_12_NCHVK_104_DC_panel.fcs	2799
+466831	Flow cytometry result	63090180	9_25_12_NCHVK_104_DC_panel.466831.txt	9_25_12_NCHVK_104_DC_panel.txt	2799
+466832	Flow cytometry result	57120850	9_25_12_NCHVK_104_Mono_panel.466832.fcs	9_25_12_NCHVK_104_Mono_panel.fcs	2799
+466833	Flow cytometry result	60063989	9_25_12_NCHVK_104_Mono_panel.466833.txt	9_25_12_NCHVK_104_Mono_panel.txt	2799
+466834	Flow cytometry result	65287301	9_25_12_NCHVK_104_T_panel.466834.fcs	9_25_12_NCHVK_104_T_panel.fcs	2799
+466835	Flow cytometry result	68819548	9_25_12_NCHVK_104_T_panel.466835.txt	9_25_12_NCHVK_104_T_panel.txt	2799
+466840	Flow cytometry result	54685650	9_4_12_NCHVK_103_B_panel.466840.fcs	9_4_12_NCHVK_103_B_panel.fcs	2799
+466841	Flow cytometry compensation or control	14616256	9_4_12_NCHVK_103_Ctrl_panel.466841.fcs	9_4_12_NCHVK_103_Ctrl_panel.fcs	2799
+466842	Flow cytometry compensation or control	7202470	9_4_12_Comp_Unstained.466842.fcs	9_4_12_Comp_Unstained.fcs	2799
+466843	Flow cytometry compensation or control	7202473	9_4_12_Comp_FITC.466843.fcs	9_4_12_Comp_FITC.fcs	2799
+466844	Flow cytometry compensation or control	7202471	9_4_12_Comp_PE.466844.fcs	9_4_12_Comp_PE.fcs	2799
+466845	Flow cytometry compensation or control	7202475	9_4_12_Comp_PE_TxR.466845.fcs	9_4_12_Comp_PE_TxR.fcs	2799
+466846	Flow cytometry compensation or control	7202475	9_4_12_Comp_PE_Cy5.466846.fcs	9_4_12_Comp_PE_Cy5.fcs	2799
+466847	Flow cytometry compensation or control	7202475	9_4_12_Comp_PE_Cy7.466847.fcs	9_4_12_Comp_PE_Cy7.fcs	2799
+466848	Flow cytometry compensation or control	7202481	9_4_12_Comp_Pacific_Blue.466848.fcs	9_4_12_Comp_Pacific_Blue.fcs	2799
+466849	Flow cytometry compensation or control	7202477	9_4_12_Comp_QDot_565.466849.fcs	9_4_12_Comp_QDot_565.fcs	2799
+466850	Flow cytometry compensation or control	7202472	9_4_12_Comp_APC.466850.fcs	9_4_12_Comp_APC.fcs	2799
+466851	Flow cytometry compensation or control	7202478	9_4_12_Comp_Alexa_700.466851.fcs	9_4_12_Comp_Alexa_700.fcs	2799
+466852	Flow cytometry compensation or control	7202476	9_4_12_Comp_APC_Cy7.466852.fcs	9_4_12_Comp_APC_Cy7.fcs	2799
+466853	Flow cytometry compensation or control	7202477	9_4_12_Comp_PE_Cy5_5.466853.fcs	9_4_12_Comp_PE_Cy5_5.fcs	2799
+466854	Flow cytometry result	59453307	9_4_12_NCHVK_103_B_panel.466854.txt	9_4_12_NCHVK_103_B_panel.txt	2799
+466855	Flow cytometry result	61208911	9_4_12_NCHVK_103_DC_panel.466855.fcs	9_4_12_NCHVK_103_DC_panel.fcs	2799
+466856	Flow cytometry result	68018203	9_4_12_NCHVK_103_DC_panel.466856.txt	9_4_12_NCHVK_103_DC_panel.txt	2799
+466857	Flow cytometry result	40904420	9_4_12_NCHVK_103_Mono_panel.466857.fcs	9_4_12_NCHVK_103_Mono_panel.fcs	2799
+466858	Flow cytometry result	45343292	9_4_12_NCHVK_103_Mono_panel.466858.txt	9_4_12_NCHVK_103_Mono_panel.txt	2799
+466859	Flow cytometry result	60718023	9_4_12_NCHVK_103_T_panel.466859.fcs	9_4_12_NCHVK_103_T_panel.fcs	2799
+466860	Flow cytometry result	66888041	9_4_12_NCHVK_103_T_panel.466860.txt	9_4_12_NCHVK_103_T_panel.txt	2799
+466861	Flow cytometry result	44570730	9_4_12_NCHVK_104_B_panel.466861.fcs	9_4_12_NCHVK_104_B_panel.fcs	2799
+466862	Flow cytometry compensation or control	9712552	9_4_12_NCHVK_104_Ctrl_panel.466862.fcs	9_4_12_NCHVK_104_Ctrl_panel.fcs	2799
+466863	Flow cytometry result	47125286	9_4_12_NCHVK_104_B_panel.466863.txt	9_4_12_NCHVK_104_B_panel.txt	2799
+466864	Flow cytometry result	46904455	9_4_12_NCHVK_104_DC_panel.466864.fcs	9_4_12_NCHVK_104_DC_panel.fcs	2799
+466865	Flow cytometry result	49201598	9_4_12_NCHVK_104_DC_panel.466865.txt	9_4_12_NCHVK_104_DC_panel.txt	2799
+466866	Flow cytometry result	52519964	9_4_12_NCHVK_104_Mono_panel.466866.fcs	9_4_12_NCHVK_104_Mono_panel.fcs	2799
+466867	Flow cytometry result	55280171	9_4_12_NCHVK_104_Mono_panel.466867.txt	9_4_12_NCHVK_104_Mono_panel.txt	2799
+466868	Flow cytometry result	45873927	9_4_12_NCHVK_104_T_panel.466868.fcs	9_4_12_NCHVK_104_T_panel.fcs	2799
+466869	Flow cytometry result	48771080	9_4_12_NCHVK_104_T_panel.466869.txt	9_4_12_NCHVK_104_T_panel.txt	2799
+466871	Flow cytometry result	30940226	8_31_12_NCHVK_105_B_panel.466871.fcs	8_31_12_NCHVK_105_B_panel.fcs	2799
+466872	Flow cytometry compensation or control	7962408	8_31_12_NCHVK_105_Ctrl_panel.466872.fcs	8_31_12_NCHVK_105_Ctrl_panel.fcs	2799
+466873	Flow cytometry compensation or control	7202471	8_31_12_Comp_Unstained.466873.fcs	8_31_12_Comp_Unstained.fcs	2799
+466874	Flow cytometry compensation or control	7202474	8_31_12_Comp_FITC.466874.fcs	8_31_12_Comp_FITC.fcs	2799
+466875	Flow cytometry compensation or control	7202472	8_31_12_Comp_PE.466875.fcs	8_31_12_Comp_PE.fcs	2799
+466876	Flow cytometry compensation or control	7202476	8_31_12_Comp_PE_TxR.466876.fcs	8_31_12_Comp_PE_TxR.fcs	2799
+466877	Flow cytometry compensation or control	7202476	8_31_12_Comp_PE_Cy5.466877.fcs	8_31_12_Comp_PE_Cy5.fcs	2799
+466878	Flow cytometry compensation or control	7202476	8_31_12_Comp_PE_Cy7.466878.fcs	8_31_12_Comp_PE_Cy7.fcs	2799
+466879	Flow cytometry compensation or control	7202482	8_31_12_Comp_Pacific_Blue.466879.fcs	8_31_12_Comp_Pacific_Blue.fcs	2799
+466880	Flow cytometry compensation or control	7202478	8_31_12_Comp_QDot_565.466880.fcs	8_31_12_Comp_QDot_565.fcs	2799
+466881	Flow cytometry compensation or control	7202473	8_31_12_Comp_APC.466881.fcs	8_31_12_Comp_APC.fcs	2799
+466882	Flow cytometry compensation or control	7202479	8_31_12_Comp_Alexa_700.466882.fcs	8_31_12_Comp_Alexa_700.fcs	2799
+466883	Flow cytometry compensation or control	7202477	8_31_12_Comp_APC_Cy7.466883.fcs	8_31_12_Comp_APC_Cy7.fcs	2799
+466884	Flow cytometry compensation or control	7202478	8_31_12_Comp_PE_Cy5_5.466884.fcs	8_31_12_Comp_PE_Cy5_5.fcs	2799
+466885	Flow cytometry result	33601454	8_31_12_NCHVK_105_B_panel.466885.txt	8_31_12_NCHVK_105_B_panel.txt	2799
+466886	Flow cytometry result	37015791	8_31_12_NCHVK_105_DC_panel.466886.fcs	8_31_12_NCHVK_105_DC_panel.fcs	2799
+466887	Flow cytometry result	40035697	8_31_12_NCHVK_105_DC_panel.466887.txt	8_31_12_NCHVK_105_DC_panel.txt	2799
+466888	Flow cytometry result	35094196	8_31_12_NCHVK_105_Mono_panel.466888.fcs	8_31_12_NCHVK_105_Mono_panel.fcs	2799
+466889	Flow cytometry result	37930946	8_31_12_NCHVK_105_Mono_panel.466889.txt	8_31_12_NCHVK_105_Mono_panel.txt	2799
+466890	Flow cytometry result	37222799	8_31_12_NCHVK_105_T_panel.466890.fcs	8_31_12_NCHVK_105_T_panel.fcs	2799
+466891	Flow cytometry result	40195493	8_31_12_NCHVK_105_T_panel.466891.txt	8_31_12_NCHVK_105_T_panel.txt	2799
+466892	Flow cytometry result	22464530	8_31_12_NCHVK_109_B_panel.466892.fcs	8_31_12_NCHVK_109_B_panel.fcs	2799
+466893	Flow cytometry compensation or control	5680656	8_31_12_NCHVK_109_Ctrl_panel.466893.fcs	8_31_12_NCHVK_109_Ctrl_panel.fcs	2799
+466894	Flow cytometry result	24410256	8_31_12_NCHVK_109_B_panel.466894.txt	8_31_12_NCHVK_109_B_panel.txt	2799
+466895	Flow cytometry result	23142183	8_31_12_NCHVK_109_DC_panel.466895.fcs	8_31_12_NCHVK_109_DC_panel.fcs	2799
+466896	Flow cytometry result	25516103	8_31_12_NCHVK_109_DC_panel.466896.txt	8_31_12_NCHVK_109_DC_panel.txt	2799
+466897	Flow cytometry result	22818988	8_31_12_NCHVK_109_Mono_panel.466897.fcs	8_31_12_NCHVK_109_Mono_panel.fcs	2799
+466898	Flow cytometry result	24972441	8_31_12_NCHVK_109_Mono_panel.466898.txt	8_31_12_NCHVK_109_Mono_panel.txt	2799
+466899	Flow cytometry result	21672527	8_31_12_NCHVK_109_T_panel.466899.fcs	8_31_12_NCHVK_109_T_panel.fcs	2799
+466900	Flow cytometry result	24035248	8_31_12_NCHVK_109_T_panel.466900.txt	8_31_12_NCHVK_109_T_panel.txt	2799
+466902	Flow cytometry result	35109903	8_22_12_NCHVK_93_B_panel.466902.fcs	8_22_12_NCHVK_93_B_panel.fcs	2799
+466903	Flow cytometry compensation or control	8041045	8_22_12_NCHVK_93_Ctrl_panel.466903.fcs	8_22_12_NCHVK_93_Ctrl_panel.fcs	2799
+466904	Flow cytometry compensation or control	7202471	8_22_12_Comp_Unstained.466904.fcs	8_22_12_Comp_Unstained.fcs	2799
+466905	Flow cytometry compensation or control	7202474	8_22_12_Comp_FITC.466905.fcs	8_22_12_Comp_FITC.fcs	2799
+466906	Flow cytometry compensation or control	7202472	8_22_12_Comp_PE.466906.fcs	8_22_12_Comp_PE.fcs	2799
+466907	Flow cytometry compensation or control	7202476	8_22_12_Comp_PE_TxR.466907.fcs	8_22_12_Comp_PE_TxR.fcs	2799
+466908	Flow cytometry compensation or control	7202476	8_22_12_Comp_PE_Cy5.466908.fcs	8_22_12_Comp_PE_Cy5.fcs	2799
+466909	Flow cytometry compensation or control	7202476	8_22_12_Comp_PE_Cy7.466909.fcs	8_22_12_Comp_PE_Cy7.fcs	2799
+466910	Flow cytometry compensation or control	7202482	8_22_12_Comp_Pacific_Blue.466910.fcs	8_22_12_Comp_Pacific_Blue.fcs	2799
+466911	Flow cytometry compensation or control	7202478	8_22_12_Comp_QDot_565.466911.fcs	8_22_12_Comp_QDot_565.fcs	2799
+466912	Flow cytometry compensation or control	7202473	8_22_12_Comp_APC.466912.fcs	8_22_12_Comp_APC.fcs	2799
+466913	Flow cytometry compensation or control	7202479	8_22_12_Comp_Alexa_700.466913.fcs	8_22_12_Comp_Alexa_700.fcs	2799
+466914	Flow cytometry compensation or control	7202477	8_22_12_Comp_APC_Cy7.466914.fcs	8_22_12_Comp_APC_Cy7.fcs	2799
+466915	Flow cytometry compensation or control	7202478	8_22_12_Comp_PE_Cy5_5.466915.fcs	8_22_12_Comp_PE_Cy5_5.fcs	2799
+466916	Flow cytometry result	37305312	8_22_12_NCHVK_93_B_panel.466916.txt	8_22_12_NCHVK_93_B_panel.txt	2799
+466917	Flow cytometry result	33929308	8_22_12_NCHVK_93_DC_panel.466917.fcs	8_22_12_NCHVK_93_DC_panel.fcs	2799
+466918	Flow cytometry result	36573760	8_22_12_NCHVK_93_DC_panel.466918.txt	8_22_12_NCHVK_93_DC_panel.txt	2799
+466919	Flow cytometry result	35758625	8_22_12_NCHVK_93_Mono_panel.466919.fcs	8_22_12_NCHVK_93_Mono_panel.fcs	2799
+466920	Flow cytometry result	38332521	8_22_12_NCHVK_93_Mono_panel.466920.txt	8_22_12_NCHVK_93_Mono_panel.txt	2799
+466921	Flow cytometry result	36310572	8_22_12_NCHVK_93_T_panel.466921.fcs	8_22_12_NCHVK_93_T_panel.fcs	2799
+466922	Flow cytometry result	39038652	8_22_12_NCHVK_93_T_panel.466922.txt	8_22_12_NCHVK_93_T_panel.txt	2799
+466923	Flow cytometry result	15978999	8_22_12_NCHVK_94_B_panel.466923.fcs	8_22_12_NCHVK_94_B_panel.fcs	2799
+466924	Flow cytometry compensation or control	4608517	8_22_12_NCHVK_94_Ctrl_panel.466924.fcs	8_22_12_NCHVK_94_Ctrl_panel.fcs	2799
+466925	Flow cytometry result	17114000	8_22_12_NCHVK_94_B_panel.466925.txt	8_22_12_NCHVK_94_B_panel.txt	2799
+466926	Flow cytometry result	17651260	8_22_12_NCHVK_94_DC_panel.466926.fcs	8_22_12_NCHVK_94_DC_panel.fcs	2799
+466927	Flow cytometry result	18766518	8_22_12_NCHVK_94_DC_panel.466927.txt	8_22_12_NCHVK_94_DC_panel.txt	2799
+466928	Flow cytometry result	17268881	8_22_12_NCHVK_94_Mono_panel.466928.fcs	8_22_12_NCHVK_94_Mono_panel.fcs	2799
+466929	Flow cytometry result	18275314	8_22_12_NCHVK_94_Mono_panel.466929.txt	8_22_12_NCHVK_94_Mono_panel.txt	2799
+466930	Flow cytometry result	20448180	8_22_12_NCHVK_94_T_panel.466930.fcs	8_22_12_NCHVK_94_T_panel.fcs	2799
+466931	Flow cytometry result	21988096	8_22_12_NCHVK_94_T_panel.466931.txt	8_22_12_NCHVK_94_T_panel.txt	2799
+466932	Flow cytometry result	28604539	8_23_12_NCHVK_95_B_panel.466932.fcs	8_23_12_NCHVK_95_B_panel.fcs	2799
+466933	Flow cytometry compensation or control	11134937	8_23_12_NCHVK_95_Ctrl_panel.466933.fcs	8_23_12_NCHVK_95_Ctrl_panel.fcs	2799
+466934	Flow cytometry compensation or control	7202746	8_23_12_Comp_Unstained.466934.fcs	8_23_12_Comp_Unstained.fcs	2799
+466935	Flow cytometry compensation or control	7202474	8_23_12_Comp_FITC.466935.fcs	8_23_12_Comp_FITC.fcs	2799
+466936	Flow cytometry compensation or control	7202472	8_23_12_Comp_PE.466936.fcs	8_23_12_Comp_PE.fcs	2799
+466937	Flow cytometry compensation or control	7202476	8_23_12_Comp_PE_TxR.466937.fcs	8_23_12_Comp_PE_TxR.fcs	2799
+466938	Flow cytometry compensation or control	5593924	8_23_12_Comp_PE_Cy5.466938.fcs	8_23_12_Comp_PE_Cy5.fcs	2799
+466939	Flow cytometry compensation or control	7202476	8_23_12_Comp_PE_Cy7.466939.fcs	8_23_12_Comp_PE_Cy7.fcs	2799
+466940	Flow cytometry compensation or control	7202482	8_23_12_Comp_Pacific_Blue.466940.fcs	8_23_12_Comp_Pacific_Blue.fcs	2799
+466941	Flow cytometry compensation or control	7202478	8_23_12_Comp_QDot_565.466941.fcs	8_23_12_Comp_QDot_565.fcs	2799
+466942	Flow cytometry compensation or control	7202473	8_23_12_Comp_APC.466942.fcs	8_23_12_Comp_APC.fcs	2799
+466943	Flow cytometry compensation or control	4841887	8_23_12_Comp_Alexa_700.466943.fcs	8_23_12_Comp_Alexa_700.fcs	2799
+466944	Flow cytometry compensation or control	7202477	8_23_12_Comp_APC_Cy7.466944.fcs	8_23_12_Comp_APC_Cy7.fcs	2799
+466945	Flow cytometry compensation or control	6755070	8_23_12_Comp_PE_Cy5_5.466945.fcs	8_23_12_Comp_PE_Cy5_5.fcs	2799
+466946	Flow cytometry result	30843562	8_23_12_NCHVK_95_B_panel.466946.txt	8_23_12_NCHVK_95_B_panel.txt	2799
+466947	Flow cytometry result	43052840	8_23_12_NCHVK_95_DC_panel.466947.fcs	8_23_12_NCHVK_95_DC_panel.fcs	2799
+466948	Flow cytometry result	45940363	8_23_12_NCHVK_95_DC_panel.466948.txt	8_23_12_NCHVK_95_DC_panel.txt	2799
+466949	Flow cytometry result	37724925	8_23_12_NCHVK_95_Mono_panel.466949.fcs	8_23_12_NCHVK_95_Mono_panel.fcs	2799
+466950	Flow cytometry result	40376021	8_23_12_NCHVK_95_Mono_panel.466950.txt	8_23_12_NCHVK_95_Mono_panel.txt	2799
+466951	Flow cytometry result	42220816	8_23_12_NCHVK_95_T_panel.466951.fcs	8_23_12_NCHVK_95_T_panel.fcs	2799
+466952	Flow cytometry result	44993875	8_23_12_NCHVK_95_T_panel.466952.txt	8_23_12_NCHVK_95_T_panel.txt	2799
+466953	Flow cytometry result	41205475	8_23_12_NCHVK_97_B_panel.466953.fcs	8_23_12_NCHVK_97_B_panel.fcs	2799
+466954	Flow cytometry compensation or control	12481265	8_23_12_NCHVK_97_Ctrl_panel.466954.fcs	8_23_12_NCHVK_97_Ctrl_panel.fcs	2799
+466955	Flow cytometry result	43802223	8_23_12_NCHVK_97_B_panel.466955.txt	8_23_12_NCHVK_97_B_panel.txt	2799
+466956	Flow cytometry result	42329672	8_23_12_NCHVK_97_DC_panel.466956.fcs	8_23_12_NCHVK_97_DC_panel.fcs	2799
+466957	Flow cytometry result	45729080	8_23_12_NCHVK_97_DC_panel.466957.txt	8_23_12_NCHVK_97_DC_panel.txt	2799
+466958	Flow cytometry result	44257845	8_23_12_NCHVK_97_Mono_panel.466958.fcs	8_23_12_NCHVK_97_Mono_panel.fcs	2799
+466959	Flow cytometry result	47775029	8_23_12_NCHVK_97_Mono_panel.466959.txt	8_23_12_NCHVK_97_Mono_panel.txt	2799
+466960	Flow cytometry result	42592768	8_23_12_NCHVK_97_T_panel.466960.fcs	8_23_12_NCHVK_97_T_panel.fcs	2799
+466961	Flow cytometry result	45906361	8_23_12_NCHVK_97_T_panel.466961.txt	8_23_12_NCHVK_97_T_panel.txt	2799
+466963	Flow cytometry result	29346590	8_30_12_NCHVK_105_B_panel.466963.fcs	8_30_12_NCHVK_105_B_panel.fcs	2799
+466964	Flow cytometry compensation or control	7366116	8_30_12_NCHVK_105_Ctrl_panel.466964.fcs	8_30_12_NCHVK_105_Ctrl_panel.fcs	2799
+466965	Flow cytometry compensation or control	7202471	8_30_12_Comp_Unstained.466965.fcs	8_30_12_Comp_Unstained.fcs	2799
+466966	Flow cytometry compensation or control	7202474	8_30_12_Comp_FITC.466966.fcs	8_30_12_Comp_FITC.fcs	2799
+466967	Flow cytometry compensation or control	7202472	8_30_12_Comp_PE.466967.fcs	8_30_12_Comp_PE.fcs	2799
+466968	Flow cytometry compensation or control	7202476	8_30_12_Comp_PE_TxR.466968.fcs	8_30_12_Comp_PE_TxR.fcs	2799
+466969	Flow cytometry compensation or control	7202476	8_30_12_Comp_PE_Cy5.466969.fcs	8_30_12_Comp_PE_Cy5.fcs	2799
+466970	Flow cytometry compensation or control	7202476	8_30_12_Comp_PE_Cy7.466970.fcs	8_30_12_Comp_PE_Cy7.fcs	2799
+466971	Flow cytometry compensation or control	7202482	8_30_12_Comp_Pacific_Blue.466971.fcs	8_30_12_Comp_Pacific_Blue.fcs	2799
+466972	Flow cytometry compensation or control	7202478	8_30_12_Comp_QDot_565.466972.fcs	8_30_12_Comp_QDot_565.fcs	2799
+466973	Flow cytometry compensation or control	7202473	8_30_12_Comp_APC.466973.fcs	8_30_12_Comp_APC.fcs	2799
+466974	Flow cytometry compensation or control	7202479	8_30_12_Comp_Alexa_700.466974.fcs	8_30_12_Comp_Alexa_700.fcs	2799
+466975	Flow cytometry compensation or control	7202477	8_30_12_Comp_APC_Cy7.466975.fcs	8_30_12_Comp_APC_Cy7.fcs	2799
+466976	Flow cytometry compensation or control	7202478	8_30_12_Comp_PE_Cy5_5.466976.fcs	8_30_12_Comp_PE_Cy5_5.fcs	2799
+466977	Flow cytometry result	31420912	8_30_12_NCHVK_105_B_panel.466977.txt	8_30_12_NCHVK_105_B_panel.txt	2799
+466978	Flow cytometry result	31449123	8_30_12_NCHVK_105_DC_panel.466978.fcs	8_30_12_NCHVK_105_DC_panel.fcs	2799
+466979	Flow cytometry result	33955579	8_30_12_NCHVK_105_DC_panel.466979.txt	8_30_12_NCHVK_105_DC_panel.txt	2799
+466980	Flow cytometry result	32423728	8_30_12_NCHVK_105_Mono_panel.466980.fcs	8_30_12_NCHVK_105_Mono_panel.fcs	2799
+466981	Flow cytometry result	34655413	8_30_12_NCHVK_105_Mono_panel.466981.txt	8_30_12_NCHVK_105_Mono_panel.txt	2799
+466982	Flow cytometry result	34008875	8_30_12_NCHVK_105_T_panel.466982.fcs	8_30_12_NCHVK_105_T_panel.fcs	2799
+466983	Flow cytometry result	36832107	8_30_12_NCHVK_105_T_panel.466983.txt	8_30_12_NCHVK_105_T_panel.txt	2799
+466984	Flow cytometry result	23365910	8_30_12_NCHVK_109_B_panel.466984.fcs	8_30_12_NCHVK_109_B_panel.fcs	2799
+466985	Flow cytometry compensation or control	5907468	8_30_12_NCHVK_109_Ctrl_panel.466985.fcs	8_30_12_NCHVK_109_Ctrl_panel.fcs	2799
+466986	Flow cytometry result	25077755	8_30_12_NCHVK_109_B_panel.466986.txt	8_30_12_NCHVK_109_B_panel.txt	2799
+466987	Flow cytometry result	21788667	8_30_12_NCHVK_109_DC_panel.466987.fcs	8_30_12_NCHVK_109_DC_panel.fcs	2799
+466988	Flow cytometry result	23975554	8_30_12_NCHVK_109_DC_panel.466988.txt	8_30_12_NCHVK_109_DC_panel.txt	2799
+466989	Flow cytometry result	23194408	8_30_12_NCHVK_109_Mono_panel.466989.fcs	8_30_12_NCHVK_109_Mono_panel.fcs	2799
+466990	Flow cytometry result	25113885	8_30_12_NCHVK_109_Mono_panel.466990.txt	8_30_12_NCHVK_109_Mono_panel.txt	2799
+466991	Flow cytometry result	21953771	8_30_12_NCHVK_109_T_panel.466991.fcs	8_30_12_NCHVK_109_T_panel.fcs	2799
+466992	Flow cytometry result	24098901	8_30_12_NCHVK_109_T_panel.466992.txt	8_30_12_NCHVK_109_T_panel.txt	2799
+466994	Flow cytometry result	46435800	8_29_12_NCHVK_103_B_panel.466994.fcs	8_29_12_NCHVK_103_B_panel.fcs	2799
+466995	Flow cytometry compensation or control	11972110	8_29_12_NCHVK_103_Ctrl_panel.466995.fcs	8_29_12_NCHVK_103_Ctrl_panel.fcs	2799
+466996	Flow cytometry compensation or control	7202471	8_29_12_Comp_Unstained.466996.fcs	8_29_12_Comp_Unstained.fcs	2799
+466997	Flow cytometry compensation or control	7202474	8_29_12_Comp_FITC.466997.fcs	8_29_12_Comp_FITC.fcs	2799
+466998	Flow cytometry compensation or control	7202472	8_29_12_Comp_PE.466998.fcs	8_29_12_Comp_PE.fcs	2799
+466999	Flow cytometry compensation or control	7202476	8_29_12_Comp_PE_TxR.466999.fcs	8_29_12_Comp_PE_TxR.fcs	2799
+467000	Flow cytometry compensation or control	7202476	8_29_12_Comp_PE_Cy5.467000.fcs	8_29_12_Comp_PE_Cy5.fcs	2799
+467001	Flow cytometry compensation or control	7202476	8_29_12_Comp_PE_Cy7.467001.fcs	8_29_12_Comp_PE_Cy7.fcs	2799
+467002	Flow cytometry compensation or control	7202482	8_29_12_Comp_Pacific_Blue.467002.fcs	8_29_12_Comp_Pacific_Blue.fcs	2799
+467003	Flow cytometry compensation or control	7202478	8_29_12_Comp_QDot_565.467003.fcs	8_29_12_Comp_QDot_565.fcs	2799
+467004	Flow cytometry compensation or control	7202473	8_29_12_Comp_APC.467004.fcs	8_29_12_Comp_APC.fcs	2799
+467005	Flow cytometry compensation or control	7202479	8_29_12_Comp_Alexa_700.467005.fcs	8_29_12_Comp_Alexa_700.fcs	2799
+467006	Flow cytometry compensation or control	7202477	8_29_12_Comp_APC_Cy7.467006.fcs	8_29_12_Comp_APC_Cy7.fcs	2799
+467007	Flow cytometry compensation or control	7202478	8_29_12_Comp_PE_Cy5_5.467007.fcs	8_29_12_Comp_PE_Cy5_5.fcs	2799
+467008	Flow cytometry result	50733850	8_29_12_NCHVK_103_B_panel.467008.txt	8_29_12_NCHVK_103_B_panel.txt	2799
+467009	Flow cytometry result	44604253	8_29_12_NCHVK_103_DC_panel.467009.fcs	8_29_12_NCHVK_103_DC_panel.fcs	2799
+467010	Flow cytometry result	50656141	8_29_12_NCHVK_103_DC_panel.467010.txt	8_29_12_NCHVK_103_DC_panel.txt	2799
+467011	Flow cytometry result	45580586	8_29_12_NCHVK_103_Mono_panel.467011.fcs	8_29_12_NCHVK_103_Mono_panel.fcs	2799
+467012	Flow cytometry result	50825806	8_29_12_NCHVK_103_Mono_panel.467012.txt	8_29_12_NCHVK_103_Mono_panel.txt	2799
+467013	Flow cytometry result	45706077	8_29_12_NCHVK_103_T_panel.467013.fcs	8_29_12_NCHVK_103_T_panel.fcs	2799
+467014	Flow cytometry result	50791957	8_29_12_NCHVK_103_T_panel.467014.txt	8_29_12_NCHVK_103_T_panel.txt	2799
+467015	Flow cytometry result	69296664	8_29_12_NCHVK_104_B_panel.467015.fcs	8_29_12_NCHVK_104_B_panel.fcs	2799
+467016	Flow cytometry compensation or control	15516310	8_29_12_NCHVK_104_Ctrl_panel.467016.fcs	8_29_12_NCHVK_104_Ctrl_panel.fcs	2799
+467017	Flow cytometry result	74013352	8_29_12_NCHVK_104_B_panel.467017.txt	8_29_12_NCHVK_104_B_panel.txt	2799
+467018	Flow cytometry result	66482173	8_29_12_NCHVK_104_DC_panel.467018.fcs	8_29_12_NCHVK_104_DC_panel.fcs	2799
+467019	Flow cytometry result	72162407	8_29_12_NCHVK_104_DC_panel.467019.txt	8_29_12_NCHVK_104_DC_panel.txt	2799
+467020	Flow cytometry result	65354522	8_29_12_NCHVK_104_Mono_panel.467020.fcs	8_29_12_NCHVK_104_Mono_panel.fcs	2799
+467021	Flow cytometry result	70395582	8_29_12_NCHVK_104_Mono_panel.467021.txt	8_29_12_NCHVK_104_Mono_panel.txt	2799
+467022	Flow cytometry result	58249557	8_29_12_NCHVK_104_T_panel.467022.fcs	8_29_12_NCHVK_104_T_panel.fcs	2799
+467023	Flow cytometry result	62943061	8_29_12_NCHVK_104_T_panel.467023.txt	8_29_12_NCHVK_104_T_panel.txt	2799
+467025	Flow cytometry result	66933052	8_15_12_NCHVK_95_B_panel.467025.fcs	8_15_12_NCHVK_95_B_panel.fcs	2799
+467026	Flow cytometry compensation or control	11931578	8_15_12_NCHVK_95_Ctrl_panel.467026.fcs	8_15_12_NCHVK_95_Ctrl_panel.fcs	2799
+467027	Flow cytometry compensation or control	7202471	8_15_12_Comp_Unstained.467027.fcs	8_15_12_Comp_Unstained.fcs	2799
+467028	Flow cytometry compensation or control	7202474	8_15_12_Comp_FITC.467028.fcs	8_15_12_Comp_FITC.fcs	2799
+467029	Flow cytometry compensation or control	7202472	8_15_12_Comp_PE.467029.fcs	8_15_12_Comp_PE.fcs	2799
+467030	Flow cytometry compensation or control	7202476	8_15_12_Comp_PE_TxR.467030.fcs	8_15_12_Comp_PE_TxR.fcs	2799
+467031	Flow cytometry compensation or control	7202476	8_15_12_Comp_PE_Cy5.467031.fcs	8_15_12_Comp_PE_Cy5.fcs	2799
+467032	Flow cytometry compensation or control	7202476	8_15_12_Comp_PE_Cy7.467032.fcs	8_15_12_Comp_PE_Cy7.fcs	2799
+467033	Flow cytometry compensation or control	7202482	8_15_12_Comp_Pacific_Blue.467033.fcs	8_15_12_Comp_Pacific_Blue.fcs	2799
+467034	Flow cytometry compensation or control	7202478	8_15_12_Comp_QDot_565.467034.fcs	8_15_12_Comp_QDot_565.fcs	2799
+467035	Flow cytometry compensation or control	7202473	8_15_12_Comp_APC.467035.fcs	8_15_12_Comp_APC.fcs	2799
+467036	Flow cytometry compensation or control	7202479	8_15_12_Comp_Alexa_700.467036.fcs	8_15_12_Comp_Alexa_700.fcs	2799
+467037	Flow cytometry compensation or control	7202477	8_15_12_Comp_APC_Cy7.467037.fcs	8_15_12_Comp_APC_Cy7.fcs	2799
+467038	Flow cytometry compensation or control	7202478	8_15_12_Comp_PE_Cy5_5.467038.fcs	8_15_12_Comp_PE_Cy5_5.fcs	2799
+467039	Flow cytometry result	69068376	8_15_12_NCHVK_95_B_panel.467039.txt	8_15_12_NCHVK_95_B_panel.txt	2799
+467040	Flow cytometry result	57260129	8_15_12_NCHVK_95_DC_panel.467040.fcs	8_15_12_NCHVK_95_DC_panel.fcs	2799
+467041	Flow cytometry result	59889093	8_15_12_NCHVK_95_DC_panel.467041.txt	8_15_12_NCHVK_95_DC_panel.txt	2799
+467042	Flow cytometry result	69018606	8_15_12_NCHVK_95_Mono_panel.467042.fcs	8_15_12_NCHVK_95_Mono_panel.fcs	2799
+467043	Flow cytometry result	71409302	8_15_12_NCHVK_95_Mono_panel.467043.txt	8_15_12_NCHVK_95_Mono_panel.txt	2799
+467044	Flow cytometry result	72323761	8_15_12_NCHVK_95_T_panel.467044.fcs	8_15_12_NCHVK_95_T_panel.fcs	2799
+467045	Flow cytometry result	75239693	8_15_12_NCHVK_95_T_panel.467045.txt	8_15_12_NCHVK_95_T_panel.txt	2799
+467046	Flow cytometry result	61813924	8_15_12_NCHVK_97_B_panel.467046.fcs	8_15_12_NCHVK_97_B_panel.fcs	2799
+467047	Flow cytometry compensation or control	12664178	8_15_12_NCHVK_97_Ctrl_panel.467047.fcs	8_15_12_NCHVK_97_Ctrl_panel.fcs	2799
+467048	Flow cytometry result	64683354	8_15_12_NCHVK_97_B_panel.467048.txt	8_15_12_NCHVK_97_B_panel.txt	2799
+467049	Flow cytometry result	47911649	8_15_12_NCHVK_97_DC_panel.467049.fcs	8_15_12_NCHVK_97_DC_panel.fcs	2799
+467050	Flow cytometry result	51622635	8_15_12_NCHVK_97_DC_panel.467050.txt	8_15_12_NCHVK_97_DC_panel.txt	2799
+467051	Flow cytometry result	47819358	8_15_12_NCHVK_97_Mono_panel.467051.fcs	8_15_12_NCHVK_97_Mono_panel.fcs	2799
+467052	Flow cytometry result	50967790	8_15_12_NCHVK_97_Mono_panel.467052.txt	8_15_12_NCHVK_97_Mono_panel.txt	2799
+467053	Flow cytometry result	57691345	8_15_12_NCHVK_97_T_panel.467053.fcs	8_15_12_NCHVK_97_T_panel.fcs	2799
+467054	Flow cytometry result	62032483	8_15_12_NCHVK_97_T_panel.467054.txt	8_15_12_NCHVK_97_T_panel.txt	2799
+467055	Flow cytometry result	37124467	8_16_12_NCHVK_95_B_panel.467055.fcs	8_16_12_NCHVK_95_B_panel.fcs	2799
+467056	Flow cytometry compensation or control	6815601	8_16_12_NCHVK_95_Ctrl_panel.467056.fcs	8_16_12_NCHVK_95_Ctrl_panel.fcs	2799
+467057	Flow cytometry compensation or control	7202471	8_16_12_Comp_Unstained.467057.fcs	8_16_12_Comp_Unstained.fcs	2799
+467058	Flow cytometry compensation or control	7202474	8_16_12_Comp_FITC.467058.fcs	8_16_12_Comp_FITC.fcs	2799
+467059	Flow cytometry compensation or control	7202472	8_16_12_Comp_PE.467059.fcs	8_16_12_Comp_PE.fcs	2799
+467060	Flow cytometry compensation or control	7202476	8_16_12_Comp_PE_TxR.467060.fcs	8_16_12_Comp_PE_TxR.fcs	2799
+467061	Flow cytometry compensation or control	7202476	8_16_12_Comp_PE_Cy5.467061.fcs	8_16_12_Comp_PE_Cy5.fcs	2799
+467062	Flow cytometry compensation or control	7202476	8_16_12_Comp_PE_Cy7.467062.fcs	8_16_12_Comp_PE_Cy7.fcs	2799
+467063	Flow cytometry compensation or control	7202482	8_16_12_Comp_Pacific_Blue.467063.fcs	8_16_12_Comp_Pacific_Blue.fcs	2799
+467064	Flow cytometry compensation or control	7202478	8_16_12_Comp_QDot_565.467064.fcs	8_16_12_Comp_QDot_565.fcs	2799
+467065	Flow cytometry compensation or control	7202473	8_16_12_Comp_APC.467065.fcs	8_16_12_Comp_APC.fcs	2799
+467066	Flow cytometry compensation or control	7202479	8_16_12_Comp_Alexa_700.467066.fcs	8_16_12_Comp_Alexa_700.fcs	2799
+467067	Flow cytometry compensation or control	7202477	8_16_12_Comp_APC_Cy7.467067.fcs	8_16_12_Comp_APC_Cy7.fcs	2799
+467068	Flow cytometry compensation or control	7202478	8_16_12_Comp_PE_Cy5_5.467068.fcs	8_16_12_Comp_PE_Cy5_5.fcs	2799
+467069	Flow cytometry result	38952850	8_16_12_NCHVK_95_B_panel.467069.txt	8_16_12_NCHVK_95_B_panel.txt	2799
+467070	Flow cytometry result	44265912	8_16_12_NCHVK_95_DC_panel.467070.fcs	8_16_12_NCHVK_95_DC_panel.fcs	2799
+467071	Flow cytometry result	47208478	8_16_12_NCHVK_95_DC_panel.467071.txt	8_16_12_NCHVK_95_DC_panel.txt	2799
+467072	Flow cytometry result	35661853	8_16_12_NCHVK_95_Mono_panel.467072.fcs	8_16_12_NCHVK_95_Mono_panel.fcs	2799
+467073	Flow cytometry result	38047050	8_16_12_NCHVK_95_Mono_panel.467073.txt	8_16_12_NCHVK_95_Mono_panel.txt	2799
+467074	Flow cytometry result	48951464	8_16_12_NCHVK_95_T_panel.467074.fcs	8_16_12_NCHVK_95_T_panel.fcs	2799
+467075	Flow cytometry result	52069749	8_16_12_NCHVK_95_T_panel.467075.txt	8_16_12_NCHVK_95_T_panel.txt	2799
+467076	Flow cytometry result	57945635	8_16_12_NCHVK_97_B_panel.467076.fcs	8_16_12_NCHVK_97_B_panel.fcs	2799
+467077	Flow cytometry compensation or control	11259513	8_16_12_NCHVK_97_Ctrl_panel.467077.fcs	8_16_12_NCHVK_97_Ctrl_panel.fcs	2799
+467078	Flow cytometry result	60806236	8_16_12_NCHVK_97_B_panel.467078.txt	8_16_12_NCHVK_97_B_panel.txt	2799
+467079	Flow cytometry result	49318656	8_16_12_NCHVK_97_DC_panel.467079.fcs	8_16_12_NCHVK_97_DC_panel.fcs	2799
+467080	Flow cytometry result	53062168	8_16_12_NCHVK_97_DC_panel.467080.txt	8_16_12_NCHVK_97_DC_panel.txt	2799
+467081	Flow cytometry result	48518461	8_16_12_NCHVK_97_Mono_panel.467081.fcs	8_16_12_NCHVK_97_Mono_panel.fcs	2799
+467082	Flow cytometry result	51646057	8_16_12_NCHVK_97_Mono_panel.467082.txt	8_16_12_NCHVK_97_Mono_panel.txt	2799
+467083	Flow cytometry result	53797928	8_16_12_NCHVK_97_T_panel.467083.fcs	8_16_12_NCHVK_97_T_panel.fcs	2799
+467084	Flow cytometry result	57586564	8_16_12_NCHVK_97_T_panel.467084.txt	8_16_12_NCHVK_97_T_panel.txt	2799
+467086	Flow cytometry result	68936335	8_20_12_NCHVK_90_B_panel.467086.fcs	8_20_12_NCHVK_90_B_panel.fcs	2799
+467087	Flow cytometry compensation or control	13066757	8_20_12_NCHVK_90_Ctrl_panel.467087.fcs	8_20_12_NCHVK_90_Ctrl_panel.fcs	2799
+467088	Flow cytometry compensation or control	7202471	8_20_12_Comp_Unstained.467088.fcs	8_20_12_Comp_Unstained.fcs	2799
+467089	Flow cytometry compensation or control	7202474	8_20_12_Comp_FITC.467089.fcs	8_20_12_Comp_FITC.fcs	2799
+467090	Flow cytometry compensation or control	7202472	8_20_12_Comp_PE.467090.fcs	8_20_12_Comp_PE.fcs	2799
+467091	Flow cytometry compensation or control	7202476	8_20_12_Comp_PE_TxR.467091.fcs	8_20_12_Comp_PE_TxR.fcs	2799
+467092	Flow cytometry compensation or control	7202476	8_20_12_Comp_PE_Cy5.467092.fcs	8_20_12_Comp_PE_Cy5.fcs	2799
+467093	Flow cytometry compensation or control	7202476	8_20_12_Comp_PE_Cy7.467093.fcs	8_20_12_Comp_PE_Cy7.fcs	2799
+467094	Flow cytometry compensation or control	7202482	8_20_12_Comp_Pacific_Blue.467094.fcs	8_20_12_Comp_Pacific_Blue.fcs	2799
+467095	Flow cytometry compensation or control	7202478	8_20_12_Comp_QDot_565.467095.fcs	8_20_12_Comp_QDot_565.fcs	2799
+467096	Flow cytometry compensation or control	7202473	8_20_12_Comp_APC.467096.fcs	8_20_12_Comp_APC.fcs	2799
+467097	Flow cytometry compensation or control	7202479	8_20_12_Comp_Alexa_700.467097.fcs	8_20_12_Comp_Alexa_700.fcs	2799
+467098	Flow cytometry compensation or control	7202752	8_20_12_Comp_APC_Cy7.467098.fcs	8_20_12_Comp_APC_Cy7.fcs	2799
+467099	Flow cytometry compensation or control	7202478	8_20_12_Comp_PE_Cy5_5.467099.fcs	8_20_12_Comp_PE_Cy5_5.fcs	2799
+467100	Flow cytometry result	72014194	8_20_12_NCHVK_90_B_panel.467100.txt	8_20_12_NCHVK_90_B_panel.txt	2799
+467101	Flow cytometry result	60475244	8_20_12_NCHVK_90_DC_panel.467101.fcs	8_20_12_NCHVK_90_DC_panel.fcs	2799
+467102	Flow cytometry result	63991561	8_20_12_NCHVK_90_DC_panel.467102.txt	8_20_12_NCHVK_90_DC_panel.txt	2799
+467103	Flow cytometry result	64074321	8_20_12_NCHVK_90_Mono_panel.467103.fcs	8_20_12_NCHVK_90_Mono_panel.fcs	2799
+467104	Flow cytometry result	67372247	8_20_12_NCHVK_90_Mono_panel.467104.txt	8_20_12_NCHVK_90_Mono_panel.txt	2799
+467105	Flow cytometry result	59270980	8_20_12_NCHVK_90_T_panel.467105.fcs	8_20_12_NCHVK_90_T_panel.fcs	2799
+467106	Flow cytometry result	62843686	8_20_12_NCHVK_90_T_panel.467106.txt	8_20_12_NCHVK_90_T_panel.txt	2799
+467107	Flow cytometry result	86720551	8_20_12_NCHVK_91_B_panel.467107.fcs	8_20_12_NCHVK_91_B_panel.fcs	2799
+467108	Flow cytometry compensation or control	15932645	8_20_12_NCHVK_91_Ctrl_panel.467108.fcs	8_20_12_NCHVK_91_Ctrl_panel.fcs	2799
+467109	Flow cytometry result	89567738	8_20_12_NCHVK_91_B_panel.467109.txt	8_20_12_NCHVK_91_B_panel.txt	2799
+467110	Flow cytometry result	73422356	8_20_12_NCHVK_91_DC_panel.467110.fcs	8_20_12_NCHVK_91_DC_panel.fcs	2799
+467111	Flow cytometry result	76889861	8_20_12_NCHVK_91_DC_panel.467111.txt	8_20_12_NCHVK_91_DC_panel.txt	2799
+467112	Flow cytometry result	84575097	8_20_12_NCHVK_91_Mono_panel.467112.fcs	8_20_12_NCHVK_91_Mono_panel.fcs	2799
+467113	Flow cytometry result	87728670	8_20_12_NCHVK_91_Mono_panel.467113.txt	8_20_12_NCHVK_91_Mono_panel.txt	2799
+467114	Flow cytometry result	89497876	8_20_12_NCHVK_91_T_panel.467114.fcs	8_20_12_NCHVK_91_T_panel.fcs	2799
+467115	Flow cytometry result	92935777	8_20_12_NCHVK_91_T_panel.467115.txt	8_20_12_NCHVK_91_T_panel.txt	2799
+467117	Flow cytometry result	47239902	8_28_12_NCHVK_103_B_panel.467117.fcs	8_28_12_NCHVK_103_B_panel.fcs	2799
+467118	Flow cytometry compensation or control	10118980	8_28_12_NCHVK_103_Ctrl_panel.467118.fcs	8_28_12_NCHVK_103_Ctrl_panel.fcs	2799
+467119	Flow cytometry compensation or control	7202471	8_28_12_Comp_Unstained.467119.fcs	8_28_12_Comp_Unstained.fcs	2799
+467120	Flow cytometry compensation or control	7202474	8_28_12_Comp_FITC.467120.fcs	8_28_12_Comp_FITC.fcs	2799
+467121	Flow cytometry compensation or control	7202472	8_28_12_Comp_PE.467121.fcs	8_28_12_Comp_PE.fcs	2799
+467122	Flow cytometry compensation or control	7202476	8_28_12_Comp_PE_TxR.467122.fcs	8_28_12_Comp_PE_TxR.fcs	2799
+467123	Flow cytometry compensation or control	7202476	8_28_12_Comp_PE_Cy5.467123.fcs	8_28_12_Comp_PE_Cy5.fcs	2799
+467124	Flow cytometry compensation or control	7202476	8_28_12_Comp_PE_Cy7.467124.fcs	8_28_12_Comp_PE_Cy7.fcs	2799
+467125	Flow cytometry compensation or control	7202482	8_28_12_Comp_Pacific_Blue.467125.fcs	8_28_12_Comp_Pacific_Blue.fcs	2799
+467126	Flow cytometry compensation or control	7202478	8_28_12_Comp_QDot_565.467126.fcs	8_28_12_Comp_QDot_565.fcs	2799
+467127	Flow cytometry compensation or control	7202473	8_28_12_Comp_APC.467127.fcs	8_28_12_Comp_APC.fcs	2799
+467128	Flow cytometry compensation or control	7202479	8_28_12_Comp_Alexa_700.467128.fcs	8_28_12_Comp_Alexa_700.fcs	2799
+467129	Flow cytometry compensation or control	7202477	8_28_12_Comp_APC_Cy7.467129.fcs	8_28_12_Comp_APC_Cy7.fcs	2799
+467130	Flow cytometry compensation or control	7202478	8_28_12_Comp_PE_Cy5_5.467130.fcs	8_28_12_Comp_PE_Cy5_5.fcs	2799
+467131	Flow cytometry result	49950203	8_28_12_NCHVK_103_B_panel.467131.txt	8_28_12_NCHVK_103_B_panel.txt	2799
+467132	Flow cytometry result	45220363	8_28_12_NCHVK_103_DC_panel.467132.fcs	8_28_12_NCHVK_103_DC_panel.fcs	2799
+467133	Flow cytometry result	48994275	8_28_12_NCHVK_103_DC_panel.467133.txt	8_28_12_NCHVK_103_DC_panel.txt	2799
+467134	Flow cytometry result	35457824	8_28_12_NCHVK_103_Mono_panel.467134.fcs	8_28_12_NCHVK_103_Mono_panel.fcs	2799
+467135	Flow cytometry result	37687421	8_28_12_NCHVK_103_Mono_panel.467135.txt	8_28_12_NCHVK_103_Mono_panel.txt	2799
+467136	Flow cytometry result	49141347	8_28_12_NCHVK_103_T_panel.467136.fcs	8_28_12_NCHVK_103_T_panel.fcs	2799
+467137	Flow cytometry result	52712568	8_28_12_NCHVK_103_T_panel.467137.txt	8_28_12_NCHVK_103_T_panel.txt	2799
+467138	Flow cytometry result	52057638	8_28_12_NCHVK_104_B_panel.467138.fcs	8_28_12_NCHVK_104_B_panel.fcs	2799
+467139	Flow cytometry compensation or control	11801620	8_28_12_NCHVK_104_Ctrl_panel.467139.fcs	8_28_12_NCHVK_104_Ctrl_panel.fcs	2799
+467140	Flow cytometry result	54521121	8_28_12_NCHVK_104_B_panel.467140.txt	8_28_12_NCHVK_104_B_panel.txt	2799
+467141	Flow cytometry result	47987395	8_28_12_NCHVK_104_DC_panel.467141.fcs	8_28_12_NCHVK_104_DC_panel.fcs	2799
+467142	Flow cytometry result	50896528	8_28_12_NCHVK_104_DC_panel.467142.txt	8_28_12_NCHVK_104_DC_panel.txt	2799
+467143	Flow cytometry result	53898295	8_28_12_NCHVK_104_Mono_panel.467143.fcs	8_28_12_NCHVK_104_Mono_panel.fcs	2799
+467144	Flow cytometry result	56724759	8_28_12_NCHVK_104_Mono_panel.467144.txt	8_28_12_NCHVK_104_Mono_panel.txt	2799
+467145	Flow cytometry result	53308635	8_28_12_NCHVK_104_T_panel.467145.fcs	8_28_12_NCHVK_104_T_panel.fcs	2799
+467146	Flow cytometry result	56143721	8_28_12_NCHVK_104_T_panel.467146.txt	8_28_12_NCHVK_104_T_panel.txt	2799
+467148	Flow cytometry result	62816144	38607.467148.fcs	38607.fcs	2799
+467149	Flow cytometry compensation or control	12958926	38647.467149.fcs	38647.fcs	2799
+467150	Flow cytometry compensation or control	7204244	38604.467150.fcs	38604.fcs	2799
+467151	Flow cytometry compensation or control	7202472	38886.467151.fcs	38886.fcs	2799
+467152	Flow cytometry compensation or control	7202475	38888.467152.fcs	38888.fcs	2799
+467153	Flow cytometry compensation or control	7202473	38890.467153.fcs	38890.fcs	2799
+467154	Flow cytometry compensation or control	7202477	38892.467154.fcs	38892.fcs	2799
+467155	Flow cytometry compensation or control	7202477	38894.467155.fcs	38894.fcs	2799
+467156	Flow cytometry compensation or control	7202477	38896.467156.fcs	38896.fcs	2799
+467157	Flow cytometry compensation or control	7202483	38898.467157.fcs	38898.fcs	2799
+467158	Flow cytometry compensation or control	7202479	38900.467158.fcs	38900.fcs	2799
+467159	Flow cytometry compensation or control	7202474	38902.467159.fcs	38902.fcs	2799
+467160	Flow cytometry compensation or control	7202480	38904.467160.fcs	38904.fcs	2799
+467161	Flow cytometry compensation or control	7202478	38906.467161.fcs	38906.fcs	2799
+467162	Flow cytometry compensation or control	7202479	38908.467162.fcs	38908.fcs	2799
+467163	Flow cytometry result	66899742	38607.467163.txt	38607.txt	2799
+467164	Flow cytometry result	42862280	38611.467164.fcs	38611.fcs	2799
+467165	Flow cytometry compensation or control	4902	38651.467165.fcs	38651.fcs	2799
+467166	Flow cytometry result	46343021	38611.467166.txt	38611.txt	2799
+467167	Flow cytometry result	61320130	38617.467167.fcs	38617.fcs	2799
+467168	Flow cytometry result	66206720	38617.467168.txt	38617.txt	2799
+467169	Flow cytometry result	39525802	38621.467169.fcs	38621.fcs	2799
+467170	Flow cytometry result	44002046	38621.467170.txt	38621.txt	2799
+467171	Flow cytometry result	65435573	38627.467171.fcs	38627.fcs	2799
+467172	Flow cytometry result	70601091	38627.467172.txt	38627.txt	2799
+467173	Flow cytometry result	75270917	38631.467173.fcs	38631.fcs	2799
+467174	Flow cytometry result	82427093	38631.467174.txt	38631.txt	2799
+467175	Flow cytometry result	54951213	38637.467175.fcs	38637.fcs	2799
+467176	Flow cytometry result	60046076	38637.467176.txt	38637.txt	2799
+467177	Flow cytometry result	74988957	38641.467177.fcs	38641.fcs	2799
+467178	Flow cytometry result	81664681	38641.467178.txt	38641.txt	2799
+467180	Flow cytometry result	19879291	8_14_12_NCHVK_90_B_panel.467180.fcs	8_14_12_NCHVK_90_B_panel.fcs	2799
+467181	Flow cytometry compensation or control	8215337	8_14_12_NCHVK_90_Ctrl_panel.467181.fcs	8_14_12_NCHVK_90_Ctrl_panel.fcs	2799
+467182	Flow cytometry compensation or control	7202471	8_14_12_Comp_Unstained.467182.fcs	8_14_12_Comp_Unstained.fcs	2799
+467183	Flow cytometry compensation or control	7202474	8_14_12_Comp_FITC.467183.fcs	8_14_12_Comp_FITC.fcs	2799
+467184	Flow cytometry compensation or control	7202472	8_14_12_Comp_PE.467184.fcs	8_14_12_Comp_PE.fcs	2799
+467185	Flow cytometry compensation or control	7202476	8_14_12_Comp_PE_TxR.467185.fcs	8_14_12_Comp_PE_TxR.fcs	2799
+467186	Flow cytometry compensation or control	7202476	8_14_12_Comp_PE_Cy5.467186.fcs	8_14_12_Comp_PE_Cy5.fcs	2799
+467187	Flow cytometry compensation or control	7202476	8_14_12_Comp_PE_Cy7.467187.fcs	8_14_12_Comp_PE_Cy7.fcs	2799
+467188	Flow cytometry compensation or control	7202482	8_14_12_Comp_Pacific_Blue.467188.fcs	8_14_12_Comp_Pacific_Blue.fcs	2799
+467189	Flow cytometry compensation or control	7202478	8_14_12_Comp_QDot_565.467189.fcs	8_14_12_Comp_QDot_565.fcs	2799
+467190	Flow cytometry compensation or control	3127417	8_14_12_Comp_APC.467190.fcs	8_14_12_Comp_APC.fcs	2799
+467191	Flow cytometry compensation or control	1899679	8_14_12_Comp_Alexa_700.467191.fcs	8_14_12_Comp_Alexa_700.fcs	2799
+467192	Flow cytometry compensation or control	4350989	8_14_12_Comp_APC_Cy7.467192.fcs	8_14_12_Comp_APC_Cy7.fcs	2799
+467193	Flow cytometry compensation or control	1456806	8_14_12_Comp_PE_Cy5_5.467193.fcs	8_14_12_Comp_PE_Cy5_5.fcs	2799
+467194	Flow cytometry result	22369224	8_14_12_NCHVK_90_B_panel.467194.txt	8_14_12_NCHVK_90_B_panel.txt	2799
+467195	Flow cytometry result	13877576	8_14_12_NCHVK_90_DC_panel.467195.fcs	8_14_12_NCHVK_90_DC_panel.fcs	2799
+467196	Flow cytometry result	16060154	8_14_12_NCHVK_90_DC_panel.467196.txt	8_14_12_NCHVK_90_DC_panel.txt	2799
+467197	Flow cytometry result	19813413	8_14_12_NCHVK_90_Mono_panel.467197.fcs	8_14_12_NCHVK_90_Mono_panel.fcs	2799
+467198	Flow cytometry result	22507297	8_14_12_NCHVK_90_Mono_panel.467198.txt	8_14_12_NCHVK_90_Mono_panel.txt	2799
+467199	Flow cytometry result	23810128	8_14_12_NCHVK_90_T_panel.467199.fcs	8_14_12_NCHVK_90_T_panel.fcs	2799
+467200	Flow cytometry result	26841958	8_14_12_NCHVK_90_T_panel.467200.txt	8_14_12_NCHVK_90_T_panel.txt	2799
+467201	Flow cytometry result	14334859	8_14_12_NCHVK_91_B_panel.467201.fcs	8_14_12_NCHVK_91_B_panel.fcs	2799
+467202	Flow cytometry compensation or control	8261129	8_14_12_NCHVK_91_Ctrl_panel.467202.fcs	8_14_12_NCHVK_91_Ctrl_panel.fcs	2799
+467203	Flow cytometry result	15744449	8_14_12_NCHVK_91_B_panel.467203.txt	8_14_12_NCHVK_91_B_panel.txt	2799
+467204	Flow cytometry result	12885200	8_14_12_NCHVK_91_DC_panel.467204.fcs	8_14_12_NCHVK_91_DC_panel.fcs	2799
+467205	Flow cytometry result	14418814	8_14_12_NCHVK_91_DC_panel.467205.txt	8_14_12_NCHVK_91_DC_panel.txt	2799
+467206	Flow cytometry result	20168733	8_14_12_NCHVK_91_Mono_panel.467206.fcs	8_14_12_NCHVK_91_Mono_panel.fcs	2799
+467207	Flow cytometry result	22179844	8_14_12_NCHVK_91_Mono_panel.467207.txt	8_14_12_NCHVK_91_Mono_panel.txt	2799
+467208	Flow cytometry result	19631824	8_14_12_NCHVK_91_T_panel.467208.fcs	8_14_12_NCHVK_91_T_panel.fcs	2799
+467209	Flow cytometry result	21614258	8_14_12_NCHVK_91_T_panel.467209.txt	8_14_12_NCHVK_91_T_panel.txt	2799
+467210	Flow cytometry result	11654227	8_14_12_NCHVK_93_B_panel.467210.fcs	8_14_12_NCHVK_93_B_panel.fcs	2799
+467211	Flow cytometry compensation or control	5312945	8_14_12_NCHVK_93_Ctrl_panel.467211.fcs	8_14_12_NCHVK_93_Ctrl_panel.fcs	2799
+467212	Flow cytometry result	12991131	8_14_12_NCHVK_93_B_panel.467212.txt	8_14_12_NCHVK_93_B_panel.txt	2799
+467213	Flow cytometry result	8504288	8_14_12_NCHVK_93_DC_panel.467213.fcs	8_14_12_NCHVK_93_DC_panel.fcs	2799
+467214	Flow cytometry result	9777018	8_14_12_NCHVK_93_DC_panel.467214.txt	8_14_12_NCHVK_93_DC_panel.txt	2799
+467215	Flow cytometry result	14039373	8_14_12_NCHVK_93_Mono_panel.467215.fcs	8_14_12_NCHVK_93_Mono_panel.fcs	2799
+467216	Flow cytometry result	16001965	8_14_12_NCHVK_93_Mono_panel.467216.txt	8_14_12_NCHVK_93_Mono_panel.txt	2799
+467217	Flow cytometry result	12950584	8_14_12_NCHVK_93_T_panel.467217.fcs	8_14_12_NCHVK_93_T_panel.fcs	2799
+467218	Flow cytometry result	14749154	8_14_12_NCHVK_93_T_panel.467218.txt	8_14_12_NCHVK_93_T_panel.txt	2799
+467220	Flow cytometry result	56630472	8_13_12_NCHVK_90_B_panel.467220.fcs	8_13_12_NCHVK_90_B_panel.fcs	2799
+467221	Flow cytometry compensation or control	14247862	8_13_12_NCHVK_90_Ctrl_panel.467221.fcs	8_13_12_NCHVK_90_Ctrl_panel.fcs	2799
+467222	Flow cytometry compensation or control	7202471	8_13_12_Comp_Unstained.467222.fcs	8_13_12_Comp_Unstained.fcs	2799
+467223	Flow cytometry compensation or control	7202474	8_13_12_Comp_FITC.467223.fcs	8_13_12_Comp_FITC.fcs	2799
+467224	Flow cytometry compensation or control	7202472	8_13_12_Comp_PE.467224.fcs	8_13_12_Comp_PE.fcs	2799
+467225	Flow cytometry compensation or control	7202476	8_13_12_Comp_PE_TxR.467225.fcs	8_13_12_Comp_PE_TxR.fcs	2799
+467226	Flow cytometry compensation or control	7202476	8_13_12_Comp_PE_Cy5.467226.fcs	8_13_12_Comp_PE_Cy5.fcs	2799
+467227	Flow cytometry compensation or control	7202476	8_13_12_Comp_PE_Cy7.467227.fcs	8_13_12_Comp_PE_Cy7.fcs	2799
+467228	Flow cytometry compensation or control	7202482	8_13_12_Comp_Pacific_Blue.467228.fcs	8_13_12_Comp_Pacific_Blue.fcs	2799
+467229	Flow cytometry compensation or control	7202478	8_13_12_Comp_QDot_565.467229.fcs	8_13_12_Comp_QDot_565.fcs	2799
+467230	Flow cytometry compensation or control	7202473	8_13_12_Comp_APC.467230.fcs	8_13_12_Comp_APC.fcs	2799
+467231	Flow cytometry compensation or control	7202479	8_13_12_Comp_Alexa_700.467231.fcs	8_13_12_Comp_Alexa_700.fcs	2799
+467232	Flow cytometry compensation or control	7202477	8_13_12_Comp_APC_Cy7.467232.fcs	8_13_12_Comp_APC_Cy7.fcs	2799
+467233	Flow cytometry compensation or control	7202478	8_13_12_Comp_PE_Cy5_5.467233.fcs	8_13_12_Comp_PE_Cy5_5.fcs	2799
+467234	Flow cytometry result	59766174	8_13_12_NCHVK_90_B_panel.467234.txt	8_13_12_NCHVK_90_B_panel.txt	2799
+467235	Flow cytometry result	58563877	8_13_12_NCHVK_90_DC_panel.467235.fcs	8_13_12_NCHVK_90_DC_panel.fcs	2799
+467236	Flow cytometry result	62241235	8_13_12_NCHVK_90_DC_panel.467236.txt	8_13_12_NCHVK_90_DC_panel.txt	2799
+467237	Flow cytometry result	62343674	8_13_12_NCHVK_90_Mono_panel.467237.fcs	8_13_12_NCHVK_90_Mono_panel.fcs	2799
+467238	Flow cytometry result	65900765	8_13_12_NCHVK_90_Mono_panel.467238.txt	8_13_12_NCHVK_90_Mono_panel.txt	2799
+467239	Flow cytometry result	64214517	8_13_12_NCHVK_90_T_panel.467239.fcs	8_13_12_NCHVK_90_T_panel.fcs	2799
+467240	Flow cytometry result	67858442	8_13_12_NCHVK_90_T_panel.467240.txt	8_13_12_NCHVK_90_T_panel.txt	2799
+467241	Flow cytometry result	67459488	8_13_12_NCHVK_91_B_panel.467241.fcs	8_13_12_NCHVK_91_B_panel.fcs	2799
+467242	Flow cytometry compensation or control	13351102	8_13_12_NCHVK_91_Ctrl_panel.467242.fcs	8_13_12_NCHVK_91_Ctrl_panel.fcs	2799
+467243	Flow cytometry result	69887072	8_13_12_NCHVK_91_B_panel.467243.txt	8_13_12_NCHVK_91_B_panel.txt	2799
+467244	Flow cytometry result	62337973	8_13_12_NCHVK_91_DC_panel.467244.fcs	8_13_12_NCHVK_91_DC_panel.fcs	2799
+467245	Flow cytometry result	65035855	8_13_12_NCHVK_91_DC_panel.467245.txt	8_13_12_NCHVK_91_DC_panel.txt	2799
+467246	Flow cytometry result	61631738	8_13_12_NCHVK_91_Mono_panel.467246.fcs	8_13_12_NCHVK_91_Mono_panel.fcs	2799
+467247	Flow cytometry result	64230436	8_13_12_NCHVK_91_Mono_panel.467247.txt	8_13_12_NCHVK_91_Mono_panel.txt	2799
+467248	Flow cytometry result	63620373	8_13_12_NCHVK_91_T_panel.467248.fcs	8_13_12_NCHVK_91_T_panel.fcs	2799
+467249	Flow cytometry result	66380111	8_13_12_NCHVK_91_T_panel.467249.txt	8_13_12_NCHVK_91_T_panel.txt	2799
+467250	Flow cytometry result	44141568	8_13_12_NCHVK_93_B_panel.467250.fcs	8_13_12_NCHVK_93_B_panel.fcs	2799
+467251	Flow cytometry compensation or control	9442942	8_13_12_NCHVK_93_Ctrl_panel.467251.fcs	8_13_12_NCHVK_93_Ctrl_panel.fcs	2799
+467252	Flow cytometry result	47119970	8_13_12_NCHVK_93_B_panel.467252.txt	8_13_12_NCHVK_93_B_panel.txt	2799
+467253	Flow cytometry result	39842797	8_13_12_NCHVK_93_DC_panel.467253.fcs	8_13_12_NCHVK_93_DC_panel.fcs	2799
+467254	Flow cytometry result	43072908	8_13_12_NCHVK_93_DC_panel.467254.txt	8_13_12_NCHVK_93_DC_panel.txt	2799
+467255	Flow cytometry result	41977178	8_13_12_NCHVK_93_Mono_panel.467255.fcs	8_13_12_NCHVK_93_Mono_panel.fcs	2799
+467256	Flow cytometry result	45405364	8_13_12_NCHVK_93_Mono_panel.467256.txt	8_13_12_NCHVK_93_Mono_panel.txt	2799
+467257	Flow cytometry result	42039453	8_13_12_NCHVK_93_T_panel.467257.fcs	8_13_12_NCHVK_93_T_panel.fcs	2799
+467258	Flow cytometry result	45546242	8_13_12_NCHVK_93_T_panel.467258.txt	8_13_12_NCHVK_93_T_panel.txt	2799
+467259	Flow cytometry result	20122224	8_13_12_NCHVK_94_B_panel.467259.fcs	8_13_12_NCHVK_94_B_panel.fcs	2799
+467260	Flow cytometry compensation or control	4297534	8_13_12_NCHVK_94_Ctrl_panel.467260.fcs	8_13_12_NCHVK_94_Ctrl_panel.fcs	2799
+467261	Flow cytometry result	21376040	8_13_12_NCHVK_94_B_panel.467261.txt	8_13_12_NCHVK_94_B_panel.txt	2799
+467262	Flow cytometry result	18051277	8_13_12_NCHVK_94_DC_panel.467262.fcs	8_13_12_NCHVK_94_DC_panel.fcs	2799
+467263	Flow cytometry result	19535660	8_13_12_NCHVK_94_DC_panel.467263.txt	8_13_12_NCHVK_94_DC_panel.txt	2799
+467264	Flow cytometry result	20255642	8_13_12_NCHVK_94_Mono_panel.467264.fcs	8_13_12_NCHVK_94_Mono_panel.fcs	2799
+467265	Flow cytometry result	21678138	8_13_12_NCHVK_94_Mono_panel.467265.txt	8_13_12_NCHVK_94_Mono_panel.txt	2799
+467266	Flow cytometry result	18904269	8_13_12_NCHVK_94_T_panel.467266.fcs	8_13_12_NCHVK_94_T_panel.fcs	2799
+467267	Flow cytometry result	20590905	8_13_12_NCHVK_94_T_panel.467267.txt	8_13_12_NCHVK_94_T_panel.txt	2799
+467269	Flow cytometry workspace	240826495	NCH Healthy_2011_2012_IMMP.467269.xml	NCH Healthy_2011_2012_IMMP.xml	2799
+703283	Illumina BeadArray	82793401	SDY364_EXP13682_microarray.703283.tsv	SDY364_EXP13682_microarray.tsv	2799

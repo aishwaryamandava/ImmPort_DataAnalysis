@@ -1,0 +1,11 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY312	arm or cohorts
+SDY312	demographics
+SDY312	documentation
+SDY312	inclusionExclusion
+SDY312	labtests
+SDY312	mechassays
+SDY312	publications
+SDY312	resources
+SDY312	subject
+SDY312	summary

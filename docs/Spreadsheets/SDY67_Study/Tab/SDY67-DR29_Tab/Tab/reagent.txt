@@ -1,0 +1,140 @@
+REAGENT_ACCESSION	ANALYTE_PREFERRED	ANALYTE_REPORTED	ANTIBODY_REGISTRY_ID	CATALOG_NUMBER	CLONE_NAME	CONTACT	DESCRIPTION	IS_SET	LOT_NUMBER	MANUFACTURER	NAME	REPORTER_NAME	TYPE	WEBLINK	WORKSPACE_ID
+ESR10259				11875				N		Gibco	B-reag1				2510
+ESR10260				SH30071.03				N		Hyclone	B-reag2				2510
+ESR10261				P7539				N		Sigma	B-reag3				2510
+ESR10262				25-000-CI				N		Cellgro	B-reag4				2510
+ESR10263				D4513				N		Sigma	B-reag5				2510
+ESR10264				K15035C				N		Meso	CH-reag1				2510
+ESR10265				KOAOOC-4				N		Meso	CH-reag2				2510
+ESR10268				K15010A				N		Meso	CYT-reag1				2510
+ESR10269				KOAOOC-4				N		Meso	CYT-reag2				2510
+ESR10272				SeeProtocol				N		TRUSEQ	NGS-reag1				2510
+ESR11381				C8772				N		Sigma	Receptor Destroying Enzyme				2510
+ESR11382				31985-070				N		Invitrogen	1x Opti-MEM I Reduced-Serum Medium				2510
+ESR11383				T8802				N		Sigma-Aldrich	1 mg/ml trypsin-TPCK				2510
+ESR11384				C8772				N		Sigma	Receptor Destroying Enzyme (RDE) of Vibrio cholera filtrate, Sigma cat# C8772				2510
+ESR15737	ANA807	CD24	AB_10892826	561646	ML5			N		BD	PE-Cy7 Mouse Anti-Human CD24	PE-Cy7	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=1279972&key=561646&param=search&mterms=true&from=dTable	2510
+ESR15738	ANA40	CD27	AB_1645457	558664	M-T271			N		BD	APC Mouse Anti-Human CD27	APC	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=654784&key=558664&param=search&mterms=true&from=dTable	2510
+ESR15739	ANA809	CD3	AB_396890	557832	SK7 (also known as Leu-4)			N		BD	APC-Cy7 Mouse Anti-Human CD3	APC-Cy7	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=455357&key=557832&param=search&mterms=true&from=dTable	2510
+ESR15740		CD38-BV605 Isotype Control	NA	562652	X40			N		BD	BV605 Mouse IgG1, kappa Isotype Control	BV605	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=1394032&key=562652&param=search&mterms=true&from=dTable	2510
+ESR15741		Leptin R-PE Isotype Control	AB_357249	IC0041P	133303			N		R&D Systems, Inc.	Mouse IgG2B PE-Conjugated Antibody	PE	Flow Cytometry	http://www.rndsystems.com/Products/IC0041P	2510
+ESR15742		CD24-PE-Cy7 Isotype Control	AB_394501	552868	G155-178			N		BD	PE-Cy7 Mouse IgG2a, kappa Isotype Control	PE-Cy7	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=423135&key=552868&param=search&mterms=true&from=dTable	2510
+ESR15743	ANA863	CD28	NA	562613	CD28.2			N		BD	BV421 Mouse Anti-Human CD28	BV 421	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=1499472&key=562613&param=search&mterms=true&from=dTable	2510
+ESR15744	ANA812	HLA-DR	AB_10563765	561224	G46-6			N		BD	V500 Mouse Anti-Human HLA-DR	V500	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=778847&key=561224&param=search&mterms=true&from=dTable	2510
+ESR15745	ANA163	CD25	NA	562660	2A3			N		BD	BV605 Mouse Anti-Human CD25	BV 605	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=1349330&key=562660&param=search&mterms=true&from=dTable	2510
+ESR15746	ANA822	CD45RO	AB_395883	555492	UCHL1			N		BD	FITC Mouse Anti-Human CD45RO	FITC	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=14311&key=555492&param=search&mterms=true&from=dTable	2510
+ESR15747	ANA808	CD38	NA	NA	NA			N		NA1	Tregreag-5	PE	Flow Cytometry		2510
+ESR15748	ANA34	CD194	AB_396907	557864	1G1			N		BD	PE-Cy7 Mouse Anti-Human CD194	PE-Cy7	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=537633&key=557864&param=search&mterms=true&from=dTable	2510
+ESR15749	ANA182	CD127	AB_647113	558598	HIL-7R-M21			N		BD	Alexa Fluor 647 Mouse Anti-Human CD127	AF647	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=652021&key=558598&param=search&mterms=true&from=dTable	2510
+ESR15750	ANA41	CD4	AB_396943	557922	RPA-T4			N		BD	Alexa Fluor 700 Mouse Anti-Human CD4	AF700	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=546394&key=557922&param=search&mterms=true&from=dTable	2510
+ESR15751	ANA809	CD3	AB_396890	557832	SK7 (also known as Leu-4)			N		BD	APC-Cy7 Mouse Anti-Human CD3	APC-Cy7	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=455357&key=557832&param=search&mterms=true&from=dTable	2510
+ESR15752		HLA-DR-V500 Isotype Control	AB_10566127	561221	G155-178			N		BD	V500 Mouse IgG2A, kappa Isotype Control	V500	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=778840&key=561221&param=search&mterms=true&from=dTable	2510
+ESR15753		CD25-BV605 Isotype Control	NA	562652	X40			N		BD	BV605 Mouse IgG1, kappa Isotype Control	BV605	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=1394032&key=562652&param=search&mterms=true&from=dTable	2510
+ESR15754		CD194-PE-Cy7 Isotype Control	AB_396914	557872	MOPC-21			N		BD	PE-Cy7 Mouse IgG1 kappa Isotype Control	PE-Cy7	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=455398&key=557872&param=search&mterms=true&from=dTable	2510
+ESR15755		CD127-AF647 Isotype Control	AB_396823	557714	MOPC-21			N		BD	Alexa Fluor 647 Mouse IgG1 kappa Isotype Control	AF647	Flow Cytometry	http://www.bdbiosciences.com/ptProduct.jsp?prodId=461361&key=557714&param=search&mterms=true&from=dTable	2510
+ESR15756				SH30256.02			Used as a component of flow buffer and 4% PFA	N		Hyclone	1X Phosphate Buffered Saline (PBS)		Other		2510
+ESR15757				SH30071.03			Used as a component of flow buffer and RPMI thawing media	N		Hyclone	Fetal Bovine Serum, Characterized (heat inactivated)		Other		2510
+ESR15758				S8032			Used as a component of flow buffer	N		Sigma-Aldrich	Sodium Azide		Other	http://www.sigmaaldrich.com/catalog/product/sial/s8032?lang=en&region=US&cm_sp=abstract-_-15877444-_-S8032	2510
+ESR15759				N/A			1X PBS, 2% fetal bovine serum, 0.01% sodium azide	N		N/A	Flow Buffer		Other		2510
+ESR15760				P6148			Used to make 4% PFA	N		Sigma-Aldrich	Paraformadlehyde (PFA)		Other	http://www.sigmaaldrich.com/catalog/product/sial/p6148?lang=en&region=US	2510
+ESR15761				S5881			Used to make 4% PFA	N		Sigma-Aldrich	Sodium hydroxide		Other		2510
+ESR15762				N/A			980 mL PBS, 40g PFA, 10ul 10N NaOH	N		N/A	4% Paraformaldehyde (PFA)		Other	http://www.sigmaaldrich.com/catalog/product/sial/s5881?lang=en&region=US	2510
+ESR15763				11875-085			Used alone and as a component of RPMI thawing media	N		Gibco	RPMI Media with L-Glutamine		Other	https://www.lifetechnologies.com/order/catalog/product/11875085?ICID=search-product	2510
+ESR15764				P7539			Used as a component of RPMI thawing media	N		Sigma-Aldrich	Penicillin-Streptomycin Solution Hybri-Max		Other	http://www.sigmaaldrich.com/catalog/product/sigma/p7539?lang=en&region=US	2510
+ESR15765				25-000-Cl			Used as a component of RPMI thawing media	N		Corning-Cellgro	Sodium Pyruvate		Other	http://cellgro.com/sodium-pyruvate-liquid.html	2510
+ESR15766				D4513			Used as a component of RPMI thawing media	N		Sigma-Aldrich	DNase		Other	http://www.sigmaaldrich.com/catalog/product/sigma/d4513?lang=en&region=US	2510
+ESR15767				N/A			439.6ml RPMI + L-glutamine, 50ml FBS, 5ml penicillin-streptomycin, 5ml sodium pyruvate, 0.5ml Dnase	N		N/A	RPMI Thawing Media		Other		2510
+ESR15768				25-900-Cl				N		Corning-Cellgro	Trypan Blue		Other	http://cellgro.com/trypan-blue-solution.html	2510
+ESR15769				554722			Fixation and permeabilization solution	N		BD	BD Cytofix/Cytoperm		Other	http://www.bdbiosciences.com/ptProduct.jsp?prodId=109379&key=554722&param=search&mterms=true&from=dTable	2510
+ESR15770				554723			Cytoperm wash buffer	N		BD	Perm/Wash Buffer		Other	http://www.bdbiosciences.com/external_files/pm/doc/tds/brm/live/web_enabled/2091KZ_554723.pdf	2510
+ESR15771				563794				N		BD	Brilliant Stain Buffer		Other	http://www.bdbiosciences.com/ptProduct.jsp?prodId=1563017&key=563794&param=search&mterms=true&from=dTable	2510
+ESR15772				555029				N		BD	Protein Transport Inhibitor (Containing Brefeldin A) (BFA)		Other	http://www.bdbiosciences.com/external_files/pm/doc/tds/brm/live/web_enabled/2301KZ_555029.pdf	2510
+ESR15773				554724				N		BD	Protein Transport Inhibitor (Containing Monensin) (MON)		Other	http://www.bdbiosciences.com/external_files/pm/doc/tds/brm/live/web_enabled/2092KZ_554724.pdf	2510
+ESR15774				550583			We refer  to this as PMA (Phorbol 12-Myristate 13-Acetate)	N		BD	Leukocyte Activation Cocktail, with BD GolgiPlug		Other	http://www.bdbiosciences.com/external_files/pm/doc/tds/brm/live/web_enabled/23901Z_550583.pdf	2510
+ESR15775				T1426				N		Sigma-Aldrich	Trypsin from Bovine Pancreas (Trypsin-TPCK)		Other	http://www.sigmaaldrich.com/catalog/product/sigma/t1426?lang=en&region=US	2510
+ESR15776				SH30256.02			Used as a component of flow buffer and 4% PFA	N		Hyclone	1X Phosphate Buffered Saline (PBS)		Other		2510
+ESR15777				SH30071.03			Used as a component of flow buffer and RPMI thawing media	N		Hyclone	Fetal Bovine Serum, Characterized (heat inactivated)		Other		2510
+ESR15778				S8032			Used as a component of flow buffer	N		Sigma-Aldrich	Sodium Azide		Other	http://www.sigmaaldrich.com/catalog/product/sial/s8032?lang=en&region=US&cm_sp=abstract-_-15877444-_-S8032	2510
+ESR15779				N/A			1X PBS, 2% fetal bovine serum, 0.01% sodium azide	N		N/A	Flow Buffer		Other		2510
+ESR15780				P6148			Used to make 4% PFA	N		Sigma-Aldrich	Paraformadlehyde (PFA)		Other	http://www.sigmaaldrich.com/catalog/product/sial/p6148?lang=en&region=US	2510
+ESR15781				S5881			Used to make 4% PFA	N		Sigma-Aldrich	Sodium hydroxide		Other		2510
+ESR15782				N/A			980 mL PBS, 40g PFA, 10ul 10N NaOH	N		N/A	4% Paraformaldehyde (PFA)		Other	http://www.sigmaaldrich.com/catalog/product/sial/s5881?lang=en&region=US	2510
+ESR15783				11875-085			Used alone and as a component of RPMI thawing media	N		Gibco	RPMI Media with L-Glutamine		Other	https://www.lifetechnologies.com/order/catalog/product/11875085?ICID=search-product	2510
+ESR15784				P7539			Used as a component of RPMI thawing media	N		Sigma-Aldrich	Penicillin-Streptomycin Solution Hybri-Max		Other	http://www.sigmaaldrich.com/catalog/product/sigma/p7539?lang=en&region=US	2510
+ESR15785				25-000-Cl			Used as a component of RPMI thawing media	N		Corning-Cellgro	Sodium Pyruvate		Other	http://cellgro.com/sodium-pyruvate-liquid.html	2510
+ESR15786				D4513			Used as a component of RPMI thawing media	N		Sigma-Aldrich	DNase		Other	http://www.sigmaaldrich.com/catalog/product/sigma/d4513?lang=en&region=US	2510
+ESR15787				N/A			439.6ml RPMI + L-glutamine, 50ml FBS, 5ml penicillin-streptomycin, 5ml sodium pyruvate, 0.5ml Dnase	N		N/A	RPMI Thawing Media		Other		2510
+ESR15788				25-900-Cl				N		Corning-Cellgro	Trypan Blue		Other	http://cellgro.com/trypan-blue-solution.html	2510
+ESR15789							B-Cell reagent set	Y			B-Cell reagent set		Flow Cytometry		2510
+ESR15790							T regulation reagent set	Y			T regulation reagent set		Flow Cytometry		2510
+ESR15791							Innate reagent set	Y			Innate reagent set		Other		2510
+ESR15792							T-Cell reagent set	Y			T-Cell reagent set		Other		2510
+ESR15861				See attached protocol				N		Illumina	Normal processing per illumina		Other		2510
+ESR17237				NA			Lysis buffer ingredient	N		NA	0.1% SDS		Other		2510
+ESR17238				NA			for benzonase activity	N		NA	100mM MgCl2 in 50mM Tris, pH 8.5		Other		2510
+ESR17239				GB-450			Lysis buffer ingredient	N		Gold Biotechnology	Simple Stop 1 100x phosphatase inhibitor cocktail		Other		2510
+ESR17240				NA			Lysis buffer ingredient	N		Gold Biotechnology	Simple Stop 4 100x phosphatase inhibitor cocktail		Other		2510
+ESR17241				NA				N		NA	Benzonase nuclease 25units/ul		Other		2510
+ESR17242				NA			Ingredient in lysis buffer and DTT and IAA solutions	N		NA	50mM Tris, pH 8.5		Other		2510
+ESR17243				NA			1.8 ml 0.1% SDS/50mM Tris pH 8.5, 18 ul Simple Stop 1 100x phosphatase inhibitor cocktail, 18 ul Simple Stop 4 100x phosphatase inhibitor cocktail, 9ul 100mM MgCl2, 3 ul Benzonase	N		NA	Lysis buffer		Other		2510
+ESR17244				NA				N		NA	1M DTT		Other		2510
+ESR17245				NA			Working solution: 175mM	N		NA	1M DTT in 50mM Tris, pH 8.5		Other		2510
+ESR17246				NA				N		NA	IAA (iodoacetamide)		Other		2510
+ESR17247				NA				N		NA	250mM IAA in 50mM Tris, pH 8.5		Other		2510
+ESR17248				NA				N		NA	Trypsin		Other		2510
+ESR17249				NA				N		NA	0.5ml Pierce detergent removal columns		Other		2510
+ESR17250				NA			backing buffer	N		NA	Desalt A		Other		2510
+ESR17251				NA			Ingredient for both elution solvents and for fractionation column	N		NA	Acetonitrile		Other		2510
+ESR17252				NA			Ingredient for elution solvent #1	N		NA	Isopropyl alcohol		Other		2510
+ESR17253				NA			Ingredient for elution solvents, cleaning solution for SAX tips, and for reconstitution buffer	N		NA	Formic Acid		Other		2510
+ESR17254				NA			60% acetonitrile, 40% water, 0.2% formic acid	N		NA	Elution solvent #1		Other		2510
+ESR17255				NA			50% acetonitrile, 30% isopropyl alcohol, 20% water, 0.2% formic acid	N		NA	Elution solvent #2		Other		2510
+ESR17256				NA				N		Column Technology, Inc.	Volatile buffer kit		Other		2510
+ESR17257				TT2PSA				N		Glygen, Inc.	POROS strong anion exchanger		Other		2510
+ESR17258				NA			Used for cleaning solution for SAX tips and as an ingredient in reconstition buffer	N		NA	Trifluoroacetic acid (TFA)		Other		2510
+ESR17259				NA			0.1% TFA/0.2% formic acid (pH ~2.5)	N		NA	SAX tip cleaning solution		Other		2510
+ESR17260				NA			Used for equilibration solution for SAX tips	N		NA	di-isopropyldiethylamine (DIEA)		Other		2510
+ESR17261				NA			0.1% DIEA in 95% water, 5% ACN, 5% IPA	N		NA	Equilibration solution for SAX tips		Other		2510
+ESR17262				NA				N		NA	Methanol		Other		2510
+ESR17263				NA			Used for fractionation columns	N		Column Technology	pH 8.0 buffer		Other		2510
+ESR17264				NA			Used for fractionation columns	N		Column Technology	pH 7.0 buffer		Other		2510
+ESR17265				NA			Used for fractionation columns	N		Column Technology	pH 6.0 buffer		Other		2510
+ESR17266				NA			Used for fractionation columns	N		Column Technology	pH 2.5 buffer		Other		2510
+ESR17267				NA			Used for fractionation columns	N		NA	0.1% N-ethyl-morpholine		Other		2510
+ESR17268				NA			Used for fractionation columns and as an ingredient in the reconstitution buffer	N		CalBiochem	0.1% Zwittergent 3-16		Other		2510
+ESR17269				NA			Used for reconstituting samples before LC-MS/MS analysis (0.2% formic acid, 0.1% TFA, 0.002% Zwittergent 3-16)	N		NA	Reconstituation buffer		Other		2510
+ESR17326				NA			This file is a normalized data set, see original submission and illumina protocol for exp. Methods	N		NA	NA		Other		2510
+ESR17737				217004			miRNA purification kit	N		Qiagen	miRNeasy Mini Kit		Other		2510
+ESR17738				74204			miRNA cleanup kit	N		Qiagen	Rneasy MinElute Cleanup Kit		Other		2510
+ESR17739				11875-093			Used in thawing medium	N		Gibco	RPMI medium		Other		2510
+ESR17740				SH30071-03			Used in thawing medium and in flow buffer	N		Hyclone	Fetal bovine serum (FBS)		Other		2510
+ESR17741				P7539			Used in thawing medium	N		Sigma	Penicillin-Streptomycin		Other		2510
+ESR17742				25-000-Cl			Used in thawing medium	N		Corning	Sodium Pyruvate		Other		2510
+ESR17743				D4513			Used in thawing medium	N		Sigma	Dnase		Other		2510
+ESR17744				SH30256.02			Used to wash cells and in flow buffer	N		Hyclone	1X phosphate buffered saline (PBS)		Other		2510
+ESR17745				563794			Used in antibody cocktails	N		BD	Brilliant Dye Staining Solution		Other		2510
+ESR17746				562440			Antibody	N		BD	CD19 Brilliant Violet 421		Other		2510
+ESR17747				562970			Antibody	N		BD	CD4 Brilliant Violet 510		Other		2510
+ESR17748				557696			Antibody	N		BD	CD8 Alexa Fluor 488		Other		2510
+ESR17749				555333			Antibody	N		BD	CD3 PE		Other		2510
+ESR17750				557711			Antibody	N		BD	CD56 Alexa Fluor 647		Other		2510
+ESR17751				557758			Antibody	N		BD	CD16 APC-Cy7		Other		2510
+ESR17752				E7300L			Used to prepare small RNA libraries	N		New England BioLabs, Inc.	NEBNext? Multiplex Small RNA Library Prep Set for Illumina?		Other		2510
+ESR17753				28006			Use to purify extracted miRNA after fractioning small RNA libraries	N		Qiagen	MinElute PCR Purification Kit		Other		2510
+ESR17771				11875-093			Used for thawing and culture media	N		Gibco	RPMI Medium		Other		2510
+ESR17772				D4513			Used in thawing media	N		Sigma	Dnase		Other		2510
+ESR17773				SH30071.03			Used in thawing media and culture media	N		Hyclone	FBS		Other		2510
+ESR17774				SH30256.02				N		Hyclone	1X phosphate buffered solution (PBS)		Other		2510
+ESR17775				L1668-5MG			Used for positive controls	N		Sigma	Polyhydroxyalkanoate (PHA)		Other		2510
+ESR17776				N/A			used to stimulate cells	N		N/A	Influenza A virus (H1N1 A/California/2009/179A)		Other		2510
+ESR17777				K15049D-1			Kit for cytokine detection	N		Meso Scale Discovery	V-PLEX Proinflammatory Panel 1 (human) Kit		Other	https://www.mesoscale.com/en/products/k15049d-1/	2510
+ESR8956		TREC1		None			See Protocol for information	N		None	TREC1				2510
+ESR9036				11875			See Protocol for information	N		Gibco	Glutamine				2510
+ESR9037				SH30071.03				N		Hyclone	FCS				2510
+ESR9038				P539				N		Sigma	Penicillin-Strptomycin				2510
+ESR9039				25-00-Cl				N		Cellgro	Sodium Pyruvate				2510
+ESR9040				D4513				N		Sigma	DNAse				2510
+ESR9041				L9132				N		Sigma	PHA				2510
+ESR9042				410-768-34420				N		Moss	TMB-H				2510
+ESR9302		TERT1		HS0097265ml				N		ABI	MCF-7/Tert				2510
+ESR9303		TERT2		HS99999999ml				N		ABI	MCF-7/GAPDH				2510

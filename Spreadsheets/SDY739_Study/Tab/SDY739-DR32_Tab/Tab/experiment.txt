@@ -1,0 +1,6 @@
+EXPERIMENT_ACCESSION	DESCRIPTION	MEASUREMENT_TECHNIQUE	NAME	STUDY_ACCESSION	WORKSPACE_ID
+EXP14706		Virus Neutralization	Neutralizing antibodies	SDY739	2634
+EXP14705		ELISA	Antibody_isotypes	SDY739	2634
+EXP14782		Flow Cytometry	FCM for ASCs	SDY739	2634
+EXP14698		Flow Cytometry	T cell response to Influenza vaccination in aged populations - Vac2014	SDY739	2634
+EXP14794		Transcription profiling by array	Illumina Gene Expression Array 2014	SDY739	2634

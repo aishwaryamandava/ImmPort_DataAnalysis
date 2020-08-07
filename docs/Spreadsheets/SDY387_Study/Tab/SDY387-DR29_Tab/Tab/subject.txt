@@ -1,0 +1,23 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB135878	Other		Other	Female	White		Homo sapiens			2799
+SUB135867	Other		Other	Female	Asian		Homo sapiens			2799
+SUB135876	Other		Other	Female	White		Homo sapiens			2799
+SUB135880	Other		Other	Female	Asian		Homo sapiens			2799
+SUB135883	Other		Other	Male	White		Homo sapiens			2799
+SUB135868	Other		Other	Male	White		Homo sapiens			2799
+SUB135875	Other		Other	Male	White		Homo sapiens			2799
+SUB135879	Other		Other	Female	White		Homo sapiens			2799
+SUB135864	Other		Other	Male	White		Homo sapiens			2799
+SUB135869	Other		Other	Male	White		Homo sapiens			2799
+SUB135871	Other		Other	Male	White		Homo sapiens			2799
+SUB135870	Other		Other	Male	White		Homo sapiens			2799
+SUB135873	Other		Other	Male	White		Homo sapiens			2799
+SUB135884	Other		Other	Female	White		Homo sapiens			2799
+SUB135872	Other		Other	Male	White		Homo sapiens			2799
+SUB135874	Other		Other	Female	White		Homo sapiens			2799
+SUB135882	Other		Other	Male	Black or African American		Homo sapiens			2799
+SUB135885	Other		Other	Female	White		Homo sapiens			2799
+SUB135865	Other		Other	Female	White		Homo sapiens			2799
+SUB135866	Other		Other	Male	White		Homo sapiens			2799
+SUB135877	Other		Other	Female	White		Homo sapiens			2799
+SUB135881	Other		Other	Male	White		Homo sapiens			2799

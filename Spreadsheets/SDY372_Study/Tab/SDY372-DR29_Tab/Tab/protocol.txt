@@ -1,0 +1,6 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL6815		Flow Cytometry.PTL6815.docx	JDM_2012_FLOW	Flow Cytometry.docx	Not Specified	2799
+PTL6816		Hemagglutination Inhibition Assay and Virus Neutralization Assay.PTL6816.doc	JDM_2012_HAI	Hemagglutination Inhibition Assay and Virus Neutralization Assay.doc	Not Specified	2799
+PTL6817		Microarray.PTL6817.docx	JDM_2012_Microarray	Microarray.docx	Not Specified	2799
+PTL6818		Hemagglutination Inhibition Assay and Virus Neutralization Assay.PTL6818.doc	JDM_2012_VN	Hemagglutination Inhibition Assay and Virus Neutralization Assay.doc	Not Specified	2799
+PTL6819		JDM_Study_Design.PTL6819.docx	JDM Study Design	JDM_Study_Design.docx	Not Specified	2799

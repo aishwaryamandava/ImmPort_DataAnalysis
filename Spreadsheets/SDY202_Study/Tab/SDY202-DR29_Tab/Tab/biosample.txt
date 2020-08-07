@@ -1,0 +1,504 @@
+BIOSAMPLE_ACCESSION	DESCRIPTION	NAME	PLANNED_VISIT_ACCESSION	STUDY_ACCESSION	STUDY_TIME_COLLECTED	STUDY_TIME_COLLECTED_UNIT	STUDY_TIME_T0_EVENT	STUDY_TIME_T0_EVENT_SPECIFY	SUBJECT_ACCESSION	SUBTYPE	TYPE	WORKSPACE_ID
+BS741191			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120331		Serum	2883
+BS741165			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142479		Serum	2883
+BS741193			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120334		Serum	2883
+BS741199			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120340		Serum	2883
+BS741202			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120343		Serum	2883
+BS741171			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142481		Serum	2883
+BS741212			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120353		Serum	2883
+BS741129			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142467		Serum	2883
+BS741130			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142468		Serum	2883
+BS741137			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142470		Serum	2883
+BS741215			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120356		Serum	2883
+BS741225			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120366		Serum	2883
+BS741145			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142473		Serum	2883
+BS741167			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142480		Serum	2883
+BS741168			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142480		Serum	2883
+BS741182			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120322		Serum	2883
+BS721555			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120356	B cells	B cell	2883
+BS721566			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120367	B cells	B cell	2883
+BS721571			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120372	B cells	B cell	2883
+BS721526			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120327	B cells	B cell	2883
+BS721527			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120328	B cells	B cell	2883
+BS741231			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120372		Serum	2883
+BS736791			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120340		Whole blood	2883
+BS736808			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120348		Whole blood	2883
+BS736820			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120354		Whole blood	2883
+BS736845			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120367		Whole blood	2883
+BS736846			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120367		Whole blood	2883
+BS736850			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120369		Whole blood	2883
+BS736862			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120375		Whole blood	2883
+BS736863			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120376		Whole blood	2883
+BS750341			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120323		PBMC	2883
+BS750343			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120325		PBMC	2883
+BS750356			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120348		PBMC	2883
+BS750363			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120355		PBMC	2883
+BS750379			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120372		PBMC	2883
+BS750381			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120374		PBMC	2883
+BS750385			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120378		PBMC	2883
+BS750392			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142471		PBMC	2883
+BS750393			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142472		PBMC	2883
+BS750408			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120340		PBMC	2883
+BS750411			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120343		PBMC	2883
+BS750416			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB143424		PBMC	2883
+BS750334			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142484		PBMC	2883
+BS750305			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120366		PBMC	2883
+BS750306			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120367		PBMC	2883
+BS750311			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120372		PBMC	2883
+BS750316			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120377		PBMC	2883
+BS750323			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142473		PBMC	2883
+BS750324			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142474		PBMC	2883
+BS750263			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120323		PBMC	2883
+BS680736			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120373		Other	2883
+BS680689			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120324		Other	2883
+BS680695			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120330		Other	2883
+BS680714			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120351		Other	2883
+BS680717			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120354		Other	2883
+BS741164			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142479		Serum	2883
+BS741200			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120341		Serum	2883
+BS741205			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120346		Serum	2883
+BS741121			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142465		Serum	2883
+BS741139			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142471		Serum	2883
+BS741223			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120364		Serum	2883
+BS741224			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120365		Serum	2883
+BS741227			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120368		Serum	2883
+BS741149			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142474		Serum	2883
+BS741187			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120327		Serum	2883
+BS741151			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142475		Serum	2883
+BS741159			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142477		Serum	2883
+BS741180			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142484		Serum	2883
+BS721549			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120350	B cells	B cell	2883
+BS721520			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120321	B cells	B cell	2883
+BS721522			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120323	B cells	B cell	2883
+BS721528			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120329	B cells	B cell	2883
+BS721529			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120330	B cells	B cell	2883
+BS721532			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120333	B cells	B cell	2883
+BS721536			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120337	B cells	B cell	2883
+BS721537			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120338	B cells	B cell	2883
+BS721541			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120342	B cells	B cell	2883
+BS721544			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120345	B cells	B cell	2883
+BS736756			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120322		Whole blood	2883
+BS736760			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120324		Whole blood	2883
+BS736773			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120331		Whole blood	2883
+BS736775			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120332		Whole blood	2883
+BS736788			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120338		Whole blood	2883
+BS736792			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120340		Whole blood	2883
+BS736797			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120343		Whole blood	2883
+BS736802			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120345		Whole blood	2883
+BS736811			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120350		Whole blood	2883
+BS736817			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120353		Whole blood	2883
+BS736818			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120353		Whole blood	2883
+BS736828			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120358		Whole blood	2883
+BS736831			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120360		Whole blood	2883
+BS736832			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120360		Whole blood	2883
+BS736834			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120361		Whole blood	2883
+BS736844			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120366		Whole blood	2883
+BS736853			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120371		Whole blood	2883
+BS750339			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120321		PBMC	2883
+BS750352			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120334		PBMC	2883
+BS750361			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120353		PBMC	2883
+BS750370			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120363		PBMC	2883
+BS750374			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120367		PBMC	2883
+BS750377			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120370		PBMC	2883
+BS750405			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142484		PBMC	2883
+BS750410			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120342		PBMC	2883
+BS750331			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142481		PBMC	2883
+BS750338			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB143424		PBMC	2883
+BS750321			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142471		PBMC	2883
+BS750326			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142476		PBMC	2883
+BS750268			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120328		PBMC	2883
+BS750283			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120343		PBMC	2883
+BS680729			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120366		Other	2883
+BS680730			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120367		Other	2883
+BS680686			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120321		Other	2883
+BS680697			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120333		Other	2883
+BS680699			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120335		Other	2883
+BS680702			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120338		Other	2883
+BS680704			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120340		Other	2883
+BS680711			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120348		Other	2883
+BS741161			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142478		Serum	2883
+BS741195			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120336		Serum	2883
+BS741173			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142482		Serum	2883
+BS741176			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142483		Serum	2883
+BS741207			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120348		Serum	2883
+BS741126			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142466		Serum	2883
+BS741134			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142469		Serum	2883
+BS741140			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142471		Serum	2883
+BS741144			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142472		Serum	2883
+BS741189			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120329		Serum	2883
+BS741169			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142481		Serum	2883
+BS721553			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120354	B cells	B cell	2883
+BS721569			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120370	B cells	B cell	2883
+BS721576			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120377	B cells	B cell	2883
+BS721523			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120324	B cells	B cell	2883
+BS721538			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120339	B cells	B cell	2883
+BS741229			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120370		Serum	2883
+BS736759			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120324		Whole blood	2883
+BS736767			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120328		Whole blood	2883
+BS736768			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120328		Whole blood	2883
+BS736769			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120329		Whole blood	2883
+BS736772			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120330		Whole blood	2883
+BS736780			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120334		Whole blood	2883
+BS736783			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120336		Whole blood	2883
+BS736786			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120337		Whole blood	2883
+BS736789			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120339		Whole blood	2883
+BS736799			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120344		Whole blood	2883
+BS736804			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120346		Whole blood	2883
+BS736814			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120351		Whole blood	2883
+BS736822			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120355		Whole blood	2883
+BS736825			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120357		Whole blood	2883
+BS736836			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120362		Whole blood	2883
+BS736867			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120378		Whole blood	2883
+BS750342			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120324		PBMC	2883
+BS750351			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120333		PBMC	2883
+BS750360			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120352		PBMC	2883
+BS750368			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120361		PBMC	2883
+BS750375			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120368		PBMC	2883
+BS750380			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120373		PBMC	2883
+BS750383			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120376		PBMC	2883
+BS750396			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142475		PBMC	2883
+BS750398			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142477		PBMC	2883
+BS750406			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120338		PBMC	2883
+BS750413			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120345		PBMC	2883
+BS750329			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142479		PBMC	2883
+BS750330			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142480		PBMC	2883
+BS750337			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142467		PBMC	2883
+BS750298			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120358		PBMC	2883
+BS750303			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120364		PBMC	2883
+BS750266			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120326		PBMC	2883
+BS750269			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120329		PBMC	2883
+BS750270			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120330		PBMC	2883
+BS750274			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120334		PBMC	2883
+BS750278			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120338		PBMC	2883
+BS750282			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120342		PBMC	2883
+BS750284			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120344		PBMC	2883
+BS750288			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120348		PBMC	2883
+BS750294			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120354		PBMC	2883
+BS680708			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120345		Other	2883
+BS741160			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142478		Serum	2883
+BS741162			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142478		Serum	2883
+BS741194			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120335		Serum	2883
+BS741197			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120338		Serum	2883
+BS741175			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142483		Serum	2883
+BS741210			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120351		Serum	2883
+BS741213			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120354		Serum	2883
+BS741125			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142466		Serum	2883
+BS741132			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142468		Serum	2883
+BS741135			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142469		Serum	2883
+BS741214			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120355		Serum	2883
+BS741220			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120361		Serum	2883
+BS741143			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142472		Serum	2883
+BS741146			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142473		Serum	2883
+BS741147			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142473		Serum	2883
+BS741190			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120330		Serum	2883
+BS741155			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142476		Serum	2883
+BS741158			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142477		Serum	2883
+BS741177			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142483		Serum	2883
+BS721551			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120352	B cells	B cell	2883
+BS721558			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120359	B cells	B cell	2883
+BS721565			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120366	B cells	B cell	2883
+BS721570			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120371	B cells	B cell	2883
+BS721572			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120373	B cells	B cell	2883
+BS721577			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120378	B cells	B cell	2883
+BS721524			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120325	B cells	B cell	2883
+BS721540			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120341	B cells	B cell	2883
+BS741234			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120375		Serum	2883
+BS741236			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120377		Serum	2883
+BS736868			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120378		Whole blood	2883
+BS736757			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120323		Whole blood	2883
+BS736766			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120327		Whole blood	2883
+BS736774			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120331		Whole blood	2883
+BS736801			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120345		Whole blood	2883
+BS736809			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120349		Whole blood	2883
+BS736819			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120354		Whole blood	2883
+BS736826			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120357		Whole blood	2883
+BS736830			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120359		Whole blood	2883
+BS736833			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120361		Whole blood	2883
+BS736835			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120362		Whole blood	2883
+BS736837			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120363		Whole blood	2883
+BS736843			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120366		Whole blood	2883
+BS736848			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120368		Whole blood	2883
+BS736856			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120372		Whole blood	2883
+BS736858			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120373		Whole blood	2883
+BS736859			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120374		Whole blood	2883
+BS736860			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120374		Whole blood	2883
+BS736864			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120376		Whole blood	2883
+BS736865			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120377		Whole blood	2883
+BS750347			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120329		PBMC	2883
+BS750349			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120331		PBMC	2883
+BS750350			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120332		PBMC	2883
+BS750353			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120335		PBMC	2883
+BS750376			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120369		PBMC	2883
+BS750394			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142473		PBMC	2883
+BS750409			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120341		PBMC	2883
+BS750412			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120344		PBMC	2883
+BS750332			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142482		PBMC	2883
+BS750300			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120361		PBMC	2883
+BS750304			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120365		PBMC	2883
+BS750307			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120368		PBMC	2883
+BS750313			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120374		PBMC	2883
+BS750322			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142472		PBMC	2883
+BS750267			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120327		PBMC	2883
+BS750272			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120332		PBMC	2883
+BS750276			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120336		PBMC	2883
+BS750287			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120347		PBMC	2883
+BS750289			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120349		PBMC	2883
+BS750293			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120353		PBMC	2883
+BS680727			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120364		Other	2883
+BS680728			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120365		Other	2883
+BS680731			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120368		Other	2883
+BS680732			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120369		Other	2883
+BS680735			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120372		Other	2883
+BS680737			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120374		Other	2883
+BS680739			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120376		Other	2883
+BS680740			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120377		Other	2883
+BS680741			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120378		Other	2883
+BS680690			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120325		Other	2883
+BS680696			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120331		Other	2883
+BS680701			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120337		Other	2883
+BS680703			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120339		Other	2883
+BS680716			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120353		Other	2883
+BS680720			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120357		Other	2883
+BS680724			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120361		Other	2883
+BS741201			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120342		Serum	2883
+BS741170			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142481		Serum	2883
+BS741209			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120350		Serum	2883
+BS741127			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142467		Serum	2883
+BS741128			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142467		Serum	2883
+BS741218			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120359		Serum	2883
+BS741226			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120367		Serum	2883
+BS741188			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120328		Serum	2883
+BS741156			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142476		Serum	2883
+BS721546			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120347	B cells	B cell	2883
+BS721559			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120360	B cells	B cell	2883
+BS721561			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120362	B cells	B cell	2883
+BS721562			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120363	B cells	B cell	2883
+BS721568			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120369	B cells	B cell	2883
+BS721573			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120374	B cells	B cell	2883
+BS721521			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120322	B cells	B cell	2883
+BS721525			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120326	B cells	B cell	2883
+BS721530			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120331	B cells	B cell	2883
+BS721533			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120334	B cells	B cell	2883
+BS741228			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120369		Serum	2883
+BS736762			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120325		Whole blood	2883
+BS736763			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120326		Whole blood	2883
+BS736764			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120326		Whole blood	2883
+BS736765			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120327		Whole blood	2883
+BS736777			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120333		Whole blood	2883
+BS736778			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120333		Whole blood	2883
+BS736779			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120334		Whole blood	2883
+BS736794			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120341		Whole blood	2883
+BS736806			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120347		Whole blood	2883
+BS736812			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120350		Whole blood	2883
+BS736813			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120351		Whole blood	2883
+BS736821			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120355		Whole blood	2883
+BS736841			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120365		Whole blood	2883
+BS736842			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120365		Whole blood	2883
+BS736849			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120369		Whole blood	2883
+BS736855			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120372		Whole blood	2883
+BS750355			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120337		PBMC	2883
+BS750359			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120351		PBMC	2883
+BS750371			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120364		PBMC	2883
+BS750384			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120377		PBMC	2883
+BS750387			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142466		PBMC	2883
+BS750399			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142478		PBMC	2883
+BS750403			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142482		PBMC	2883
+BS750404			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142483		PBMC	2883
+BS750301			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120362		PBMC	2883
+BS750315			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120376		PBMC	2883
+BS750328			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142478		PBMC	2883
+BS750277			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120337		PBMC	2883
+BS750281			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120341		PBMC	2883
+BS750291			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120351		PBMC	2883
+BS680691			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120326		Other	2883
+BS680693			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120328		Other	2883
+BS680694			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120329		Other	2883
+BS680698			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120334		Other	2883
+BS680712			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120349		Other	2883
+BS680715			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120352		Other	2883
+BS680722			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120359		Other	2883
+BS680726			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120363		Other	2883
+BS741163			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142479		Serum	2883
+BS741204			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120345		Serum	2883
+BS741174			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142482		Serum	2883
+BS741122			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142465		Serum	2883
+BS741136			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142470		Serum	2883
+BS741221			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120362		Serum	2883
+BS741222			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120363		Serum	2883
+BS741150			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142474		Serum	2883
+BS741154			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142476		Serum	2883
+BS741179			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142484		Serum	2883
+BS741183			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120323		Serum	2883
+BS721554			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120355	B cells	B cell	2883
+BS721557			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120358	B cells	B cell	2883
+BS721535			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120336	B cells	B cell	2883
+BS721543			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120344	B cells	B cell	2883
+BS741233			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120374		Serum	2883
+BS736787			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120338		Whole blood	2883
+BS736790			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120339		Whole blood	2883
+BS736798			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120343		Whole blood	2883
+BS736807			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120348		Whole blood	2883
+BS736810			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120349		Whole blood	2883
+BS736823			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120356		Whole blood	2883
+BS736840			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120364		Whole blood	2883
+BS736852			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120370		Whole blood	2883
+BS736861			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120375		Whole blood	2883
+BS736866			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120377		Whole blood	2883
+BS750340			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120322		PBMC	2883
+BS750345			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120327		PBMC	2883
+BS750346			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120328		PBMC	2883
+BS750357			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120349		PBMC	2883
+BS750358			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120350		PBMC	2883
+BS750365			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120357		PBMC	2883
+BS750366			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120358		PBMC	2883
+BS750372			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120365		PBMC	2883
+BS750378			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120371		PBMC	2883
+BS750382			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120375		PBMC	2883
+BS750386			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142465		PBMC	2883
+BS750401			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142480		PBMC	2883
+BS750402			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142481		PBMC	2883
+BS750414			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120346		PBMC	2883
+BS750415			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120347		PBMC	2883
+BS750299			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120359		PBMC	2883
+BS750308			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120369		PBMC	2883
+BS750314			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120375		PBMC	2883
+BS750262			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120322		PBMC	2883
+BS750264			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120324		PBMC	2883
+BS750265			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120325		PBMC	2883
+BS750273			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120333		PBMC	2883
+BS750275			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120335		PBMC	2883
+BS750295			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120355		PBMC	2883
+BS680733			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120370		Other	2883
+BS680688			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120323		Other	2883
+BS680692			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120327		Other	2883
+BS680700			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120336		Other	2883
+BS680710			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120347		Other	2883
+BS680723			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120360		Other	2883
+BS741166			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142480		Serum	2883
+BS741192			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120333		Serum	2883
+BS741196			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120337		Serum	2883
+BS741203			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120344		Serum	2883
+BS741208			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120349		Serum	2883
+BS741211			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120352		Serum	2883
+BS741123			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142465		Serum	2883
+BS741124			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142466		Serum	2883
+BS741131			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142468		Serum	2883
+BS741138			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142470		Serum	2883
+BS741141			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142471		Serum	2883
+BS741216			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120357		Serum	2883
+BS741219			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120360		Serum	2883
+BS741148			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142474		Serum	2883
+BS741153			PV3255	SDY202	7	Days	Time of initial vaccine administration		SUB142475		Serum	2883
+BS741157			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142477		Serum	2883
+BS741178			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142484		Serum	2883
+BS741181			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120321		Serum	2883
+BS741186			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120326		Serum	2883
+BS721545			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120346	B cells	B cell	2883
+BS721547			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120348	B cells	B cell	2883
+BS721548			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120349	B cells	B cell	2883
+BS721550			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120351	B cells	B cell	2883
+BS721552			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120353	B cells	B cell	2883
+BS721556			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120357	B cells	B cell	2883
+BS721567			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120368	B cells	B cell	2883
+BS721574			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120375	B cells	B cell	2883
+BS721542			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120343	B cells	B cell	2883
+BS741235			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120376		Serum	2883
+BS741237			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120378		Serum	2883
+BS736753			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120321		Whole blood	2883
+BS736754			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120321		Whole blood	2883
+BS736755			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120322		Whole blood	2883
+BS736770			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120329		Whole blood	2883
+BS736776			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120332		Whole blood	2883
+BS736781			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120335		Whole blood	2883
+BS736784			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120336		Whole blood	2883
+BS736785			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120337		Whole blood	2883
+BS736793			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120341		Whole blood	2883
+BS736796			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120342		Whole blood	2883
+BS736805			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120347		Whole blood	2883
+BS736816			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120352		Whole blood	2883
+BS736829			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120359		Whole blood	2883
+BS736839			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120364		Whole blood	2883
+BS736847			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120368		Whole blood	2883
+BS736851			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120370		Whole blood	2883
+BS736854			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120371		Whole blood	2883
+BS750344			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120326		PBMC	2883
+BS750362			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120354		PBMC	2883
+BS750364			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120356		PBMC	2883
+BS750369			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120362		PBMC	2883
+BS750373			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120366		PBMC	2883
+BS750388			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142467		PBMC	2883
+BS750389			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142468		PBMC	2883
+BS750390			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142469		PBMC	2883
+BS750391			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142470		PBMC	2883
+BS750395			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142474		PBMC	2883
+BS750400			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142479		PBMC	2883
+BS750407			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120339		PBMC	2883
+BS750335			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142465		PBMC	2883
+BS750302			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120363		PBMC	2883
+BS750309			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120370		PBMC	2883
+BS750310			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120371		PBMC	2883
+BS750318			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142468		PBMC	2883
+BS750320			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142470		PBMC	2883
+BS750336			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142466		PBMC	2883
+BS750325			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142475		PBMC	2883
+BS750327			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142477		PBMC	2883
+BS750271			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120331		PBMC	2883
+BS750280			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120340		PBMC	2883
+BS750290			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120350		PBMC	2883
+BS750296			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120356		PBMC	2883
+BS680734			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120371		Other	2883
+BS680687			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120322		Other	2883
+BS680705			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120342		Other	2883
+BS680709			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120346		Other	2883
+BS680713			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120350		Other	2883
+BS680718			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120355		Other	2883
+BS680725			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120362		Other	2883
+BS741198			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120339		Serum	2883
+BS741172			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142482		Serum	2883
+BS741206			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120347		Serum	2883
+BS741133			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142469		Serum	2883
+BS741142			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142472		Serum	2883
+BS741217			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120358		Serum	2883
+BS741152			PV3256	SDY202	14	Days	Time of initial vaccine administration		SUB142475		Serum	2883
+BS741184			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120324		Serum	2883
+BS741185			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120325		Serum	2883
+BS721560			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120361	B cells	B cell	2883
+BS721563			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120364	B cells	B cell	2883
+BS721564			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120365	B cells	B cell	2883
+BS721575			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120376	B cells	B cell	2883
+BS721531			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120332	B cells	B cell	2883
+BS721534			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120335	B cells	B cell	2883
+BS721539			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120340	B cells	B cell	2883
+BS741230			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120371		Serum	2883
+BS741232			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120373		Serum	2883
+BS736758			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120323		Whole blood	2883
+BS736761			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120325		Whole blood	2883
+BS736771			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120330		Whole blood	2883
+BS736782			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120335		Whole blood	2883
+BS736795			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120342		Whole blood	2883
+BS736800			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120344		Whole blood	2883
+BS736803			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120346		Whole blood	2883
+BS736815			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120352		Whole blood	2883
+BS736824			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120356		Whole blood	2883
+BS736827			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120358		Whole blood	2883
+BS736838			PV2419	SDY202	28	Days	Time of initial vaccine administration		SUB120363		Whole blood	2883
+BS736857			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120373		Whole blood	2883
+BS750348			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120330		PBMC	2883
+BS750354			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120336		PBMC	2883
+BS750367			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120359		PBMC	2883
+BS750397			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142476		PBMC	2883
+BS750333			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142483		PBMC	2883
+BS750297			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120357		PBMC	2883
+BS750312			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120373		PBMC	2883
+BS750317			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120378		PBMC	2883
+BS750319			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB142469		PBMC	2883
+BS750261			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120321		PBMC	2883
+BS750279			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120339		PBMC	2883
+BS750285			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120345		PBMC	2883
+BS750286			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120346		PBMC	2883
+BS750292			PV3254	SDY202	0	Days	Time of initial vaccine administration		SUB120352		PBMC	2883
+BS680738			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120375		Other	2883
+BS680706			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120343		Other	2883
+BS680707			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120344		Other	2883
+BS680719			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120356		Other	2883
+BS680721			PV3153	SDY202	7	Days	Time of initial vaccine administration		SUB120358		Other	2883

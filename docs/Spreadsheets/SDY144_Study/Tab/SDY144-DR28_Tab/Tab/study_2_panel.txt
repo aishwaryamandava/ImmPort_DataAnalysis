@@ -1,0 +1,15 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY144	adverseevents
+SDY144	arm or cohorts
+SDY144	assessments
+SDY144	conmeds
+SDY144	demographics
+SDY144	documentation
+SDY144	inclusionExclusion
+SDY144	labtests
+SDY144	mechassays
+SDY144	publications
+SDY144	resources
+SDY144	study files
+SDY144	subject
+SDY144	summary

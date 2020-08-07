@@ -1,0 +1,75 @@
+ARM_ACCESSION	SUBJECT_ACCESSION	AGE_EVENT	AGE_EVENT_SPECIFY	AGE_UNIT	MAX_SUBJECT_AGE	MIN_SUBJECT_AGE	SUBJECT_PHENOTYPE
+ARM2593	SUB146535	Age at Study Day 0		Years	15.91	15.91	Identical twin;Twin sibling ID is SLVP018-025
+ARM2597	SUB146541	Age at Study Day 0		Years	47.58	47.58	Fraternal twin;Twin sibling ID is SLVP018-034
+ARM2593	SUB146546	Age at Study Day 0		Years	9.82	9.82	Identical twin;Twin sibling ID is SLVP018-039
+ARM2598	SUB146548	Age at Study Day 0		Years	71.84	71.84	Identical twin;Twin sibling ID is SLVP018-043
+ARM2595	SUB146554	Age at Study Day 0		Years	22.6	22.6	Identical twin;Twin sibling ID is SLVP018-047
+ARM2593	SUB146559	Age at Study Day 0		Years	15.73	15.73	Identical twin;Twin sibling ID is SLVP018-054
+ARM2593	SUB146560	Age at Study Day 0		Years	15.73	15.73	Identical twin;Twin sibling ID is SLVP018-053
+ARM2596	SUB146566	Age at Study Day 0		Years	41.99	41.99	Identical twin;Twin sibling ID is SLVP018-061
+ARM2596	SUB146567	Age at Study Day 0		Years	41.99	41.99	Identical twin;Twin sibling ID is SLVP018-060
+ARM2599	SUB146583	Age at Study Day 0		Years	73.66	73.66	Non-Twin
+ARM2599	SUB146517	Age at Study Day 0		Years	90	90	Non-Twin
+ARM2599	SUB146527	Age at Study Day 0		Years	78.5	78.5	Non-Twin
+ARM2594	SUB146582	Age at Study Day 0		Years	27.6	27.6	Fraternal twin;Twin sibling ID is SLVP018-080
+ARM2593	SUB146521	Age at Study Day 0		Years	9.47	9.47	Identical twin;Twin sibling ID is SLVP018-013
+ARM2599	SUB146525	Age at Study Day 0		Years	77.24	77.24	Non-Twin
+ARM2599	SUB146534	Age at Study Day 0		Years	74.59	74.59	Non-Twin
+ARM2599	SUB146542	Age at Study Day 0		Years	75.15	75.15	Non-Twin
+ARM2598	SUB146543	Age at Study Day 0		Years	71.12	71.12	Identical twin;Twin sibling ID is SLVP018-038
+ARM2598	SUB146544	Age at Study Day 0		Years	71.12	71.12	Identical twin;Twin sibling ID is SLVP018-037
+ARM2599	SUB146547	Age at Study Day 0		Years	71.95	71.95	Non-Twin
+ARM2598	SUB146558	Age at Study Day 0		Years	77.18	77.18	Fraternal twin;Twin sibling ID is SLVP018-051
+ARM2595	SUB146565	Age at Study Day 0		Years	27.48	27.48	Fraternal twin;Twin sibling ID is SLVP018-058
+ARM2593	SUB146571	Age at Study Day 0		Years	17.43	17.43	Identical twin;Twin sibling ID is SLVP018-068
+ARM2597	SUB146576	Age at Study Day 0		Years	44.15	44.15	Fraternal twin;Twin sibling ID is SLVP018-071
+ARM2599	SUB146524	Age at Study Day 0		Years	87.5	87.5	Non-Twin
+ARM2593	SUB146531	Age at Study Day 0		Years	15.97	15.97	Identical twin;Twin sibling ID is SLVP018-029
+ARM2597	SUB146540	Age at Study Day 0		Years	47.57	47.57	Fraternal twin;Twin sibling ID is SLVP018-035
+ARM2598	SUB146556	Age at Study Day 0		Years	72.53	72.53	Fraternal twin;Twin sibling ID is SLVP018-049
+ARM2594	SUB146562	Age at Study Day 0		Years	18.16	18.16	Identical twin;Twin sibling ID is SLVP018-055
+ARM2595	SUB146564	Age at Study Day 0		Years	27.48	27.48	Fraternal twin;Twin sibling ID is SLVP018-059
+ARM2595	SUB146573	Age at Study Day 0		Years	25.37	25.37	Fraternal twin;Twin sibling ID is SLVP018-070
+ARM2597	SUB146575	Age at Study Day 0		Years	44.15	44.15	Fraternal twin;Twin sibling ID is SLVP018-072
+ARM2599	SUB146578	Age at Study Day 0		Years	79.03	79.03	Non-Twin
+ARM2618	SUB146652	Not Specified		Not Specified	0	0	
+ARM2593	SUB146522	Age at Study Day 0		Years	9.47	9.47	Identical twin;Twin sibling ID is SLVP018-012
+ARM2596	SUB146529	Age at Study Day 0		Years	48.15	48.15	Identical twin;Twin sibling ID is SLVP018-022
+ARM2593	SUB146533	Age at Study Day 0		Years	12.75	12.75	Identical twin;Twin sibling ID is SLVP018-026
+ARM2598	SUB146538	Age at Study Day 0		Years	71.12	71.12	Identical twin;Twin sibling ID is SLVP018-033
+ARM2593	SUB146545	Age at Study Day 0		Years	9.82	9.82	Identical twin;Twin sibling ID is SLVP018-040
+ARM2598	SUB146549	Age at Study Day 0		Years	71.84	71.84	Identical twin;Twin sibling ID is SLVP018-042
+ARM2599	SUB146550	Age at Study Day 0		Years	72.01	72.01	Non-Twin
+ARM2595	SUB146553	Age at Study Day 0		Years	22.6	22.6	Identical twin;Twin sibling ID is SLVP018-048
+ARM2594	SUB146561	Age at Study Day 0		Years	18.16	18.16	Identical twin;Twin sibling ID is SLVP018-056
+ARM2599	SUB146563	Age at Study Day 0		Years	73.49	73.49	Non-Twin
+ARM2599	SUB146568	Age at Study Day 0		Years	70.88	70.88	Non-Twin
+ARM2594	SUB146569	Age at Study Day 0		Years	22.75	22.75	Identical twin;Twin sibling ID is SLVP018-066
+ARM2594	SUB146570	Age at Study Day 0		Years	22.72	22.72	Identical twin;Twin sibling ID is SLVP018-065
+ARM2599	SUB146577	Age at Study Day 0		Years	74.11	74.11	Non-Twin
+ARM2597	SUB146514	Age at Study Day 0		Years	48.28	48.28	Fraternal twin;Twin sibling ID is SLVP018-005
+ARM2599	SUB146516	Age at Study Day 0		Years	74.64	74.64	Non-Twin
+ARM2599	SUB146519	Age at Study Day 0		Years	74.53	74.53	Non-Twin
+ARM2599	SUB146520	Age at Study Day 0		Years	71.02	71.02	Non-Twin
+ARM2599	SUB146523	Age at Study Day 0		Years	85.97	85.97	Non-Twin
+ARM2599	SUB146526	Age at Study Day 0		Years	83.36	83.36	Non-Twin
+ARM2596	SUB146530	Age at Study Day 0		Years	48.15	48.15	Identical twin;Twin sibling ID is SLVP018-021
+ARM2598	SUB146539	Age at Study Day 0		Years	71.12	71.12	Identical twin;Twin sibling ID is SLVP018-032
+ARM2596	SUB146551	Age at Study Day 0		Years	41.85	41.85	Identical twin;Twin sibling ID is SLVP018-046
+ARM2596	SUB146552	Age at Study Day 0		Years	41.85	41.85	Identical twin;Twin sibling ID is SLVP018-045
+ARM2598	SUB146557	Age at Study Day 0		Years	77.18	77.18	Fraternal twin;Twin sibling ID is SLVP018-052
+ARM2595	SUB146574	Age at Study Day 0		Years	25.37	25.37	Fraternal twin;Twin sibling ID is SLVP018-069
+ARM2594	SUB146579	Age at Study Day 0		Years	20.26	20.26	Fraternal twin;Twin sibling ID is SLVP018-078
+ARM2594	SUB146580	Age at Study Day 0		Years	20.26	20.26	Fraternal twin;Twin sibling ID is SLVP018-077
+ARM2594	SUB146581	Age at Study Day 0		Years	27.59	27.59	Fraternal twin;Twin sibling ID is SLVP018-081
+ARM2618	SUB146653	Not Specified		Not Specified	0	0	
+ARM2597	SUB146515	Age at Study Day 0		Years	48.28	48.28	Fraternal twin;Twin sibling ID is SLVP018-004
+ARM2599	SUB146528	Age at Study Day 0		Years	85.4	85.4	Non-Twin
+ARM2593	SUB146532	Age at Study Day 0		Years	12.75	12.75	Identical twin;Twin sibling ID is SLVP018-027
+ARM2599	SUB146537	Age at Study Day 0		Years	88.27	88.27	Non-Twin
+ARM2593	SUB146572	Age at Study Day 0		Years	17.43	17.43	Identical twin;Twin sibling ID is SLVP018-067
+ARM2599	SUB146513	Age at Study Day 0		Years	75.14	75.14	Non-Twin
+ARM2599	SUB146518	Age at Study Day 0		Years	82.74	82.74	Non-Twin
+ARM2599	SUB146536	Age at Study Day 0		Years	87.12	87.12	Non-Twin
+ARM2598	SUB146555	Age at Study Day 0		Years	72.53	72.53	Fraternal twin;Twin sibling ID is SLVP018-050
+ARM2618	SUB146651	Not Specified		Not Specified	0	0	

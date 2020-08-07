@@ -1,0 +1,18 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB118151		TIV	Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB118174		TIV	Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB118157		TIV	Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB118169		TIV	Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB118170		TIV	Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB118176		TIV	Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB118161		TIV	Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB118158		TIV	Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB118168		TIV	Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB118183		TIV	Not Hispanic or Latino	Male	Other	W/AA	Homo sapiens			2799
+SUB118171		TIV	Not Hispanic or Latino	Male	Asian		Homo sapiens			2799
+SUB118148		TIV	Not Hispanic or Latino	Male	Other	W/AA	Homo sapiens			2799
+SUB118153		TIV	Not Hispanic or Latino	Male	White		Homo sapiens			2799
+SUB118155		TIV	Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB118156		TIV	Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB118164		TIV	Not Hispanic or Latino	Female	White		Homo sapiens			2799
+SUB118167		TIV	Not Hispanic or Latino	Female	Asian		Homo sapiens			2799

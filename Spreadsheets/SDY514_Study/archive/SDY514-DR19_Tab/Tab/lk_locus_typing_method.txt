@@ -1,0 +1,6 @@
+NAME	DESCRIPTION	LINK
+PCR_Single_Stranded_Oligo_Probe_PCR_SSOP		
+Sequence_Based_Typing_SBT		
+Single_Stranded_Priming_SSP		
+Serology		
+Other		

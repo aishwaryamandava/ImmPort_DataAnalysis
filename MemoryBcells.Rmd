@@ -71,7 +71,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE}
 sdy <- "SDY144"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY144_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -109,7 +109,7 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
 
 ```{r, include=FALSE}
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,5,6)])
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY144/Analysis/Header_SDY144.xlsx",sheet=1)                            
+header_info <- read.xlsx("./Spreadsheets/Header_SDY144.xlsx",sheet=1)                            
 #colnames(header_info)[1] <- "name" 
 mm_sdy144 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy144 <- mm_sdy144[which(mm_sdy144$Panel == "NCH_2011_FLOW_Bcell"),]
@@ -139,7 +139,7 @@ lapply(final_tab_sdy144[,-c(1,2,3,4,7,12,13,14,15)],table)
 ###Ab titer
 Antibody titer for SDY144: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
 ```{r, include=FALSE}
-ab_titer_sdy144 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY144/Study/Tab/SDY144-DR28_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_sdy144 <- read.table("./Spreadsheets/SDY144_Study/SDY144-DR28_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
 ab_titer_d_sdy144 <- dcast(ab_titer_sdy144,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
 ab_titer_d_sdy144$Geometric_mean <- apply(ab_titer_d_sdy144[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
 resp_sdy144 <- dcast(ab_titer_d_sdy144,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
@@ -167,18 +167,18 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Populations:
 Gating co-ordinates for SDY144
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_config.png)
+![alt text](./input_files/SDY144_config_memB.png)
 Gating hierarchy used to identify the cell populations (example: SUB118176 at Day 7)
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_1.png)
+![alt text](./input_files/SDY144_1_memB.png)
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_2.png)
+![alt text](./input_files/SDY144_2_memB.png)
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_3.png)
+![alt text](./input_files/SDY144_3_memB.png)
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_4.png)
+![alt text](./input_files/SDY144_4_memB.png)
 ```{r, include=FALSE}
 #####Read the files########
-sdy144 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY144_MemoryBcells.xlsx",sheet=2)[,-1]
+sdy144 <- read.xlsx("./Spreadsheets/SDY144_MemoryBcells.xlsx",sheet=2)[,-1]
 sdy144$study_time_collected <- paste0("Day_",sdy144$study_time_collected)
 melt_sdy144 <- melt(sdy144,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
 colnames(melt_sdy144)[6:7] <- c("CellType","CellProportion")
@@ -226,7 +226,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE}
 sdy <- "SDY364"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY364_Study/"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -265,7 +265,7 @@ fcs_meta_Data <- dbGetQuery(sqlite_conn,"SELECT a.name, a.file_info_id, b.expsam
 
 ```{r, include=FALSE}
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(3,4,5)])
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY364/FCS/Header_SDY364.xlsx",sheet=1)                            
+header_info <- read.xlsx("./Spreadsheets/Header_SDY364.xlsx",sheet=1)                            
 #colnames(header_info)[1] <- "name" 
 mm_sdy364 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy364 <- mm_sdy364[which(mm_sdy364$Panel == "B"),]
@@ -295,7 +295,7 @@ lapply(final_tab_sdy364[,-c(1,2,3,4,8,12,13,14,15,16)],table)
 ###Antibody titer
 Antibody titer for SDY364: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
 ```{r, include=FALSE}
-ab_titer_sdy364 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY364/Study/Tab/SDY364-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_sdy364 <- read.table("./Spreadsheets/SDY364_Study/Tab/SDY364-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
 ab_titer_d_sdy364 <- dcast(ab_titer_sdy364,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
 ab_titer_d_sdy364$Geometric_mean <- apply(ab_titer_d_sdy364[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
 resp_sdy364 <- dcast(ab_titer_d_sdy364,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
@@ -322,22 +322,22 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Proportions
 Gating co-ordinates for SDY364
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_config.png)
+![alt text](./input_files/SDY364_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB135685 at Day 1 )
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_1.png)
+![alt text](./input_files/SDY364_1_memB.png)
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_2.png)
-
-
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_3.png)
+![alt text](./input_files/SDY364_2_memB.png)
 
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_4.png)
+![alt text](./input_files/SDY364_3_memB.png)
+
+
+![alt text](./input_files/SDY364_4_memB.png)
 ```{r, include=FALSE}
 #####Read the files########
-sdy364 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY364_MemoryBcells.xlsx",sheet=2)[,-1]
+sdy364 <- read.xlsx("./Spreadsheets/SDY364_MemoryBcells.xlsx",sheet=2)[,-1]
 sdy364$study_time_collected <- paste0("Day_",sdy364$study_time_collected)
 melt_sdy364 <- melt(sdy364,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
 colnames(melt_sdy364)[6:7] <- c("CellType","CellProportion")
@@ -382,7 +382,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE}
 sdy <- "SDY368"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/"),sdy,"/Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY368_Study/"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -422,7 +422,7 @@ fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
 
 ```{r, include=FALSE}
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,3,5)])
-header_info <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY368/SDY368mapping.txt",header=T)
+header_info <- read.table("./Spreadsheets/SDY368mapping.txt",header=T)
 colnames(header_info)[1] <- "name" 
 mm_sdy368 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy368 <- mm_sdy368[which(mm_sdy368$Panel == "B"),]
@@ -451,7 +451,7 @@ lapply(final_tab_sdy368[,-c(1,2,3,4,8,12,13,14,15)],table)
 ###Antibody titer
 Antibody titer for SDY368: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
 ```{r, include=FALSE}
-ab_titer_sdy368 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY368/Study/Tab/SDY368-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_sdy368 <- read.table("./Spreadsheets/SDY368_Study/Tab/SDY368-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
 ab_titer_d_sdy368 <- dcast(ab_titer_sdy368,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
 ab_titer_d_sdy368$Geometric_mean <- apply(ab_titer_d_sdy368[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
 resp_sdy368 <- dcast(ab_titer_d_sdy368,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
@@ -484,24 +484,24 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Proportions:
 Gating co-ordinates for SDY368
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_config.png)
+![alt text](./input_files/SDY368_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB135730 at Day 28)
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_1.png)
+![alt text](./input_files/SDY368_1_memB.png)
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_2.png)
-
-
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_3.png)
+![alt text](./input_files/SDY368_2_memB.png)
 
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_4.png)
+![alt text](./input_files/SDY368_3_memB.png)
+
+
+![alt text](./input_files/SDY368_4_memB.png)
 
 Colors indicate responder or non-repsonder based on the titer values at Day 0. 
 ```{r, include=FALSE}
 #####Read the files########
-sdy368 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY368_MemoryBcells.xlsx",sheet=2)[,-1]
+sdy368 <- read.xlsx("./Spreadsheets/SDY368_MemoryBcells.xlsx",sheet=2)[,-1]
 sdy368$study_time_collected <- paste0("Day_",sdy368$study_time_collected)
 melt_sdy368 <- melt(sdy368,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
 colnames(melt_sdy368)[6:7] <- c("CellType","CellProportion")
@@ -547,7 +547,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE}
 sdy <- "SDY387"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1"),sdy,"/Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY387_Study/"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -591,7 +591,7 @@ fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
 
 ```{r, include=FALSE}
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,3,5)])
-header_info <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY387/SDY387mapping.txt",header=T)
+header_info <- read.table("./Spreadsheets/SDY387mapping.txt",header=T)
 colnames(header_info)[1] <- "name" 
 mm_sdy387 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy387 <- mm_sdy387[which(mm_sdy387$Panel == "B"),]
@@ -621,7 +621,7 @@ lapply(final_tab_sdy387[,-c(1,2,3,4,8,12,13,14,15)],table)
 ###Antibody titer
 Antibody titer for SDY387: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
 ```{r, include=FALSE}
-ab_titer_sdy387 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_1/SDY387/Study/Tab/SDY387-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_sdy387 <- read.table("./Spreadsheets/SDY387_Study/Tab/SDY387-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
 ab_titer_d_sdy387 <- dcast(ab_titer_sdy387,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
 ab_titer_d_sdy387$Geometric_mean <- apply(ab_titer_d_sdy387[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
 resp_sdy387 <- dcast(ab_titer_d_sdy387,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
@@ -649,24 +649,24 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Proportions:
 Gating co-ordinates for SDY387
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_config.png)
+![alt text](./input_files/SDY387_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB135864 at Day 7)
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_1.png)
+![alt text](./input_files/SDY387_1_memB.png)
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_2.png)
-
-
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_3.png)
+![alt text](./input_files/SDY387_2_memB.png)
 
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_4.png)
+![alt text](./input_files/SDY387_3_memB.png)
+
+
+![alt text](./input_files/SDY387_4_memB.png)
 
 Colors indicate responder or non-repsonder based on the titer values at Day 0. 
 ```{r, include=FALSE}
 #####Read the files########
-sdy387 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY387_MemoryBcells.xlsx",sheet=2)[,-1]
+sdy387 <- read.xlsx("./Spreadsheets/SDY387_MemoryBcells.xlsx",sheet=2)[,-1]
 sdy387$study_time_collected <- paste0("Day_",sdy387$study_time_collected)
 melt_sdy387 <- melt(sdy387,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
 colnames(melt_sdy387)[6:7] <- c("CellType","CellProportion")
@@ -712,7 +712,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE}
 sdy <- "SDY372"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_4"),sdy,"/Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY372_Study/"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -752,7 +752,7 @@ fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
 
 ```{r, include=FALSE}
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,3,5)])
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_4/SDY372/Header_SDY372.xlsx")
+header_info <- read.xlsx("./Spreadsheets/Header_SDY372.xlsx")
 colnames(header_info)[1] <- "name" 
 mm_sdy372 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy372_1 <- mm_sdy372[which(mm_sdy372$Panel == "4"),]
@@ -785,7 +785,7 @@ lapply(final_tab_sdy372[,-c(1,2,3,4,8,12,13,14,15)],table)
 ###Antibody titer
 Antibody titer for SDY387: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
 ```{r, include=FALSE}
-ab_titer_sdy372 <- read.table("/Volumes/Samsung_T5/Immport_UH2/Companion_studies_4/SDY372/Study/Tab/SDY372-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_sdy372 <- read.table("./Spreadsheets/SDY372_Study/Tab/SDY372-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
 ab_titer_d_sdy372 <- dcast(ab_titer_sdy372,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
 ab_titer_d_sdy372$Geometric_mean <- apply(ab_titer_d_sdy372[,3:5],1,function(x) geometric.mean(x,na.rm=TRUE))
 resp_sdy372 <- dcast(ab_titer_d_sdy372,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
@@ -813,24 +813,24 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Proportions:
 Gating co-ordinates for SDY372
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_config.png)
+![alt text](./input_files/SDY372_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB135772 at Day 7)
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_1.png)
+![alt text](./input_files/SDY372_1_memB.png)
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_2.png)
-
-
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_3.png)
+![alt text](./input_files/SDY372_2_memB.png)
 
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_4.png)
+![alt text](./input_files/SDY372_3_memB.png)
+
+
+![alt text](./input_files/SDY372_4_memB.png)
 
 Colors indicate responder or non-repsonder based on the titer values at Day 0. 
 ```{r, include=FALSE}
 #####Read the files########
-sdy372 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY372_MemoryBcells.xlsx",sheet=5)[,-1]
+sdy372 <- read.xlsx("./Spreadsheets/SDY372_MemoryBcells.xlsx",sheet=5)[,-1]
 sdy372$study_time_collected <- paste0("Day_",sdy372$study_time_collected)
 melt_sdy372 <- melt(sdy372,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
 colnames(melt_sdy372)[6:7] <- c("CellType","CellProportion")
@@ -875,7 +875,7 @@ MetaData is extracted from the ImmPort data schema by querying the local databas
 ```{r, include=FALSE}
 sdy <- "SDY180"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY180_Study/"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -916,7 +916,7 @@ fcs_meta_Data$name <- str_replace_all(fcs_meta_Data$name, pattern =" ", repl="")
 
 ```{r, include=FALSE}
 fcs_meta_Data <- unique(fcs_meta_Data[,-c(2,3,5)])
-header_info <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY180/Headers_SDY180.xlsx")
+header_info <- read.xlsx("./Spreadsheets/Headers_SDY180.xlsx")
 colnames(header_info)[1] <- "name" 
 mm_sdy180 <- merge(fcs_meta_Data, header_info, by="name")
 final_tab_sdy180 <- mm_sdy180[which(mm_sdy180$Panel == "8" | mm_sdy180$Panel == "24" ),][,-c(10,11)]
@@ -944,7 +944,7 @@ lapply(final_tab_sdy180[,-c(1,2,3,4,8,10,11,12,13)],table)
 ###Antibody titer
 Antibody titer for SDY180: Responders vs Non-responders: titer >= 40 are responders and titer < 40 are non-responders at Visit 0. Fold change is calculated as $\frac{Geometric mean of Ab titer of all strains on Day 28}{Geometric mean of Ab titer of all strains on Day 0}$.
 ```{r, include=FALSE}
-ab_titer_sdy180 <- read.table("/Volumes/Samsung_T5/Immport_UH2/SDY180/Study/Tab/SDY180-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
+ab_titer_sdy180 <- read.table("./Spreadsheets/SDY180_Study/Tab/SDY180-DR29_Tab/Tab/hai_result.txt",sep = "\t", header=TRUE)
 ab_titer_d_sdy180 <- dcast(ab_titer_sdy180,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED',fun.aggregate = geometric.mean)
 ab_titer_d_sdy180$Geometric_mean <- apply(ab_titer_d_sdy180[,3:8],1,function(x) geometric.mean(x,na.rm=TRUE))
 resp_sdy180 <- dcast(ab_titer_d_sdy180,SUBJECT_ACCESSION~STUDY_TIME_COLLECTED,value.var='Geometric_mean')
@@ -978,24 +978,24 @@ resp_sdy180$FoldChange <- resp_sdy180$`28`/(resp_sdy180$`pre`+0.00001)
 
 ###Cell Proportions:
 Gating co-ordinates for SDY180
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_config.png)
+![alt text](./input_files/SDY180_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB119262 at Day -7, i.e. 7 days prior vaccination)
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_1.png)
+![alt text](./input_files/SDY180_1_memB.png)
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_2.png)
-
-
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_3.png)
+![alt text](./input_files/SDY180_2_memB.png)
 
 
-![alt text](/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_4.png)
+![alt text](./input_files/SDY180_3_memB.png)
+
+
+![alt text](./input_files/SDY180_4_memB.png)
 
 Colors indicate responder or non-repsonder based on the titer values at Day 0. 
 ```{r, include=FALSE}
 #####Read the files########
-sdy180 <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/Results_Analysis/Memory_Bcells/SDY180_MemoryBcells.xlsx",sheet=5)[,-1]
+sdy180 <- read.xlsx("./Spreadsheets/SDY180_MemoryBcells.xlsx",sheet=5)[,-1]
 sdy180$study_time_collected <- paste0("Day_",sdy180$study_time_collected)
 melt_sdy180 <- melt(sdy180,id=c("name","study_time_collected","subject_accession","max_subject_age","Study"))
 colnames(melt_sdy180)[6:7] <- c("CellType","CellProportion")

@@ -1,0 +1,10 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL5519		STANPRO_HAI_v1.PTL5519.doc	Hemagglutination Inhibition Assay	STANPRO_HAI_v1.doc	Assay	2883
+PTL6650	Illumina gene expression protocol, as performed by Baylor College of Medicine	MicroarrayAssayProtocolBaylorCollege2009.PTL6650.docx	Microarray Assay Protocol ? Baylor College of Medicine	MicroarrayAssayProtocolBaylorCollege2009.docx	Assay	2883
+PTL6651	Clinical protocol	STANPRO_8215v6.PTL6651.pdf	Clinical protocol SLVP015 2009	STANPRO_8215v6.pdf	Study Protocol	2883
+PTL6769	Illumina whole genome gene expression direct hybridization assay guide	protocol_GE_microarray_illumina.PTL6769.pdf	GE Microarray Illumina Protocol	protocol_GE_microarray_illumina.pdf	Assay	2883
+PTL6770	Stanford Human Immune Monitoring Core RNA extraction protocol	protocol_RNAextraction_PAXgene_HIMC030911.PTL6770.pdf	RNA Extraction_PAXgene	protocol_RNAextraction_PAXgene_HIMC030911.pdf	Experimental Sample	2883
+PTL6771	Flow phenotyping of surface markers	PhenotypingofHumanPBMCusingLyoplate050611_modYP.PTL6771.docx	Phenotyping  Of Human PBMCs Using Stanford Lyoplate	PhenotypingofHumanPBMCusingLyoplate050611_modYP.docx	Experiment	2883
+PTL7084		Assay Protocol Luminex.PTL7084.doc	51 plex protocol	Assay Protocol Luminex.doc	Assay	2883
+PTL7136		Phosphoflow assay protocol.PTL7136.doc	Phosphoflow assay protocol	Phosphoflow assay protocol.doc	Not Specified	2883
+PTL8939		cmv&ebv.tests.PTL8939.txt	CMV & EBV Antibody	cmv&ebv.tests.txt	Not Specified	2883

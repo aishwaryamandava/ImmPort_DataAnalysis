@@ -1,0 +1,10 @@
+NAME	DESCRIPTION	LINK
+FlowRepository	A database of flow cytometry experiments where you can query and download data collected and annotated according to the MIFlowCyt standard.	http://flowrepository.org
+GEO	GEO is a public functional genomics data repository supporting MIAME-compliant data submissions. Array- and sequence-based data are accepted. Tools are provided to help users query and download experiments and curated gene expression profiles.	http://www.ncbi.nlm.nih.gov/geo/
+SRA	The Sequence Read Archive (SRA) stores raw sequencing data from the next generation of sequencing platforms including Roche 454 GS System, Illumina Genome Analyzer, Applied Biosystems SOLiD System, Helicos Heliscope, Complete Genomics, and Pacific Biosciences SMRT.	http://www.ncbi.nlm.nih.gov/sra
+dbGAP	The database of Genotypes and Phenotypes (dbGaP) was developed to archive and distribute the results of studies that have investigated the interaction of genotype and phenotype.	http://www.ncbi.nlm.nih.gov/gap
+Ensembl	Ensembl gene repository	
+NCBI Gene	NCBI gene repository	
+ImmPort	Immunology Database and Analysis Portal (ImmPort).	http://www.immport.org/immport-open/public/home/home
+ENA	The European Nucleotide Archive (ENA) provides a comprehensive record of the world's nucleotide sequencing information, covering raw sequencing data, sequence assembly information and functional annotation.	http://www.ebi.ac.uk/ena
+GenBank	GenBank is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences.	https://www.ncbi.nlm.nih.gov/genbank/

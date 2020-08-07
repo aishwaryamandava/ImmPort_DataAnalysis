@@ -1,0 +1,9 @@
+TREATMENT_ACCESSION	AMOUNT_UNIT	AMOUNT_VALUE	COMMENTS	DURATION_UNIT	DURATION_VALUE	NAME	TEMPERATURE_UNIT	TEMPERATURE_VALUE	WORKSPACE_ID
+TRT1787	Not Specified	Not_Specified		Not Specified	Not_Specified	Control	Not Specified	Not_Specified	2510
+TRT1788	Not Specified	Not_Specified		Not Specified	Not_Specified	H1N1	Not Specified	Not_Specified	2510
+TRT1789	Not Specified	Not_Specified		Not Specified	Not_Specified	UNS	Not Specified	Not_Specified	2510
+TRT2363	ul	100		Hours	48	Influenza virus (Influenza A/H1N1 California-like)	C	37	2510
+TRT2364	ul	100		Hours	48	Unstim. (unstimulated)	C	37	2510
+TRT259	ml	100		Not Specified	NA	H1N1	C	4	2510
+TRT260	Not Specified	Not_Specified		Not Specified	Not_Specified	None	Not Specified	Not_Specified	2510
+TRT262	Not Specified	Not_Specified		Not Specified	Not_Specified	None1	Not Specified	Not_Specified	2510

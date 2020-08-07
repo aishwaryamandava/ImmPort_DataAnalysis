@@ -1,0 +1,815 @@
+BIOSAMPLE_ACCESSION	DESCRIPTION	NAME	PLANNED_VISIT_ACCESSION	STUDY_ACCESSION	STUDY_TIME_COLLECTED	STUDY_TIME_COLLECTED_UNIT	STUDY_TIME_T0_EVENT	STUDY_TIME_T0_EVENT_SPECIFY	SUBJECT_ACCESSION	SUBTYPE	TYPE	WORKSPACE_ID
+BS752352			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120417		PBMC	2668
+BS752363			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120426		PBMC	2668
+BS752376			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120433		PBMC	2668
+BS752378			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120449		PBMC	2668
+BS752399			PV3225	SDY404	24	Days	Time of initial vaccine administration		SUB120472		PBMC	2668
+BS752413			PV3224	SDY404	11	Days	Time of initial vaccine administration		SUB120483		PBMC	2668
+BS752415			PV3224	SDY404	11	Days	Time of initial vaccine administration		SUB120485		PBMC	2668
+BS689312			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120420		Whole blood	2668
+BS689315			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120421		Whole blood	2668
+BS689320			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120422		Whole blood	2668
+BS689329			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120425		Whole blood	2668
+BS689330			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120425		Whole blood	2668
+BS689338			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120428		Whole blood	2668
+BS689343			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120435		Whole blood	2668
+BS689355			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120440		Whole blood	2668
+BS689364			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120442		Whole blood	2668
+BS689367			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120445		Whole blood	2668
+BS689370			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120445		Whole blood	2668
+BS689373			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120446		Whole blood	2668
+BS689379			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120452		Whole blood	2668
+BS689382			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120452		Whole blood	2668
+BS689391			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120459		Whole blood	2668
+BS689399			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120462		Whole blood	2668
+BS689400			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120462		Whole blood	2668
+BS689405			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120466		Whole blood	2668
+BS689406			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120466		Whole blood	2668
+BS689418			PV3225	SDY404	24	Days	Time of initial vaccine administration		SUB120470		Whole blood	2668
+BS689422			PV3225	SDY404	32	Days	Time of initial vaccine administration		SUB120472		Whole blood	2668
+BS689427			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120474		Whole blood	2668
+BS689431			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120479		Whole blood	2668
+BS689432			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120479		Whole blood	2668
+BS689433			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120479		Whole blood	2668
+BS689434			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120479		Whole blood	2668
+BS689437			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120480		Whole blood	2668
+BS689438			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120480		Whole blood	2668
+BS689450			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120484		Whole blood	2668
+BS689453			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120485		Whole blood	2668
+BS689454			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120485		Whole blood	2668
+BS689468			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120420		PBMC	2668
+BS689480			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120424		PBMC	2668
+BS689495			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120430		PBMC	2668
+BS689515			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120441		PBMC	2668
+BS689517			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120441		PBMC	2668
+BS689521			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120442		PBMC	2668
+BS689522			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120442		PBMC	2668
+BS689527			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120446		PBMC	2668
+BS689536			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120452		PBMC	2668
+BS689552			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120460		PBMC	2668
+BS689578			PV3225	SDY404	32	Days	Time of initial vaccine administration		SUB120472		PBMC	2668
+BS689583			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120474		PBMC	2668
+BS689586			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120474		PBMC	2668
+BS689588			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120479		PBMC	2668
+BS689591			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120480		PBMC	2668
+BS689763			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120423		Whole blood	2668
+BS689776			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120438		Whole blood	2668
+BS689790			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120454		Whole blood	2668
+BS689797			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120463		Whole blood	2668
+BS689799			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120464		Whole blood	2668
+BS689805			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120471		Whole blood	2668
+BS689818			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120486		Whole blood	2668
+BS719601			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120458	CD4	B cell	2668
+BS719618			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120467	CD4	B cell	2668
+BS719639			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120479	CD4	B cell	2668
+BS719643			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120485	CD4	B cell	2668
+BS719664			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120425	CD8	B cell	2668
+BS719665			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120425	CD8	B cell	2668
+BS719692			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120440	CD8	B cell	2668
+BS719701			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120442	CD8	B cell	2668
+BS719708			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120446	CD8	B cell	2668
+BS719712			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120450	CD8	B cell	2668
+BS719713			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120450	CD8	B cell	2668
+BS719720			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120457	CD8	B cell	2668
+BS719723			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120458	CD8	B cell	2668
+BS719725			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120458	CD8	B cell	2668
+BS719731			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120460	CD8	B cell	2668
+BS719739			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120467	CD8	B cell	2668
+BS719747			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120470	CD8	B cell	2668
+BS719749			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120470	CD8	B cell	2668
+BS719755			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120473	CD8	B cell	2668
+BS719759			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120474	CD8	B cell	2668
+BS719768			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120485	CD8	B cell	2668
+BS719410			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120421	B	B cell	2668
+BS719421			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120427	B	B cell	2668
+BS719429			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120430	B	B cell	2668
+BS719431			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120435	B	B cell	2668
+BS719446			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120440	B	B cell	2668
+BS719449			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120441	B	B cell	2668
+BS719510			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120473	B	B cell	2668
+BS719513			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120474	B	B cell	2668
+BS719514			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120474	B	B cell	2668
+BS719515			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120479	B	B cell	2668
+BS719521			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120485	B	B cell	2668
+BS719526			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120418	CD4	B cell	2668
+BS719537			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120422	CD4	B cell	2668
+BS719550			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120428	CD4	B cell	2668
+BS719552			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120430	CD4	B cell	2668
+BS719577			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120442	CD4	B cell	2668
+BS719595			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120457	CD4	B cell	2668
+BS719599			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120458	CD4	B cell	2668
+BS719406			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120420	B	B cell	2668
+BS719408			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120421	B	B cell	2668
+BS752358			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120419		PBMC	2668
+BS752367			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120429		PBMC	2668
+BS752368			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120429		PBMC	2668
+BS752371			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120432		PBMC	2668
+BS752372			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120432		PBMC	2668
+BS752377			PV3225	SDY404	38	Days	Time of initial vaccine administration		SUB120446		PBMC	2668
+BS752388			PV3225	SDY404	38	Days	Time of initial vaccine administration		SUB120458		PBMC	2668
+BS752409			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120482		PBMC	2668
+BS689308			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120418		Whole blood	2668
+BS689311			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120420		Whole blood	2668
+BS689316			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120421		Whole blood	2668
+BS689324			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120424		Whole blood	2668
+BS689326			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120424		Whole blood	2668
+BS689333			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120427		Whole blood	2668
+BS689347			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120436		Whole blood	2668
+BS689350			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120436		Whole blood	2668
+BS689351			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120437		Whole blood	2668
+BS689357			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120440		Whole blood	2668
+BS689358			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120440		Whole blood	2668
+BS689368			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120445		Whole blood	2668
+BS689376			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120450		Whole blood	2668
+BS689385			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120457		Whole blood	2668
+BS689392			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120459		Whole blood	2668
+BS689394			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120459		Whole blood	2668
+BS689398			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120460		Whole blood	2668
+BS689407			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120467		Whole blood	2668
+BS689430			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120474		Whole blood	2668
+BS689448			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120484		Whole blood	2668
+BS689465			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120418		PBMC	2668
+BS689471			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120421		PBMC	2668
+BS689493			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120428		PBMC	2668
+BS689496			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120430		PBMC	2668
+BS689506			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120436		PBMC	2668
+BS689530			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120446		PBMC	2668
+BS689535			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120452		PBMC	2668
+BS689546			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120458		PBMC	2668
+BS689561			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120466		PBMC	2668
+BS689563			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120467		PBMC	2668
+BS689564			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120467		PBMC	2668
+BS689575			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120472		PBMC	2668
+BS689587			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120479		PBMC	2668
+BS689593			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120480		PBMC	2668
+BS689595			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120481		PBMC	2668
+BS689596			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120481		PBMC	2668
+BS689606			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120484		PBMC	2668
+BS689760			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120417		Whole blood	2668
+BS689761			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120419		Whole blood	2668
+BS689766			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120426		Whole blood	2668
+BS689769			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120431		Whole blood	2668
+BS689784			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120447		Whole blood	2668
+BS689808			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120475		Whole blood	2668
+BS719627			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120472	CD4	B cell	2668
+BS719649			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120418	CD8	B cell	2668
+BS719650			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120418	CD8	B cell	2668
+BS719668			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120427	CD8	B cell	2668
+BS719670			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120427	CD8	B cell	2668
+BS719684			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120436	CD8	B cell	2668
+BS719688			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120437	CD8	B cell	2668
+BS719690			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120437	CD8	B cell	2668
+BS719693			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120440	CD8	B cell	2668
+BS719696			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120441	CD8	B cell	2668
+BS719704			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120445	CD8	B cell	2668
+BS719722			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120457	CD8	B cell	2668
+BS719736			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120462	CD8	B cell	2668
+BS719740			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120467	CD8	B cell	2668
+BS719742			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120467	CD8	B cell	2668
+BS719743			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120469	CD8	B cell	2668
+BS719745			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120469	CD8	B cell	2668
+BS719748			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120470	CD8	B cell	2668
+BS719754			PV3225	SDY404	32	Days	Time of initial vaccine administration		SUB120472	CD8	B cell	2668
+BS719763			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120479	CD8	B cell	2668
+BS719428			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120430	B	B cell	2668
+BS719455			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120445	B	B cell	2668
+BS719459			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120446	B	B cell	2668
+BS719462			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120446	B	B cell	2668
+BS719466			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120450	B	B cell	2668
+BS719477			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120458	B	B cell	2668
+BS719478			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120458	B	B cell	2668
+BS719480			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120459	B	B cell	2668
+BS719481			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120459	B	B cell	2668
+BS719484			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120460	B	B cell	2668
+BS719485			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120460	B	B cell	2668
+BS719486			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120460	B	B cell	2668
+BS719488			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120462	B	B cell	2668
+BS719489			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120462	B	B cell	2668
+BS719496			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120469	B	B cell	2668
+BS719508			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120473	B	B cell	2668
+BS719541			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120425	CD4	B cell	2668
+BS719542			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120425	CD4	B cell	2668
+BS719543			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120427	CD4	B cell	2668
+BS719551			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120430	CD4	B cell	2668
+BS719564			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120437	CD4	B cell	2668
+BS719566			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120437	CD4	B cell	2668
+BS719584			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120446	CD4	B cell	2668
+BS719592			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120452	CD4	B cell	2668
+BS719596			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120457	CD4	B cell	2668
+BS719597			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120457	CD4	B cell	2668
+BS719405			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120420	B	B cell	2668
+BS752356			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120419		PBMC	2668
+BS752359			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120423		PBMC	2668
+BS752370			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120429		PBMC	2668
+BS752374			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120433		PBMC	2668
+BS752383			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120451		PBMC	2668
+BS752395			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120471		PBMC	2668
+BS752397			PV3225	SDY404	17	Days	Time of initial vaccine administration		SUB120472		PBMC	2668
+BS752407			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120479		PBMC	2668
+BS752416			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120486		PBMC	2668
+BS689314			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120420		Whole blood	2668
+BS689331			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120427		Whole blood	2668
+BS689334			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120427		Whole blood	2668
+BS689337			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120428		Whole blood	2668
+BS689340			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120430		Whole blood	2668
+BS689353			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120437		Whole blood	2668
+BS689360			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120441		Whole blood	2668
+BS689383			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120457		Whole blood	2668
+BS689413			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120469		Whole blood	2668
+BS689420			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120472		Whole blood	2668
+BS689428			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120474		Whole blood	2668
+BS689436			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120480		Whole blood	2668
+BS689441			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120481		Whole blood	2668
+BS689443			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120483		Whole blood	2668
+BS689455			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120487		Whole blood	2668
+BS689460			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120488		Whole blood	2668
+BS689469			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120420		PBMC	2668
+BS689475			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120422		PBMC	2668
+BS689482			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120424		PBMC	2668
+BS689484			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120425		PBMC	2668
+BS689486			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120425		PBMC	2668
+BS689489			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120427		PBMC	2668
+BS689492			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120428		PBMC	2668
+BS689511			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120440		PBMC	2668
+BS689512			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120440		PBMC	2668
+BS689519			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120442		PBMC	2668
+BS689529			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120446		PBMC	2668
+BS689532			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120450		PBMC	2668
+BS689542			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120457		PBMC	2668
+BS689551			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120460		PBMC	2668
+BS689562			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120466		PBMC	2668
+BS689565			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120467		PBMC	2668
+BS689576			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120472		PBMC	2668
+BS689584			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120474		PBMC	2668
+BS689598			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120481		PBMC	2668
+BS689607			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120485		PBMC	2668
+BS689610			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120485		PBMC	2668
+BS689771			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120433		Whole blood	2668
+BS689772			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120433		Whole blood	2668
+BS689774			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120434		Whole blood	2668
+BS689788			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120453		Whole blood	2668
+BS689789			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120454		Whole blood	2668
+BS689798			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120463		Whole blood	2668
+BS689801			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120465		Whole blood	2668
+BS689806			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120471		Whole blood	2668
+BS689811			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120477		Whole blood	2668
+BS689814			PV3225	SDY404	35	Days	Time of initial vaccine administration		SUB120478		Whole blood	2668
+BS719606			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120459	CD4	B cell	2668
+BS719609			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120460	CD4	B cell	2668
+BS719617			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120467	CD4	B cell	2668
+BS719621			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120469	CD4	B cell	2668
+BS719622			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120469	CD4	B cell	2668
+BS719623			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120470	CD4	B cell	2668
+BS719626			PV3225	SDY404	24	Days	Time of initial vaccine administration		SUB120470	CD4	B cell	2668
+BS719632			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120473	CD4	B cell	2668
+BS719648			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120418	CD8	B cell	2668
+BS719652			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120420	CD8	B cell	2668
+BS719656			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120421	CD8	B cell	2668
+BS719657			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120421	CD8	B cell	2668
+BS719659			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120422	CD8	B cell	2668
+BS719675			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120430	CD8	B cell	2668
+BS719697			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120441	CD8	B cell	2668
+BS719698			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120441	CD8	B cell	2668
+BS719714			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120450	CD8	B cell	2668
+BS719735			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120462	CD8	B cell	2668
+BS719756			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120473	CD8	B cell	2668
+BS719413			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120422	B	B cell	2668
+BS719435			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120436	B	B cell	2668
+BS719443			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120440	B	B cell	2668
+BS719453			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120442	B	B cell	2668
+BS719460			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120446	B	B cell	2668
+BS719468			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120452	B	B cell	2668
+BS719470			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120452	B	B cell	2668
+BS719482			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120459	B	B cell	2668
+BS719498			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120469	B	B cell	2668
+BS719499			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120470	B	B cell	2668
+BS719500			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120470	B	B cell	2668
+BS719520			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120485	B	B cell	2668
+BS719525			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120418	CD4	B cell	2668
+BS719528			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120420	CD4	B cell	2668
+BS719529			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120420	CD4	B cell	2668
+BS719532			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120421	CD4	B cell	2668
+BS719538			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120422	CD4	B cell	2668
+BS719544			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120427	CD4	B cell	2668
+BS719545			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120427	CD4	B cell	2668
+BS719557			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120435	CD4	B cell	2668
+BS719558			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120435	CD4	B cell	2668
+BS719562			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120436	CD4	B cell	2668
+BS719568			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120440	CD4	B cell	2668
+BS719400			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120418	B	B cell	2668
+BS719402			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120418	B	B cell	2668
+BS719403			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120420	B	B cell	2668
+BS752351			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120417		PBMC	2668
+BS752353			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120417		PBMC	2668
+BS752364			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120426		PBMC	2668
+BS752375			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120433		PBMC	2668
+BS752379			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120449		PBMC	2668
+BS752380			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120449		PBMC	2668
+BS752389			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120461		PBMC	2668
+BS752392			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120470		PBMC	2668
+BS752398			PV3225	SDY404	21	Days	Time of initial vaccine administration		SUB120472		PBMC	2668
+BS752403			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120478		PBMC	2668
+BS689307			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120418		Whole blood	2668
+BS689313			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120420		Whole blood	2668
+BS689339			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120430		Whole blood	2668
+BS689341			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120430		Whole blood	2668
+BS689349			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120436		Whole blood	2668
+BS689374			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120446		Whole blood	2668
+BS689387			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120458		Whole blood	2668
+BS689390			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120458		Whole blood	2668
+BS689397			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120460		Whole blood	2668
+BS689402			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120462		Whole blood	2668
+BS689403			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120466		Whole blood	2668
+BS689404			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120466		Whole blood	2668
+BS689411			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120469		Whole blood	2668
+BS689412			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120469		Whole blood	2668
+BS689416			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120470		Whole blood	2668
+BS689417			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120470		Whole blood	2668
+BS689419			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120472		Whole blood	2668
+BS689425			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120473		Whole blood	2668
+BS689435			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120480		Whole blood	2668
+BS689440			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120481		Whole blood	2668
+BS689445			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120483		Whole blood	2668
+BS689449			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120484		Whole blood	2668
+BS689476			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120422		PBMC	2668
+BS689478			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120422		PBMC	2668
+BS689488			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120427		PBMC	2668
+BS689499			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120435		PBMC	2668
+BS689507			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120437		PBMC	2668
+BS689509			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120437		PBMC	2668
+BS689520			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120442		PBMC	2668
+BS689528			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120446		PBMC	2668
+BS689531			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120450		PBMC	2668
+BS689545			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120458		PBMC	2668
+BS689553			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120460		PBMC	2668
+BS689560			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120466		PBMC	2668
+BS689599			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120483		PBMC	2668
+BS689601			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120483		PBMC	2668
+BS689791			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120455		Whole blood	2668
+BS689792			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120455		Whole blood	2668
+BS689800			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120464		Whole blood	2668
+BS689802			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120465		Whole blood	2668
+BS689807			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120475		Whole blood	2668
+BS689816			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120482		Whole blood	2668
+BS719602			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120458	CD4	B cell	2668
+BS719605			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120459	CD4	B cell	2668
+BS719607			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120460	CD4	B cell	2668
+BS719608			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120460	CD4	B cell	2668
+BS719616			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120467	CD4	B cell	2668
+BS719634			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120473	CD4	B cell	2668
+BS719646			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120485	CD4	B cell	2668
+BS719654			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120420	CD8	B cell	2668
+BS719662			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120422	CD8	B cell	2668
+BS719678			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120430	CD8	B cell	2668
+BS719685			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120436	CD8	B cell	2668
+BS719702			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120442	CD8	B cell	2668
+BS719705			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120445	CD8	B cell	2668
+BS719719			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120457	CD8	B cell	2668
+BS719721			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120457	CD8	B cell	2668
+BS719744			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120469	CD8	B cell	2668
+BS719758			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120473	CD8	B cell	2668
+BS719766			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120479	CD8	B cell	2668
+BS719419			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120427	B	B cell	2668
+BS719420			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120427	B	B cell	2668
+BS719437			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120436	B	B cell	2668
+BS719448			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120441	B	B cell	2668
+BS719456			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120445	B	B cell	2668
+BS719463			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120450	B	B cell	2668
+BS719476			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120458	B	B cell	2668
+BS719483			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120460	B	B cell	2668
+BS719487			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120462	B	B cell	2668
+BS719501			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120470	B	B cell	2668
+BS719505			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120472	B	B cell	2668
+BS719511			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120474	B	B cell	2668
+BS719516			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120479	B	B cell	2668
+BS719518			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120479	B	B cell	2668
+BS719531			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120421	CD4	B cell	2668
+BS719534			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120421	CD4	B cell	2668
+BS719536			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120422	CD4	B cell	2668
+BS719540			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120425	CD4	B cell	2668
+BS719555			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120435	CD4	B cell	2668
+BS719576			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120442	CD4	B cell	2668
+BS719578			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120442	CD4	B cell	2668
+BS719587			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120450	CD4	B cell	2668
+BS719591			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120452	CD4	B cell	2668
+BS719401			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120418	B	B cell	2668
+BS719409			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120421	B	B cell	2668
+BS752350			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120417		PBMC	2668
+BS752360			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120423		PBMC	2668
+BS752373			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120432		PBMC	2668
+BS752384			PV3223	SDY404	1	Days	Time of initial vaccine administration		SUB120451		PBMC	2668
+BS752385			PV3223	SDY404	3	Days	Time of initial vaccine administration		SUB120451		PBMC	2668
+BS752411			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120482		PBMC	2668
+BS752418			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120486		PBMC	2668
+BS689309			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120418		Whole blood	2668
+BS689322			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120422		Whole blood	2668
+BS689328			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120425		Whole blood	2668
+BS689332			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120427		Whole blood	2668
+BS689348			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120436		Whole blood	2668
+BS689356			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120440		Whole blood	2668
+BS689365			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120442		Whole blood	2668
+BS689372			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120446		Whole blood	2668
+BS689375			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120450		Whole blood	2668
+BS689386			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120457		Whole blood	2668
+BS689393			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120459		Whole blood	2668
+BS689396			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120460		Whole blood	2668
+BS689408			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120467		Whole blood	2668
+BS689409			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120467		Whole blood	2668
+BS689424			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120473		Whole blood	2668
+BS689446			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120483		Whole blood	2668
+BS689457			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120487		Whole blood	2668
+BS689458			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120487		Whole blood	2668
+BS689462			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120488		Whole blood	2668
+BS689463			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120418		PBMC	2668
+BS689477			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120422		PBMC	2668
+BS689483			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120425		PBMC	2668
+BS689490			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120427		PBMC	2668
+BS689494			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120428		PBMC	2668
+BS689523			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120445		PBMC	2668
+BS689524			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120445		PBMC	2668
+BS689538			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120452		PBMC	2668
+BS689543			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120458		PBMC	2668
+BS689572			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120470		PBMC	2668
+BS689573			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120470		PBMC	2668
+BS689577			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120472		PBMC	2668
+BS689581			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120473		PBMC	2668
+BS689585			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120474		PBMC	2668
+BS689590			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120479		PBMC	2668
+BS689603			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120484		PBMC	2668
+BS689604			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120484		PBMC	2668
+BS689611			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120487		PBMC	2668
+BS689775			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120438		Whole blood	2668
+BS689779			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120443		Whole blood	2668
+BS689783			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120447		Whole blood	2668
+BS689785			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120449		Whole blood	2668
+BS689786			PV3225	SDY404	24	Days	Time of initial vaccine administration		SUB120449		Whole blood	2668
+BS689793			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120456		Whole blood	2668
+BS689794			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120456		Whole blood	2668
+BS689804			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120468		Whole blood	2668
+BS719603			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120459	CD4	B cell	2668
+BS719613			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120462	CD4	B cell	2668
+BS719620			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120469	CD4	B cell	2668
+BS719637			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120474	CD4	B cell	2668
+BS719638			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120474	CD4	B cell	2668
+BS719647			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120418	CD8	B cell	2668
+BS719660			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120422	CD8	B cell	2668
+BS719666			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120425	CD8	B cell	2668
+BS719672			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120428	CD8	B cell	2668
+BS719673			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120428	CD8	B cell	2668
+BS719677			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120430	CD8	B cell	2668
+BS719679			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120435	CD8	B cell	2668
+BS719686			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120436	CD8	B cell	2668
+BS719699			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120442	CD8	B cell	2668
+BS719718			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120452	CD8	B cell	2668
+BS719729			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120459	CD8	B cell	2668
+BS719732			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120460	CD8	B cell	2668
+BS719734			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120460	CD8	B cell	2668
+BS719750			PV3225	SDY404	24	Days	Time of initial vaccine administration		SUB120470	CD8	B cell	2668
+BS719765			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120479	CD8	B cell	2668
+BS719769			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120485	CD8	B cell	2668
+BS719411			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120422	B	B cell	2668
+BS719414			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120422	B	B cell	2668
+BS719423			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120428	B	B cell	2668
+BS719434			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120435	B	B cell	2668
+BS719452			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120442	B	B cell	2668
+BS719454			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120442	B	B cell	2668
+BS719457			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120445	B	B cell	2668
+BS719461			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120446	B	B cell	2668
+BS719472			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120457	B	B cell	2668
+BS719473			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120457	B	B cell	2668
+BS719490			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120462	B	B cell	2668
+BS719491			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120467	B	B cell	2668
+BS719495			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120469	B	B cell	2668
+BS719509			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120473	B	B cell	2668
+BS719512			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120474	B	B cell	2668
+BS719517			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120479	B	B cell	2668
+BS719522			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120485	B	B cell	2668
+BS719524			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120418	CD4	B cell	2668
+BS719527			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120420	CD4	B cell	2668
+BS719553			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120430	CD4	B cell	2668
+BS719567			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120440	CD4	B cell	2668
+BS719579			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120445	CD4	B cell	2668
+BS719583			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120446	CD4	B cell	2668
+BS719598			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120457	CD4	B cell	2668
+BS752355			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120419		PBMC	2668
+BS752357			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120419		PBMC	2668
+BS752393			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120471		PBMC	2668
+BS752396			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120471		PBMC	2668
+BS752400			PV3223	SDY404	3	Days	Time of initial vaccine administration		SUB120473		PBMC	2668
+BS752401			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120478		PBMC	2668
+BS752402			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120478		PBMC	2668
+BS752405			PV3225	SDY404	35	Days	Time of initial vaccine administration		SUB120478		PBMC	2668
+BS752406			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120479		PBMC	2668
+BS752412			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120482		PBMC	2668
+BS752419			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120486		PBMC	2668
+BS689317			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120421		Whole blood	2668
+BS689318			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120421		Whole blood	2668
+BS689336			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120428		Whole blood	2668
+BS689344			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120435		Whole blood	2668
+BS689359			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120441		Whole blood	2668
+BS689366			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120442		Whole blood	2668
+BS689380			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120452		Whole blood	2668
+BS689384			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120457		Whole blood	2668
+BS689388			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120458		Whole blood	2668
+BS689401			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120462		Whole blood	2668
+BS689410			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120467		Whole blood	2668
+BS689414			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120469		Whole blood	2668
+BS689415			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120470		Whole blood	2668
+BS689421			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120472		Whole blood	2668
+BS689423			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120473		Whole blood	2668
+BS689426			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120473		Whole blood	2668
+BS689429			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120474		Whole blood	2668
+BS689439			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120481		Whole blood	2668
+BS689447			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120484		Whole blood	2668
+BS689470			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120420		PBMC	2668
+BS689481			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120424		PBMC	2668
+BS689497			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120430		PBMC	2668
+BS689500			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120435		PBMC	2668
+BS689501			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120435		PBMC	2668
+BS689502			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120435		PBMC	2668
+BS689508			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120437		PBMC	2668
+BS689514			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120440		PBMC	2668
+BS689525			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120445		PBMC	2668
+BS689533			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120450		PBMC	2668
+BS689537			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120452		PBMC	2668
+BS689539			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120457		PBMC	2668
+BS689541			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120457		PBMC	2668
+BS689548			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120459		PBMC	2668
+BS689558			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120462		PBMC	2668
+BS689559			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120466		PBMC	2668
+BS689570			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120469		PBMC	2668
+BS689571			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120470		PBMC	2668
+BS689574			PV3225	SDY404	24	Days	Time of initial vaccine administration		SUB120470		PBMC	2668
+BS689579			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120473		PBMC	2668
+BS689602			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120483		PBMC	2668
+BS689605			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120484		PBMC	2668
+BS689614			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120487		PBMC	2668
+BS689616			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120488		PBMC	2668
+BS689762			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120419		Whole blood	2668
+BS689773			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120434		Whole blood	2668
+BS689778			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120439		Whole blood	2668
+BS689787			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120453		Whole blood	2668
+BS689795			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120461		Whole blood	2668
+BS689796			PV3225	SDY404	36	Days	Time of initial vaccine administration		SUB120461		Whole blood	2668
+BS689803			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120468		Whole blood	2668
+BS689809			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120476		Whole blood	2668
+BS689810			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120476		Whole blood	2668
+BS689813			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120478		Whole blood	2668
+BS719604			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120459	CD4	B cell	2668
+BS719612			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120462	CD4	B cell	2668
+BS719624			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120470	CD4	B cell	2668
+BS719631			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120473	CD4	B cell	2668
+BS719636			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120474	CD4	B cell	2668
+BS719644			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120485	CD4	B cell	2668
+BS719655			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120421	CD8	B cell	2668
+BS719671			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120428	CD8	B cell	2668
+BS719676			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120430	CD8	B cell	2668
+BS719680			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120435	CD8	B cell	2668
+BS719709			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120446	CD8	B cell	2668
+BS719710			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120446	CD8	B cell	2668
+BS719715			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120452	CD8	B cell	2668
+BS719751			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120472	CD8	B cell	2668
+BS719757			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120473	CD8	B cell	2668
+BS719770			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120485	CD8	B cell	2668
+BS719415			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120425	B	B cell	2668
+BS719426			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120428	B	B cell	2668
+BS719436			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120436	B	B cell	2668
+BS719438			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120436	B	B cell	2668
+BS719439			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120437	B	B cell	2668
+BS719442			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120437	B	B cell	2668
+BS719444			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120440	B	B cell	2668
+BS719451			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120442	B	B cell	2668
+BS719494			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120467	B	B cell	2668
+BS719502			PV3225	SDY404	24	Days	Time of initial vaccine administration		SUB120470	B	B cell	2668
+BS719503			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120472	B	B cell	2668
+BS719519			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120485	B	B cell	2668
+BS719530			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120420	CD4	B cell	2668
+BS719533			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120421	CD4	B cell	2668
+BS719546			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120427	CD4	B cell	2668
+BS719559			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120436	CD4	B cell	2668
+BS719573			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120441	CD4	B cell	2668
+BS719574			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120441	CD4	B cell	2668
+BS719575			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120442	CD4	B cell	2668
+BS719590			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120450	CD4	B cell	2668
+BS719399			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120418	B	B cell	2668
+BS719404			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120420	B	B cell	2668
+BS719407			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120421	B	B cell	2668
+BS752366			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120426		PBMC	2668
+BS752381			PV3224	SDY404	8	Days	Time of initial vaccine administration		SUB120449		PBMC	2668
+BS752382			PV3225	SDY404	24	Days	Time of initial vaccine administration		SUB120449		PBMC	2668
+BS752394			PV3223	SDY404	1	Days	Time of initial vaccine administration		SUB120471		PBMC	2668
+BS752410			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120482		PBMC	2668
+BS752414			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120484		PBMC	2668
+BS689323			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120424		Whole blood	2668
+BS689325			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120424		Whole blood	2668
+BS689354			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120437		Whole blood	2668
+BS689361			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120441		Whole blood	2668
+BS689362			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120441		Whole blood	2668
+BS689363			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120442		Whole blood	2668
+BS689378			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120450		Whole blood	2668
+BS689389			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120458		Whole blood	2668
+BS689395			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120460		Whole blood	2668
+BS689442			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120481		Whole blood	2668
+BS689444			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120483		Whole blood	2668
+BS689452			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120485		Whole blood	2668
+BS689456			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120487		Whole blood	2668
+BS689461			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120488		Whole blood	2668
+BS689464			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120418		PBMC	2668
+BS689473			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120421		PBMC	2668
+BS689487			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120427		PBMC	2668
+BS689503			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120436		PBMC	2668
+BS689518			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120441		PBMC	2668
+BS689526			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120445		PBMC	2668
+BS689534			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120450		PBMC	2668
+BS689544			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120458		PBMC	2668
+BS689547			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120459		PBMC	2668
+BS689549			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120459		PBMC	2668
+BS689554			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120460		PBMC	2668
+BS689556			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120462		PBMC	2668
+BS689557			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120462		PBMC	2668
+BS689566			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120467		PBMC	2668
+BS689567			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120469		PBMC	2668
+BS689568			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120469		PBMC	2668
+BS689580			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120473		PBMC	2668
+BS689592			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120480		PBMC	2668
+BS689594			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120480		PBMC	2668
+BS689608			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120485		PBMC	2668
+BS689612			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120487		PBMC	2668
+BS689617			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120488		PBMC	2668
+BS689759			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120417		Whole blood	2668
+BS689764			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120423		Whole blood	2668
+BS689765			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120426		Whole blood	2668
+BS689770			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120431		Whole blood	2668
+BS719610			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120460	CD4	B cell	2668
+BS719614			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120462	CD4	B cell	2668
+BS719619			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120469	CD4	B cell	2668
+BS719628			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120472	CD4	B cell	2668
+BS719630			PV3225	SDY404	32	Days	Time of initial vaccine administration		SUB120472	CD4	B cell	2668
+BS719651			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120420	CD8	B cell	2668
+BS719658			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120421	CD8	B cell	2668
+BS719663			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120425	CD8	B cell	2668
+BS719667			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120427	CD8	B cell	2668
+BS719669			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120427	CD8	B cell	2668
+BS719674			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120428	CD8	B cell	2668
+BS719682			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120435	CD8	B cell	2668
+BS719683			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120436	CD8	B cell	2668
+BS719691			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120440	CD8	B cell	2668
+BS719694			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120440	CD8	B cell	2668
+BS719695			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120441	CD8	B cell	2668
+BS719703			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120445	CD8	B cell	2668
+BS719706			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120445	CD8	B cell	2668
+BS719716			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120452	CD8	B cell	2668
+BS719724			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120458	CD8	B cell	2668
+BS719726			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120458	CD8	B cell	2668
+BS719727			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120459	CD8	B cell	2668
+BS719733			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120460	CD8	B cell	2668
+BS719746			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120469	CD8	B cell	2668
+BS719753			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120472	CD8	B cell	2668
+BS719761			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120474	CD8	B cell	2668
+BS719762			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120474	CD8	B cell	2668
+BS719767			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120485	CD8	B cell	2668
+BS719412			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120422	B	B cell	2668
+BS719417			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120425	B	B cell	2668
+BS719422			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120427	B	B cell	2668
+BS719425			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120428	B	B cell	2668
+BS719427			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120430	B	B cell	2668
+BS719445			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120440	B	B cell	2668
+BS719447			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120441	B	B cell	2668
+BS719450			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120441	B	B cell	2668
+BS719458			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120445	B	B cell	2668
+BS719464			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120450	B	B cell	2668
+BS719469			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120452	B	B cell	2668
+BS719474			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120457	B	B cell	2668
+BS719497			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120469	B	B cell	2668
+BS719504			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120472	B	B cell	2668
+BS719523			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120418	CD4	B cell	2668
+BS719539			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120425	CD4	B cell	2668
+BS719547			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120428	CD4	B cell	2668
+BS719548			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120428	CD4	B cell	2668
+BS719554			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120430	CD4	B cell	2668
+BS719570			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120440	CD4	B cell	2668
+BS719571			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120441	CD4	B cell	2668
+BS719580			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120445	CD4	B cell	2668
+BS719582			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120445	CD4	B cell	2668
+BS719585			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120446	CD4	B cell	2668
+BS719593			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120452	CD4	B cell	2668
+BS719594			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120452	CD4	B cell	2668
+BS752354			PV3225	SDY404	49	Days	Time of initial vaccine administration		SUB120418		PBMC	2668
+BS752361			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120423		PBMC	2668
+BS752362			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120423		PBMC	2668
+BS752365			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120426		PBMC	2668
+BS752369			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120429		PBMC	2668
+BS752386			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120451		PBMC	2668
+BS752387			PV3225	SDY404	38	Days	Time of initial vaccine administration		SUB120452		PBMC	2668
+BS752390			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120461		PBMC	2668
+BS752391			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120461		PBMC	2668
+BS752404			PV3225	SDY404	21	Days	Time of initial vaccine administration		SUB120478		PBMC	2668
+BS752408			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120479		PBMC	2668
+BS752417			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120486		PBMC	2668
+BS689310			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120418		Whole blood	2668
+BS689319			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120422		Whole blood	2668
+BS689321			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120422		Whole blood	2668
+BS689327			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120425		Whole blood	2668
+BS689335			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120428		Whole blood	2668
+BS689342			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120430		Whole blood	2668
+BS689345			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120435		Whole blood	2668
+BS689346			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120435		Whole blood	2668
+BS689352			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120437		Whole blood	2668
+BS689369			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120445		Whole blood	2668
+BS689371			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120446		Whole blood	2668
+BS689377			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120450		Whole blood	2668
+BS689381			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120452		Whole blood	2668
+BS689451			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120485		Whole blood	2668
+BS689459			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120488		Whole blood	2668
+BS689466			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120418		PBMC	2668
+BS689467			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120420		PBMC	2668
+BS689472			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120421		PBMC	2668
+BS689474			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120421		PBMC	2668
+BS689479			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120424		PBMC	2668
+BS689485			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120425		PBMC	2668
+BS689491			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120428		PBMC	2668
+BS689498			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120430		PBMC	2668
+BS689504			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120436		PBMC	2668
+BS689505			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120436		PBMC	2668
+BS689510			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120437		PBMC	2668
+BS689513			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120440		PBMC	2668
+BS689516			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120441		PBMC	2668
+BS689540			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120457		PBMC	2668
+BS689550			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120459		PBMC	2668
+BS689555			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120462		PBMC	2668
+BS689569			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120469		PBMC	2668
+BS689582			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120473		PBMC	2668
+BS689589			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120479		PBMC	2668
+BS689597			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120481		PBMC	2668
+BS689600			PV3223	SDY404	4	Days	Time of initial vaccine administration		SUB120483		PBMC	2668
+BS689609			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120485		PBMC	2668
+BS689613			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120487		PBMC	2668
+BS689615			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120488		PBMC	2668
+BS689618			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120488		PBMC	2668
+BS689767			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120429		Whole blood	2668
+BS689768			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120429		Whole blood	2668
+BS689777			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120439		Whole blood	2668
+BS689780			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120443		Whole blood	2668
+BS689781			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120444		Whole blood	2668
+BS689782			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120444		Whole blood	2668
+BS689812			PV3225	SDY404	35	Days	Time of initial vaccine administration		SUB120477		Whole blood	2668
+BS689815			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120482		Whole blood	2668
+BS689817			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120486		Whole blood	2668
+BS719600			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120458	CD4	B cell	2668
+BS719611			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120462	CD4	B cell	2668
+BS719615			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120467	CD4	B cell	2668
+BS719625			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120470	CD4	B cell	2668
+BS719629			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120472	CD4	B cell	2668
+BS719633			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120473	CD4	B cell	2668
+BS719635			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120474	CD4	B cell	2668
+BS719640			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120479	CD4	B cell	2668
+BS719641			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120479	CD4	B cell	2668
+BS719642			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120479	CD4	B cell	2668
+BS719645			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120485	CD4	B cell	2668
+BS719653			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120420	CD8	B cell	2668
+BS719661			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120422	CD8	B cell	2668
+BS719681			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120435	CD8	B cell	2668
+BS719687			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120437	CD8	B cell	2668
+BS719689			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120437	CD8	B cell	2668
+BS719700			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120442	CD8	B cell	2668
+BS719707			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120446	CD8	B cell	2668
+BS719711			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120450	CD8	B cell	2668
+BS719717			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120452	CD8	B cell	2668
+BS719728			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120459	CD8	B cell	2668
+BS719730			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120459	CD8	B cell	2668
+BS719737			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120462	CD8	B cell	2668
+BS719738			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120462	CD8	B cell	2668
+BS719741			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120467	CD8	B cell	2668
+BS719752			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120472	CD8	B cell	2668
+BS719760			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120474	CD8	B cell	2668
+BS719764			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120479	CD8	B cell	2668
+BS719416			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120425	B	B cell	2668
+BS719418			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120425	B	B cell	2668
+BS719424			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120428	B	B cell	2668
+BS719430			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120430	B	B cell	2668
+BS719432			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120435	B	B cell	2668
+BS719433			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120435	B	B cell	2668
+BS719440			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120437	B	B cell	2668
+BS719441			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120437	B	B cell	2668
+BS719465			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120450	B	B cell	2668
+BS719467			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120452	B	B cell	2668
+BS719471			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120457	B	B cell	2668
+BS719475			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120458	B	B cell	2668
+BS719479			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120459	B	B cell	2668
+BS719492			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120467	B	B cell	2668
+BS719493			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120467	B	B cell	2668
+BS719506			PV3225	SDY404	32	Days	Time of initial vaccine administration		SUB120472	B	B cell	2668
+BS719507			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120473	B	B cell	2668
+BS719535			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120422	CD4	B cell	2668
+BS719549			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120428	CD4	B cell	2668
+BS719556			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120435	CD4	B cell	2668
+BS719560			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120436	CD4	B cell	2668
+BS719561			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120436	CD4	B cell	2668
+BS719563			PV3222	SDY404	0	Days	Time of initial vaccine administration		SUB120437	CD4	B cell	2668
+BS719565			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120437	CD4	B cell	2668
+BS719569			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120440	CD4	B cell	2668
+BS719572			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120441	CD4	B cell	2668
+BS719581			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120445	CD4	B cell	2668
+BS719586			PV3225	SDY404	28	Days	Time of initial vaccine administration		SUB120446	CD4	B cell	2668
+BS719588			PV3223	SDY404	2	Days	Time of initial vaccine administration		SUB120450	CD4	B cell	2668
+BS719589			PV3224	SDY404	7	Days	Time of initial vaccine administration		SUB120450	CD4	B cell	2668

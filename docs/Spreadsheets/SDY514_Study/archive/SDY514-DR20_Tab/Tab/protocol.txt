@@ -1,0 +1,6 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL5519		STANPRO_HAI_v1.PTL5519.doc	Hemagglutination Inhibition Assay	STANPRO_HAI_v1.doc	Assay	2883
+PTL6738		Assay_Protocol_CyTOF-021413-MDL.PTL6738.docx	CyTOF surface phenotyping protocol	Assay_Protocol_CyTOF-021413-MDL.docx	Experiment	2883
+PTL7084		Assay Protocol Luminex.PTL7084.doc	51 plex protocol	Assay Protocol Luminex.doc	Assay	2883
+PTL7136		Phosphoflow assay protocol.PTL7136.doc	Phosphoflow assay protocol	Phosphoflow assay protocol.doc	Not Specified	2883
+PTL7268		17219_Proj_2_3_and_Tech_Dev_1_v1_01JUL2009_final.PTL7268.pdf	17219_Proj_2_3_and_Tech_Dev_1_v1_01JUL2009_final	17219_Proj_2_3_and_Tech_Dev_1_v1_01JUL2009_final.pdf	Not Specified	2883

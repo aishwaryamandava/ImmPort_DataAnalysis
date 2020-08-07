@@ -1,0 +1,346 @@
+BIOSAMPLE_ACCESSION	DESCRIPTION	NAME	PLANNED_VISIT_ACCESSION	STUDY_ACCESSION	STUDY_TIME_COLLECTED	STUDY_TIME_COLLECTED_UNIT	STUDY_TIME_T0_EVENT	STUDY_TIME_T0_EVENT_SPECIFY	SUBJECT_ACCESSION	SUBTYPE	TYPE	WORKSPACE_ID
+BS716938			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135683		Serum	2799
+BS716954			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135691		Serum	2799
+BS717085			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135671		Serum	2799
+BS716864			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS717044			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS717047			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS716851			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS716856			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS717070			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135687		Serum	2799
+BS717078			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135691		Serum	2799
+BS717079			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135691		Serum	2799
+BS716876			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS716894			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS716895			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS716905			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS717011			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS717015			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135690		Whole blood	2799
+BS717016			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135690		Whole blood	2799
+BS717019			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS716979			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS716908			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS716984			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS716987			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS716996			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS716928			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135678		Serum	2799
+BS903226			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS903229			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS903234			PV3083	SDY364	8	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS903304			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS903306			PV3084	SDY364	34	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS903263			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS903269			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS903275			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS903279			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS903284			PV3084	SDY364	29	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS903287			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS716942			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135685		Serum	2799
+BS717084			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135671		Serum	2799
+BS717094			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135676		Serum	2799
+BS716840			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS716850			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS716853			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS716963			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135673		Serum	2799
+BS716972			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS717052			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135678		Serum	2799
+BS717055			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135679		Serum	2799
+BS717063			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135683		Serum	2799
+BS717068			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135686		Serum	2799
+BS716875			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS716884			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS716891			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS716902			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS716973			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS716974			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS716916			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS717022			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS717023			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS717025			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS716985			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS717001			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS717002			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS716931			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135680		Serum	2799
+BS716869			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS903220			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS903231			PV3084	SDY364	29	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS903232			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS903238			PV3083	SDY364	8	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS903240			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS903254			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS903261			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS903273			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS903283			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS716936			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135682		Serum	2799
+BS716940			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135684		Serum	2799
+BS716941			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135685		Serum	2799
+BS716946			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135687		Serum	2799
+BS716948			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135688		Serum	2799
+BS716955			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135692		Serum	2799
+BS717086			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135672		Serum	2799
+BS716862			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS716839			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS716852			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS716855			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS716961			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135672		Serum	2799
+BS716971			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS717082			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135693		Serum	2799
+BS717056			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135680		Serum	2799
+BS717060			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135682		Serum	2799
+BS717062			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135683		Serum	2799
+BS716877			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS716886			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS716899			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS716903			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS717010			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS716976			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS716982			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS716983			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS716920			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS717031			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS717003			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS717007			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS716866			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS716927			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135678		Serum	2799
+BS716932			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135680		Serum	2799
+BS903225			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS903236			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS903245			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS903250			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS903288			PV3084	SDY364	29	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS903297			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS903268			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS903271			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS903274			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS903276			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS903277			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS903282			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS716934			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135681		Serum	2799
+BS716937			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135683		Serum	2799
+BS716943			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135686		Serum	2799
+BS716950			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135689		Serum	2799
+BS716952			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135690		Serum	2799
+BS716953			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135691		Serum	2799
+BS717087			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135672		Serum	2799
+BS717093			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135675		Serum	2799
+BS717041			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS717050			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135677		Serum	2799
+BS716847			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS716858			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS716958			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135693		Serum	2799
+BS716965			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135674		Serum	2799
+BS717051			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135677		Serum	2799
+BS717066			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135685		Serum	2799
+BS717074			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135689		Serum	2799
+BS716873			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS716892			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS716904			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS717009			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS717012			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS717017			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS716980			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS716910			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS716912			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS717021			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS717026			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS717032			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS717036			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS717037			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS716992			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS716998			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS716865			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS716921			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS716933			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135681		Serum	2799
+BS903228			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS903233			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS903241			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS903290			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS903291			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS903295			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS903302			PV3084	SDY364	33	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS903255			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS903260			PV3084	SDY364	34	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS903270			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS903286			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS717089			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135673		Serum	2799
+BS717090			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135674		Serum	2799
+BS717092			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135675		Serum	2799
+BS717048			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS716841			PV3085	SDY364	40	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS716842			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS716845			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS716861			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS716960			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135671		Serum	2799
+BS716970			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135676		Serum	2799
+BS717081			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135692		Serum	2799
+BS717057			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135680		Serum	2799
+BS717061			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135682		Serum	2799
+BS716881			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS716897			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS716898			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS716901			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS716906			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS716907			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS716977			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS716978			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS716911			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS716913			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS716915			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS716918			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS717035			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS716986			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS716993			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS716994			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS716995			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS716997			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS717004			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS717006			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS717038			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS717039			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS717040			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS716868			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS903221			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS903222			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS903235			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS903251			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS903289			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS903294			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135690		Whole blood	2799
+BS903298			PV3084	SDY364	29	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS903299			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS903300			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS903301			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS903256			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS903262			PV3082	SDY364	2	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS903265			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS903285			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135687		Whole blood	2799
+BS716939			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135684		Serum	2799
+BS717088			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135673		Serum	2799
+BS717091			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135674		Serum	2799
+BS716957			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135693		Serum	2799
+BS717043			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS717049			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS716838			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS716849			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS716959			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135671		Serum	2799
+BS716967			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135675		Serum	2799
+BS717083			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135693		Serum	2799
+BS717054			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135679		Serum	2799
+BS717075			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135689		Serum	2799
+BS716872			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS716879			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135687		Whole blood	2799
+BS716880			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS716882			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS716887			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS716888			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135690		Whole blood	2799
+BS716890			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS716896			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135692		Whole blood	2799
+BS717013			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS717018			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS716975			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS716981			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS717027			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS717028			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS717033			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS717034			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS716990			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS717008			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135687		Whole blood	2799
+BS716923			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS716924			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS716925			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135677		Serum	2799
+BS716926			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135677		Serum	2799
+BS903230			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135673		Whole blood	2799
+BS903237			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS903239			PV3084	SDY364	29	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS903242			PV3083	SDY364	8	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS903243			PV3084	SDY364	29	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS903246			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS903248			PV3085	SDY364	41	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS903293			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135690		Whole blood	2799
+BS903303			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS903253			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS903257			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS716945			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135687		Serum	2799
+BS716947			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135688		Serum	2799
+BS716949			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135689		Serum	2799
+BS716863			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS717042			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS717045			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS717046			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS716844			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS716859			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS716860			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS716962			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135672		Serum	2799
+BS716964			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135673		Serum	2799
+BS716966			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135674		Serum	2799
+BS716968			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135675		Serum	2799
+BS716969			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135676		Serum	2799
+BS717077			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135690		Serum	2799
+BS716878			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS716883			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135688		Whole blood	2799
+BS716885			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS716893			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS716900			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS717020			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS716914			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135674		Whole blood	2799
+BS716919			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS717024			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS717030			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS717000			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS716867			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS716922			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135676		Whole blood	2799
+BS716929			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135679		Serum	2799
+BS716930			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135679		Serum	2799
+BS716870			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS903224			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS903227			PV3084	SDY364	29	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS903244			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS903292			PV3084	SDY364	33	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS903296			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135691		Whole blood	2799
+BS903252			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS903258			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS903266			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS903278			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS903281			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS716935			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135682		Serum	2799
+BS716944			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135686		Serum	2799
+BS716951			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135690		Serum	2799
+BS716956			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135692		Serum	2799
+BS717095			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135676		Serum	2799
+BS716843			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS716846			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS716848			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135679		Whole blood	2799
+BS716854			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS716857			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS717053			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135678		Serum	2799
+BS717058			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135681		Serum	2799
+BS717059			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135681		Serum	2799
+BS717064			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135684		Serum	2799
+BS717065			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135684		Serum	2799
+BS717067			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135685		Serum	2799
+BS717069			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135686		Serum	2799
+BS717071			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135687		Serum	2799
+BS717072			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135688		Serum	2799
+BS717073			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135688		Serum	2799
+BS717076			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135690		Serum	2799
+BS717080			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135692		Serum	2799
+BS716871			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS716874			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799
+BS716889			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135690		Whole blood	2799
+BS717014			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135689		Whole blood	2799
+BS716909			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135672		Whole blood	2799
+BS716917			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135675		Whole blood	2799
+BS717029			PV3082	SDY364	1	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS716988			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS716989			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS716991			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS716999			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135684		Whole blood	2799
+BS717005			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135686		Whole blood	2799
+BS903223			PV3084	SDY364	29	Days	Time of initial vaccine administration		SUB135671		Whole blood	2799
+BS903247			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135677		Whole blood	2799
+BS903249			PV3081	SDY364	0	Days	Time of initial vaccine administration		SUB135678		Whole blood	2799
+BS903305			PV3083	SDY364	9	Days	Time of initial vaccine administration		SUB135693		Whole blood	2799
+BS903259			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135680		Whole blood	2799
+BS903264			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135681		Whole blood	2799
+BS903267			PV3083	SDY364	7	Days	Time of initial vaccine administration		SUB135682		Whole blood	2799
+BS903272			PV3084	SDY364	28	Days	Time of initial vaccine administration		SUB135683		Whole blood	2799
+BS903280			PV3084	SDY364	33	Days	Time of initial vaccine administration		SUB135685		Whole blood	2799

@@ -1,0 +1,79 @@
+SUBJECT_ACCESSION	AGE_EVENT	AGE_EVENT_SPECIFY	AGE_REPORTED	AGE_UNIT	DESCRIPTION	ETHNICITY	GENDER	PHENOTYPE	POPULATION_NAME	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	TAXONOMY_ID	WORKSPACE_ID
+SUB146515	Age at Study Day 0		48.28	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-004	Other	White		Homo sapiens			9606	2883
+SUB146518	Age at Study Day 0		82.74	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146521	Age at Study Day 0		9.47	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-013	Other	White		Homo sapiens			9606	2883
+SUB146553	Age at Study Day 0		22.6	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-048	Other	White		Homo sapiens			9606	2883
+SUB146574	Age at Study Day 0		25.37	Years	FluMist Intranasal Spray|66019-107-01	Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-069	Other	White		Homo sapiens			9606	2883
+SUB146575	Age at Study Day 0		44.15	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-072	Other	Other	American Indian or Alaska Native, White	Homo sapiens			9606	2883
+SUB146577	Age at Study Day 0		74.11	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146582	Age at Study Day 0		27.6	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Fraternal twin;Twin sibling ID is SLVP018-080	Other	White		Homo sapiens			9606	2883
+SUB146520	Age at Study Day 0		71.02	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146544	Age at Study Day 0		71.12	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-037	Other	White		Homo sapiens			9606	2883
+SUB146555	Age at Study Day 0		72.53	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-050	Other	White		Homo sapiens			9606	2883
+SUB146559	Age at Study Day 0		15.73	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-054	Other	White		Homo sapiens			9606	2883
+SUB146516	Age at Study Day 0		74.64	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	Asian		Homo sapiens			9606	2883
+SUB146528	Age at Study Day 0		85.4	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146531	Age at Study Day 0		15.97	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-029	Other	White		Homo sapiens			9606	2883
+SUB146536	Age at Study Day 0		87.12	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146543	Age at Study Day 0		71.12	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-038	Other	White		Homo sapiens			9606	2883
+SUB146556	Age at Study Day 0		72.53	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-049	Other	White		Homo sapiens			9606	2883
+SUB146561	Age at Study Day 0		18.16	Years	FluMist Intranasal Spray|66019-107-01	Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-056	Other	White		Homo sapiens			9606	2883
+SUB146565	Age at Study Day 0		27.48	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-058	Other	White		Homo sapiens			9606	2883
+SUB146567	Age at Study Day 0		41.99	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-060	Other	White		Homo sapiens			9606	2883
+SUB146581	Age at Study Day 0		27.59	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Fraternal twin;Twin sibling ID is SLVP018-081	Other	White		Homo sapiens			9606	2883
+SUB146514	Age at Study Day 0		48.28	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Fraternal twin;Twin sibling ID is SLVP018-005	Other	White		Homo sapiens			9606	2883
+SUB146525	Age at Study Day 0		77.24	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146532	Age at Study Day 0		12.75	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-027	Other	White		Homo sapiens			9606	2883
+SUB146533	Age at Study Day 0		12.75	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-026	Other	White		Homo sapiens			9606	2883
+SUB146534	Age at Study Day 0		74.59	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146546	Age at Study Day 0		9.82	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-039	Other	White		Homo sapiens			9606	2883
+SUB146560	Age at Study Day 0		15.73	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-053	Other	White		Homo sapiens			9606	2883
+SUB146568	Age at Study Day 0		70.88	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146570	Age at Study Day 0		22.72	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-065	Other	White		Homo sapiens			9606	2883
+SUB146576	Age at Study Day 0		44.15	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-071	Other	Other	American Indian or Alaska Native, White	Homo sapiens			9606	2883
+SUB146584	Age at Study Day 0		18.57	Years	copy from 2010, Fluzone single-dose syringe|49281-010-50	Hispanic or Latino	Male	Fraternal twin;Twin sibling ID is SLVP018-152	Other	White		Homo sapiens			9606	2883
+SUB146653	Not_Specified		0	Not_Specified	The control sample subjects are blood bank donors for which there are frozen many replicate vials of PBMC, and they are included in each batch of certain assays. There are no demographics on these donors; they are used simply as a batch control.	Not_Specified	Not_Specified		None of the Above	Not_Specified		Homo sapiens			9606	2883
+SUB146513	Age at Study Day 0		75.14	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146526	Age at Study Day 0		83.36	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146527	Age at Study Day 0		78.5	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146537	Age at Study Day 0		88.27	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146540	Age at Study Day 0		47.57	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Fraternal twin;Twin sibling ID is SLVP018-035	Other	Black or African American		Homo sapiens			9606	2883
+SUB146547	Age at Study Day 0		71.95	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146550	Age at Study Day 0		72.01	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146551	Age at Study Day 0		41.85	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-046	Other	White		Homo sapiens			9606	2883
+SUB146552	Age at Study Day 0		41.85	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-045	Other	White		Homo sapiens			9606	2883
+SUB146558	Age at Study Day 0		77.18	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-051	Other	White		Homo sapiens			9606	2883
+SUB146573	Age at Study Day 0		25.37	Years	FluMist Intranasal Spray|66019-107-01	Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-070	Other	Other		Homo sapiens			9606	2883
+SUB146583	Age at Study Day 0		73.66	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146586	Age at Study Day 0		12.67	Years	copy from 2010, Fluzone single-dose syringe|49281-010-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-154	Other	White		Homo sapiens			9606	2883
+SUB146530	Age at Study Day 0		48.15	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-021	Other	White		Homo sapiens			9606	2883
+SUB146539	Age at Study Day 0		71.12	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-032	Other	White		Homo sapiens			9606	2883
+SUB146542	Age at Study Day 0		75.15	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146545	Age at Study Day 0		9.82	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-040	Other	White		Homo sapiens			9606	2883
+SUB146554	Age at Study Day 0		22.6	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-047	Other	White		Homo sapiens			9606	2883
+SUB146562	Age at Study Day 0		18.16	Years	FluMist Intranasal Spray|66019-107-01	Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-055	Other	Other	White, Not_Specified	Homo sapiens			9606	2883
+SUB146564	Age at Study Day 0		27.48	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-059	Other	White		Homo sapiens			9606	2883
+SUB146569	Age at Study Day 0		22.75	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-066	Other	White		Homo sapiens			9606	2883
+SUB146578	Age at Study Day 0		79.03	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146579	Age at Study Day 0		20.26	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-078	Other	Other	Black or African American, Asian	Homo sapiens			9606	2883
+SUB146585	Age at Study Day 0		18.57	Years	copy from 2010, Fluzone single-dose syringe|49281-010-50	Hispanic or Latino	Male	Fraternal twin;Twin sibling ID is SLVP018-151	Other	White		Homo sapiens			9606	2883
+SUB146587	Age at Study Day 0		12.67	Years	copy from 2010, Fluzone single-dose syringe|49281-010-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-153	Other	White		Homo sapiens			9606	2883
+SUB146517	Age at Study Day 0		90	Years	Fluzone single-dose syringe|49281-009-50;age rounded down to 90 by ImmPort submission tool	Not Hispanic or Latino	Male	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146519	Age at Study Day 0		74.53	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146523	Age at Study Day 0		85.97	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146524	Age at Study Day 0		87.5	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146529	Age at Study Day 0		48.15	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-022	Other	White		Homo sapiens			9606	2883
+SUB146541	Age at Study Day 0		47.58	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-034	Other	Black or African American		Homo sapiens			9606	2883
+SUB146548	Age at Study Day 0		71.84	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-043	Other	White		Homo sapiens			9606	2883
+SUB146549	Age at Study Day 0		71.84	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-042	Other	White		Homo sapiens			9606	2883
+SUB146557	Age at Study Day 0		77.18	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-052	Other	White		Homo sapiens			9606	2883
+SUB146572	Age at Study Day 0		17.43	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-067	Other	White		Homo sapiens			9606	2883
+SUB146651	Not_Specified		0	Not_Specified	The control sample subjects are blood bank donors for which there are frozen many replicate vials of PBMC, and they are included in each batch of certain assays. There are no demographics on these donors; they are used simply as a batch control.	Not_Specified	Not_Specified		None of the Above	Not_Specified		Homo sapiens			9606	2883
+SUB146522	Age at Study Day 0		9.47	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-012	Other	White		Homo sapiens			9606	2883
+SUB146535	Age at Study Day 0		15.91	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-025	Other	White		Homo sapiens			9606	2883
+SUB146538	Age at Study Day 0		71.12	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-033	Other	White		Homo sapiens			9606	2883
+SUB146563	Age at Study Day 0		73.49	Years	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Non-Twin	Other	White		Homo sapiens			9606	2883
+SUB146566	Age at Study Day 0		41.99	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Identical twin;Twin sibling ID is SLVP018-061	Other	White		Homo sapiens			9606	2883
+SUB146571	Age at Study Day 0		17.43	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Identical twin;Twin sibling ID is SLVP018-068	Other	White		Homo sapiens			9606	2883
+SUB146580	Age at Study Day 0		20.26	Years	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Fraternal twin;Twin sibling ID is SLVP018-077	Other	Other	Black or African American, Asian	Homo sapiens			9606	2883
+SUB146652	Not_Specified		0	Not_Specified	The control sample subjects are blood bank donors for which there are frozen many replicate vials of PBMC, and they are included in each batch of certain assays. There are no demographics on these donors; they are used simply as a batch control.	Not_Specified	Not_Specified		None of the Above	Not_Specified		Homo sapiens			9606	2883

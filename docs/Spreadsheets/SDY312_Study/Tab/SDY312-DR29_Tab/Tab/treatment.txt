@@ -1,0 +1,11 @@
+TREATMENT_ACCESSION	AMOUNT_UNIT	AMOUNT_VALUE	COMMENTS	DURATION_UNIT	DURATION_VALUE	NAME	TEMPERATURE_UNIT	TEMPERATURE_VALUE	WORKSPACE_ID
+TRT1191	Not Specified	Not_Specified		Not Specified	Not_Specified	sample treatment for microarray gene expression analysis	Not Specified	Not_Specified	2883
+TRT1193	Not Specified	Not_Specified		Not Specified	Not_Specified	none	Not Specified	Not_Specified	2883
+TRT1336	Not Specified	Not_Specified		Not Specified	Not_Specified	PBMC isolation from blood	Not Specified	Not_Specified	2883
+TRT1609	Not Specified	Not_Specified		Not Specified	Not_Specified	SLVP015_2009_luminextreatment	Not Specified	Not_Specified	2883
+TRT1753	Not Specified	Not_Specified		Not Specified	Not_Specified	Unstim	Not Specified	Not_Specified	2883
+TRT1754	ug/ml	10000		Minutes	15	interferon alpha	C	37	2883
+TRT1755	ng/ml	50		Minutes	15	interferon gamma	C	37	2883
+TRT492	ng/ml	50		Minutes	15	IL-6	C	37	2883
+TRT494	ng/ml	50		Minutes	15	IL-10	C	37	2883
+TRT495	ng/ml	50		Minutes	15	IL-21	C	37	2883

@@ -1,0 +1,10 @@
+EXPERIMENT_ACCESSION	DESCRIPTION	MEASUREMENT_TECHNIQUE	NAME	STUDY_ACCESSION	WORKSPACE_ID
+EXP10592		Hemagglutination Inhibition	Haemagglutinin inhibition assay for quantitating seasonal influenza virus neutralizing antibodies	SDY180	2799
+EXP13540		Luminex xMAP	Pneumococcal Immunoassay	SDY180	2799
+EXP10591		Transcription profiling by array	Illumina Gene Expressions microarrays	SDY180	2799
+EXP11771		Luminex xMAP	Cytokine Concentration	SDY180	2799
+EXP11773		Virus Neutralization	Neutralizing Antibody Titer	SDY180	2799
+EXP11772		DNA microarray	Gene Expression	SDY180	2799
+EXP13539		Hemagglutination Inhibition	Hemagglutination Inhibition	SDY180	2799
+EXP11770		Flow Cytometry	Flow Cytometry	SDY180	2799
+EXP13887		Nanostring	Flu_09_Nanostring	SDY180	2799

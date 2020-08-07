@@ -1,0 +1,34 @@
+March 25, 2015
+Raj K. Kurupati
+
+Influenza Virus Purification Protocol
+
+Materials:
+	
+	10 day-old specific pathogen-free (SPF) embryonated eggs
+Stocks of H1N1 A/California/04/2009 and A/TEXAS/50/2012 (H3N2) virus
+	Ultracentrifuge tubes (Beckman #344059)
+	Sucrose Gradient (55% and 10%)
+	50 ml conical tubes
+
+Protocol:
+Day 1
+1. Diluted virus was injected into the eggs and incubated for 48 hrs at 35.5oC and 45% relative humidity with turn intervals of 60 min.
+Day 3
+2. Post incubation eggs were chilled at 4oC overnight. Allantoic fluid is harvested and spun at 3,000 rpm for 10 min.
+Day 4
+3. Allantoic fluid supernatant containing the virus was collected and subjected to ultracentrifugation at 20,000 rpm for 1 hr to concentrate the virus. 
+4. Decant the supernatant and re-suspend the pellet in 0.5 µ 1 mL of PBS 
+5. Prepare a sucrose density gradient in Beckman tubes 
+* 1 mL of Virus
+* 5.5 mL 10% sucrose
+* 5.5 mL 55% sucrose
+6. Spin at 25,000 rpm for 2 hrs at 4oC.
+7. Remove the top layer and harvest the purified virus from the interface into fresh ultracentrifuge tube. 
+8. Dilute this fraction with PBS and spin at 20,000 rpm for 1 hr at 4oC.
+9. Remove supernatant and re-suspend the pellet in PBS and store at -80oC.
+
+Virus titrations
+1. The virus was titrated by hemagglutination assay with chicken red blood cells. 
+2. The mean tissue culture infective dose (TCID50) was determined by serially diluting virus on Madin-Darby Canine Kidney (MDCK) cells and screening cells 3 days later for viral plaques. 
+3. Infectious virus was used for neutralizing antibody assays or inactivated by a 45-minute treatment with betapropionolactone for ELISpot assays. 

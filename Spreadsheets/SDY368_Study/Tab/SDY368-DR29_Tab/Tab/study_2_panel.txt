@@ -1,0 +1,12 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY368	adverseevents
+SDY368	arm or cohorts
+SDY368	assessments
+SDY368	conmeds
+SDY368	demographics
+SDY368	documentation
+SDY368	inclusionExclusion
+SDY368	labtests
+SDY368	mechassays
+SDY368	subject
+SDY368	summary

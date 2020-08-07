@@ -1,0 +1,58 @@
+REAGENT_ACCESSION	ANALYTE_ACCESSION	ANALYTE_PREFERRED	ANALYTE_REPORTED	ANTIBODY_REGISTRY_ID	CATALOG_NUMBER	CLONE_NAME	CONTACT	DESCRIPTION	IS_SET	LOT_NUMBER	MANUFACTURER	NAME	REPORTER_NAME	TYPE	WEBLINK	WORKSPACE_ID
+ESR11299			IgA1		16-16-090701-1M-1x1mg				N		ATHENS RESEARCH & TECHNOLOGY	Immunoglobulin A1, IgA1 Human Myeloma Plasma				2634
+ESR11300			IgG		16-16-090707-FC-1x1mg				N		ATHENS RESEARCH & TECHNOLOGY	Immunoglobulin G, Human Plasma, FC Fragment IgG				2634
+ESR11301	ANA817	IgM	IgM		16-16-090713-M-1x1mg				N		ATHENS RESEARCH & TECHNOLOGY	Immunoglobulin M, IgM Human Myeloma Plasma				2634
+ESR11302	ANA817	IgM	IgM		9020-04				N		SOUTHERN BIOTECH	Mouse Anti-Human IgM-AP				2634
+ESR11303			IgG		9042-04				N		SOUTHERN BIOTECH	Mouse Anti-Human IgG (Fc)-AP				2634
+ESR11304			IgA		9130-04				N		SOUTHERN BIOTECH	Mouse Anti-Human IgA1-AP				2634
+ESR16178					LSOO3752				N		WORTHINGTON BIOCHEMICAL CORP	Trypsin TPCK-Treated Irradiated		Virus Neutralization		2634
+ESR16295					BD-103-0204			The HumanHT-12 v4 Expression BeadChip content provides genome-wide transcriptional coverage of well-characterized genes, gene candidates, and splice variants, delivering high-throughput processing of 12 samples per BeadChip without the need for expensive, specialized automation. The BeadChip is designed to support flexible usage across a wide-spectrum of experiments. Each array on the HumanHT-12 v4 Expression BeadChip targets more than 47,000 probes derived from the National Center for Biotechnology Information Reference Sequence (NCBI) RefSeq Release 38 (November 7, 2009) and other sources. 12-sample format enables large gene expression studies to be completed quickly and economically.	N		Illumina	Illumina HumanHT-12 v4 Expression BeadChip		Array		2634
+ESR17673	ANA804	CD14	CD14		301819	M5E2		fluorochrome-conjugated monoclonal antibody	N		Biolegend	CD14	APC-Cy7	Flow Cytometry		2634
+ESR17674	ANA811	CD16	CD16		302017	3G8		fluorochrome-conjugated monoclonal antibody	N		Biolegend	CD16	APC-Cy7	Flow Cytometry		2634
+ESR17675	ANA805	CD19	CD19		302217	HIB19		fluorochrome-conjugated monoclonal antibody	N		Biolegend	CD19	APC-Cy7	Flow Cytometry		2634
+ESR17676	ANA163	IL2RA	IL2RA		302633	BC96		fluorochrome-conjugated monoclonal antibody	N		Biolegend	CD25	BV650	Flow Cytometry		2634
+ESR17677	ANA40	CD27	CD27		302833	O323		fluorochrome-conjugated monoclonal antibody	N		Biolegend	CD27	BV711	Flow Cytometry		2634
+ESR17678	ANA863	CD28	CD28		562296	CD28.2		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	CD28	PE-CF594	Flow Cytometry		2634
+ESR17679	ANA809	CD3	CD3		NA	OKT3		fluorochrome-conjugated monoclonal antibody	N		custom conjugated	CD3	Qdot 585	Flow Cytometry		2634
+ESR17680	ANA808	CD38	CD38		563964	HIT2		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	CD38	BV786	Flow Cytometry		2634
+ESR17681	ANA808	CD38	CD38		564499	HIT2		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	CD38	BB515	Flow Cytometry		2634
+ESR17682	ANA921	CD39	CD39		12-0399	eBioA1		fluorochrome-conjugated monoclonal antibody	N		eBiosciences	CD39	PE	Flow Cytometry		2634
+ESR17683	ANA41	CD4	CD4		50-0048	OKT4		fluorochrome-conjugated monoclonal antibody	N		eBiosciences	CD4	eFluor 660	Flow Cytometry		2634
+ESR17684	ANA41	CD4	CD4		MHCD0418	S3.5		fluorochrome-conjugated monoclonal antibody	N		Invitrogen	CD4	PE-Cy5.5	Flow Cytometry		2634
+ESR17685	ANA816	CD45RA	CD45RA		304133	HI100		fluorochrome-conjugated monoclonal antibody	N		Biolegend	CD45RA	BV605	Flow Cytometry		2634
+ESR17686	ANA810	CD8	CD8		NA	RPA-T8		fluorochrome-conjugated monoclonal antibody	N		custom conjugated	CD8	Qdot 565	Flow Cytometry		2634
+ESR17687	ANA871	CD152	CD152		563931	BNI3		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	CTLA4	BV786	Flow Cytometry		2634
+ESR17688	ANA78	CXCR5	CXCR5		563105	RF8B2		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	CXCR5	BV510	Flow Cytometry		2634
+ESR17689			Foxo1		sc-374427 X	C-9		custom conjugation	N		Santa Cruz Biotech	Foxo1	PE-Cy5.5	Flow Cytometry		2634
+ESR17690			Foxp1		IC45341G	837016		fluorochrome-conjugated monoclonal antibody	N		R&D Systems	Foxp1	Alexa 488	Flow Cytometry		2634
+ESR17691			Foxp3		562421	259D		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	Foxp3	PE-CF594	Flow Cytometry		2634
+ESR17692			gH2AX		05-636-AF488	JBW301		fluorochrome-conjugated monoclonal antibody	N		EMD Millipore	gH2AX	Alexa 488	Flow Cytometry		2634
+ESR17693			Helios		17-9883	22F6		fluorochrome-conjugated monoclonal antibody	N		eBiosciences	Helios	APC	Flow Cytometry		2634
+ESR17694			HEY-L		ab61277	NA		custom conjugation	N		Abcam	HEYL	Alexa 647	Flow Cytometry		2634
+ESR17695	ANA898	CD278	CD278		313519	C398.4A		fluorochrome-conjugated monoclonal antibody	N		Biolegend	ICOS	PE-Cy7	Flow Cytometry		2634
+ESR17696	ANA898	CD278	CD278		NBP1-43065	C398.4A		fluorochrome-conjugated monoclonal antibody	N		Novus Biologicals	ICOS	PE-Cy5	Flow Cytometry		2634
+ESR17697			Itch		11131-MM01-P-50	01		fluorochrome-conjugated monoclonal antibody	N		SinoBiological	Itch	PE	Flow Cytometry		2634
+ESR17698	ANA889	Ki67	Ki67		561277	B56		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	Ki67	Alexa 700	Flow Cytometry		2634
+ESR17699			Viability		423105	NA		Dye	N		Biolegend	LiveDead	Zombie NIR	Flow Cytometry		2634
+ESR17700	ANA921	CD39	CD39		556561	G175-1239		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	p16	PE	Flow Cytometry		2634
+ESR17701			p21		8587S	12D1		fluorochrome-conjugated monoclonal antibody	N		Cell Signaling	p21	Alexa 647	Flow Cytometry		2634
+ESR17702	ANA818	PD1	PD1		562516	EH12.1		fluorochrome-conjugated monoclonal antibody	N		BD Biosciences	PD-1	BV421	Flow Cytometry		2634
+ESR17703			PPARg		ab48373	NA		biotinylated polyclonal antibody	N		Abcam	PPARg	PE-CF594	Flow Cytometry		2634
+ESR17704			SirT2		MAB4358	506611		custom conjugation	N		R&D Systems	SirT2	PE-Cy5	Flow Cytometry		2634
+ESR17705			STK39		MABS178	5H7.1		custom conjugation	N		EMD Millipore	STK39	PE-Cy5	Flow Cytometry		2634
+ESR17706								Panel 1 2014	Y			Panel 1 2014		Flow Cytometry		2634
+ESR17707								Panel 2 2014	Y			Panel 2 2014		Flow Cytometry		2634
+ESR17708								Panel 3 2014	Y			Panel 3 2014		Flow Cytometry		2634
+ESR18005			Live stain		423102	Stain			N		BioLegend	Live/Dead stain	Amcyan	Flow Cytometry		2634
+ESR18006			B cell marker		300330	HIT3a			N		BioLegend	CD3	Pacific Blue	Flow Cytometry		2634
+ESR18007			B cell marker		325616	HCD14			N		BioLegend	CD14	Pacific Blue	Flow Cytometry		2634
+ESR18008			B cell marker		302238	HIB19			N		BioLegend	CD19	Brilliant Violet 650	Flow Cytometry		2634
+ESR18009			B cell marker		302332	2H7			N		BioLegend	CD20	Brilliant Violet 570	Flow Cytometry		2634
+ESR18010			B cell marker		302832	O323			N		BioLegend	CD27	Brilliant Violet 785	Flow Cytometry		2634
+ESR18011			B cell marker		356614	HB-7			N		BioLegend	CD38	PerCP-Cy5.5	Flow Cytometry		2634
+ESR18012			Immunoglobulin		348210	IA6-2			N		BioLegend	IgD	Pe-Cy7	Flow Cytometry		2634
+ESR18013			Immune marker		329806	9F.8A4			N		BioLegend	ICOS-Ligand	PE	Flow Cytometry		2634
+ESR18015			Immunoglobulin		561296	G18-145			N		BD Pharmingen	IgG	Alexa 700	Flow Cytometry		2634
+ESR18016			Immunoglobulin		314510	MHM-88			N		BioLegend	IgM	APC	Flow Cytometry		2634
+ESR18017			Immune marker		320106	206D			N		BioLegend	FOXP3	FITC	Flow Cytometry		2634
+ESR18018								B cell Panel 1 2014	Y			B cell Panel 1 2014		Flow Cytometry		2634

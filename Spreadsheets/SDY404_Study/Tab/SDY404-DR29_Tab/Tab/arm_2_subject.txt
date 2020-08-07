@@ -1,0 +1,73 @@
+ARM_ACCESSION	SUBJECT_ACCESSION	AGE_EVENT	AGE_EVENT_SPECIFY	AGE_UNIT	MAX_SUBJECT_AGE	MIN_SUBJECT_AGE	SUBJECT_PHENOTYPE
+ARM2358	SUB120474	Age at enrollment		Years	22	22	Younger adult
+ARM2358	SUB120456	Age at enrollment		Years	25	25	Younger adult
+ARM2358	SUB120445	Age at enrollment		Years	27	27	Younger adult
+ARM2358	SUB120449	Age at enrollment		Years	28	28	Younger adult
+ARM2359	SUB120466	Age at enrollment		Years	68	68	Older adult, not-frail
+ARM2359	SUB120422	Age at enrollment		Years	68	68	Older adult, pre-frail
+ARM2359	SUB120428	Age at enrollment		Years	72	72	Older adult, frail
+ARM2359	SUB120483	Age at enrollment		Years	73	73	Older adult, frail
+ARM2359	SUB120437	Age at enrollment		Years	76	76	Older adult, not-frail
+ARM2359	SUB120477	Age at enrollment		Years	77	77	Older adult, frail
+ARM2359	SUB120431	Age at enrollment		Years	79	79	Older adult, not-frail
+ARM2359	SUB120418	Age at enrollment		Years	83	83	Older adult, frail
+ARM2359	SUB120485	Age at enrollment		Years	66	66	Older adult, not-frail
+ARM2358	SUB120447	Age at enrollment		Years	24	24	Younger adult
+ARM2358	SUB120469	Age at enrollment		Years	24	24	Younger adult
+ARM2358	SUB120455	Age at enrollment		Years	24	24	Younger adult
+ARM2358	SUB120462	Age at enrollment		Years	26	26	Younger adult
+ARM2358	SUB120420	Age at enrollment		Years	28	28	Younger adult
+ARM2359	SUB120419	Age at enrollment		Years	75	75	Older adult, pre-frail
+ARM2359	SUB120478	Age at enrollment		Years	78	78	Older adult, frail
+ARM2359	SUB120486	Age at enrollment		Years	90	90	Older adult, frail
+ARM2358	SUB120448	Age at enrollment		Years	23	23	Younger adult
+ARM2358	SUB120463	Age at enrollment		Years	24	24	Younger adult
+ARM2358	SUB120470	Age at enrollment		Years	25	25	Younger adult
+ARM2359	SUB120427	Age at enrollment		Years	69	69	Older adult, not-frail
+ARM2359	SUB120481	Age at enrollment		Years	90	90	Older adult, frail
+ARM2358	SUB120475	Age at enrollment		Years	24	24	Younger adult
+ARM2358	SUB120454	Age at enrollment		Years	25	25	Younger adult
+ARM2358	SUB120471	Age at enrollment		Years	27	27	Younger adult
+ARM2358	SUB120459	Age at enrollment		Years	27	27	Younger adult
+ARM2358	SUB120461	Age at enrollment		Years	27	27	Younger adult
+ARM2358	SUB120423	Age at enrollment		Years	30	30	Younger adult
+ARM2358	SUB120473	Age at enrollment		Years	30	30	Younger adult
+ARM2359	SUB120434	Age at enrollment		Years	66	66	Older adult, not-frail
+ARM2359	SUB120436	Age at enrollment		Years	66	66	Older adult, frail
+ARM2359	SUB120442	Age at enrollment		Years	72	72	Older adult, pre-frail
+ARM2359	SUB120439	Age at enrollment		Years	74	74	Older adult, pre-frail
+ARM2358	SUB120453	Age at enrollment		Years	23	23	Younger adult
+ARM2358	SUB120446	Age at enrollment		Years	30	30	Younger adult
+ARM2359	SUB120443	Age at enrollment		Years	69	69	Older adult, not-frail
+ARM2359	SUB120425	Age at enrollment		Years	69	69	Older adult, pre-frail
+ARM2359	SUB120433	Age at enrollment		Years	70	70	Older adult, pre-frail
+ARM2358	SUB120467	Age at enrollment		Years	22	22	Younger adult
+ARM2358	SUB120457	Age at enrollment		Years	27	27	Younger adult
+ARM2358	SUB120458	Age at enrollment		Years	27	27	Younger adult
+ARM2358	SUB120465	Age at enrollment		Years	27	27	Younger adult
+ARM2359	SUB120424	Age at enrollment		Years	71	71	Older adult, pre-frail
+ARM2359	SUB120484	Age at enrollment		Years	76	76	Older adult, pre-frail
+ARM2359	SUB120429	Age at enrollment		Years	76	76	Older adult, pre-frail
+ARM2359	SUB120440	Age at enrollment		Years	81	81	Older adult, not-frail
+ARM2359	SUB120480	Age at enrollment		Years	82	82	Older adult, frail
+ARM2359	SUB120488	Age at enrollment		Years	87	87	Older adult, pre-frail
+ARM2358	SUB120472	Age at enrollment		Years	23	23	Younger adult
+ARM2358	SUB120460	Age at enrollment		Years	25	25	Younger adult
+ARM2358	SUB120452	Age at enrollment		Years	28	28	Younger adult
+ARM2358	SUB120468	Age at enrollment		Years	30	30	Younger adult
+ARM2358	SUB120476	Age at enrollment		Years	30	30	Younger adult
+ARM2359	SUB120435	Age at enrollment		Years	70	70	Older adult, pre-frail
+ARM2359	SUB120487	Age at enrollment		Years	71	71	Older adult, pre-frail
+ARM2359	SUB120426	Age at enrollment		Years	78	78	Older adult, not-frail
+ARM2359	SUB120430	Age at enrollment		Years	78	78	Older adult, not-frail
+ARM2358	SUB120451	Age at enrollment		Years	26	26	Younger adult
+ARM2358	SUB120444	Age at enrollment		Years	23	23	Younger adult
+ARM2358	SUB120464	Age at enrollment		Years	30	30	Younger adult
+ARM2358	SUB120450	Age at enrollment		Years	30	30	Younger adult
+ARM2359	SUB120432	Age at enrollment		Years	76	76	Older adult, pre-frail
+ARM2359	SUB120482	Age at enrollment		Years	73	73	Older adult, not-frail
+ARM2359	SUB120421	Age at enrollment		Years	74	74	Older adult, not-frail
+ARM2359	SUB120479	Age at enrollment		Years	74	74	Older adult, pre-frail
+ARM2359	SUB120441	Age at enrollment		Years	77	77	Older adult, not-frail
+ARM2359	SUB120438	Age at enrollment		Years	77	77	Older adult, not-frail
+ARM2359	SUB120417	Age at enrollment		Years	78	78	Older adult, not-frail

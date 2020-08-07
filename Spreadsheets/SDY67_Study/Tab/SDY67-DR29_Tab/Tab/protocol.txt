@@ -1,0 +1,24 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL4991		enrollment.PTL4991.pdf	Enrollment data screens	enrollment.pdf	Not Specified	2510
+PTL4992		haiprotocol.PTL4992.pdf	Influenza H1N1 HAI Protocol	haiprotocol.pdf	Not Specified	2510
+PTL5260		trec.PTL5260.pdf	trec	trec.pdf	Not Specified	2510
+PTL5320		GrzBSOP.PTL5320.docx	Gbprot	GrzBSOP.docx	Not Specified	2510
+PTL5416		Tertprotocol2012.PTL5416.doc	Tertprot	Tertprotocol2012.doc	Not Specified	2510
+PTL5883		BcellElispotSOP.PTL5883.doc	bcellprot	BcellElispotSOP.doc	Not Specified	2510
+PTL5884		chemokine.PTL5884.pdf	chprot	chemokine.pdf	Not Specified	2510
+PTL5885		Chemokineprep.PTL5885.docx	prep	Chemokineprep.docx	Not Specified	2510
+PTL5888		cytokine.PTL5888.pdf	cytprot	cytokine.pdf	Not Specified	2510
+PTL5892		NGS.PTL5892.docx	NGS	NGS.docx	Not Specified	2510
+PTL6558		VirusNeutralizationAssay.PTL6558.doc	VNAprot	VirusNeutralizationAssay.doc	Not Specified	2510
+PTL6559		HAIused.PTL6559.doc	HAIUSEDprot	HAIused.doc	Not Specified	2510
+PTL7276		FlowSOP.PTL7276.pdf	Flow Cytometry SOP for Influenza U01	FlowSOP.pdf	Not Specified	2510
+PTL7277		Gating.PTL7277.pdf	U01 Innate Panel Gating Strategy	Gating.pdf	Not Specified	2510
+PTL7288	Average Beta values are the values submitted	methylation-protocol.PTL7288.pdf	Infinium HD Assay for Methylation	methylation-protocol.pdf	Not Specified	2510
+PTL7934		proteomics.PTL7934.pdf	ProteomicProt	proteomics.pdf	Not Specified	2510
+PTL7966		Protocol-Method-Ref.PTL7966.pdf	Analysis Data Set for Methylation paper	Protocol-Method-Ref.pdf	Not Specified	2510
+PTL8157		MiRNA_NGS.PTL8157.pdf	miRNA protocol1	miRNA_NGS.pdf	Not Specified	2510
+PTL8158		EN-miRNeasy-Mini-Handbook.PTL8158.pdf	miRNA protocol2	EN-miRNeasy-Mini-Handbook.pdf	Not Specified	2510
+PTL8159		EN-RNeasy-MinElute-Cleanup-Handbook.PTL8159.pdf	miRNA protocol3	EN-RNeasy-MinElute-Cleanup-Handbook.pdf	Not Specified	2510
+PTL8160		FACS Isolation of CD8 and NK cells.PTL8160.pdf	miRNA protocol4	FACS Isolation of CD8 and NK cells.pdf	Not Specified	2510
+PTL8165	Protocol for running the Poinflammatory I Panel Assay	MSDProinflamatoryPanel1AssaySOP.PTL8165.doc	MSD Proinflamatory Panel 1 Assay SOP	MSDProinflamatoryPanel1AssaySOP.doc	Not Specified	2510
+PTL8166	Protocol for Cell Preparation and Plating for Chemokine and Cytokine Multiplex Assay	ChemokineCytokineMultiplexAssay.PTL8166.docx	Protocol for Cell Preparation and Plating for Chemokine and Cytokine Multiplex Assay	ChemokineCytokineMultiplexAssay.docx	Not Specified	2510

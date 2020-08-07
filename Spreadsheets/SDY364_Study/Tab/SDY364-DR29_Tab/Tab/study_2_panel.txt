@@ -1,0 +1,12 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY364	adverseevents
+SDY364	arm or cohorts
+SDY364	assessments
+SDY364	conmeds
+SDY364	demographics
+SDY364	documentation
+SDY364	inclusionExclusion
+SDY364	labtests
+SDY364	mechassays
+SDY364	subject
+SDY364	summary

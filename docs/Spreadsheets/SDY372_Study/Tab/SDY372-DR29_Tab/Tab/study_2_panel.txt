@@ -1,0 +1,11 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY372	arm or cohorts
+SDY372	assessments
+SDY372	conmeds
+SDY372	demographics
+SDY372	documentation
+SDY372	inclusionExclusion
+SDY372	mechassays
+SDY372	study files
+SDY372	subject
+SDY372	summary

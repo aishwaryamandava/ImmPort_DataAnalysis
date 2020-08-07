@@ -1,0 +1,46 @@
+NAME	DESCRIPTION	LINK	TYPE
+Antibody titer	Antibody titer is a titer of antibody that shows how much antibody an organism has produced that recognizes a particular epitope, expressed as the greatest dilution ratio (or its reciprocal) that still gives a positive result. ELISA is a common means of determining antibody titers.	http://purl.obolibrary.org/obo/VO_0000150	Titer
+C	Celsius	http://purl.obolibrary.org/obo/UO_0000027	temperature
+Cq	Threshold cycle (or Ct or Cq) is a count which is defined as the fractional PCR cycle number at which the reporter fluorescence is greater than the threshold in the context of the RT-qPCR assay.	http://purl.obolibrary.org/obo/STATO_0000190	PCR
+Ct	Threshold cycle (or Ct or Cq) is a count which is defined as the fractional PCR cycle number at which the reporter fluorescence is greater than the threshold in the context of the RT-qPCR assay.	http://purl.obolibrary.org/obo/STATO_0000190	PCR
+Delta Ct	Difference between the target gene and the reference gene.	http://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A11846609	PCR
+Delta Delta Ct	Difference between the Delta Ct target gene of the treated sample and the Delta Ct of the target gene of the untreated sample.	http://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A11846609	PCR
+F	Fahrenheit	http://purl.obolibrary.org/obo/UO_0000195	temperature
+FPKM	Fragments Per Kilobase Million: Normalized expression value of a given gene as measured by paired-end RNA sequencing	http://www.ncbi.nlm.nih.gov/pubmed/22872506	gene_expression
+HAU	hemagglutination units	http://en.wikipedia.org/wiki/Virus_quantification	concentration
+IU	The unitage assigned by the WHO to International Biological Standards - substances, classed as biological according to the criteria provided by WHO Expert Committee on Biological Standardization (e.g. hormones, enzymes, and vaccines), to enable the results of biological and immunological assay procedures to be expressed in the same way throughout the world. The definition of an international unit is generally arbitrary and technical, and has to be officially approved by the International Conference for Unification of Formulae.	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C48579&ns=NCI_Thesaurus	mass
+K	Kelvin	http://purl.obolibrary.org/obo/UO_0000012	temperature
+M	molar	http://purl.obolibrary.org/obo/UO_0000062	concentration
+MFI at 90th percentile	Mean Fluorescence Intensity at 90th Percentile.  MFI : A unit of measure equal to the geometric mean fluorescence intensity of a log-normal distribution of fluorescence signals.	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C96687&ns=NCI_Thesaurus	derived_flow
+MOI	multiplicity of infection	http://en.wikipedia.org/wiki/Multiplicity_of_infection	concentration
+Not Specified	No value provided. Not stated explicitly or in detail.	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C38046&ns=NCI_Thesaurus	Not_Specified
+RPKM	Reads Per Kilobase Million: Normalized expression value of a given gene as measured by single-end RNA sequencing	http://www.ncbi.nlm.nih.gov/pubmed/22872506	gene_expression
+TCID50	mean tissue culture infective dose	http://en.wikipedia.org/wiki/Virus_quantification	concentration
+TPM	Transcripts per million reads- Measurement of mRNA abundance using RNA-seq data	http://www.ncbi.nlm.nih.gov/pubmed/22872506	gene_expression
+cells	cell count	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C48938&ns=NCI_Thesaurus	derived_flow
+cells/ul	A unit of cell concentration expressed as a number of cells per unit volume equal to one microliter.	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C67242&ns=NCI_Thesaurus	derived_flow
+gm	gram	http://purl.obolibrary.org/obo/UO_0000021	mass
+mM	millimolar	http://purl.obolibrary.org/obo/UO_0000063	concentration
+mg	milligram	http://purl.obolibrary.org/obo/UO_0000022	mass
+mg/ml	microgram per milliliter	http://purl.bioontology.org/ontology/SNOMEDCT/258798001	concentration
+ml	milliliter	http://purl.obolibrary.org/obo/UO_0000098	volume
+nM	nanomolar	http://purl.obolibrary.org/obo/UO_0000065	concentration
+ng	nanogram	http://purl.obolibrary.org/obo/UO_0000024	mass
+ng/ml	nanogram per milliliter	http://purl.bioontology.org/ontology/SNOMEDCT/258806002	concentration
+ng/nl	nanogram per nanoliter		concentration
+ng/ul	nanogram per microliter	http://purl.bioontology.org/ontology/SNOMEDCT/272082007	concentration
+nl	nanoliter	http://purl.obolibrary.org/obo/UO_0000102	volume
+pM	picomolar	http://purl.obolibrary.org/obo/UO_0000066	concentration
+percentage	A fraction or ratio with 100 understood as the denominator. e.g. percentage of a cell population of interest within a parent population	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C25613&ns=NCI_Thesaurus	derived_flow
+pg	picogram	http://purl.obolibrary.org/obo/UO_0000025	mass
+pg/ml	picogram per milliliter	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C67327&ns=NCI_Thesaurus	concentration
+pg/nl	picogram per nanoliter		concentration
+pg/ul	picogram per microliter	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C67306&ns=NCI_Thesaurus	concentration
+pl	picoliter	http://purl.obolibrary.org/obo/UO_0000103	volume
+stim/unstim fold change	Fold change comparing stimulated vs unstimulated sample		derived_flow
+uM	micromolar	http://purl.bioontology.org/ontology/SNOMEDCT/258814008	concentration
+ug	microgram	http://purl.obolibrary.org/obo/UO_0000023	mass
+ug/ml	microgram per milliliter	http://purl.bioontology.org/ontology/SNOMEDCT/258801007	concentration
+ug/ul	microgram per microliter	http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C42576&ns=NCI_Thesaurus	concentration
+ul	microliter	http://purl.obolibrary.org/obo/UO_0000101	volume
+units/ml	Enzyme Unit per Milliliter. Unit of catalytic activity concentration defined as activity equal to one enzyme unit per one milliliter of system volume.	http://purl.bioontology.org/ontology/SNOMEDCT/259002007	concentration

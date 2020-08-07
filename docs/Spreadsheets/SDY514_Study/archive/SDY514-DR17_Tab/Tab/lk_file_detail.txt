@@ -1,0 +1,28 @@
+NAME	DESCRIPTION	LINK
+Affymetrix CEL	Affymetrix CEL file.	http://media.affymetrix.com/support/developer/powertools/changelog/gcos-agcc/cel.html
+Affymetrix format	Affymetrix genotyping format.	http://www.affymetrix.com/support/technical/whitepapers.affx
+Affymetrix other	Other Affymetrix file formats (DAT, RPT, and TXT formats).	http://www.affymetrix.com/support/technical/whitepapers.affx
+Converted FCS file	FCS file converted for FLOW analysis.	https://en.wikipedia.org/wiki/Flow_Cytometry_Standard; http://bioconductor.org/packages/release/bioc/html/flowCore.html
+Custom	A user defined custom format.	http://immport.org/immport-open/public/home/documentation
+Flow cytometry result in fcs format	Flow cytometer or analysis software output in FCS format.	https://en.wikipedia.org/wiki/Flow_Cytometry_Standard; http://bioconductor.org/packages/release/bioc/html/flowCore.html
+Flow cytometry result in text format	Flow cytometer or analysis software output in text format.	https://en.wikipedia.org/wiki/Flow_Cytometry_Standard; http://bioconductor.org/packages/release/bioc/html/flowCore.html
+GenePattern data set	GenePattern GCT file format.	http://www.broadinstitute.org/cancer/software/genepattern/file-formats-guide
+HLA result	HLA result in ImmPort format.	http://immport.org/immport-open/public/home/documentation
+Illumina BeadArray	Illumina BeadArray format.	http://www.illumina.com/content/illumina-marketing/amr/en_US/technology/beadarray-technology.html
+ImmPort template	ImmPort defined file format.	http://immport.org/immport-open/public/home/documentation
+KIR result	KIR result.	http://immport.org/immport-open/public/home/documentation
+Markers or channels description	Description of marker or channels in a FCS file.	http://immport.org/immport-open/public/home/documentation
+MBAA	Multiplex Bead Array Assay.	http://immport.org/immport-open/public/home/documentation
+Q-PCR result	Q-PCR result file.	http://immport.org/immport-open/public/home/documentation
+Hemagglutination inhibition result	HIA result in custom format.	http://immport.org/immport-open/public/home/documentation
+Mass spectrometry result	Mass result in custom format.	http://immport.org/immport-open/public/home/documentation
+Illumina GA	Illumina Genome Analyzer sequencer non-normalized result.	https://support.illumina.com/sequencing/sequencing_instruments/genome_analyzer_iix.html
+MBAA bead level result	Multiplex Bead Array Assay. bead level result are the primary output of MBBA instruments.	http://immport.org/immport-open/public/home/documentation
+CyTOF result in fcs format	CyTOF result in FCS format.	https://en.wikipedia.org/wiki/Flow_Cytometry_Standard; http://bioconductor.org/packages/release/bioc/html/flowCore.html
+FASTQ	FASTQ- sequencing read data file format for combining the sequence and per base quality score.	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2847217/
+BAM	Binary representation of SAM (Sequence Alignment/Map).	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2723002/
+TPM	Transcripts per million reads- Measurement of mRNA abundance using RNA-seq data.	http://www.ncbi.nlm.nih.gov/pubmed/22872506
+RPKM	Reads Per Kilobase per Million reads- Measurement of mRNA abundance using RNA-seq data.	http://www.ncbi.nlm.nih.gov/pubmed/18516045
+FPKM	Fragments Per Kilobase Of Exon Per Million Fragments- Measurement of mRNA abundance using RNA-seq data.	http://www.ncbi.nlm.nih.gov/pubmed/20436464
+Flow cytometry workspace	Flow cytometry analysis software workspace.	http://docs.flowjo.com/vx/workspaces-and-samples/ws-savinganalysis/
+CyTOF workspace	CyTOF analysis software workspace.	http://immport.org/immport-open/public/home/documentation

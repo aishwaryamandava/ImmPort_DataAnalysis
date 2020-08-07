@@ -1,0 +1,9 @@
+NAME	DESCRIPTION	LINK
+-	Value not specified or not received.	
+A	Value of Absent.	
+Absent	Value of Absent (preferred).	
+ND	No Data.	
+No	Value of Present=No (equivalent to Absent).	
+P	Value of Present.	
+Present	Value of Present (preferred).	
+Yes	Value of Present=Yes (equivalent to Present).	

@@ -1,0 +1,20 @@
+NAME	DESCRIPTION	LINK
+CD8 T cell recall clonotypes	CD8 tells you what kind of T cell, recall implies a stimulation with a recall antigen, clonotypes implies sequences of some sort.	http://purl.obolibrary.org/obo/OBI_0000070
+Cellular Activity	A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies.	http://purl.obolibrary.org/obo/OBI_0000070
+Cellular Phenotype	The physical characteristics of a cell (e.g cell surface markers).	http://purl.obolibrary.org/obo/OBI_0000070
+Cellular Quantification	Quantify the number of cells in a sample that express a repetoire of cell surface antigens.	http://purl.obolibrary.org/obo/OBI_0000916
+Cytokine Quantification	Quantify the production and/or release of a cytokine by a cell(s) in response to a stimulus(i)/treatment(s).	http://purl.obolibrary.org/obo/OBI_0000615
+Enzyme Activity	What does an enzyme do. What are the kinetics. How is it modulated.	http://purl.obolibrary.org/obo/OBI_0000070
+Epitope Mapping	Identify the portion of an antigen recognized by an antibody.	http://purl.obolibrary.org/obo/OBI_0000070
+Genotyping	Determine DNA sequence at locus in the genome. Compare sequence to canonical sequence and known variants.	http://purl.obolibrary.org/obo/OBI_0000435
+Library Preparation	Process which results in the creation of a library from fragments of DNA.	http://purl.obolibrary.org/obo/OBI_0000711
+Localization	Where is an entity found at a given time.	http://purl.obolibrary.org/obo/OBI_0000070
+Microbiome	A collection or collectivity of microorganisms.	http://www.ebi.ac.uk/efo/EFO_0004982
+Molecular Activity	A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies.	http://purl.obolibrary.org/obo/OBI_0000070
+Molecular Quantification	Quantify other biomolecules (e.g. protein, hnRNA, DNA, lipids, fats, sugars, amino acids).	http://purl.obolibrary.org/obo/OBI_0000070
+Neutralizing Antibody Titer	Measure the concentration (by titration) of antibody that can neutralize an antigen.	http://purl.obolibrary.org/obo/OBI_0000872
+Other	Other Experiment Type not listed.	http://purl.obolibrary.org/obo/OBI_0000070
+Protein Quantification	A planned process which aims to provide information about protein expression and translation activity using protein extracts collected from a material entity using a range of techniques and instrument such as Mass spectrometers, Gel electrophoresis, Western Blots, Protein microarrays.	http://purl.obolibrary.org/obo/OBI_0000615
+Sample Preparation	A sample_preparation_for_assay is a protocol_application including material_enrollments and biomaterial_transformations.	http://purl.obolibrary.org/obo/OBI_0000073
+Transcript Quantification	Quantify the processed mRNA transcribed from a gene. The mRNA is often converted to cDNA or cRNA.	http://purl.obolibrary.org/obo/OBI_0000424
+Virus Titer	Measure the concentration of a virus by titration (dilution).	http://purl.obolibrary.org/obo/FLU_0000867

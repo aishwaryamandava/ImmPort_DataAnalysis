@@ -1,0 +1,6 @@
+EXPERIMENT_ACCESSION	DESCRIPTION	MEASUREMENT_TECHNIQUE	NAME	STUDY_ACCESSION	WORKSPACE_ID
+EXP13619	Raw (non-normalized) Illumina data; mapping between Illumina sample ID and subject is provided under Experiment Sample Name. 	DNA microarray	Illumina gene expression measurement on D0 subjects	SDY312	2883
+EXP13676	Flow cytometry surface phenotyping, day 0	Flow Cytometry	Flow cytometry surface phenotyping, day 0	SDY312	2883
+EXP13838		Luminex xMAP	Serum cytokine quantification at multiple time points	SDY312	2883
+EXP13620		Hemagglutination Inhibition	HAI	SDY312	2883
+EXP13848	?phospho flow, day 0	Flow Cytometry	SLVP015_2009_pho	SDY312	2883

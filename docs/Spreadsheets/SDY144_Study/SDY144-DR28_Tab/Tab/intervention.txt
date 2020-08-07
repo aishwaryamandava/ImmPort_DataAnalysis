@@ -1,0 +1,29 @@
+INTERVENTION_ACCESSION	COMPOUND_NAME_REPORTED	COMPOUND_ROLE	DOSE	DOSE_FREQ_PER_INTERVAL	DOSE_REPORTED	DOSE_UNITS	DURATION	DURATION_UNIT	END_DAY	END_TIME	FORMULATION	IS_ONGOING	NAME_PREFERRED	NAME_REPORTED	REPORTED_INDICATION	ROUTE_OF_ADMIN_PREFERRED	ROUTE_OF_ADMIN_REPORTED	START_DAY	START_TIME	STATUS	STUDY_ACCESSION	SUBJECT_ACCESSION	WORKSPACE_ID
+SM149003	Nadidine	Concomitant Medication			UNK									Nadidine				0			SDY144	SUB118183	2799
+SM149005	Cefdiner	Concomitant Medication			250/5ml 2.5ml									Cefdiner				29			SDY144	SUB118183	2799
+SM149006	Pulmocort	Concomitant Medication	1		1 puff	puff								Pulmocort				29			SDY144	SUB118183	2799
+SM149042	Amoxicillin	Concomitant Medication			UNK									Amoxicillin				28			SDY144	SUB118161	2799
+SM149052	Concerta	Concomitant Medication	28	am	28 mg (am)	mg								Concerta				0			SDY144	SUB118155	2799
+SM148985	Eucerine	Concomitant Medication			UNK									Eucerine				0			SDY144	SUB118168	2799
+SM148910	Melatonin	Concomitant Medication	9	"pm"	"9 mg (pm)"	"mg"								Melatonin				0			SDY144	SUB118155	2799
+SM148914	Cefdinir	Concomitant Medication			UNK									Cefdinir				-13			SDY144	SUB118183	2799
+SM149004	Pulmacort	Concomitant Medication			UNK									Pulmacort				0			SDY144	SUB118183	2799
+SM148915	Albuterol	Concomitant Medication	2.5		"2.5 ml"	"ml"								Albuterol				-13			SDY144	SUB118183	2799
+SM148930	Nasonex	Concomitant Medication			UNK									Nasonex				0			SDY144	SUB118158	2799
+SM148933	Pulmicort	Concomitant Medication			UNK									Pulmicort				0			SDY144	SUB118183	2799
+SM148909	Concerta	Concomitant Medication	12	"pm"	"12 mg (pm)"	"mg"								Concerta				0			SDY144	SUB118155	2799
+SM148931	Clarinex	Concomitant Medication			UNK									Clarinex				0			SDY144	SUB118158	2799
+SM148903	Amoxicilin	Concomitant Medication			UNK									Amoxicilin				16			SDY144	SUB118161	2799
+SM148973	Advir	Concomitant Medication			UNK									Advir				0			SDY144	SUB118158	2799
+SM148974	Benzoyl peroxide	Concomitant Medication			UNK									Benzoyl peroxide			scrub	0			SDY144	SUB118158	2799
+SM148924	Claritin	Concomitant Medication	10	"QHS OF PRN"	"10 mg"	"mg"								Claritin				0			SDY144	SUB118167	2799
+SM148926	Mucinex	Concomitant Medication			UNK									Mucinex				16			SDY144	SUB118168	2799
+SM148927	Orapred	Concomitant Medication			UNK									Orapred				16			SDY144	SUB118174	2799
+SM148928	Z-Max	Concomitant Medication			UNK									Z-Max				16			SDY144	SUB118183	2799
+SM148904	Concerta	Concomitant Medication	36	"QD"	"36 mg"	"mg"								Concerta				0			SDY144	SUB118174	2799
+SM148911	Flonase	Concomitant Medication	2	"pm"	"2 sprays (pm)"	"sprays"								Flonase				0			SDY144	SUB118155	2799
+SM148916	Pulmicort	Concomitant Medication			UNK									Pulmicort				-13			SDY144	SUB118183	2799
+SM148921	Mucinex	Concomitant Medication			UNK									Mucinex				16			SDY144	SUB118153	2799
+SM148922	Amoxicillin	Concomitant Medication			UNK									Amoxicillin				16			SDY144	SUB118153	2799
+SM148932	Albuterol	Concomitant Medication			UNK									Albuterol				0			SDY144	SUB118158	2799
+SM148913	Albuterol	Concomitant Medication			UNK									Albuterol				0			SDY144	SUB118164	2799

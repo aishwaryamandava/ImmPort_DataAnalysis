@@ -1,0 +1,5 @@
+EXPERIMENT_ACCESSION	DESCRIPTION	MEASUREMENT_TECHNIQUE	NAME	STUDY_ACCESSION	WORKSPACE_ID
+EXP13950		Luminex xMAP	Luminex serum protein quantifucation assays on 2009 flu vaccine samples	SDY514	2883
+EXP13921	flow phenotyping	Flow Cytometry	Flow cytometry assays on 2009 flu vaccine samples	SDY514	2883
+EXP13915		Hemagglutination Inhibition	HAI assays on 2009 flu vaccine samples	SDY514	2883
+EXP13922	?phospho flow, day 0	Flow Cytometry	Phosphoflow phenotyping assays on 2009 flu vaccine samples	SDY514	2883

@@ -1,0 +1,35 @@
+EXPOSURE_ACCESSION	ARM_ACCESSION	DISEASE_ONTOLOGY_ID	DISEASE_PREFERRED	DISEASE_REPORTED	DISEASE_STAGE_PREFERRED	DISEASE_STAGE_REPORTED	EXPOSURE_MATERIAL_ID	EXPOSURE_MATERIAL_PREFERRED	EXPOSURE_MATERIAL_REPORTED	EXPOSURE_PROCESS_PREFERRED	EXPOSURE_PROCESS_REPORTED	SUBJECT_ACCESSION
+IM4694	ARM773						VO_0000047		Fluzone	vaccination	vaccination	SUB119297
+IM4710	ARM776						VO_0000047		Fluzone	vaccination	vaccination	SUB119274
+IM4698	ARM773						VO_0000047		Fluzone	vaccination	vaccination	SUB119293
+IM4709	ARM777						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119276
+IM4685	ARM780						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119260
+IM4705	ARM774						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119281
+IM4707	ARM776						VO_0000047		Fluzone	vaccination	vaccination	SUB119278
+IM4701	ARM774						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119289
+IM4679	ARM776						VO_0000047		Fluzone	vaccination	vaccination	SUB119268
+IM4687	ARM780						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119258
+IM4691	ARM779						VO_0000047		Fluzone	vaccination	vaccination	SUB119254
+IM4697	ARM773						VO_0000047		Fluzone	vaccination	vaccination	SUB119294
+IM4704	ARM774						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119285
+IM4682	ARM777						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119264
+IM4686	ARM780						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119259
+IM4693	ARM779						VO_0000047		Fluzone	vaccination	vaccination	SUB119252
+IM4678	ARM777						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119269
+IM4692	ARM779						VO_0000047		Fluzone	vaccination	vaccination	SUB119253
+IM4677	ARM777						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119273
+IM4695	ARM773						VO_0000047		Fluzone	vaccination	vaccination	SUB119296
+IM4700	ARM774						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119290
+IM4683	ARM776						VO_0000047		Fluzone	vaccination	vaccination	SUB119262
+IM4708	ARM776						VO_0000047		Fluzone	vaccination	vaccination	SUB119277
+IM4684	ARM780						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119261
+IM4681	ARM777						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119266
+IM4696	ARM773						VO_0000047		Fluzone	vaccination	vaccination	SUB119295
+IM4690	ARM779						VO_0000047		Fluzone	vaccination	vaccination	SUB119255
+IM4703	ARM774						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119286
+IM4680	ARM776						VO_0000047		Fluzone	vaccination	vaccination	SUB119267
+IM4689	ARM779						VO_0000047		Fluzone	vaccination	vaccination	SUB119256
+IM4699	ARM773						VO_0000047		Fluzone	vaccination	vaccination	SUB119292
+IM4702	ARM774						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119287
+IM4706	ARM777						VO_0000088		Pneumovax 23 (USA)	vaccination	vaccination	SUB119279
+IM4688	ARM779						VO_0000047		Fluzone	vaccination	vaccination	SUB119257

@@ -1,0 +1,10 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY67	arm or cohorts
+SDY67	demographics
+SDY67	documentation
+SDY67	mechassays
+SDY67	publications
+SDY67	resources
+SDY67	study files
+SDY67	subject
+SDY67	summary

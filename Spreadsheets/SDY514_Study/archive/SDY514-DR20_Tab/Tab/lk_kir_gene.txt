@@ -1,0 +1,23 @@
+NAME	DESCRIPTION	LINK
+2DL1	IMGT KIR Locus name 2DL1.	
+2DL2	IMGT KIR Locus name 2DL2.	
+2DL2/3	IMGT KIR Locus name 2DL2/3.	
+2DL3	IMGT KIR Locus name 2DL3.	
+2DL4	IMGT KIR Locus name 2DL4.	
+2DL5	IMGT KIR Locus name 2DL5.	
+2DL5A	IMGT KIR Locus name 2DL5A.	
+2DL5B	IMGT KIR Locus name 2DL5B.	
+2DP1	IMGT KIR Locus name 2DP1.	
+2DS1	IMGT KIR Locus name 2DS1.	
+2DS2	IMGT KIR Locus name 2DS2.	
+2DS3	IMGT KIR Locus name 2DS3.	
+2DS3/5	IMGT KIR Locus name 2DS3/5.	
+2DS4	IMGT KIR Locus name 2DS4.	
+2DS5	IMGT KIR Locus name 2DS5.	
+3DL1	IMGT KIR Locus name 3DL1.	
+3DL1/DS1	IMGT KIR Locus name 3DL1/DS1.	
+3DL2	IMGT KIR Locus name 3DL2.	
+3DL3	IMGT KIR Locus name 3DL3.	
+3DP1	IMGT KIR Locus name 3DP1.	
+3DS1	IMGT KIR Locus name 3DS1.	
+Subject Haplotype(s)	IMGT KIR Subject Haplotype(s).	

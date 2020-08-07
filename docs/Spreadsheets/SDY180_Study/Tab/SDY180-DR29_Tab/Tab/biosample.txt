@@ -1,0 +1,1630 @@
+BIOSAMPLE_ACCESSION	DESCRIPTION	NAME	PLANNED_VISIT_ACCESSION	STUDY_ACCESSION	STUDY_TIME_COLLECTED	STUDY_TIME_COLLECTED_UNIT	STUDY_TIME_T0_EVENT	STUDY_TIME_T0_EVENT_SPECIFY	SUBJECT_ACCESSION	SUBTYPE	TYPE	WORKSPACE_ID
+BS661933			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661935			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661947			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661948			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS661951			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661953			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661955			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661961			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661970			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS661973			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661978			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661981			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS661983			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661986			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS662005			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662012			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662022			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662055			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662079			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662084			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662091			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662107			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662111			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS699694			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699696			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699698			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699711			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699721			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699727			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699732			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699740			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699751			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699756			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699762			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699763			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699769			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699782			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699784			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS699786			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS699789			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS699796			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS699798			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS699799			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS699801			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS699804			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662127			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662156			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662158			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662168			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662175			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662189			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS662198			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS662208			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS662230			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS662250			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS662252			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS662260			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS662262			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS662264			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS662267			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS662275			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS662276			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS662278			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS662280			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS662282			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS662285			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS662290			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS662293			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS662296			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS662299			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS662303			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS662311			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS662316			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS662324			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS662327			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS662329			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662347			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662351			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662360			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662371			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS662376			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662379			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS662380			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS662381			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662384			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS662385			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS662397			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS662398			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662400			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662402			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662406			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS662416			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699825			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699834			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699842			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699844			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699853			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699856			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS699861			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS699865			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS699871			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS699879			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS699890			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS699895			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS699903			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS699904			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS699905			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS699913			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS699915			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS699916			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS699918			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS699947			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS699949			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS699951			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS699962			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS699966			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS699981			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS661774			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS661788			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS661794			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS661795			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS661813			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119256		Other	2799
+BS661829			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661839			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661842			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661856			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119259		Other	2799
+BS661896			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661902			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661908			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661910			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661911			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661912			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661917			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661922			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS689265			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119285		Protein	2799
+BS689272			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119275		Protein	2799
+BS689278			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119271		Protein	2799
+BS689280			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119272		Protein	2799
+BS689287			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119288		Protein	2799
+BS689291			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119280		Protein	2799
+BS689294			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119280		Protein	2799
+BS689295			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119283		Protein	2799
+BS689302			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119291		Protein	2799
+BS689306			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119284		Protein	2799
+BS689127			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119296		Protein	2799
+BS689130			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119268		Protein	2799
+BS689132			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119277		Protein	2799
+BS689139			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119267		Protein	2799
+BS689151			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119274		Protein	2799
+BS689152			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119277		Protein	2799
+BS689154			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119253		Protein	2799
+BS689158			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119262		Protein	2799
+BS689160			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119268		Protein	2799
+BS689166			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119295		Protein	2799
+BS689172			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119277		Protein	2799
+BS689175			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119293		Protein	2799
+BS689195			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119293		Protein	2799
+BS689202			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119257		Protein	2799
+BS689208			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119264		Protein	2799
+BS689221			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119273		Protein	2799
+BS689224			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119258		Protein	2799
+BS689229			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119266		Protein	2799
+BS689239			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119266		Protein	2799
+BS689244			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119259		Protein	2799
+BS689249			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119266		Protein	2799
+BS689254			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119260		Protein	2799
+BS751128			PV2339	SDY180	0	Days	Time of enrollment		SUB119292		Whole blood	2799
+BS751130			PV2339	SDY180	0	Days	Time of enrollment		SUB119294		Whole blood	2799
+BS751136			PV2338	SDY180	-7	Days	Time of enrollment		SUB119274		Whole blood	2799
+BS584920	sample titer BAY_SUBJECT_000005 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119283	serum	Serum	2799
+BS584927	sample titer BAY_SUBJECT_000021 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119293	serum	Serum	2799
+BS584939	sample titer BAY_SUBJECT_000025 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119297	serum	Serum	2799
+BS584947	sample microarray BAY_SUBJECT_000001 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584954	sample microarray BAY_SUBJECT_000002 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584957	sample microarray BAY_SUBJECT_000002 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584964	sample microarray BAY_SUBJECT_000003 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584965	sample microarray BAY_SUBJECT_000003 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584971	sample microarray BAY_SUBJECT_000005 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584982	sample microarray BAY_SUBJECT_000006 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584984	sample microarray BAY_SUBJECT_000006 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584991	sample microarray BAY_SUBJECT_000009 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS585016	sample microarray BAY_SUBJECT_000013 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585017	sample microarray BAY_SUBJECT_000013 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585027	sample microarray BAY_SUBJECT_000015 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585036	sample microarray BAY_SUBJECT_000016 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585039	sample microarray BAY_SUBJECT_000016 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585044	sample microarray BAY_SUBJECT_000018 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585046	sample microarray BAY_SUBJECT_000018 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585049	sample microarray BAY_SUBJECT_000018 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585068	sample microarray BAY_SUBJECT_000022 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585070	sample microarray BAY_SUBJECT_000022 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585089	sample microarray BAY_SUBJECT_000024 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS585091	sample microarray BAY_SUBJECT_000024 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS585098	sample microarray BAY_SUBJECT_000025 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS940125			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119265		Whole blood	2799
+BS940134			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119266		Whole blood	2799
+BS940163			PV2339	SDY180	0	Days	Time of enrollment		SUB119270		Whole blood	2799
+BS940164			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119270		Whole blood	2799
+BS940167			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119270		Whole blood	2799
+BS940170			PV2338	SDY180	-7	Days	Time of enrollment		SUB119271		Whole blood	2799
+BS940176			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119271		Whole blood	2799
+BS940177			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119271		Whole blood	2799
+BS940189			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119273		Whole blood	2799
+BS940197			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119274		Whole blood	2799
+BS940204			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119275		Whole blood	2799
+BS940206			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119275		Whole blood	2799
+BS940214			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119276		Whole blood	2799
+BS940215			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119276		Whole blood	2799
+BS940225			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119277		Whole blood	2799
+BS940226			PV2338	SDY180	-7	Days	Time of enrollment		SUB119278		Whole blood	2799
+BS940249			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119280		Whole blood	2799
+BS940254			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119281		Whole blood	2799
+BS940318			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119288		Whole blood	2799
+BS940331			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119289		Whole blood	2799
+BS940335			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119290		Whole blood	2799
+BS940359			PV2338	SDY180	-7	Days	Time of enrollment		SUB119293		Whole blood	2799
+BS940365			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119293		Whole blood	2799
+BS940373			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119294		Whole blood	2799
+BS940387			PV2339	SDY180	0	Days	Time of enrollment		SUB119296		Whole blood	2799
+BS940391			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119296		Whole blood	2799
+BS661931			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661938			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661945			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS661946			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661964			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS661968			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661969			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661971			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661972			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661974			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661988			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661989			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661993			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661998			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS662013			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662025			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662030			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662031			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662037			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662041			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662048			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662056			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662064			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662069			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662072			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662080			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662101			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662112			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS699699			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699712			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699716			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699728			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699731			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699745			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699747			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699757			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699761			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699771			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699776			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699778			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699780			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699785			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS699794			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS699797			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS699800			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662143			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662148			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662151			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662155			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662167			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662170			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662173			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662185			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS662191			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS662197			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS662200			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS662209			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS662210			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS662241			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS662242			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS662245			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS662247			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS662294			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS662295			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS662297			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS662308			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS662309			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS662320			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS662332			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662340			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS662344			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS662348			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662355			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS662359			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS662378			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS662392			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662401			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS662422			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS662430			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS662432			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699813			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699821			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699832			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699869			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS699881			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS699885			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS699892			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS699908			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS699909			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS699919			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS699920			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS699930			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS699939			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS699946			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS699983			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS699986			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS699987			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS699992			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS661777			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS661783			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS661787			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS661798			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS661802			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS661806			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119253		Other	2799
+BS661821			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS661832			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661833			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661846			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661853			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661901			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661904			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661914			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661915			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS689273			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119288		Protein	2799
+BS689275			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119285		Protein	2799
+BS689285			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119280		Protein	2799
+BS689288			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119280		Protein	2799
+BS689296			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119291		Protein	2799
+BS689304			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119284		Protein	2799
+BS689138			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119262		Protein	2799
+BS689142			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119277		Protein	2799
+BS689161			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119274		Protein	2799
+BS689187			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119297		Protein	2799
+BS689205			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119281		Protein	2799
+BS689207			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119289		Protein	2799
+BS689211			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119273		Protein	2799
+BS689217			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119289		Protein	2799
+BS689222			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119276		Protein	2799
+BS689228			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119264		Protein	2799
+BS689245			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119285		Protein	2799
+BS751134			PV2338	SDY180	-7	Days	Time of enrollment		SUB119267		Whole blood	2799
+BS751135			PV2338	SDY180	-7	Days	Time of enrollment		SUB119268		Whole blood	2799
+BS584926	sample titer BAY_SUBJECT_000020 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119292	serum	Serum	2799
+BS584935	sample titer BAY_SUBJECT_000023 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119295	serum	Serum	2799
+BS584945	sample microarray BAY_SUBJECT_000001 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584952	sample microarray BAY_SUBJECT_000002 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584956	sample microarray BAY_SUBJECT_000002 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584958	sample microarray BAY_SUBJECT_000002 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584967	sample microarray BAY_SUBJECT_000003 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584980	sample microarray BAY_SUBJECT_000006 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584981	sample microarray BAY_SUBJECT_000006 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584990	sample microarray BAY_SUBJECT_000009 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS584995	sample microarray BAY_SUBJECT_000009 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS584997	sample microarray BAY_SUBJECT_000010 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS584999	sample microarray BAY_SUBJECT_000010 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS585015	sample microarray BAY_SUBJECT_000013 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585034	sample microarray BAY_SUBJECT_000016 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585042	sample microarray BAY_SUBJECT_000018 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585048	sample microarray BAY_SUBJECT_000018 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585067	sample microarray BAY_SUBJECT_000021 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585071	sample microarray BAY_SUBJECT_000022 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585072	sample microarray BAY_SUBJECT_000022 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585075	sample microarray BAY_SUBJECT_000022 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585080	sample microarray BAY_SUBJECT_000023 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585088	sample microarray BAY_SUBJECT_000024 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS940113			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119263		Whole blood	2799
+BS940115			PV2339	SDY180	0	Days	Time of enrollment		SUB119264		Whole blood	2799
+BS940132			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119266		Whole blood	2799
+BS940139			PV2339	SDY180	0	Days	Time of enrollment		SUB119267		Whole blood	2799
+BS940141			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119267		Whole blood	2799
+BS940143			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119267		Whole blood	2799
+BS940146			PV2338	SDY180	-7	Days	Time of enrollment		SUB119268		Whole blood	2799
+BS940160			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119269		Whole blood	2799
+BS940173			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119271		Whole blood	2799
+BS940183			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119272		Whole blood	2799
+BS940185			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119272		Whole blood	2799
+BS940196			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119274		Whole blood	2799
+BS940201			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119274		Whole blood	2799
+BS940216			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119276		Whole blood	2799
+BS940224			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119277		Whole blood	2799
+BS940229			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119278		Whole blood	2799
+BS940232			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119278		Whole blood	2799
+BS940234			PV2338	SDY180	-7	Days	Time of enrollment		SUB119279		Whole blood	2799
+BS940239			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119279		Whole blood	2799
+BS940275			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119283		Whole blood	2799
+BS940277			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119283		Whole blood	2799
+BS940281			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119284		Whole blood	2799
+BS940293			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119285		Whole blood	2799
+BS940296			PV2338	SDY180	-7	Days	Time of enrollment		SUB119286		Whole blood	2799
+BS940297			PV2339	SDY180	0	Days	Time of enrollment		SUB119286		Whole blood	2799
+BS940299			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119286		Whole blood	2799
+BS940324			PV2339	SDY180	0	Days	Time of enrollment		SUB119289		Whole blood	2799
+BS940326			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119289		Whole blood	2799
+BS940338			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119290		Whole blood	2799
+BS940339			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119290		Whole blood	2799
+BS940340			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119290		Whole blood	2799
+BS940349			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119291		Whole blood	2799
+BS940350			PV2338	SDY180	-7	Days	Time of enrollment		SUB119292		Whole blood	2799
+BS940368			PV2338	SDY180	-7	Days	Time of enrollment		SUB119294		Whole blood	2799
+BS940369			PV2339	SDY180	0	Days	Time of enrollment		SUB119294		Whole blood	2799
+BS940374			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119294		Whole blood	2799
+BS940376			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119294		Whole blood	2799
+BS940380			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119295		Whole blood	2799
+BS940389			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119296		Whole blood	2799
+BS661932			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS661937			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661941			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661949			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661956			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS661959			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661965			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661980			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661987			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS662017			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662053			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662057			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662059			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662061			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662063			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662073			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662074			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662076			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS662114			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS699693			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699723			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699734			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699767			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699795			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS699806			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662124			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662132			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662142			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662146			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662159			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662161			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662169			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662183			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662194			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS662222			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS662225			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS662238			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS662244			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS662249			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS662251			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS662253			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS662256			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS662261			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS662277			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS662281			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS662283			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS662287			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS662288			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS662289			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS662304			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS662307			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS662313			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS662337			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS662349			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS662352			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662362			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662365			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662370			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS662373			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS662391			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662393			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662410			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662412			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS662413			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS662415			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662421			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS662424			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699814			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699815			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699816			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699833			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699846			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699847			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699852			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699854			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699855			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS699870			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS699874			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS699880			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS699886			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS699914			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS699925			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS699932			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS699942			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS699954			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS699956			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS699971			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS699973			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS699977			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS699979			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS699980			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS699991			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS661797			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS661803			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS661804			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119252		Other	2799
+BS661807			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119253		Other	2799
+BS661808			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119254		Other	2799
+BS661814			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119257		Other	2799
+BS661815			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119257		Other	2799
+BS661818			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS661828			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661840			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661841			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661859			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119261		Other	2799
+BS661861			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119260		Other	2799
+BS661907			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661925			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661928			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661929			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS689260			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119272		Protein	2799
+BS689263			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119270		Protein	2799
+BS689264			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119260		Protein	2799
+BS689271			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119275		Protein	2799
+BS689274			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119261		Protein	2799
+BS689277			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119290		Protein	2799
+BS689298			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119284		Protein	2799
+BS689300			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119282		Protein	2799
+BS689145			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119292		Protein	2799
+BS689148			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119262		Protein	2799
+BS689159			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119267		Protein	2799
+BS689168			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119262		Protein	2799
+BS689174			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119254		Protein	2799
+BS689212			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119276		Protein	2799
+BS689213			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119279		Protein	2799
+BS689220			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119269		Protein	2799
+BS689231			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119273		Protein	2799
+BS689233			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119279		Protein	2799
+BS689251			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119273		Protein	2799
+BS689257			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119290		Protein	2799
+BS751131			PV2339	SDY180	0	Days	Time of enrollment		SUB119295		Whole blood	2799
+BS751138			PV2338	SDY180	-7	Days	Time of enrollment		SUB119278		Whole blood	2799
+BS751141			PV2339	SDY180	0	Days	Time of enrollment		SUB119253		Whole blood	2799
+BS751142			PV2339	SDY180	0	Days	Time of enrollment		SUB119254		Whole blood	2799
+BS751145			PV2339	SDY180	0	Days	Time of enrollment		SUB119257		Whole blood	2799
+BS584919	sample titer BAY_SUBJECT_000003 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119282	serum	Serum	2799
+BS584925	sample titer BAY_SUBJECT_000020 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119292	serum	Serum	2799
+BS584929	sample titer BAY_SUBJECT_000021 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119293	serum	Serum	2799
+BS584931	sample titer BAY_SUBJECT_000022 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119294	serum	Serum	2799
+BS584932	sample titer BAY_SUBJECT_000022 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119294	serum	Serum	2799
+BS584933	sample titer BAY_SUBJECT_000023 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119295	serum	Serum	2799
+BS584936	sample titer BAY_SUBJECT_000024 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119296	serum	Serum	2799
+BS584946	sample microarray BAY_SUBJECT_000001 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584948	sample microarray BAY_SUBJECT_000001 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584949	sample microarray BAY_SUBJECT_000001 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584955	sample microarray BAY_SUBJECT_000002 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584977	sample microarray BAY_SUBJECT_000005 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584996	sample microarray BAY_SUBJECT_000010 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS584998	sample microarray BAY_SUBJECT_000010 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS585011	sample microarray BAY_SUBJECT_000012 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585013	sample microarray BAY_SUBJECT_000012 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585022	sample microarray BAY_SUBJECT_000013 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585026	sample microarray BAY_SUBJECT_000015 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585030	sample microarray BAY_SUBJECT_000015 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585031	sample microarray BAY_SUBJECT_000015 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585032	sample microarray BAY_SUBJECT_000016 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585038	sample microarray BAY_SUBJECT_000016 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585051	sample microarray BAY_SUBJECT_000020 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585055	sample microarray BAY_SUBJECT_000020 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585066	sample microarray BAY_SUBJECT_000021 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585078	sample microarray BAY_SUBJECT_000023 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585099	sample microarray BAY_SUBJECT_000025 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS940103			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119262		Whole blood	2799
+BS940107			PV2339	SDY180	0	Days	Time of enrollment		SUB119263		Whole blood	2799
+BS940108			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119263		Whole blood	2799
+BS940129			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119265		Whole blood	2799
+BS940133			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119266		Whole blood	2799
+BS940144			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119267		Whole blood	2799
+BS940153			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119268		Whole blood	2799
+BS940171			PV2339	SDY180	0	Days	Time of enrollment		SUB119271		Whole blood	2799
+BS940175			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119271		Whole blood	2799
+BS940181			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119272		Whole blood	2799
+BS940213			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119276		Whole blood	2799
+BS940219			PV2339	SDY180	0	Days	Time of enrollment		SUB119277		Whole blood	2799
+BS940227			PV2339	SDY180	0	Days	Time of enrollment		SUB119278		Whole blood	2799
+BS940238			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119279		Whole blood	2799
+BS940240			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119279		Whole blood	2799
+BS940247			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119280		Whole blood	2799
+BS940252			PV2339	SDY180	0	Days	Time of enrollment		SUB119281		Whole blood	2799
+BS940253			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119281		Whole blood	2799
+BS940255			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119281		Whole blood	2799
+BS940256			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119281		Whole blood	2799
+BS940259			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119281		Whole blood	2799
+BS940267			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119282		Whole blood	2799
+BS940272			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119283		Whole blood	2799
+BS940278			PV2338	SDY180	-7	Days	Time of enrollment		SUB119284		Whole blood	2799
+BS940279			PV2339	SDY180	0	Days	Time of enrollment		SUB119284		Whole blood	2799
+BS940290			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119285		Whole blood	2799
+BS940301			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119286		Whole blood	2799
+BS940308			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119287		Whole blood	2799
+BS940309			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119287		Whole blood	2799
+BS940312			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119287		Whole blood	2799
+BS940314			PV2338	SDY180	-7	Days	Time of enrollment		SUB119288		Whole blood	2799
+BS940320			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119288		Whole blood	2799
+BS940333			PV2339	SDY180	0	Days	Time of enrollment		SUB119290		Whole blood	2799
+BS940351			PV2339	SDY180	0	Days	Time of enrollment		SUB119292		Whole blood	2799
+BS940357			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119292		Whole blood	2799
+BS940360			PV2339	SDY180	0	Days	Time of enrollment		SUB119293		Whole blood	2799
+BS940361			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119293		Whole blood	2799
+BS940364			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119293		Whole blood	2799
+BS940397			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119297		Whole blood	2799
+BS661934			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661936			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661943			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661960			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661967			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661984			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS662001			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662004			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662006			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662008			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662009			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662011			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662015			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662018			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662020			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662021			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662023			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662026			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662034			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662035			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662044			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662047			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662060			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662068			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662075			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662081			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662085			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662103			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662104			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS699700			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699706			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699708			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699710			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699724			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699743			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699752			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699772			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699775			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699788			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS699792			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS699802			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662125			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662126			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662134			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662136			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662145			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662147			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662153			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662154			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662165			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662171			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662180			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662195			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS662196			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS662201			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS662203			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS662206			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS662215			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS662229			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS662232			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS662254			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS662263			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS662271			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS662273			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS662286			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS662291			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS662292			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS662298			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS662306			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS662314			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS662321			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS662328			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662333			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS662343			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS662345			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662346			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662353			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS662356			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662357			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662374			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662389			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS662399			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS662418			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS662420			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662426			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699811			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699817			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699838			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699839			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699873			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS699883			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS699893			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS699901			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS699910			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS699912			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS699922			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS699933			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS699936			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS699940			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS699943			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS699948			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS699953			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS699957			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS699965			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS699972			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS699989			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS699990			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS699997			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS661782			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS661805			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119252		Other	2799
+BS661817			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS661819			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS661826			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS661830			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661831			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661835			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661838			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661843			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661848			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661850			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661851			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661862			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119258		Other	2799
+BS661906			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661918			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661920			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS689305			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119282		Protein	2799
+BS689133			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119278		Protein	2799
+BS689134			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119252		Protein	2799
+BS689135			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119292		Protein	2799
+BS689141			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119274		Protein	2799
+BS689156			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119294		Protein	2799
+BS689157			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119296		Protein	2799
+BS689171			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119274		Protein	2799
+BS689173			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119278		Protein	2799
+BS689177			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119297		Protein	2799
+BS689178			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119263		Protein	2799
+BS689179			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119263		Protein	2799
+BS689180			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119265		Protein	2799
+BS689184			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119254		Protein	2799
+BS689196			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119295		Protein	2799
+BS689199			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119265		Protein	2799
+BS689219			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119266		Protein	2799
+BS689223			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119279		Protein	2799
+BS689234			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119259		Protein	2799
+BS689235			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119281		Protein	2799
+BS689241			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119273		Protein	2799
+BS689248			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119264		Protein	2799
+BS689253			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119279		Protein	2799
+BS751133			PV2339	SDY180	0	Days	Time of enrollment		SUB119297		Whole blood	2799
+BS751139			PV2338	SDY180	-7	Days	Time of enrollment		SUB119262		Whole blood	2799
+BS584918	sample titer BAY_SUBJECT_000003 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119282	serum	Serum	2799
+BS584921	sample titer BAY_SUBJECT_000005 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119283	serum	Serum	2799
+BS584928	sample titer BAY_SUBJECT_000021 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119293	serum	Serum	2799
+BS584934	sample titer BAY_SUBJECT_000023 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119295	serum	Serum	2799
+BS584938	sample titer BAY_SUBJECT_000024 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119296	serum	Serum	2799
+BS584941	sample titer BAY_SUBJECT_000025 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119297	serum	Serum	2799
+BS584944	sample microarray BAY_SUBJECT_000001 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584950	sample microarray BAY_SUBJECT_000001 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584951	sample microarray BAY_SUBJECT_000002 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584953	sample microarray BAY_SUBJECT_000002 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584962	sample microarray BAY_SUBJECT_000003 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584966	sample microarray BAY_SUBJECT_000003 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584979	sample microarray BAY_SUBJECT_000006 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584983	sample microarray BAY_SUBJECT_000006 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584993	sample microarray BAY_SUBJECT_000009 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS585002	sample microarray BAY_SUBJECT_000010 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS585004	sample microarray BAY_SUBJECT_000010 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS585009	sample microarray BAY_SUBJECT_000012 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585019	sample microarray BAY_SUBJECT_000013 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585021	sample microarray BAY_SUBJECT_000013 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585033	sample microarray BAY_SUBJECT_000016 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585037	sample microarray BAY_SUBJECT_000016 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585043	sample microarray BAY_SUBJECT_000018 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585064	sample microarray BAY_SUBJECT_000021 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585065	sample microarray BAY_SUBJECT_000021 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585069	sample microarray BAY_SUBJECT_000022 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585085	sample microarray BAY_SUBJECT_000023 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585094	sample microarray BAY_SUBJECT_000024 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS940121			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119264		Whole blood	2799
+BS940123			PV2339	SDY180	0	Days	Time of enrollment		SUB119265		Whole blood	2799
+BS940135			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119266		Whole blood	2799
+BS940137			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119266		Whole blood	2799
+BS940142			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119267		Whole blood	2799
+BS940148			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119268		Whole blood	2799
+BS940149			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119268		Whole blood	2799
+BS940150			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119268		Whole blood	2799
+BS940158			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119269		Whole blood	2799
+BS940162			PV2338	SDY180	-7	Days	Time of enrollment		SUB119270		Whole blood	2799
+BS940172			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119271		Whole blood	2799
+BS940186			PV2338	SDY180	-7	Days	Time of enrollment		SUB119273		Whole blood	2799
+BS940190			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119273		Whole blood	2799
+BS940200			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119274		Whole blood	2799
+BS940211			PV2339	SDY180	0	Days	Time of enrollment		SUB119276		Whole blood	2799
+BS940220			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119277		Whole blood	2799
+BS940221			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119277		Whole blood	2799
+BS940222			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119277		Whole blood	2799
+BS940237			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119279		Whole blood	2799
+BS940250			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119280		Whole blood	2799
+BS940260			PV2338	SDY180	-7	Days	Time of enrollment		SUB119282		Whole blood	2799
+BS940262			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119282		Whole blood	2799
+BS940266			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119282		Whole blood	2799
+BS940269			PV2338	SDY180	-7	Days	Time of enrollment		SUB119283		Whole blood	2799
+BS940273			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119283		Whole blood	2799
+BS940283			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119284		Whole blood	2799
+BS940287			PV2338	SDY180	-7	Days	Time of enrollment		SUB119285		Whole blood	2799
+BS940288			PV2339	SDY180	0	Days	Time of enrollment		SUB119285		Whole blood	2799
+BS940313			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119287		Whole blood	2799
+BS940319			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119288		Whole blood	2799
+BS940325			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119289		Whole blood	2799
+BS940332			PV2338	SDY180	-7	Days	Time of enrollment		SUB119290		Whole blood	2799
+BS940337			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119290		Whole blood	2799
+BS940343			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119291		Whole blood	2799
+BS940352			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119292		Whole blood	2799
+BS940355			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119292		Whole blood	2799
+BS940358			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119292		Whole blood	2799
+BS940371			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119294		Whole blood	2799
+BS940396			PV2339	SDY180	0	Days	Time of enrollment		SUB119297		Whole blood	2799
+BS661957			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661992			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661994			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS662007			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662010			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662014			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662036			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662038			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662039			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662043			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662045			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662049			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662052			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662054			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662058			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662062			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662066			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662078			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662083			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662089			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662090			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662095			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662097			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662098			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662100			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662113			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS699702			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699713			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699719			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699722			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699725			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699726			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699744			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699749			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699760			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699764			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699781			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699783			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS699787			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS699803			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS699808			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662120			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662122			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS662128			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662133			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662137			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662140			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662149			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662152			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662172			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662174			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662181			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662184			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662186			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS662188			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS662204			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS662211			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS662213			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS662214			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS662216			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS662218			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS662226			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS662227			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS662228			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS662233			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS662279			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS662301			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS662310			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS662319			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS662334			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662336			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662375			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS662377			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS662382			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662407			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662419			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662428			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699819			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699830			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699841			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699843			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699857			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS699860			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS699862			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS699866			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS699872			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS699888			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS699889			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS699891			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS699902			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS699906			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS699959			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS699964			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS699978			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS699982			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS699984			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS699985			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS699995			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS661775			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS661778			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS661786			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS661793			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS661812			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119256		Other	2799
+BS661822			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS661825			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS661836			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661845			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661847			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661858			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119261		Other	2799
+BS661860			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119260		Other	2799
+BS661893			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661894			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661895			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS661900			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS661921			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS689262			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119275		Protein	2799
+BS689270			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119272		Protein	2799
+BS689281			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119275		Protein	2799
+BS689283			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119291		Protein	2799
+BS689286			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119283		Protein	2799
+BS689290			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119288		Protein	2799
+BS689292			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119283		Protein	2799
+BS689297			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119282		Protein	2799
+BS689301			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119284		Protein	2799
+BS689131			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119274		Protein	2799
+BS689144			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119252		Protein	2799
+BS689149			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119267		Protein	2799
+BS689164			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119253		Protein	2799
+BS689190			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119265		Protein	2799
+BS689191			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119270		Protein	2799
+BS689197			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119297		Protein	2799
+BS689203			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119257		Protein	2799
+BS689209			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119266		Protein	2799
+BS689210			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119269		Protein	2799
+BS689214			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119258		Protein	2799
+BS689215			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119281		Protein	2799
+BS689232			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119276		Protein	2799
+BS689237			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119289		Protein	2799
+BS689238			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119264		Protein	2799
+BS689250			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119269		Protein	2799
+BS751144			PV2339	SDY180	0	Days	Time of enrollment		SUB119256		Whole blood	2799
+BS584930	sample titer BAY_SUBJECT_000022 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119294	serum	Serum	2799
+BS584943	sample microarray BAY_SUBJECT_000001 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584968	sample microarray BAY_SUBJECT_000003 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584972	sample microarray BAY_SUBJECT_000005 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584973	sample microarray BAY_SUBJECT_000005 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584974	sample microarray BAY_SUBJECT_000005 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584976	sample microarray BAY_SUBJECT_000005 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584985	sample microarray BAY_SUBJECT_000006 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584989	sample microarray BAY_SUBJECT_000009 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS585001	sample microarray BAY_SUBJECT_000010 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS585005	sample microarray BAY_SUBJECT_000012 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585008	sample microarray BAY_SUBJECT_000012 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585020	sample microarray BAY_SUBJECT_000013 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585023	sample microarray BAY_SUBJECT_000015 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585035	sample microarray BAY_SUBJECT_000016 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585040	sample microarray BAY_SUBJECT_000016 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS585056	sample microarray BAY_SUBJECT_000020 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585058	sample microarray BAY_SUBJECT_000020 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585059	sample microarray BAY_SUBJECT_000021 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585061	sample microarray BAY_SUBJECT_000021 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585077	sample microarray BAY_SUBJECT_000023 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585086	sample microarray BAY_SUBJECT_000024 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS940099			PV2339	SDY180	0	Days	Time of enrollment		SUB119262		Whole blood	2799
+BS940109			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119263		Whole blood	2799
+BS940111			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119263		Whole blood	2799
+BS940118			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119264		Whole blood	2799
+BS940120			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119264		Whole blood	2799
+BS940131			PV2339	SDY180	0	Days	Time of enrollment		SUB119266		Whole blood	2799
+BS940136			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119266		Whole blood	2799
+BS940152			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119268		Whole blood	2799
+BS940156			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119269		Whole blood	2799
+BS940161			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119269		Whole blood	2799
+BS940165			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119270		Whole blood	2799
+BS940166			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119270		Whole blood	2799
+BS940169			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119270		Whole blood	2799
+BS940179			PV2339	SDY180	0	Days	Time of enrollment		SUB119272		Whole blood	2799
+BS940182			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119272		Whole blood	2799
+BS940187			PV2339	SDY180	0	Days	Time of enrollment		SUB119273		Whole blood	2799
+BS940192			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119273		Whole blood	2799
+BS940193			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119273		Whole blood	2799
+BS940195			PV2339	SDY180	0	Days	Time of enrollment		SUB119274		Whole blood	2799
+BS940198			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119274		Whole blood	2799
+BS940235			PV2339	SDY180	0	Days	Time of enrollment		SUB119279		Whole blood	2799
+BS940245			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119280		Whole blood	2799
+BS940258			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119281		Whole blood	2799
+BS940263			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119282		Whole blood	2799
+BS940265			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119282		Whole blood	2799
+BS940270			PV2339	SDY180	0	Days	Time of enrollment		SUB119283		Whole blood	2799
+BS940289			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119285		Whole blood	2799
+BS940303			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119286		Whole blood	2799
+BS940311			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119287		Whole blood	2799
+BS940328			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119289		Whole blood	2799
+BS940334			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119290		Whole blood	2799
+BS940356			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119292		Whole blood	2799
+BS940362			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119293		Whole blood	2799
+BS940363			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119293		Whole blood	2799
+BS940379			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119295		Whole blood	2799
+BS940384			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119295		Whole blood	2799
+BS940395			PV2338	SDY180	-7	Days	Time of enrollment		SUB119297		Whole blood	2799
+BS661930			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661944			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661958			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661963			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661977			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661982			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661995			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661997			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS662000			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662003			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662027			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662033			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662051			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662070			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662077			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119266		Other	2799
+BS662092			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662093			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662096			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662102			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662117			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662119			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS699707			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699730			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699737			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699750			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699753			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699754			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699758			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699759			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS699779			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699791			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS662129			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662138			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662139			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662157			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662160			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662162			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662163			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119279		Other	2799
+BS662178			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662192			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS662205			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS662219			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS662220			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS662221			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS662224			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS662239			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS662246			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS662248			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS662255			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS662259			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS662265			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS662266			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS662268			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS662272			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS662302			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS662305			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS662325			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS662326			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS662335			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS662338			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662363			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662366			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662390			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662404			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS662405			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662408			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662411			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662414			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS662429			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS662433			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662434			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699810			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699822			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699823			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699824			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699829			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699845			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699851			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699858			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS699864			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS699867			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS699868			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS699887			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS699900			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS699911			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS699924			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS699926			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS699927			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS699928			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS699929			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS699938			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS699963			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS699968			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS699975			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS699976			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS661776			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS661781			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS661785			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS661789			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS661792			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS661796			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS661801			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS661809			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119254		Other	2799
+BS661816			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS661827			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS661837			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661849			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS661852			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661854			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661899			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS661916			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS661926			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS689261			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119272		Protein	2799
+BS689269			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119271		Protein	2799
+BS689276			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119287		Protein	2799
+BS689282			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119275		Protein	2799
+BS689289			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119283		Protein	2799
+BS689299			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119291		Protein	2799
+BS689125			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119292		Protein	2799
+BS689137			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119296		Protein	2799
+BS689169			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119267		Protein	2799
+BS689170			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119268		Protein	2799
+BS689200			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119265		Protein	2799
+BS689226			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119286		Protein	2799
+BS689230			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119269		Protein	2799
+BS689242			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119276		Protein	2799
+BS689252			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119276		Protein	2799
+BS689256			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119287		Protein	2799
+BS751137			PV2338	SDY180	-7	Days	Time of enrollment		SUB119277		Whole blood	2799
+BS584922	sample titer BAY_SUBJECT_000013 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119288	serum	Serum	2799
+BS584937	sample titer BAY_SUBJECT_000024 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119296	serum	Serum	2799
+BS584942	sample microarray BAY_SUBJECT_000001 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS584963	sample microarray BAY_SUBJECT_000003 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584969	sample microarray BAY_SUBJECT_000005 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584994	sample microarray BAY_SUBJECT_000009 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS585003	sample microarray BAY_SUBJECT_000010 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS585028	sample microarray BAY_SUBJECT_000015 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585053	sample microarray BAY_SUBJECT_000020 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585074	sample microarray BAY_SUBJECT_000022 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585076	sample microarray BAY_SUBJECT_000022 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585079	sample microarray BAY_SUBJECT_000023 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585082	sample microarray BAY_SUBJECT_000023 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585090	sample microarray BAY_SUBJECT_000024 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS585093	sample microarray BAY_SUBJECT_000024 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS585097	sample microarray BAY_SUBJECT_000025 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS585102	sample microarray BAY_SUBJECT_000025 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS940102			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119262		Whole blood	2799
+BS940104			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119262		Whole blood	2799
+BS940105			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119262		Whole blood	2799
+BS940126			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119265		Whole blood	2799
+BS940130			PV2338	SDY180	-7	Days	Time of enrollment		SUB119266		Whole blood	2799
+BS940147			PV2339	SDY180	0	Days	Time of enrollment		SUB119268		Whole blood	2799
+BS940168			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119270		Whole blood	2799
+BS940178			PV2338	SDY180	-7	Days	Time of enrollment		SUB119272		Whole blood	2799
+BS940191			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119273		Whole blood	2799
+BS940194			PV2338	SDY180	-7	Days	Time of enrollment		SUB119274		Whole blood	2799
+BS940203			PV2339	SDY180	0	Days	Time of enrollment		SUB119275		Whole blood	2799
+BS940230			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119278		Whole blood	2799
+BS940233			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119278		Whole blood	2799
+BS940246			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119280		Whole blood	2799
+BS940257			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119281		Whole blood	2799
+BS940264			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119282		Whole blood	2799
+BS940280			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119284		Whole blood	2799
+BS940284			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119284		Whole blood	2799
+BS940285			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119284		Whole blood	2799
+BS940286			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119284		Whole blood	2799
+BS940292			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119285		Whole blood	2799
+BS940304			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119286		Whole blood	2799
+BS940306			PV2339	SDY180	0	Days	Time of enrollment		SUB119287		Whole blood	2799
+BS940307			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119287		Whole blood	2799
+BS940322			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119288		Whole blood	2799
+BS940341			PV2338	SDY180	-7	Days	Time of enrollment		SUB119291		Whole blood	2799
+BS940370			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119294		Whole blood	2799
+BS940377			PV2338	SDY180	-7	Days	Time of enrollment		SUB119295		Whole blood	2799
+BS940386			PV2338	SDY180	-7	Days	Time of enrollment		SUB119296		Whole blood	2799
+BS940390			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119296		Whole blood	2799
+BS940400			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119297		Whole blood	2799
+BS940401			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119297		Whole blood	2799
+BS940402			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119297		Whole blood	2799
+BS661939			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661940			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS661942			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661954			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661962			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661966			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS661979			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS661985			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662002			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662016			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662019			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662032			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662050			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119264		Other	2799
+BS662065			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662067			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS662071			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662086			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS662105			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662106			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662108			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662109			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662115			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119269		Other	2799
+BS662116			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662118			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS699695			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699697			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699717			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699718			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699720			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS699736			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699738			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699739			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699742			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699755			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699768			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699774			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699790			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS699805			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS699807			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS699809			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS662121			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS662123			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662130			PV2343	SDY180	9	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662135			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662141			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662164			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662176			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662182			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119275		Other	2799
+BS662190			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS662207			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS662212			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS662223			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS662231			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS662236			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS662237			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS662240			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS662243			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS662257			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS662269			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119277		Other	2799
+BS662274			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS662312			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS662317			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS662322			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS662323			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS662330			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662331			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS662350			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662354			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS662358			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS662361			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS662368			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662369			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS662372			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662383			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662386			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS662387			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662394			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS662395			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662396			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS662425			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699812			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699818			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS699826			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699831			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699835			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699836			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699837			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699848			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699850			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699859			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119262		Other	2799
+BS699863			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS699875			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS699876			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS699877			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS699878			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS699894			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS699898			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS699899			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS699921			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS699935			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS699944			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS699945			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS699952			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS699955			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS699958			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS699960			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS699970			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS699988			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS699993			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS699994			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS699996			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS661779			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS661790			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS661791			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS661824			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS661897			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661898			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661903			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661905			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661919			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS689259			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119271		Protein	2799
+BS689279			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119272		Protein	2799
+BS689293			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119288		Protein	2799
+BS689128			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119262		Protein	2799
+BS689136			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119294		Protein	2799
+BS689143			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119278		Protein	2799
+BS689147			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119296		Protein	2799
+BS689155			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119292		Protein	2799
+BS689162			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119277		Protein	2799
+BS689165			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119293		Protein	2799
+BS689182			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119270		Protein	2799
+BS689185			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119293		Protein	2799
+BS689186			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119295		Protein	2799
+BS689188			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119263		Protein	2799
+BS689189			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119263		Protein	2799
+BS689198			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119263		Protein	2799
+BS689201			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119270		Protein	2799
+BS689204			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119255		Protein	2799
+BS689216			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119286		Protein	2799
+BS689225			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119281		Protein	2799
+BS689246			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119287		Protein	2799
+BS689258			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119271		Protein	2799
+BS751132			PV2339	SDY180	0	Days	Time of enrollment		SUB119296		Whole blood	2799
+BS751143			PV2339	SDY180	0	Days	Time of enrollment		SUB119255		Whole blood	2799
+BS584923	sample titer BAY_SUBJECT_000013 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119288	serum	Serum	2799
+BS584924	sample titer BAY_SUBJECT_000020 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119292	serum	Serum	2799
+BS584959	sample microarray BAY_SUBJECT_000002 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS584960	sample microarray BAY_SUBJECT_000003 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584975	sample microarray BAY_SUBJECT_000005 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584988	sample microarray BAY_SUBJECT_000009 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS584992	sample microarray BAY_SUBJECT_000009 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS585000	sample microarray BAY_SUBJECT_000010 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS585007	sample microarray BAY_SUBJECT_000012 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585010	sample microarray BAY_SUBJECT_000012 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585012	sample microarray BAY_SUBJECT_000012 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585018	sample microarray BAY_SUBJECT_000013 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585024	sample microarray BAY_SUBJECT_000015 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585025	sample microarray BAY_SUBJECT_000015 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585045	sample microarray BAY_SUBJECT_000018 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585050	sample microarray BAY_SUBJECT_000020 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585054	sample microarray BAY_SUBJECT_000020 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585060	sample microarray BAY_SUBJECT_000021 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585062	sample microarray BAY_SUBJECT_000021 day 3		PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585063	sample microarray BAY_SUBJECT_000021 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS585081	sample microarray BAY_SUBJECT_000023 day 7		PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585083	sample microarray BAY_SUBJECT_000023 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585092	sample microarray BAY_SUBJECT_000024 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS585096	sample microarray BAY_SUBJECT_000025 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS585100	sample microarray BAY_SUBJECT_000025 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS585101	sample microarray BAY_SUBJECT_000025 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS585103	sample microarray BAY_SUBJECT_000025 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS940110			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119263		Whole blood	2799
+BS940117			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119264		Whole blood	2799
+BS940124			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119265		Whole blood	2799
+BS940138			PV2338	SDY180	-7	Days	Time of enrollment		SUB119267		Whole blood	2799
+BS940140			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119267		Whole blood	2799
+BS940151			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119268		Whole blood	2799
+BS940155			PV2339	SDY180	0	Days	Time of enrollment		SUB119269		Whole blood	2799
+BS940174			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119271		Whole blood	2799
+BS940199			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119274		Whole blood	2799
+BS940209			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119275		Whole blood	2799
+BS940217			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119276		Whole blood	2799
+BS940223			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119277		Whole blood	2799
+BS940228			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119278		Whole blood	2799
+BS940231			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119278		Whole blood	2799
+BS940241			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119279		Whole blood	2799
+BS940243			PV2339	SDY180	0	Days	Time of enrollment		SUB119280		Whole blood	2799
+BS940244			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119280		Whole blood	2799
+BS940248			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119280		Whole blood	2799
+BS940268			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119282		Whole blood	2799
+BS940276			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119283		Whole blood	2799
+BS940282			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119284		Whole blood	2799
+BS940291			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119285		Whole blood	2799
+BS940294			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119285		Whole blood	2799
+BS940298			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119286		Whole blood	2799
+BS940302			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119286		Whole blood	2799
+BS940316			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119288		Whole blood	2799
+BS940317			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119288		Whole blood	2799
+BS940321			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119288		Whole blood	2799
+BS940323			PV2338	SDY180	-7	Days	Time of enrollment		SUB119289		Whole blood	2799
+BS940327			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119289		Whole blood	2799
+BS940330			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119289		Whole blood	2799
+BS940345			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119291		Whole blood	2799
+BS940354			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119292		Whole blood	2799
+BS940367			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119293		Whole blood	2799
+BS940372			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119294		Whole blood	2799
+BS940375			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119294		Whole blood	2799
+BS940378			PV2339	SDY180	0	Days	Time of enrollment		SUB119295		Whole blood	2799
+BS940381			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119295		Whole blood	2799
+BS940382			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119295		Whole blood	2799
+BS940383			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119295		Whole blood	2799
+BS940393			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119296		Whole blood	2799
+BS940398			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119297		Whole blood	2799
+BS940399			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119297		Whole blood	2799
+BS661950			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS661952			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS661975			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS661976			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS661990			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661991			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS661996			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS661999			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS662024			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119268		Other	2799
+BS662028			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119263		Other	2799
+BS662029			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662040			PV2340	SDY180	1.5	Hours	Time of initial vaccine administration		SUB119265		Other	2799
+BS662042			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119262		Other	2799
+BS662046			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119267		Other	2799
+BS662082			PV2341	SDY180	3	Hours	Time of initial vaccine administration		SUB119271		Other	2799
+BS662087			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS662088			PV2345	SDY180	15	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS662094			PV2346	SDY180	24	Hours	Time of initial vaccine administration		SUB119273		Other	2799
+BS662099			PV2342	SDY180	6	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS662110			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119274		Other	2799
+BS699701			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119280		Other	2799
+BS699703			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699704			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699705			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699709			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119281		Other	2799
+BS699714			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699715			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS699729			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699733			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699735			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS699741			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699746			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS699748			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS699765			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699766			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699770			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699773			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS699777			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS699793			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS662131			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119272		Other	2799
+BS662144			PV2344	SDY180	12	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662150			PV2348	SDY180	48	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662166			PV2339	SDY180	0	Hours	Time of initial vaccine administration		SUB119278		Other	2799
+BS662177			PV2338	SDY180	-168	Hours	Time of initial vaccine administration		SUB119277		Other	2799
+BS662179			PV2347	SDY180	36	Hours	Time of initial vaccine administration		SUB119276		Other	2799
+BS662187			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119266		Other	2799
+BS662193			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS662199			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS662202			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS662217			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS662234			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS662235			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS662258			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS662270			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119264		Other	2799
+BS662284			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS662300			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119263		Other	2799
+BS662315			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS662318			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS662339			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS662341			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS662342			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662364			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS662367			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS662388			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662403			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119293		Other	2799
+BS662409			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662417			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS662423			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS662427			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS662431			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS699820			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699827			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS699828			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS699840			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS699849			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS699882			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS699884			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119265		Other	2799
+BS699896			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS699897			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119267		Other	2799
+BS699907			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119268		Other	2799
+BS699917			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS699923			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119270		Other	2799
+BS699931			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS699934			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119271		Other	2799
+BS699937			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS699941			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119272		Other	2799
+BS699950			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS699961			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119275		Other	2799
+BS699967			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS699969			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS699974			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119276		Other	2799
+BS699998			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119279		Other	2799
+BS661780			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119274		Other	2799
+BS661784			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119278		Other	2799
+BS661799			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS661800			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS661810			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119255		Other	2799
+BS661811			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119255		Other	2799
+BS661820			PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119269		Other	2799
+BS661823			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119273		Other	2799
+BS661834			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119286		Other	2799
+BS661844			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661855			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119259		Other	2799
+BS661857			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119258		Other	2799
+BS661909			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119290		Other	2799
+BS661913			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661923			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS661924			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS661927			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS689266			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119287		Protein	2799
+BS689267			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119290		Protein	2799
+BS689268			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119271		Protein	2799
+BS689284			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119261		Protein	2799
+BS689303			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119282		Protein	2799
+BS689126			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119294		Protein	2799
+BS689129			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119267		Protein	2799
+BS689140			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119268		Protein	2799
+BS689146			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119294		Protein	2799
+BS689150			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119268		Protein	2799
+BS689153			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119278		Protein	2799
+BS689163			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119278		Protein	2799
+BS689167			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119297		Protein	2799
+BS689176			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119295		Protein	2799
+BS689181			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119265		Protein	2799
+BS689183			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119256		Protein	2799
+BS689192			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119270		Protein	2799
+BS689193			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119256		Protein	2799
+BS689194			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119255		Protein	2799
+BS689206			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119286		Protein	2799
+BS689218			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119264		Protein	2799
+BS689227			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119289		Protein	2799
+BS689236			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119286		Protein	2799
+BS689240			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119269		Protein	2799
+BS689243			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119279		Protein	2799
+BS689247			PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119290		Protein	2799
+BS689255			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119285		Protein	2799
+BS751129			PV2339	SDY180	0	Days	Time of enrollment		SUB119293		Whole blood	2799
+BS751140			PV2339	SDY180	0	Days	Time of enrollment		SUB119252		Whole blood	2799
+BS584940	sample titer BAY_SUBJECT_000025 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119297	serum	Serum	2799
+BS584961	sample microarray BAY_SUBJECT_000003 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119282		Other	2799
+BS584970	sample microarray BAY_SUBJECT_000005 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119283		Other	2799
+BS584978	sample microarray BAY_SUBJECT_000006 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584986	sample microarray BAY_SUBJECT_000006 day 28		PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119284		Other	2799
+BS584987	sample microarray BAY_SUBJECT_000009 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119285		Other	2799
+BS585006	sample microarray BAY_SUBJECT_000012 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119287		Other	2799
+BS585014	sample microarray BAY_SUBJECT_000013 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119288		Other	2799
+BS585029	sample microarray BAY_SUBJECT_000015 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119289		Other	2799
+BS585041	sample microarray BAY_SUBJECT_000018 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585047	sample microarray BAY_SUBJECT_000018 day 14		PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119291		Other	2799
+BS585052	sample microarray BAY_SUBJECT_000020 day 1		PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585057	sample microarray BAY_SUBJECT_000020 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119292		Other	2799
+BS585073	sample microarray BAY_SUBJECT_000022 day 10		PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119294		Other	2799
+BS585084	sample microarray BAY_SUBJECT_000023 day 21		PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119295		Other	2799
+BS585087	sample microarray BAY_SUBJECT_000024 day 0		PV2339	SDY180	0	Days	Time of initial vaccine administration		SUB119296		Other	2799
+BS585095	sample microarray BAY_SUBJECT_000025 day -7		PV2338	SDY180	-7	Days	Time of initial vaccine administration		SUB119297		Other	2799
+BS940098			PV2338	SDY180	-7	Days	Time of enrollment		SUB119262		Whole blood	2799
+BS940100			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119262		Whole blood	2799
+BS940101			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119262		Whole blood	2799
+BS940106			PV2338	SDY180	-7	Days	Time of enrollment		SUB119263		Whole blood	2799
+BS940112			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119263		Whole blood	2799
+BS940114			PV2338	SDY180	-7	Days	Time of enrollment		SUB119264		Whole blood	2799
+BS940116			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119264		Whole blood	2799
+BS940119			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119264		Whole blood	2799
+BS940122			PV2338	SDY180	-7	Days	Time of enrollment		SUB119265		Whole blood	2799
+BS940127			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119265		Whole blood	2799
+BS940128			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119265		Whole blood	2799
+BS940145			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119267		Whole blood	2799
+BS940154			PV2338	SDY180	-7	Days	Time of enrollment		SUB119269		Whole blood	2799
+BS940157			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119269		Whole blood	2799
+BS940159			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119269		Whole blood	2799
+BS940180			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119272		Whole blood	2799
+BS940184			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119272		Whole blood	2799
+BS940188			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119273		Whole blood	2799
+BS940202			PV2338	SDY180	-7	Days	Time of enrollment		SUB119275		Whole blood	2799
+BS940205			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119275		Whole blood	2799
+BS940207			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119275		Whole blood	2799
+BS940208			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119275		Whole blood	2799
+BS940210			PV2338	SDY180	-7	Days	Time of enrollment		SUB119276		Whole blood	2799
+BS940212			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119276		Whole blood	2799
+BS940218			PV2338	SDY180	-7	Days	Time of enrollment		SUB119277		Whole blood	2799
+BS940236			PV2344	SDY180	0.5	Days	Time of initial vaccine administration		SUB119279		Whole blood	2799
+BS940242			PV2338	SDY180	-7	Days	Time of enrollment		SUB119280		Whole blood	2799
+BS940251			PV2338	SDY180	-7	Days	Time of enrollment		SUB119281		Whole blood	2799
+BS940261			PV2339	SDY180	0	Days	Time of enrollment		SUB119282		Whole blood	2799
+BS940271			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119283		Whole blood	2799
+BS940274			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119283		Whole blood	2799
+BS940295			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119285		Whole blood	2799
+BS940300			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119286		Whole blood	2799
+BS940305			PV2338	SDY180	-7	Days	Time of enrollment		SUB119287		Whole blood	2799
+BS940310			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119287		Whole blood	2799
+BS940315			PV2339	SDY180	0	Days	Time of enrollment		SUB119288		Whole blood	2799
+BS940329			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119289		Whole blood	2799
+BS940336			PV2350	SDY180	7	Days	Time of initial vaccine administration		SUB119290		Whole blood	2799
+BS940342			PV2339	SDY180	0	Days	Time of enrollment		SUB119291		Whole blood	2799
+BS940344			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119291		Whole blood	2799
+BS940346			PV2351	SDY180	10	Days	Time of initial vaccine administration		SUB119291		Whole blood	2799
+BS940347			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119291		Whole blood	2799
+BS940348			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119291		Whole blood	2799
+BS940353			PV2349	SDY180	3	Days	Time of initial vaccine administration		SUB119292		Whole blood	2799
+BS940366			PV2353	SDY180	21	Days	Time of initial vaccine administration		SUB119293		Whole blood	2799
+BS940385			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119295		Whole blood	2799
+BS940388			PV2346	SDY180	1	Days	Time of initial vaccine administration		SUB119296		Whole blood	2799
+BS940392			PV2352	SDY180	14	Days	Time of initial vaccine administration		SUB119296		Whole blood	2799
+BS940394			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119296		Whole blood	2799
+BS940403			PV2354	SDY180	28	Days	Time of initial vaccine administration		SUB119297		Whole blood	2799

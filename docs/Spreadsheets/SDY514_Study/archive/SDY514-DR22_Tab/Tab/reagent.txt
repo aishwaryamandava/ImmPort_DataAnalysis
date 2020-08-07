@@ -1,0 +1,17 @@
+REAGENT_ACCESSION	ANALYTE_PREFERRED	ANALYTE_REPORTED	ANTIBODY_REGISTRY_ID	CATALOG_NUMBER	CLONE_NAME	CONTACT	DESCRIPTION	IS_SET	LOT_NUMBER	MANUFACTURER	NAME	REPORTER_NAME	TYPE	WEBLINK	WORKSPACE_ID
+ESR10155	CD4	CD4	AB_400452	341654	anti-CD4			N		BD Biosciences	CD4 PerCP-Cy5.5	PerCP-Cy5.5			2883
+ESR10156		CD33	AB_399961	333946	anti-CD33			N		BD	CD33 PE-Cy7	PE-Cy7			2883
+ESR10157		CD3	AB_397038	558117	anti-CD33			N		BD	CD3-Pacific Blue	Pacific Blue			2883
+ESR10158	CD20	CD20	AB_396990	558021	anti-CD20			N		BD	CD20-PerCp-Cy5.5	PerCp-Cy5.5			2883
+ESR10159		CD45RA		Q10047	anti-CD45RA			N		Invitrogen	CD45RA-QDot-605	QDot-605			2883
+ESR10160		Phospho-STAT1	AB_399879	612596	N/A			N		BD	Stat-1Ax-488	Ax-488			2883
+ESR10161		Phospho-STAT3	AB_647144	557815	N/A			N		BD	Stat-3-AX-647	Ax-647			2883
+ESR10162		Phospho-STAT5	AB_399858	612567	N/A			N		BD	Stat-5-PE	PE			2883
+ESR10163				E1014-25KU	N/A			N		Sigma	Benzonase Nuclease	N/A			2883
+ESR11531				Stain80	various			N		BD Biosciences	BD Lyoplate 1	various	Other		2883
+ESR13867		Human 51 plex Luminex assay		PC9000		To-Tram_Brill@affymetrix.com	Analytes: CD40Ligand,ENA78,EOTAXIN,FGFb,G-CSF,GM-CSF,GRO ALPHA,HGF,ICAM-1,IFN-a,IFN-b,IFN-G,IL-10,IL-12-P70,IL-12P40,IL-13,IL-15,IL-17,IL-17F,IL-1a,IL-1B,IL-1RA,IL-2,IL-4,IL-5,IL-6,IL-7,IL-8,IP10,LEPTIN,LIF,M-CSF,MCP-1,MCP-3,MIG,MIP-1B,MIP1a,NGF,PAI-1,PDGFBB,RANTES,Resistin,SCF,sFAS ligand,TGF-a,TGF-b,TNF-A,TNF-B,Trail,V-CAM-1,VEGF Control Beads:CHEX-1,CHEX-2,CHEX-3,CHEX-4	N	H51-1 lot# 1051538	Affymetrix	Custom 51 plex Polysterene Bead array kit for Luminex: Discontinued		Luminex xMAP		2883
+ESR13868		Human 51 plex Luminex assay		PC9000		To-Tram_Brill@affymetrix.com	Analytes: CD40Ligand,ENA78,EOTAXIN,FGFb,G-CSF,GM-CSF,GRO ALPHA,HGF,ICAM-1,IFN-a,IFN-b,IFN-G,IL-10,IL-12-P70,IL-12P40,IL-13,IL-15,IL-17,IL-17F,IL-1a,IL-1B,IL-1RA,IL-2,IL-4,IL-5,IL-6,IL-7,IL-8,IP10,LEPTIN,LIF,M-CSF,MCP-1,MCP-3,MIG,MIP-1B,MIP1a,NGF,PAI-1,PDGFBB,RANTES,Resistin,SCF,sFAS ligand,TGF-a,TGF-b,TNF-A,TNF-B,Trail,V-CAM-1,VEGF Control Beads:CHEX-1,CHEX-2,CHEX-3,CHEX-4	N	H51-2 lot# 1088590	Affymetrix	Custom 51 plex Polysterene Bead array kit for Luminex: Discontinued		Luminex xMAP		2883
+ESR9394				14190144			Phosphate buffer saline without manganese and without magnesium	N	1227361	Life Technologies	Phosphate Buffer Saline				2883
+ESR9395				51202			5M Sodium chloride	N	0000200005	AccuGene	Sodium Chloride				2883
+ESR9396				31151			Chicken blood contraining 50% alsevers solution	N	999230	Colorado Serum Company	Chicken Red Blood Cells				2883
+ESR9397				370013			Receptor Destroying Enzyme II, influenza virus; elimination of nonspecific inhibition of hemagglutination	N	412061	Accurate Chemical & Scientific Corporation	Receptor Destroying Enzyme II				2883

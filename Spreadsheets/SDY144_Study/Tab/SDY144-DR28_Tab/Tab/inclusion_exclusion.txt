@@ -1,0 +1,5 @@
+CRITERION_ACCESSION	CRITERION	CRITERION_CATEGORY	STUDY_ACCESSION	WORKSPACE_ID
+CRIT639	Not allergic to eggs	Inclusion	SDY144	2799
+CRIT637	Has not had flu vaccine for this season	Inclusion	SDY144	2799
+CRIT638	No flu like symptoms on day of vaccine	Inclusion	SDY144	2799
+CRIT636	Between the ages of 6 months and 18 years.	Inclusion	SDY144	2799

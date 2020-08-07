@@ -24,7 +24,7 @@ knit: (function(input_file, encoding) {
 * Translational Bcells
 * Naive Bcells
 
-![B-cell panel gating hierarchy](/Volumes/Samsung_T5/Immport_UH2/SDY67/Bcell/fig.png)
+![B-cell panel gating hierarchy](./input_files/SDY67_Bcell.png)
 
 ```{r, include=FALSE,echo=FALSE, message=FALSE}
 library(RImmPort)
@@ -56,7 +56,7 @@ library(ggpubr)
 ```{r, include=FALSE, echo=FALSE}
 sdy <- "SDY67"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY67_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -114,7 +114,7 @@ print(head(final_tab_sdy67[,1:13]))
 #### C) Merging meta data and Cell Proportions {.tabset}
 The cell proportions are calculated with Live Leukocytes in population 1 as the parent. 
 ```{r, inlcude=FALSE, message=FALSE, echo=FALSE}
-cell_props <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY67/Bcell/Bcells.xlsx",sheet=7)
+cell_props <- read.xlsx("./Spreadsheets/SDY67_Bcells.xlsx",sheet=7)
 colnames(cell_props)[1] <- "name" 
 
 Final_table <- merge(cell_props,final_tab_sdy67[,1:13],by='name',all=TRUE,sort=TRUE)
@@ -152,8 +152,8 @@ ggplot(CP_age,aes(x=study_time_collected,y=value,color=Age_cat,fill=Age_cat))+ge
 **Multiplicity factor** is an increase compared to baseline with 2.5 or greater.
 ```{r, message=FALSE, include=FALSE}
 #ab titer
-hai <- as.data.frame(read_tsv("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/hai_result.txt"))
-nai <- as.data.frame(read_tsv("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/neut_ab_titer_result.txt"))
+hai <- as.data.frame(read_tsv("./Spreadsheets/SDY67_Study/Tab/SDY67-DR29_Tab/Tab/hai_result.txt"))
+nai <- as.data.frame(read_tsv("./Spreadsheets/SDY67_Study/Tab/SDY67-DR29_Tab/Tab/neut_ab_titer_result.txt"))
 nai_cast <- dcast(nai,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
 hai_cast <- dcast(hai,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
 hai_cast$STUDY_TIME_COLLECTED <- as.factor(hai_cast$STUDY_TIME_COLLECTED)
@@ -243,14 +243,14 @@ p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE,
 * CD11c+ CD16- mDC
 * CD11c+ CD16+ mDC
    
-![alt text](/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells1.png)
-![alt text](/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells2.png)
-![alt text](/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DCells3.png)
+![alt text](./input_files/SDY67_DCells1.png)
+![alt text](./input_files/SDY67_DCells2.png)
+![alt text](./input_files/SDY67_DCells3.png)
 #### B) Metadata
 ```{r, include=FALSE, echo=FALSE}
 sdy <- "SDY67"
 ##Set tab_dir to the folder where the study files are located
-studies_dir <- file.path(paste0("/Volumes/Samsung_T5/Immport_UH2"),sdy,"Study")
+studies_dir <- file.path(paste0("./Spreadsheets/SDY67_Study"))
 tab_dir <- file.path(studies_dir,"Tab")
 list.files(tab_dir)
 
@@ -309,7 +309,7 @@ print(head(final_tab_sdy67[,1:13]))
 #### C) Merging meta data and Cell Proportions {.tabset}
 The cell proportions are calculated with Live Leukocytes in population 1 as the parent. 
 ```{r, inlcude=FALSE, message=FALSE, echo=FALSE}
-cell_props <- read.xlsx("/Volumes/Samsung_T5/Immport_UH2/SDY67/Innate/Dendritic_cells/DC_percentages.xlsx",sheet=4)
+cell_props <- read.xlsx("./Spreadsheets/SDY67_DC_percentages.xlsx",sheet=4)
 colnames(cell_props)[1] <- "name" 
 
 Final_table <- merge(cell_props,final_tab_sdy67[,1:13],by='name',all=TRUE,sort=TRUE)
@@ -348,8 +348,8 @@ ggplot(CP_age,aes(x=study_time_collected,y=value,color=Age_cat,fill=Age_cat))+ge
 **Multiplicity factor** is an increase compared to baseline with 2.5 or greater.
 ```{r, message=FALSE, include=FALSE}
 #ab titer
-hai <- as.data.frame(read_tsv("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/hai_result.txt"))
-nai <- as.data.frame(read_tsv("/Volumes/Samsung_T5/Immport_UH2/SDY67/Study/Tab/SDY67-DR29_Tab/Tab/neut_ab_titer_result.txt"))
+hai <- as.data.frame(read_tsv("./Spreadsheets/SDY67_Study/Tab/SDY67-DR29_Tab/Tab/hai_result.txt"))
+nai <- as.data.frame(read_tsv("./Spreadsheets/SDY67_Study/Tab/SDY67-DR29_Tab/Tab/neut_ab_titer_result.txt"))
 nai_cast <- dcast(nai,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
 hai_cast <- dcast(hai,SUBJECT_ACCESSION+STUDY_TIME_COLLECTED~VIRUS_STRAIN_REPORTED,value.var='VALUE_REPORTED')
 hai_cast$STUDY_TIME_COLLECTED <- as.factor(hai_cast$STUDY_TIME_COLLECTED)

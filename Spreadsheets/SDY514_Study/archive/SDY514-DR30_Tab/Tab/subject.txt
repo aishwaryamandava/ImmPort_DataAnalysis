@@ -1,0 +1,75 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB146521	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146531	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146532	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146545	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146560	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146569	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146582	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146565	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146567	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146538	Other	Pair code: TW009A Identical twin ;Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146518	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146554	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146574	Other	FluMist Intranasal Spray|66019-107-01	Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146551	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146514	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146515	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146544	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146519	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146542	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146583	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146522	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146570	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146580	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Other	Black or African American, Asian	Homo sapiens			2883
+SUB146539	Other	Pair code: TW009B Identical twin ;Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146549	Other	Pair code: TW013B Identical twin ;Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146555	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146523	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146534	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146536	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146577	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146653	None of the Above	The control sample subjects are blood bank donors for which there are frozen many replicate vials of PBMC, and they are included in each batch of certain assays. There are no demographics on these donors; they are used simply as a batch control.	Not Specified	Not Specified	Not Specified		Homo sapiens			2883
+SUB146533	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146566	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146575	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Other	American Indian or Alaska Native, White	Homo sapiens			2883
+SUB146513	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146527	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146651	None of the Above	The control sample subjects are blood bank donors for which there are frozen many replicate vials of PBMC, and they are included in each batch of certain assays. There are no demographics on these donors; they are used simply as a batch control.	Not Specified	Not Specified	Not Specified		Homo sapiens			2883
+SUB146572	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146579	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Other	Black or African American, Asian	Homo sapiens			2883
+SUB146553	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146529	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146541	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Black or African American		Homo sapiens			2883
+SUB146548	Other	Pair code: TW013A Identical twin ;Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146557	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146520	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146524	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146526	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146528	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146537	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146546	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146562	Other	FluMist Intranasal Spray|66019-107-01	Hispanic or Latino	Male	Other	White, Not_Specified	Homo sapiens			2883
+SUB146581	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146573	Other	FluMist Intranasal Spray|66019-107-01	Hispanic or Latino	Female	Other		Homo sapiens			2883
+SUB146552	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146540	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	Black or African American		Homo sapiens			2883
+SUB146576	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	Other	American Indian or Alaska Native, White	Homo sapiens			2883
+SUB146568	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146578	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146652	None of the Above	The control sample subjects are blood bank donors for which there are frozen many replicate vials of PBMC, and they are included in each batch of certain assays. There are no demographics on these donors; they are used simply as a batch control.	Not Specified	Not Specified	Not Specified		Homo sapiens			2883
+SUB146535	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146543	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146517	Other	Fluzone single-dose syringe|49281-009-50;age rounded down to 90 by ImmPort submission tool	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146550	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146563	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146559	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146571	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146561	Other	FluMist Intranasal Spray|66019-107-01	Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146564	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146530	Other	FluMist Intranasal Spray|66019-107-01	Not Hispanic or Latino	Male	White		Homo sapiens			2883
+SUB146556	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146558	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146516	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	Asian		Homo sapiens			2883
+SUB146525	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Female	White		Homo sapiens			2883
+SUB146547	Other	Fluzone single-dose syringe|49281-009-50	Not Hispanic or Latino	Male	White		Homo sapiens			2883

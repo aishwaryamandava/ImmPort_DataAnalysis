@@ -1,0 +1,16 @@
+NAME	DESCRIPTION	LINK
+Adverse Events	Study file type is Adverse Events.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C41331&ns=NCI_Thesaurus
+Assessment Results	Study file type is Assessment Results.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C25217&ns=NCI_Thesaurus
+Case Report Form	Study file type is Case Report Form.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C40988&ns=NCI_Thesaurus
+Concomitant Medications	Study file type is Concomitant Medications.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C49568&ns=NCI_Thesaurus
+Data Dictionary	Study file type is Data Dictionary.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C49461&ns=NCI_Thesaurus
+Demographics	Study file type is Demographics.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C16495&ns=NCI_Thesaurus
+Interventions	Study file type is Interventions.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C25218&ns=NCI_Thesaurus
+Lab Test Results	Study file type is Lab Test Results (e.g. CBC, chemistry, cytokine).	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C36292&ns=NCI_Thesaurus
+Study Data	Data associated with a study. For studies at a data curation level 0, this is the default setting for data linked to a study.	https://immport.org/resources/documentation
+Study Medication	Study file type is Study Medication.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C459&ns=NCI_Thesaurus
+Study Summary Description	Study Summary Description document.	https://immport.org/resources/documentation
+Substance Use	Study file type is Substance Use.	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C49615&ns=NCI_Thesaurus
+Screening Data	Study file type is Screening Data	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/pages/concept_details.jsf?dictionary=NCI_Thesaurus&code=C48262
+Medical History Data	Study file type is Medical History Data	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C18772
+Protocol Deviation Data	Study file type is Protocol Deviation Data	https://immport.org/resources/documentation; https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C50996

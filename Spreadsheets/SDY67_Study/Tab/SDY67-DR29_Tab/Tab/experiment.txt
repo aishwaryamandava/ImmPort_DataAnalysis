@@ -1,0 +1,25 @@
+EXPERIMENT_ACCESSION	DESCRIPTION	MEASUREMENT_TECHNIQUE	NAME	STUDY_ACCESSION	WORKSPACE_ID
+EXP10664	unstim = unstimulated;stim =stimulated;pha = control	ELISPOT	Granzyme B ELISPOT	SDY67	2510
+EXP13375		Meso Scale Discovery ECL	CytokineQuantification	SDY67	2510
+EXP13575		Hemagglutination Inhibition	Hemagglutination Inhibition	SDY67	2510
+EXP13923		Flow Cytometry	T-Cell Flow Panel	SDY67	2510
+EXP13372		Flow Cytometry	B-Cell Flow Panel	SDY67	2510
+EXP13936		DNA methylation profiling assay	Illumina450K	SDY67	2510
+EXP14716		Cell Culture	SecretedCyt	SDY67	2510
+EXP14055		ELISPOT	B Cell ELISPOT	SDY67	2510
+EXP14714		RNA sequencing	miRNA_CD4	SDY67	2510
+EXP13764		Hemagglutination Inhibition	H3N2	SDY67	2510
+EXP13925		Flow Cytometry	Innate Flow Panel	SDY67	2510
+EXP14599	Raw and Normalized Mass Spec Proteomics of Influeza subjects post vaccine	Mass Spectrometry	Proteomics Mass Spec Influenza	SDY67	2510
+EXP14626	DNA Methylation filtered data set	DNA methylation profiling assay	Illumina 450 Analysis data	SDY67	2510
+EXP14712		RNA sequencing	miRNAa_BCELL	SDY67	2510
+EXP14715		RNA sequencing	miRNA_CD8	SDY67	2510
+EXP13373		Meso Scale Discovery ECL	Chemokine Quantification	SDY67	2510
+EXP14625		RNA sequencing	RNA Seq Batch 2	SDY67	2510
+EXP14713		RNA sequencing	miRNA_NK	SDY67	2510
+EXP10742		PCR	T-cell receptor excision circles (TRECs)	SDY67	2510
+EXP13377		RNA sequencing	RNA Seq Batch 1	SDY67	2510
+EXP13924		Flow Cytometry	Treg Activation Flow Panel	SDY67	2510
+EXP9413		Q-PCR	Human TREC Assay	SDY67	2510
+EXP13574		Virus Neutralization	Virus Neutralization	SDY67	2510
+EXP14711		RNA sequencing	miRNAa_PBMC	SDY67	2510

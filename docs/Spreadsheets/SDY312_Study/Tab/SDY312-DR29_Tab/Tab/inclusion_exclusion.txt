@@ -1,0 +1,6 @@
+CRITERION_ACCESSION	CRITERION	CRITERION_CATEGORY	STUDY_ACCESSION	WORKSPACE_ID
+CRIT2167	History of immunodeficiency or any known or suspected impairment of immunologic function	Exclusion	SDY312	2883
+CRIT2171	Healthy and ambulatory	Inclusion	SDY312	2883
+CRIT2169	Recipients or donors of blood or blood products within the past 6 months or 6 weeks respectively	Exclusion	SDY312	2883
+CRIT2168	Showed any signs of febrile illness on the day of enrollment and baseline blood draw	Exclusion	SDY312	2883
+CRIT2170	Acute systemic or serious concurrent illness	Exclusion	SDY312	2883

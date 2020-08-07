@@ -1,0 +1,3 @@
+ARM_ACCESSION	DESCRIPTION	NAME	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM2358	Young adults 21-30 years old	Young adults 21-30 years old	SDY404		2668
+ARM2359	Older adults >= 65 years old	Older adults >= 65 years old	SDY404		2668

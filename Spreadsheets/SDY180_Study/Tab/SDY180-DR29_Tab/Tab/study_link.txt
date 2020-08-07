@@ -1,0 +1,2 @@
+STUDY_LINK_ID	NAME	STUDY_ACCESSION	TYPE	VALUE	WORKSPACE_ID
+88	Gene Expression Omnibus (GEO)	SDY180	website	http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE30101	2799

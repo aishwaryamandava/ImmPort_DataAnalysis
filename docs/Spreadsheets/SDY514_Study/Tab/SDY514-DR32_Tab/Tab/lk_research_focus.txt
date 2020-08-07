@@ -1,0 +1,12 @@
+NAME	DESCRIPTION	LINK
+Cell Biology	The study of the internal workings of cells at the microscopic and molecular level.	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=19.07e&ns=ncit&code=C17992&key=n750867443&b=1&n=null
+Molecular Biology	The study of biology at a molecular level. It chiefly concerns itself with understanding the interactions between the various systems of a cell, including the interrelationship of DNA, RNA and protein synthesis and learning how these interactions are regulated. The field overlaps with other areas of biology, particularly genetics and biochemistry.	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=19.07e&ns=ncit&code=C16872&key=n759199013&b=1&n=null
+Atopy/Allergy	Atopy or Allergy research focus.	http://purl.obolibrary.org/obo/OBI_1110049
+Autoimmune	Autoimmune research focus.	http://purl.obolibrary.org/obo/OBI_1110054
+Immune Response	Immune Response research focus.	http://purl.obolibrary.org/obo/GO_0006955
+Infection Response	Infection Response research focus.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=SNOMED%20Clinical%20Terms%20US%20Edition&code=252101002&ns=SNOMED
+No Research Focus Specified	No Research Focus currently specified.	
+Transplantation	Transplantation research focus.	http://purl.obolibrary.org/obo/OBI_0000105
+Vaccine Response	Vaccine Response research focus.	http://www.ebi.ac.uk/efo/EFO_0004645
+Preterm Birth	Birth when a fetus is less than 37 weeks and 0 days gestational age.	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=18.06d&ns=ncit&code=C92861&key=620784314&b=1&n=null
+Oncology	The study of tumors encompassing the physical, chemical, and biologic properties.	https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=17.04d&ns=NCI_Thesaurus&code=C17837&key=n608142342&m=1&b=1&n=null

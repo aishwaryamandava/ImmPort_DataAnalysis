@@ -1,0 +1,2 @@
+STUDY_ACCESSION	PUBMED_ID	AUTHORS	DOI	ISSUE	JOURNAL	MONTH	PAGES	TITLE	YEAR	WORKSPACE_ID
+SDY202	23107783	He XS(1), Sasaki S, Baer J, Khurana S, Golding H, Treanor JJ, Topham DJ, Sangster MY, Jin H, Dekker CL, Subbarao K, Greenberg HB.	10.1093/infdis/jis664. Epub 2012 Oct 29.	207 2	J Infect Dis.	Jan	288-96	Heterovariant cross-reactive B-cell responses induced by the 2009 pandemic influenza virus A subtype H1N1 vaccine.	2013	2883

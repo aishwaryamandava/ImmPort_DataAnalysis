@@ -1,0 +1,11 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY514	arm or cohorts
+SDY514	demographics
+SDY514	documentation
+SDY514	inclusionExclusion
+SDY514	mechassays
+SDY514	publications
+SDY514	resources
+SDY514	study files
+SDY514	subject
+SDY514	summary

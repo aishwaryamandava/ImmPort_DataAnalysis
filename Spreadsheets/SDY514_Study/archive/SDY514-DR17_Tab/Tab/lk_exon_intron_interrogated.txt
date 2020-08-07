@@ -1,0 +1,19 @@
+NAME	DESCRIPTION	LINK
+Exon_1_and_2		
+Exon_1_and_2_and_3		
+Exon_2_and_3		
+Exon_1		
+Exon_2		
+Exon_3		
+Exon_4		
+Exon_5		
+Exon_6		
+Exon_7		
+Exon_8		
+Intron_1		
+Intron_2		
+Intron_3		
+Intron_4		
+Intron_5		
+Intron_6		
+Intron_7		

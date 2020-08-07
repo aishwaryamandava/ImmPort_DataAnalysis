@@ -1,0 +1,13 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY387	adverseevents
+SDY387	arm or cohorts
+SDY387	assessments
+SDY387	conmeds
+SDY387	demographics
+SDY387	documentation
+SDY387	inclusionExclusion
+SDY387	labtests
+SDY387	mechassays
+SDY387	publications
+SDY387	subject
+SDY387	summary

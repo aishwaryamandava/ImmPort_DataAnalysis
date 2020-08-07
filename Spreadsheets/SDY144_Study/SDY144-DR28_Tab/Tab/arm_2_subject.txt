@@ -1,0 +1,18 @@
+ARM_ACCESSION	SUBJECT_ACCESSION	AGE_EVENT	AGE_EVENT_SPECIFY	AGE_UNIT	MAX_SUBJECT_AGE	MIN_SUBJECT_AGE	SUBJECT_PHENOTYPE
+ARM683	SUB118155	Age at initial vaccine administration		Years	12	12	Healthy
+ARM683	SUB118157	Age at initial vaccine administration		Years	13	13	Healthy
+ARM683	SUB118170	Age at initial vaccine administration		Years	1.16	1.16	Healthy
+ARM683	SUB118174	Age at initial vaccine administration		Years	4	4	Healthy
+ARM683	SUB118164	Age at initial vaccine administration		Years	13	13	Healthy
+ARM683	SUB118167	Age at initial vaccine administration		Years	11	11	Healthy
+ARM683	SUB118168	Age at initial vaccine administration		Years	4	4	Healthy
+ARM683	SUB118169	Age at initial vaccine administration		Years	2	2	Healthy
+ARM683	SUB118171	Age at initial vaccine administration		Years	4	4	Healthy
+ARM683	SUB118151	Age at initial vaccine administration		Years	10	10	Healthy
+ARM683	SUB118153	Age at initial vaccine administration		Years	12	12	Healthy
+ARM683	SUB118176	Age at initial vaccine administration		Years	2	2	Healthy
+ARM683	SUB118156	Age at initial vaccine administration		Years	13	13	Healthy
+ARM683	SUB118161	Age at initial vaccine administration		Years	6	6	Healthy
+ARM683	SUB118158	Age at initial vaccine administration		Years	12	12	Healthy
+ARM683	SUB118148	Age at initial vaccine administration		Years	12	12	Healthy
+ARM683	SUB118183	Age at initial vaccine administration		Years	0.5	0.5	Healthy

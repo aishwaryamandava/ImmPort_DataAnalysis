@@ -1,0 +1,69 @@
+REAGENT_ACCESSION	ANALYTE_PREFERRED	ANALYTE_REPORTED	ANTIBODY_REGISTRY_ID	CATALOG_NUMBER	CLONE_NAME	CONTACT	DESCRIPTION	IS_SET	LOT_NUMBER	MANUFACTURER	NAME	REPORTER_NAME	TYPE	WEBLINK	WORKSPACE_ID
+ESR16435		A_Ca_07_swine X-179A virus		NA			X?179A virus is a 5:3 reassortant vaccine containing the HA, NA, and PB1 genes from A/California/07/2009 (H1N1pdm09) and the 5 other genes from A/PR/8/34 were donated by the high growth virus NYMC X?157	N		CHI	A_Ca_07_swine X-179A virus		Virus Neutralization		2771
+ESR16436		H1N1 A/Brisbane/59/07		NA				N		CHI	H1N1 A/Brisbane/59/07		Virus Neutralization		2771
+ESR16437		H3N2 A/Uruguay/716/07		NA				N		CHI	H3N2 A/Uruguay/716/07		Virus Neutralization		2771
+ESR16438		B/Brisbane/60/2001		NA				N		CHI	B/Brisbane/60/2001		Virus Neutralization		2771
+ESR16441		IgG light chains		NA			Coating antigens to enumerate total ASCs	N		NA	anti-human light chain Abs		ELISPOT		2771
+ESR16442		IgG 2009 seasonal influenza vaccines		NA			Coating antigens to seasonal influenza vaccines to enumerate influenza?specific ASCs	N		NA	2009 seasonal influenza vaccines		ELISPOT		2771
+ESR16443		IgG H1N1 influenza vaccines		NA			Coating antigens to H1N1 influenza vaccines to enumerate influenza?specific ASCs	N		NA	H1N1 influenza vaccines		ELISPOT		2771
+ESR16444	ANA41	CD4		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD4 V450 Pac blue	V450 Pac blue	Flow Cytometry		2771
+ESR16445		Viability		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	Viability Aquablue	Aquablue	Flow Cytometry		2771
+ESR16446	ANA810	CD8		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD8 BV605	BV605	Flow Cytometry		2771
+ESR16447	ANA40	CD27		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD27 BV655	BV650	Flow Cytometry		2771
+ESR16448		CD45		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD45 BV785	BV785	Flow Cytometry		2771
+ESR16449		CD39		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD39 FITC	FITC	Flow Cytometry		2771
+ESR16450	ANA808	CD38		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD38 PcPcy5.5	PcPcy5.5	Flow Cytometry		2771
+ESR16451		Foxp3		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	Foxp3 PE	PE	Flow Cytometry		2771
+ESR16452		CD45-RA		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD45-RA PE-TR	PE-TR	Flow Cytometry		2771
+ESR16453	ANA877	CD103		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD103 PEcy5	PEcy5	Flow Cytometry		2771
+ESR16454	ANA812	HLA-DR		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	HLA-DR PEcy5.5/PE-A700	PEcy5.5/PE-A700	Flow Cytometry		2771
+ESR16455	ANA163	CD25		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD25 PEcy7	PEcy7	Flow Cytometry		2771
+ESR16456	ANA182	CD127		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD127 APC/eFluor660	APC/eFluor660	Flow Cytometry		2771
+ESR16457		CD197		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD197 Alexa700/APC Cy5.5	Alexa700/APC Cy5.5	Flow Cytometry		2771
+ESR16458	ANA809	CD3		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD3 APC cy7	APC cy7	Flow Cytometry		2771
+ESR16459		IL-23R		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IL-23R FITC	FITC	Flow Cytometry		2771
+ESR16460		CD196		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD196 PcPcy5.5	PcPcy5.5	Flow Cytometry		2771
+ESR16461		CD146		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD146 PE	PE	Flow Cytometry		2771
+ESR16462		CD45-RO		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD45-RO PE-TR	PE-TR	Flow Cytometry		2771
+ESR16463	ANA883	CD161		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD161 PEcy5	PEcy5	Flow Cytometry		2771
+ESR16464	ANA220	TNFa		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	TNFa PEcy5.5/PE-A700	PEcy5.5/PE-A700	Flow Cytometry		2771
+ESR16465	ANA133	IL-17A		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IL-17A PEcy7	PEcy7	Flow Cytometry		2771
+ESR16466		IL-22		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IL-22 APC/eFluor660	APC/eFluor660	Flow Cytometry		2771
+ESR16467	ANA865	CD69		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD69 FITC	FITC	Flow Cytometry		2771
+ESR16468	ANA174	IL-4		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IL-4 PcPcy5.5	PcPcy5.5	Flow Cytometry		2771
+ESR16469	ANA890	Perforin		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	Perforin PE	PE	Flow Cytometry		2771
+ESR16470	ANA43	CD40L		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD40L PEcy5	PEcy5	Flow Cytometry		2771
+ESR16471	ANA110	IFNg		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IFNg PEcy7	PEcy7	Flow Cytometry		2771
+ESR16472	ANA148	IL-2		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IL-2 APC/eFluor660	APC/eFluor660	Flow Cytometry		2771
+ESR16473	ANA866	CD80		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD80 V450 Pac blue	V450 Pac blue	Flow Cytometry		2771
+ESR16474	ANA40	CD27		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD27 BV605	BV605	Flow Cytometry		2771
+ESR16475	ANA805	CD19		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD19 BV655	BV650	Flow Cytometry		2771
+ESR16476		IgA		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IgA FITC	FITC	Flow Cytometry		2771
+ESR16477	ANA868	CD86		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD86 PcPcy5.5	PcPcy5.5	Flow Cytometry		2771
+ESR16478		CD21		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD21 PE	PE	Flow Cytometry		2771
+ESR16479	ANA808	CD38		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD38 PE-TR	PE-TR	Flow Cytometry		2771
+ESR16480		IgG		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IgG PEcy5	PEcy5	Flow Cytometry		2771
+ESR16481	ANA806	CD20		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD20 PEcy5.5/PE-A700	PEcy5.5/PE-A700	Flow Cytometry		2771
+ESR16482		CD23		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD23 PEcy7	PEcy7	Flow Cytometry		2771
+ESR16483	ANA813	IgD		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IgD APC/eFluor660	APC/eFluor660	Flow Cytometry		2771
+ESR16484	ANA817	IgM		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IgM Alexa700/APC Cy5.5	Alexa700/APC Cy5.5	Flow Cytometry		2771
+ESR16485		CD10		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD103 APC cy7	APC cy7	Flow Cytometry		2771
+ESR16486	ANA173	CD123		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD123 V450 Pac blue	V450 Pac blue	Flow Cytometry		2771
+ESR16487	ANA41	CD4		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD4 BV655	BV650	Flow Cytometry		2771
+ESR16488	ANA717	IFNa		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	IFNa FITC	FITC	Flow Cytometry		2771
+ESR16489	ANA220	TNFa		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	TNFa PcPcy5.5	PcPcy5.5	Flow Cytometry		2771
+ESR16490	ANA42	CD40		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD40 PE	PE	Flow Cytometry		2771
+ESR16491	ANA812	HLA-DR		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	HLA-DR PE-TR	PE-TR	Flow Cytometry		2771
+ESR16492		CD83		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD83 PEcy5	PEcy5	Flow Cytometry		2771
+ESR16493	ANA814	CD11c		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD11c PEcy5.5/PE-A700	PEcy5.5/PE-A700	Flow Cytometry		2771
+ESR16494		lineage		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	lineage PEcy7	PEcy7	Flow Cytometry		2771
+ESR16495	ANA870	BDCA-2		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	BDCA-2 APC/eFluor660	APC/eFluor660	Flow Cytometry		2771
+ESR16496	ANA864	CD33		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD33 Alexa700/APC Cy5.5	Alexa700/APC Cy5.5	Flow Cytometry		2771
+ESR16497	ANA868	CD86		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD86 APC cy7	APC cy7	Flow Cytometry		2771
+ESR16498	ANA804	CD14		Contact foo.cheung@nhlbi.nih.gov for more details	Contact foo.cheung@nhlbi.nih.gov for more details			N		Contact foo.cheung@nhlbi.nih.gov for more details	CD14 Qdot 655	Qdot 655	Flow Cytometry		2771
+ESR16499							T cell panel 1	Y			T cell panel 1		Flow Cytometry		2771
+ESR16500							T cell panel 2	Y			T cell panel 2		Flow Cytometry		2771
+ESR16501							T cell panel 3	Y			T cell panel 3		Flow Cytometry		2771
+ESR16502							B cell panel 2	Y			B cell panel 2		Flow Cytometry		2771
+ESR16503							Dendritic / Monocytes panel	Y			Dendritic / Monocytes panel		Flow Cytometry		2771
+ESR9014				Affymetrix Human GeneChip Gene 1.0 ST				N		Affymetrix	Affymetrix Human GeneChip Gene 1.0 ST				2771

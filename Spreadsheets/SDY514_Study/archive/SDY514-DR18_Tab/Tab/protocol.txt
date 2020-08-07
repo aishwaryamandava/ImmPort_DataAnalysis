@@ -1,0 +1,8 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	KEYWORDS	NAME	SUMMARY	TYPE	WORKSPACE_ID
+PTL5519		STANPRO_HAI_v1.PTL5519.doc		Hemagglutination Inhibition Assay		Assay	2883
+PTL6738		Assay_Protocol_CyTOF-021413-MDL.PTL6738.docx		CyTOF surface phenotyping protocol		Experiment	2883
+PTL7084	Luminex 51 plex assay used by Stanford HIMC	Assay Protocol Luminex.PTL7084.doc		51 plex protocol		Assay	2883
+PTL7136		Phosphoflow assay protocol.PTL7136.doc		Phosphoflow assay protocol		Not_Specified	2883
+PTL7268		17219_Proj_2_3_and_Tech_Dev_1_v1_01JUL2009_final.PTL7268.pdf		17219_Proj_2_3_and_Tech_Dev_1_v1_01JUL2009_final		Not_Specified	2883
+PTL7269		17219_U19_2010_Proj_2_3_T-cell_Protocol_08NOV2010_v4_final.PTL7269.pdf		17219_U19_2010_Proj_2_3_T-cell_Protocol_08NOV2010_v4_final		Not_Specified	2883
+PTL7273		SOP-PBMCDirectFicollHeparinv1-4-1.PTL7273.pdf		PBMC isolation protocol		Biomaterial_Transformation	2883

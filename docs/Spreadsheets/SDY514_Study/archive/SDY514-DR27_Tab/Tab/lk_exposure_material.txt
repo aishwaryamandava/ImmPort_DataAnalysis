@@ -1,0 +1,13 @@
+NAME	EXPOSURE_MATERIAL_ID	DESCRIPTION	LINK
+BCG Vaccine	VO_0000771	BCG Vaccine	http://www.ontobee.org/ontology/VO?iri=http://purl.obolibrary.org/obo/VO_0000771
+Borrelia burgdorferi	NCBITaxon_139	Borrelia burgdorferi	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=139
+Dengue virus	NCBITaxon_12637	Dengue virus	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=12637
+Dengue virus 1	NCBITaxon_11053	Dengue virus 1	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11053
+Dengue virus 2	NCBITaxon_11060	Dengue virus 2	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11060
+Human alphaherpesvirus 3	NCBITaxon_10335	Human alphaherpesvirus 3	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=10335
+Influenza A H1N1 2009 Monovalent Vaccine Novartis	VO_0000081	Influenza A H1N1 2009 Monovalent Vaccine Novartis	http://www.ontobee.org/ontology/VO?iri=http://purl.obolibrary.org/obo/VO_0000081
+Influenza A virus	NCBITaxon_11320	Influenza A virus	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11320
+Mycobacterium tuberculosis	NCBITaxon_1773	Mycobacterium tuberculosis	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1773
+Purified Protein Derivative	Unknown ID	Purified Protein Derivative	
+Varicella-zoster virus vaccine	VO_0000669	Varicella-zoster virus vaccine	http://www.ontobee.org/ontology/VO?iri=http://purl.obolibrary.org/obo/VO_0000669
+West Nile virus	NCBITaxon_11082	West Nile virus	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11082

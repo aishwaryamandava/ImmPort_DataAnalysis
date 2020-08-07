@@ -1,0 +1,5 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	NAME	ORIGINAL_FILE_NAME	TYPE	WORKSPACE_ID
+PTL5201		HAI Protocol 12052011.PTL5201.doc	PT_Experiment_HAI_12052011	HAI Protocol 12052011.doc	Not Specified	2668
+PTL5204		Microarray protocol from 05032012.PTL5204.pdf	PT_Experiment_MicroarrayExpression_05032012	Microarray protocol from 05032012.pdf	Not Specified	2668
+PTL6874		HIPC.Yale.Flu.Study.Design.PTL6874.xls	HIPC Yale Influenza Study	HIPC.Yale.Flu.Study.Design.xls	Not Specified	2668
+PTL7274		Immunophenotyping_protocol_PBMC_surface_and_intracytoplasmic_markers.PTL7274.doc	FCM_Flu_Year2	Immunophenotyping_protocol_PBMC_surface_and_intracytoplasmic_markers.doc	Not Specified	2668

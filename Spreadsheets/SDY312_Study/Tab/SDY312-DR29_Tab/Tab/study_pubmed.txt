@@ -1,0 +1,2 @@
+STUDY_ACCESSION	PUBMED_ID	AUTHORS	DOI	ISSUE	JOURNAL	MONTH	PAGES	TITLE	YEAR	WORKSPACE_ID
+SDY312	27746093	Shen-Orr SS(1), Furman D(2), Kidd BA(2), Hadad F(3), Lovelace P(4), Huang YW(4),  Rosenberg-Hasson Y(4), Mackey S(5), Grisar FA(3), Pickman Y(6), Maecker HT(7), Chien YH(8), Dekker CL(9), Wu JC(3), Butte AJ(10), Davis MM(11).	10.1016/j.cels.2016.09.009. Epub 2016 Oct 13.	3 4	Cell Syst.	Oct	374-384	Defective Signaling in the JAK-STAT Pathway Tracks with Chronic Inflammation and Cardiovascular Risk in Aging Humans.	2016	2883

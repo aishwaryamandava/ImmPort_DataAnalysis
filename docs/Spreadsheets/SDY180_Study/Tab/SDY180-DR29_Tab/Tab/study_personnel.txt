@@ -1,0 +1,2 @@
+PERSON_ACCESSION	EMAIL	FIRST_NAME	HONORIFIC	LAST_NAME	ORGANIZATION	ROLE_IN_STUDY	SITE_NAME	STUDY_ACCESSION	SUFFIXES	TITLE_IN_STUDY	WORKSPACE_ID
+PSN323	karolinap@baylorhealth.edu	A. Karolina		Palucka	Baylor Reasearch Institute	Principal Investigator	Baylor Reasearch Institute	SDY180	MD, PhD	Principal Investigator	2799

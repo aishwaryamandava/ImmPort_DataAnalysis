@@ -1,0 +1,545 @@
+FILE_INFO_ID	DETAIL	FILESIZE_BYTES	NAME	ORIGINAL_FILE_NAME	WORKSPACE_ID
+483431	Flow cytometry result	24475307	Flu Vaccine-K 11-09-10_NCH-VK 21 B Panel.483431.fcs	Flu Vaccine-K 11-09-10_NCH-VK 21 B Panel.fcs	2799
+483432	Flow cytometry compensation or control	8836018	Flu Vaccine-K 11-09-10_NCH-VK 21 Ctrl.483432.fcs	Flu Vaccine-K 11-09-10_NCH-VK 21 Ctrl.fcs	2799
+483433	Flow cytometry compensation or control	8354593	Comp Controls_Unstained 11_09_10.483433.fcs	Comp Controls_Unstained 11_09_10.fcs	2799
+483434	Flow cytometry compensation or control	9971115	Comp Controls_LIN1 FITC 11_09_10.483434.fcs	Comp Controls_LIN1 FITC 11_09_10.fcs	2799
+483435	Flow cytometry compensation or control	9584392	Comp Controls_Cd3 PE 11_09_10.483435.fcs	Comp Controls_Cd3 PE 11_09_10.fcs	2799
+483436	Flow cytometry compensation or control	10167651	Comp Controls_CD19 PE-Texas Red 11_09_10.483436.fcs	Comp Controls_CD19 PE-Texas Red 11_09_10.fcs	2799
+483437	Flow cytometry compensation or control	10453308	Comp Controls_CD20 PE-Cy5 11_09_10.483437.fcs	Comp Controls_CD20 PE-Cy5 11_09_10.fcs	2799
+483438	Flow cytometry compensation or control	9071072	Comp Controls_CD56 PE-Cy7 11_09_10.483438.fcs	Comp Controls_CD56 PE-Cy7 11_09_10.fcs	2799
+483439	Flow cytometry compensation or control	10692065	Comp Controls_CD4 Pacific Blue 11_09_10.483439.fcs	Comp Controls_CD4 Pacific Blue 11_09_10.fcs	2799
+483440	Flow cytometry compensation or control	12068448	Comp Controls_CD45 QDOT 565 11_09_10.483440.fcs	Comp Controls_CD45 QDOT 565 11_09_10.fcs	2799
+483441	Flow cytometry compensation or control	14935862	Comp Controls_CD16 APC 11_09_10.483441.fcs	Comp Controls_CD16 APC 11_09_10.fcs	2799
+483442	Flow cytometry compensation or control	10264679	Comp Controls_CD3 Alexa 700 11_09_10.483442.fcs	Comp Controls_CD3 Alexa 700 11_09_10.fcs	2799
+483443	Flow cytometry compensation or control	11910887	Comp Controls_CD8 APC-Cy7 11_09_10.483443.fcs	Comp Controls_CD8 APC-Cy7 11_09_10.fcs	2799
+483444	Flow cytometry result	27790795	Flu Vaccine-K 11-09-10_NCH-VK 21 B Panel.483444.txt	Flu Vaccine-K 11-09-10_NCH-VK 21 B Panel.txt	2799
+483445	Flow cytometry result	25509783	Flu Vaccine-K 11-09-10_NCH-VK 21 DC Panel.483445.fcs	Flu Vaccine-K 11-09-10_NCH-VK 21 DC Panel.fcs	2799
+483446	Flow cytometry result	29641094	Flu Vaccine-K 11-09-10_NCH-VK 21 DC Panel.483446.txt	Flu Vaccine-K 11-09-10_NCH-VK 21 DC Panel.txt	2799
+483447	Flow cytometry result	31991776	Flu Vaccine-K 11-09-10_NCH-VK 21 Mono,2f,Gran,2f,SLAN.483447.fcs	Flu Vaccine-K 11-09-10_NCH-VK 21 Mono,2f,Gran,2f,SLAN.fcs	2799
+483448	Flow cytometry result	36573199	Flu Vaccine-K 11-09-10_NCH-VK 21 Mono,2f,Gran,2f,SLAN.483448.txt	Flu Vaccine-K 11-09-10_NCH-VK 21 Mono,2f,Gran,2f,SLAN.txt	2799
+483449	Flow cytometry result	26320149	Flu Vaccine-K 11-09-10_NCH-VK 21 TFH Panel.483449.fcs	Flu Vaccine-K 11-09-10_NCH-VK 21 TFH Panel.fcs	2799
+483450	Flow cytometry result	30047517	Flu Vaccine-K 11-09-10_NCH-VK 21 TFH Panel.483450.txt	Flu Vaccine-K 11-09-10_NCH-VK 21 TFH Panel.txt	2799
+483451	Flow cytometry result	23078179	Flu Vaccine-K 11-16-10_NCH-VK 21 B Panel.483451.fcs	Flu Vaccine-K 11-16-10_NCH-VK 21 B Panel.fcs	2799
+483452	Flow cytometry compensation or control	5923782	Flu Vaccine-K 11-16-10_NCH-VK 21 Ctrl.483452.fcs	Flu Vaccine-K 11-16-10_NCH-VK 21 Ctrl.fcs	2799
+483453	Flow cytometry compensation or control	10257259	Comp Controls_LIN1 FITC 11_1617_10.483453.fcs	Comp Controls_LIN1 FITC 11_1617_10.fcs	2799
+483454	Flow cytometry compensation or control	10904544	Comp Controls_Cd3 PE 11_1617_10.483454.fcs	Comp Controls_Cd3 PE 11_1617_10.fcs	2799
+483455	Flow cytometry compensation or control	11318551	Comp Controls_CD19 PE-Texas Red 11_1617_10.483455.fcs	Comp Controls_CD19 PE-Texas Red 11_1617_10.fcs	2799
+483456	Flow cytometry compensation or control	11287940	Comp Controls_CD20 PE-Cy5 11_1617_10.483456.fcs	Comp Controls_CD20 PE-Cy5 11_1617_10.fcs	2799
+483457	Flow cytometry compensation or control	12304948	Comp Controls_CD56 PE-Cy7 11_1617_10.483457.fcs	Comp Controls_CD56 PE-Cy7 11_1617_10.fcs	2799
+483458	Flow cytometry compensation or control	10263053	Comp Controls_CD4 Pacific Blue 11_1617_10.483458.fcs	Comp Controls_CD4 Pacific Blue 11_1617_10.fcs	2799
+483459	Flow cytometry compensation or control	9651116	Comp Controls_CD45 QDOT 565 11_1617_10.483459.fcs	Comp Controls_CD45 QDOT 565 11_1617_10.fcs	2799
+483460	Flow cytometry compensation or control	9602622	Comp Controls_CD16 APC 11_1617_10.483460.fcs	Comp Controls_CD16 APC 11_1617_10.fcs	2799
+483461	Flow cytometry compensation or control	9138531	Comp Controls_CD3 Alexa 700 11_1617_10.483461.fcs	Comp Controls_CD3 Alexa 700 11_1617_10.fcs	2799
+483462	Flow cytometry compensation or control	12064771	Comp Controls_CD8 APC-Cy7 11_1617_10.483462.fcs	Comp Controls_CD8 APC-Cy7 11_1617_10.fcs	2799
+483463	Flow cytometry result	26387749	Flu Vaccine-K 11-16-10_NCH-VK 21 B Panel.483463.txt	Flu Vaccine-K 11-16-10_NCH-VK 21 B Panel.txt	2799
+483464	Flow cytometry result	22033497	Flu Vaccine-K 11-16-10_NCH-VK 21 TFH Panel.483464.fcs	Flu Vaccine-K 11-16-10_NCH-VK 21 TFH Panel.fcs	2799
+483465	Flow cytometry result	25535143	Flu Vaccine-K 11-16-10_NCH-VK 21 TFH Panel.483465.txt	Flu Vaccine-K 11-16-10_NCH-VK 21 TFH Panel.txt	2799
+483466	Flow cytometry result	21349214	Flu Vaccine-K 12-07-10_NCH-VK 21 B Panel.483466.fcs	Flu Vaccine-K 12-07-10_NCH-VK 21 B Panel.fcs	2799
+483467	Flow cytometry compensation or control	6053052	Flu Vaccine-K 12-07-10_NCH-VK 21 Ctrl.483467.fcs	Flu Vaccine-K 12-07-10_NCH-VK 21 Ctrl.fcs	2799
+483468	Flow cytometry result	24460314	Flu Vaccine-K 12-07-10_NCH-VK 21 B Panel.483468.txt	Flu Vaccine-K 12-07-10_NCH-VK 21 B Panel.txt	2799
+483469	Flow cytometry result	23301835	Flu Vaccine-K 12-07-10_NCH-VK 21 TFH Panel.483469.fcs	Flu Vaccine-K 12-07-10_NCH-VK 21 TFH Panel.fcs	2799
+483470	Flow cytometry result	26617201	Flu Vaccine-K 12-07-10_NCH-VK 21 TFH Panel.483470.txt	Flu Vaccine-K 12-07-10_NCH-VK 21 TFH Panel.txt	2799
+483471	Flow cytometry result	16710322	Flu Vaccine-K 2-08-11_NCH-VK 21 B Panel.483471.fcs	Flu Vaccine-K 2-08-11_NCH-VK 21 B Panel.fcs	2799
+483472	Flow cytometry compensation or control	7331452	Flu Vaccine-K 2-08-11_NCH-VK 21 Ctrl.483472.fcs	Flu Vaccine-K 2-08-11_NCH-VK 21 Ctrl.fcs	2799
+483473	Flow cytometry result	19328772	Flu Vaccine-K 2-08-11_NCH-VK 21 B Panel.483473.txt	Flu Vaccine-K 2-08-11_NCH-VK 21 B Panel.txt	2799
+483474	Flow cytometry result	20948831	Flu Vaccine-K 2-08-11_NCH-VK 21 TFH Panel.483474.fcs	Flu Vaccine-K 2-08-11_NCH-VK 21 TFH Panel.fcs	2799
+483475	Flow cytometry result	24343904	Flu Vaccine-K 2-08-11_NCH-VK 21 TFH Panel.483475.txt	Flu Vaccine-K 2-08-11_NCH-VK 21 TFH Panel.txt	2799
+483476	Flow cytometry result	54530947	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21  B Panel.483476.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21  B Panel.fcs	2799
+483477	Flow cytometry compensation or control	24629675	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 Ctrl.483477.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 Ctrl.fcs	2799
+483478	Flow cytometry result	58030079	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21  B Panel.483478.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21  B Panel.txt	2799
+483479	Flow cytometry result	43483860	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 DC Panel.483479.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 DC Panel.fcs	2799
+483480	Flow cytometry result	47321658	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 DC Panel.483480.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 DC Panel.txt	2799
+483481	Flow cytometry result	49008549	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 Mono,2f,Gran,2f,SLAM.483481.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 Mono,2f,Gran,2f,SLAM.fcs	2799
+483482	Flow cytometry result	52841898	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 Mono,2f,Gran,2f,SLAM.483482.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 Mono,2f,Gran,2f,SLAM.txt	2799
+483483	Flow cytometry result	45636818	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 TFH Panel.483483.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 TFH Panel.fcs	2799
+483484	Flow cytometry result	48812071	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 TFH Panel.483484.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 21 TFH Panel.txt	2799
+483485	Flow cytometry result	41849987	Flu Vaccine-K 11-09-10_NCH-VK 22 B Panel.483485.fcs	Flu Vaccine-K 11-09-10_NCH-VK 22 B Panel.fcs	2799
+483486	Flow cytometry compensation or control	11833662	Flu Vaccine-K 11-09-10_NCH-VK 22 Ctrl.483486.fcs	Flu Vaccine-K 11-09-10_NCH-VK 22 Ctrl.fcs	2799
+483487	Flow cytometry result	47754696	Flu Vaccine-K 11-09-10_NCH-VK 22 B Panel.483487.txt	Flu Vaccine-K 11-09-10_NCH-VK 22 B Panel.txt	2799
+483488	Flow cytometry result	46973983	Flu Vaccine-K 11-09-10_NCH-VK 22 DC Panel.483488.fcs	Flu Vaccine-K 11-09-10_NCH-VK 22 DC Panel.fcs	2799
+483489	Flow cytometry result	54120847	Flu Vaccine-K 11-09-10_NCH-VK 22 DC Panel.483489.txt	Flu Vaccine-K 11-09-10_NCH-VK 22 DC Panel.txt	2799
+483490	Flow cytometry result	47120688	Flu Vaccine-K 11-09-10_NCH-VK 22 Mono,2f,Gran,2f,SLAN.483490.fcs	Flu Vaccine-K 11-09-10_NCH-VK 22 Mono,2f,Gran,2f,SLAN.fcs	2799
+483491	Flow cytometry result	53562463	Flu Vaccine-K 11-09-10_NCH-VK 22 Mono,2f,Gran,2f,SLAN.483491.txt	Flu Vaccine-K 11-09-10_NCH-VK 22 Mono,2f,Gran,2f,SLAN.txt	2799
+483492	Flow cytometry result	46153097	Flu Vaccine-K 11-09-10_NCH-VK 22 TFH Panel.483492.fcs	Flu Vaccine-K 11-09-10_NCH-VK 22 TFH Panel.fcs	2799
+483493	Flow cytometry result	52192348	Flu Vaccine-K 11-09-10_NCH-VK 22 TFH Panel.483493.txt	Flu Vaccine-K 11-09-10_NCH-VK 22 TFH Panel.txt	2799
+483494	Flow cytometry result	41593834	Flu Vaccine-K 12-07-10_NCH-VK 22 B Panel.483494.fcs	Flu Vaccine-K 12-07-10_NCH-VK 22 B Panel.fcs	2799
+483495	Flow cytometry compensation or control	11432668	Flu Vaccine-K 12-07-10_NCH-VK 22 Ctrl.483495.fcs	Flu Vaccine-K 12-07-10_NCH-VK 22 Ctrl.fcs	2799
+483496	Flow cytometry result	47468414	Flu Vaccine-K 12-07-10_NCH-VK 22 B Panel.483496.txt	Flu Vaccine-K 12-07-10_NCH-VK 22 B Panel.txt	2799
+483497	Flow cytometry result	44852123	Flu Vaccine-K 12-07-10_NCH-VK 22 TFH Panel.483497.fcs	Flu Vaccine-K 12-07-10_NCH-VK 22 TFH Panel.fcs	2799
+483498	Flow cytometry result	50860902	Flu Vaccine-K 12-07-10_NCH-VK 22 TFH Panel.483498.txt	Flu Vaccine-K 12-07-10_NCH-VK 22 TFH Panel.txt	2799
+483499	Flow cytometry result	38213143	Flu Vaccine-K 11-16-10_NCH-VK 22 B Panel.483499.fcs	Flu Vaccine-K 11-16-10_NCH-VK 22 B Panel.fcs	2799
+483500	Flow cytometry compensation or control	10392062	Flu Vaccine-K 11-16-10_NCH-VK 22 Ctrl.483500.fcs	Flu Vaccine-K 11-16-10_NCH-VK 22 Ctrl.fcs	2799
+483501	Flow cytometry result	43372198	Flu Vaccine-K 11-16-10_NCH-VK 22 B Panel.483501.txt	Flu Vaccine-K 11-16-10_NCH-VK 22 B Panel.txt	2799
+483502	Flow cytometry result	40395605	Flu Vaccine-K 11-16-10_NCH-VK 22 TFH Panel.483502.fcs	Flu Vaccine-K 11-16-10_NCH-VK 22 TFH Panel.fcs	2799
+483503	Flow cytometry result	46152367	Flu Vaccine-K 11-16-10_NCH-VK 22 TFH Panel.483503.txt	Flu Vaccine-K 11-16-10_NCH-VK 22 TFH Panel.txt	2799
+483504	Flow cytometry result	32682502	Flu Vaccine-K 2-08-11_NCH-VK 22 B Panel.483504.fcs	Flu Vaccine-K 2-08-11_NCH-VK 22 B Panel.fcs	2799
+483505	Flow cytometry compensation or control	11171208	Flu Vaccine-K 2-08-11_NCH-VK 22 Ctrl.483505.fcs	Flu Vaccine-K 2-08-11_NCH-VK 22 Ctrl.fcs	2799
+483506	Flow cytometry result	37544603	Flu Vaccine-K 2-08-11_NCH-VK 22 B Panel.483506.txt	Flu Vaccine-K 2-08-11_NCH-VK 22 B Panel.txt	2799
+483507	Flow cytometry result	38895867	Flu Vaccine-K 2-08-11_NCH-VK 22 TFH Panel.483507.fcs	Flu Vaccine-K 2-08-11_NCH-VK 22 TFH Panel.fcs	2799
+483508	Flow cytometry result	44830000	Flu Vaccine-K 2-08-11_NCH-VK 22 TFH Panel.483508.txt	Flu Vaccine-K 2-08-11_NCH-VK 22 TFH Panel.txt	2799
+483509	Flow cytometry result	45024839	Flu Vaccine-K 11-09-10_NCH-VK 23 B Panel.483509.fcs	Flu Vaccine-K 11-09-10_NCH-VK 23 B Panel.fcs	2799
+483510	Flow cytometry compensation or control	11639046	Flu Vaccine-K 11-09-10_NCH-VK 23 Ctrl.483510.fcs	Flu Vaccine-K 11-09-10_NCH-VK 23 Ctrl.fcs	2799
+483511	Flow cytometry result	51135425	Flu Vaccine-K 11-09-10_NCH-VK 23 B Panel.483511.txt	Flu Vaccine-K 11-09-10_NCH-VK 23 B Panel.txt	2799
+483512	Flow cytometry result	45957995	Flu Vaccine-K 11-09-10_NCH-VK 23 DC Panel.483512.fcs	Flu Vaccine-K 11-09-10_NCH-VK 23 DC Panel.fcs	2799
+483513	Flow cytometry result	53255801	Flu Vaccine-K 11-09-10_NCH-VK 23 DC Panel.483513.txt	Flu Vaccine-K 11-09-10_NCH-VK 23 DC Panel.txt	2799
+483514	Flow cytometry result	42797044	Flu Vaccine-K 11-09-10_NCH-VK 23 Mono,2f,Gran,2f,SLAN.483514.fcs	Flu Vaccine-K 11-09-10_NCH-VK 23 Mono,2f,Gran,2f,SLAN.fcs	2799
+483515	Flow cytometry result	49430009	Flu Vaccine-K 11-09-10_NCH-VK 23 Mono,2f,Gran,2f,SLAN.483515.txt	Flu Vaccine-K 11-09-10_NCH-VK 23 Mono,2f,Gran,2f,SLAN.txt	2799
+483516	Flow cytometry result	37201849	Flu Vaccine-K 11-09-10_NCH-VK 23 TFH Panel.483516.fcs	Flu Vaccine-K 11-09-10_NCH-VK 23 TFH Panel.fcs	2799
+483517	Flow cytometry result	42789153	Flu Vaccine-K 11-09-10_NCH-VK 23 TFH Panel.483517.txt	Flu Vaccine-K 11-09-10_NCH-VK 23 TFH Panel.txt	2799
+483518	Flow cytometry result	32663394	Flu Vaccine-K 12-07-10_NCH-VK 23 B Panel.483518.fcs	Flu Vaccine-K 12-07-10_NCH-VK 23 B Panel.fcs	2799
+483519	Flow cytometry compensation or control	8604888	Flu Vaccine-K 12-07-10_NCH-VK 23 Ctrl.483519.fcs	Flu Vaccine-K 12-07-10_NCH-VK 23 Ctrl.fcs	2799
+483520	Flow cytometry result	37093671	Flu Vaccine-K 12-07-10_NCH-VK 23 B Panel.483520.txt	Flu Vaccine-K 12-07-10_NCH-VK 23 B Panel.txt	2799
+483521	Flow cytometry result	33151635	Flu Vaccine-K 12-07-10_NCH-VK 23 TFH Panel.483521.fcs	Flu Vaccine-K 12-07-10_NCH-VK 23 TFH Panel.fcs	2799
+483522	Flow cytometry result	37696507	Flu Vaccine-K 12-07-10_NCH-VK 23 TFH Panel.483522.txt	Flu Vaccine-K 12-07-10_NCH-VK 23 TFH Panel.txt	2799
+483523	Flow cytometry result	33888411	Flu Vaccine-K 11-16-10_NCH-VK 23 B Panel.483523.fcs	Flu Vaccine-K 11-16-10_NCH-VK 23 B Panel.fcs	2799
+483524	Flow cytometry compensation or control	8993302	Flu Vaccine-K 11-16-10_NCH-VK 23 Ctrl.483524.fcs	Flu Vaccine-K 11-16-10_NCH-VK 23 Ctrl.fcs	2799
+483525	Flow cytometry result	38761571	Flu Vaccine-K 11-16-10_NCH-VK 23 B Panel.483525.txt	Flu Vaccine-K 11-16-10_NCH-VK 23 B Panel.txt	2799
+483526	Flow cytometry result	33289537	Flu Vaccine-K 11-16-10_NCH-VK 23 TFH Panel.483526.fcs	Flu Vaccine-K 11-16-10_NCH-VK 23 TFH Panel.fcs	2799
+483527	Flow cytometry result	38280155	Flu Vaccine-K 11-16-10_NCH-VK 23 TFH Panel.483527.txt	Flu Vaccine-K 11-16-10_NCH-VK 23 TFH Panel.txt	2799
+483528	Flow cytometry result	53567682	Flu Vaccine-K 2-08-11_NCH-VK 23 B Panel.483528.fcs	Flu Vaccine-K 2-08-11_NCH-VK 23 B Panel.fcs	2799
+483529	Flow cytometry compensation or control	12908676	Flu Vaccine-K 2-08-11_NCH-VK 23 Ctrl.483529.fcs	Flu Vaccine-K 2-08-11_NCH-VK 23 Ctrl.fcs	2799
+483530	Flow cytometry result	61941032	Flu Vaccine-K 2-08-11_NCH-VK 23 B Panel.483530.txt	Flu Vaccine-K 2-08-11_NCH-VK 23 B Panel.txt	2799
+483531	Flow cytometry result	47937079	Flu Vaccine-K 2-08-11_NCH-VK 23 TFH Panel.483531.fcs	Flu Vaccine-K 2-08-11_NCH-VK 23 TFH Panel.fcs	2799
+483532	Flow cytometry result	56028267	Flu Vaccine-K 2-08-11_NCH-VK 23 TFH Panel.483532.txt	Flu Vaccine-K 2-08-11_NCH-VK 23 TFH Panel.txt	2799
+483533	Flow cytometry result	16036575	Flu Vaccine-K 11-09-10_NCH-VK 24 B Panel.483533.fcs	Flu Vaccine-K 11-09-10_NCH-VK 24 B Panel.fcs	2799
+483534	Flow cytometry compensation or control	4358286	Flu Vaccine-K 11-09-10_NCH-VK 24 Ctrl.483534.fcs	Flu Vaccine-K 11-09-10_NCH-VK 24 Ctrl.fcs	2799
+483535	Flow cytometry result	18647962	Flu Vaccine-K 11-09-10_NCH-VK 24 B Panel.483535.txt	Flu Vaccine-K 11-09-10_NCH-VK 24 B Panel.txt	2799
+483536	Flow cytometry result	15138219	Flu Vaccine-K 11-09-10_NCH-VK 24 DC Panel.483536.fcs	Flu Vaccine-K 11-09-10_NCH-VK 24 DC Panel.fcs	2799
+483537	Flow cytometry result	18022575	Flu Vaccine-K 11-09-10_NCH-VK 24 DC Panel.483537.txt	Flu Vaccine-K 11-09-10_NCH-VK 24 DC Panel.txt	2799
+483538	Flow cytometry result	16234748	Flu Vaccine-K 11-09-10_NCH-VK 24 Mono,2f,Gran,2f,SLAN.483538.fcs	Flu Vaccine-K 11-09-10_NCH-VK 24 Mono,2f,Gran,2f,SLAN.fcs	2799
+483539	Flow cytometry result	19310326	Flu Vaccine-K 11-09-10_NCH-VK 24 Mono,2f,Gran,2f,SLAN.483539.txt	Flu Vaccine-K 11-09-10_NCH-VK 24 Mono,2f,Gran,2f,SLAN.txt	2799
+483540	Flow cytometry result	15385205	Flu Vaccine-K 11-09-10_NCH-VK 24 TFH Panel.483540.fcs	Flu Vaccine-K 11-09-10_NCH-VK 24 TFH Panel.fcs	2799
+483541	Flow cytometry result	18220986	Flu Vaccine-K 11-09-10_NCH-VK 24 TFH Panel.483541.txt	Flu Vaccine-K 11-09-10_NCH-VK 24 TFH Panel.txt	2799
+483542	Flow cytometry result	17553862	Flu Vaccine-K 12-03-10_NCH-VK 24 B Panel.483542.fcs	Flu Vaccine-K 12-03-10_NCH-VK 24 B Panel.fcs	2799
+483543	Flow cytometry compensation or control	4432136	Flu Vaccine-K 12-03-10_NCH-VK 24 Ctrl.483543.fcs	Flu Vaccine-K 12-03-10_NCH-VK 24 Ctrl.fcs	2799
+483544	Flow cytometry compensation or control	342697	Comp Controls_Unstained 12_03_10.483544.fcs	Comp Controls_Unstained 12_03_10.fcs	2799
+483545	Flow cytometry compensation or control	13548595	Comp Controls_LIN2 FITC 12_03_10.483545.fcs	Comp Controls_LIN2 FITC 12_03_10.fcs	2799
+483546	Flow cytometry compensation or control	10228488	Comp Controls_Cd3 PE 12_03_10.483546.fcs	Comp Controls_Cd3 PE 12_03_10.fcs	2799
+483547	Flow cytometry compensation or control	13332167	Comp Controls_CD19 PE-Texas Red 12_03_10.483547.fcs	Comp Controls_CD19 PE-Texas Red 12_03_10.fcs	2799
+483548	Flow cytometry compensation or control	14047516	Comp Controls_CD20 PE-Cy5 12_03_10.483548.fcs	Comp Controls_CD20 PE-Cy5 12_03_10.fcs	2799
+483549	Flow cytometry compensation or control	13584980	Comp Controls_CD56 PE-Cy7 12_03_10.483549.fcs	Comp Controls_CD56 PE-Cy7 12_03_10.fcs	2799
+483550	Flow cytometry compensation or control	14866109	Comp Controls_CD4 Pacific Blue 12_03_10.483550.fcs	Comp Controls_CD4 Pacific Blue 12_03_10.fcs	2799
+483551	Flow cytometry compensation or control	10066596	Comp Controls_CD45 QDOT 565 12_03_10.483551.fcs	Comp Controls_CD45 QDOT 565 12_03_10.fcs	2799
+483552	Flow cytometry compensation or control	13717370	Comp Controls_CD16 APC 12_03_10.483552.fcs	Comp Controls_CD16 APC 12_03_10.fcs	2799
+483553	Flow cytometry compensation or control	9984111	Comp Controls_CD3 Alexa 700 12_03_10.483553.fcs	Comp Controls_CD3 Alexa 700 12_03_10.fcs	2799
+483554	Flow cytometry compensation or control	10580127	Comp Controls_CD8 APC-Cy7 12_03_10.483554.fcs	Comp Controls_CD8 APC-Cy7 12_03_10.fcs	2799
+483555	Flow cytometry result	20337364	Flu Vaccine-K 12-03-10_NCH-VK 24 B Panel.483555.txt	Flu Vaccine-K 12-03-10_NCH-VK 24 B Panel.txt	2799
+483556	Flow cytometry result	16993883	Flu Vaccine-K 12-03-10_NCH-VK 24 TFH Panel.483556.fcs	Flu Vaccine-K 12-03-10_NCH-VK 24 TFH Panel.fcs	2799
+483557	Flow cytometry result	20010465	Flu Vaccine-K 12-03-10_NCH-VK 24 TFH Panel.483557.txt	Flu Vaccine-K 12-03-10_NCH-VK 24 TFH Panel.txt	2799
+483558	Flow cytometry result	14705883	Flu Vaccine-K 11-16-10_NCH-VK 24 B Panel.483558.fcs	Flu Vaccine-K 11-16-10_NCH-VK 24 B Panel.fcs	2799
+483559	Flow cytometry compensation or control	4281514	Flu Vaccine-K 11-16-10_NCH-VK 24 Ctrl.483559.fcs	Flu Vaccine-K 11-16-10_NCH-VK 24 Ctrl.fcs	2799
+483560	Flow cytometry result	17015030	Flu Vaccine-K 11-16-10_NCH-VK 24 B Panel.483560.txt	Flu Vaccine-K 11-16-10_NCH-VK 24 B Panel.txt	2799
+483561	Flow cytometry result	14477677	Flu Vaccine-K 11-16-10_NCH-VK 24 TFH Panel.483561.fcs	Flu Vaccine-K 11-16-10_NCH-VK 24 TFH Panel.fcs	2799
+483562	Flow cytometry result	17023925	Flu Vaccine-K 11-16-10_NCH-VK 24 TFH Panel.483562.txt	Flu Vaccine-K 11-16-10_NCH-VK 24 TFH Panel.txt	2799
+483563	Flow cytometry result	18705033	Flu Vaccine-K 2-07-11_NCH-VK 24 B Panel.483563.fcs	Flu Vaccine-K 2-07-11_NCH-VK 24 B Panel.fcs	2799
+483564	Flow cytometry compensation or control	4893379	Flu Vaccine-K 2-07-11_NCH-VK 24 Ctrl.483564.fcs	Flu Vaccine-K 2-07-11_NCH-VK 24 Ctrl.fcs	2799
+483565	Flow cytometry result	21653898	Flu Vaccine-K 2-07-11_NCH-VK 24 B Panel.483565.txt	Flu Vaccine-K 2-07-11_NCH-VK 24 B Panel.txt	2799
+483566	Flow cytometry result	17789006	Flu Vaccine-K 2-07-11_NCH-VK 24 TFH Panel.483566.fcs	Flu Vaccine-K 2-07-11_NCH-VK 24 TFH Panel.fcs	2799
+483567	Flow cytometry result	20929386	Flu Vaccine-K 2-07-11_NCH-VK 24 TFH Panel.483567.txt	Flu Vaccine-K 2-07-11_NCH-VK 24 TFH Panel.txt	2799
+483568	Flow cytometry result	15690184	Flu Vaccine-K 11-10-10_NCH-VK 25 B Panel.483568.fcs	Flu Vaccine-K 11-10-10_NCH-VK 25 B Panel.fcs	2799
+483569	Flow cytometry compensation or control	6692727	Flu Vaccine-K 11-10-10_NCH-VK 25 Ctrl.483569.fcs	Flu Vaccine-K 11-10-10_NCH-VK 25 Ctrl.fcs	2799
+483570	Flow cytometry compensation or control	8041820	Comp Controls_LIN1 FITC 11_10_10.483570.fcs	Comp Controls_LIN1 FITC 11_10_10.fcs	2799
+483571	Flow cytometry compensation or control	11450177	Comp Controls_Cd3 PE 11_10_10.483571.fcs	Comp Controls_Cd3 PE 11_10_10.fcs	2799
+483572	Flow cytometry compensation or control	10587620	Comp Controls_CD19 PE-Texas Red 11_10_10.483572.fcs	Comp Controls_CD19 PE-Texas Red 11_10_10.fcs	2799
+483573	Flow cytometry compensation or control	9576313	Comp Controls_CD20 PE-Cy5 11_10_10.483573.fcs	Comp Controls_CD20 PE-Cy5 11_10_10.fcs	2799
+483574	Flow cytometry compensation or control	10233669	Comp Controls_CD56 PE-Cy7 11_10_10.483574.fcs	Comp Controls_CD56 PE-Cy7 11_10_10.fcs	2799
+483575	Flow cytometry compensation or control	10106654	Comp Controls_CD4 Pacific Blue 11_10_10.483575.fcs	Comp Controls_CD4 Pacific Blue 11_10_10.fcs	2799
+483576	Flow cytometry compensation or control	11754697	Comp Controls_CD45 QDOT 565 11_10_10.483576.fcs	Comp Controls_CD45 QDOT 565 11_10_10.fcs	2799
+483577	Flow cytometry compensation or control	13106051	Comp Controls_CD16 APC 11_10_10.483577.fcs	Comp Controls_CD16 APC 11_10_10.fcs	2799
+483578	Flow cytometry compensation or control	10858864	Comp Controls_CD3 Alexa 700 11_10_10.483578.fcs	Comp Controls_CD3 Alexa 700 11_10_10.fcs	2799
+483579	Flow cytometry compensation or control	9743116	Comp Controls_CD8 APC-Cy7 11_10_10.483579.fcs	Comp Controls_CD8 APC-Cy7 11_10_10.fcs	2799
+483580	Flow cytometry result	17831347	Flu Vaccine-K 11-10-10_NCH-VK 25 B Panel.483580.txt	Flu Vaccine-K 11-10-10_NCH-VK 25 B Panel.txt	2799
+483581	Flow cytometry result	26188910	Flu Vaccine-K 11-10-10_NCH-VK 25 TFH Panel.483581.fcs	Flu Vaccine-K 11-10-10_NCH-VK 25 TFH Panel.fcs	2799
+483582	Flow cytometry result	29894052	Flu Vaccine-K 11-10-10_NCH-VK 25 TFH Panel.483582.txt	Flu Vaccine-K 11-10-10_NCH-VK 25 TFH Panel.txt	2799
+483583	Flow cytometry result	40937409	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25  B Panel.483583.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25  B Panel.fcs	2799
+483584	Flow cytometry compensation or control	13404305	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 Ctrl.483584.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 Ctrl.fcs	2799
+483585	Flow cytometry compensation or control	15351144	Comp Controls_CD16 APC 05-12-11.483585.fcs	Comp Controls_CD16 APC 05-12-11.fcs	2799
+483586	Flow cytometry compensation or control	25897485	Comp Controls_CD19 PE-Texas Red 05-12-11.483586.fcs	Comp Controls_CD19 PE-Texas Red 05-12-11.fcs	2799
+483587	Flow cytometry compensation or control	6802734	Comp Controls_CD20 PE-Cy5 05-12-11.483587.fcs	Comp Controls_CD20 PE-Cy5 05-12-11.fcs	2799
+483588	Flow cytometry compensation or control	14126390	Comp Controls_cd3 PE 05-12-11.483588.fcs	Comp Controls_cd3 PE 05-12-11.fcs	2799
+483589	Flow cytometry compensation or control	13573503	Comp Controls_CD4 Pacific Blue 05-12-11.483589.fcs	Comp Controls_CD4 Pacific Blue 05-12-11.fcs	2799
+483590	Flow cytometry compensation or control	10403678	Comp Controls_CD45 QDOT 565 05-12-11.483590.fcs	Comp Controls_CD45 QDOT 565 05-12-11.fcs	2799
+483591	Flow cytometry compensation or control	14124226	Comp Controls_CD56 PE-Cy7 05-12-11.483591.fcs	Comp Controls_CD56 PE-Cy7 05-12-11.fcs	2799
+483592	Flow cytometry compensation or control	15174073	Comp Controls_LIN2 FITC 05-12-11.483592.fcs	Comp Controls_LIN2 FITC 05-12-11.fcs	2799
+483593	Flow cytometry result	44443513	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25  B Panel.483593.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25  B Panel.txt	2799
+483594	Flow cytometry result	46999462	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 DC Panel.483594.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 DC Panel.fcs	2799
+483595	Flow cytometry result	51381007	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 DC Panel.483595.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 DC Panel.txt	2799
+483596	Flow cytometry result	37315883	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 Mono,2f,Gran,2f,SLAM.483596.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 Mono,2f,Gran,2f,SLAM.fcs	2799
+483597	Flow cytometry result	40644714	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 Mono,2f,Gran,2f,SLAM.483597.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 Mono,2f,Gran,2f,SLAM.txt	2799
+483598	Flow cytometry result	51159712	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 TFH Panel.483598.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 TFH Panel.fcs	2799
+483599	Flow cytometry result	55560047	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 TFH Panel.483599.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 25 TFH Panel.txt	2799
+483600	Flow cytometry result	22207102	Flu Vaccine-K 12-08-10_NCH-VK 25 B Panel.483600.fcs	Flu Vaccine-K 12-08-10_NCH-VK 25 B Panel.fcs	2799
+483601	Flow cytometry compensation or control	5426364	Flu Vaccine-K 12-08-10_NCH-VK 25 Ctrl.483601.fcs	Flu Vaccine-K 12-08-10_NCH-VK 25 Ctrl.fcs	2799
+483602	Flow cytometry result	25451154	Flu Vaccine-K 12-08-10_NCH-VK 25 B Panel.483602.txt	Flu Vaccine-K 12-08-10_NCH-VK 25 B Panel.txt	2799
+483603	Flow cytometry result	21174251	Flu Vaccine-K 12-08-10_NCH-VK 25 TFH Panel.483603.fcs	Flu Vaccine-K 12-08-10_NCH-VK 25 TFH Panel.fcs	2799
+483604	Flow cytometry result	24288758	Flu Vaccine-K 12-08-10_NCH-VK 25 TFH Panel.483604.txt	Flu Vaccine-K 12-08-10_NCH-VK 25 TFH Panel.txt	2799
+483605	Flow cytometry result	22827055	Flu Vaccine-K 11-19-10_NCH-VK 25 B Panel.483605.fcs	Flu Vaccine-K 11-19-10_NCH-VK 25 B Panel.fcs	2799
+483606	Flow cytometry compensation or control	6081134	Flu Vaccine-K 11-19-10_NCH-VK 25 Ctrl.483606.fcs	Flu Vaccine-K 11-19-10_NCH-VK 25 Ctrl.fcs	2799
+483607	Flow cytometry compensation or control	12294471	Comp Controls_LIN1 FITC 11_19_10.483607.fcs	Comp Controls_LIN1 FITC 11_19_10.fcs	2799
+483608	Flow cytometry compensation or control	12309016	Comp Controls_Cd3 PE 11_19_10.483608.fcs	Comp Controls_Cd3 PE 11_19_10.fcs	2799
+483609	Flow cytometry compensation or control	12751923	Comp Controls_CD19 PE-Texas Red 11_19_10.483609.fcs	Comp Controls_CD19 PE-Texas Red 11_19_10.fcs	2799
+483610	Flow cytometry compensation or control	12194856	Comp Controls_CD20 PE-Cy5 11_19_10.483610.fcs	Comp Controls_CD20 PE-Cy5 11_19_10.fcs	2799
+483611	Flow cytometry compensation or control	13697860	Comp Controls_CD56 PE-Cy7 11_19_10.483611.fcs	Comp Controls_CD56 PE-Cy7 11_19_10.fcs	2799
+483612	Flow cytometry compensation or control	12454761	Comp Controls_CD4 Pacific Blue 11_19_10.483612.fcs	Comp Controls_CD4 Pacific Blue 11_19_10.fcs	2799
+483613	Flow cytometry compensation or control	8679328	Comp Controls_CD45 QDOT 565 11_19_10.483613.fcs	Comp Controls_CD45 QDOT 565 11_19_10.fcs	2799
+483614	Flow cytometry compensation or control	14227574	Comp Controls_CD16 APC 11_19_10.483614.fcs	Comp Controls_CD16 APC 11_19_10.fcs	2799
+483615	Flow cytometry compensation or control	10085363	Comp Controls_CD3 Alexa 700 11_19_10.483615.fcs	Comp Controls_CD3 Alexa 700 11_19_10.fcs	2799
+483616	Flow cytometry compensation or control	12104823	Comp Controls_CD8 APC-Cy7 11_19_10.483616.fcs	Comp Controls_CD8 APC-Cy7 11_19_10.fcs	2799
+483617	Flow cytometry result	26098248	Flu Vaccine-K 11-19-10_NCH-VK 25 B Panel.483617.txt	Flu Vaccine-K 11-19-10_NCH-VK 25 B Panel.txt	2799
+483618	Flow cytometry result	21607341	Flu Vaccine-K 11-19-10_NCH-VK 25 TFH Panel.483618.fcs	Flu Vaccine-K 11-19-10_NCH-VK 25 TFH Panel.fcs	2799
+483619	Flow cytometry result	24832477	Flu Vaccine-K 11-19-10_NCH-VK 25 TFH Panel.483619.txt	Flu Vaccine-K 11-19-10_NCH-VK 25 TFH Panel.txt	2799
+483620	Flow cytometry result	22523573	Flu Vaccine-K 2-09-11_NCH-VK 25 B Panel.483620.fcs	Flu Vaccine-K 2-09-11_NCH-VK 25 B Panel.fcs	2799
+483621	Flow cytometry compensation or control	6598479	Flu Vaccine-K 2-09-11_NCH-VK 25 Ctrl.483621.fcs	Flu Vaccine-K 2-09-11_NCH-VK 25 Ctrl.fcs	2799
+483622	Flow cytometry result	25499181	Flu Vaccine-K 2-09-11_NCH-VK 25 B Panel.483622.txt	Flu Vaccine-K 2-09-11_NCH-VK 25 B Panel.txt	2799
+483623	Flow cytometry result	24672170	Flu Vaccine-K 2-09-11_NCH-VK 25 TFH Panel.483623.fcs	Flu Vaccine-K 2-09-11_NCH-VK 25 TFH Panel.fcs	2799
+483624	Flow cytometry result	27867696	Flu Vaccine-K 2-09-11_NCH-VK 25 TFH Panel.483624.txt	Flu Vaccine-K 2-09-11_NCH-VK 25 TFH Panel.txt	2799
+483625	Flow cytometry result	17994092	Flu Vaccine-K 11-10-10_NCH-VK 26 B Panel.483625.fcs	Flu Vaccine-K 11-10-10_NCH-VK 26 B Panel.fcs	2799
+483626	Flow cytometry compensation or control	4975999	Flu Vaccine-K 11-10-10_NCH-VK 26 Ctrl.483626.fcs	Flu Vaccine-K 11-10-10_NCH-VK 26 Ctrl.fcs	2799
+483627	Flow cytometry result	20863141	Flu Vaccine-K 11-10-10_NCH-VK 26 B Panel.483627.txt	Flu Vaccine-K 11-10-10_NCH-VK 26 B Panel.txt	2799
+483628	Flow cytometry result	18520482	Flu Vaccine-K 11-10-10_NCH-VK 26 TFH Panel.483628.fcs	Flu Vaccine-K 11-10-10_NCH-VK 26 TFH Panel.fcs	2799
+483629	Flow cytometry result	21724308	Flu Vaccine-K 11-10-10_NCH-VK 26 TFH Panel.483629.txt	Flu Vaccine-K 11-10-10_NCH-VK 26 TFH Panel.txt	2799
+483630	Flow cytometry result	33965845	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26  B Panel.483630.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26  B Panel.fcs	2799
+483631	Flow cytometry compensation or control	9899925	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 Ctrl.483631.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 Ctrl.fcs	2799
+483632	Flow cytometry result	37392205	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26  B Panel.483632.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26  B Panel.txt	2799
+483633	Flow cytometry result	26255790	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 DC Panel.483633.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 DC Panel.fcs	2799
+483634	Flow cytometry result	29124151	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 DC Panel.483634.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 DC Panel.txt	2799
+483635	Flow cytometry result	27495391	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 Mono,2f,Gran,2f,SLAM.483635.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 Mono,2f,Gran,2f,SLAM.fcs	2799
+483636	Flow cytometry result	30503603	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 Mono,2f,Gran,2f,SLAM.483636.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 Mono,2f,Gran,2f,SLAM.txt	2799
+483637	Flow cytometry result	35823672	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 TFH Panel.483637.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 TFH Panel.fcs	2799
+483638	Flow cytometry result	39583162	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 TFH Panel.483638.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 26 TFH Panel.txt	2799
+483639	Flow cytometry result	18556046	Flu Vaccine-K 12-08-10_NCH-VK 26 B Panel.483639.fcs	Flu Vaccine-K 12-08-10_NCH-VK 26 B Panel.fcs	2799
+483640	Flow cytometry compensation or control	6017760	Flu Vaccine-K 12-08-10_NCH-VK 26 Ctrl.483640.fcs	Flu Vaccine-K 12-08-10_NCH-VK 26 Ctrl.fcs	2799
+483641	Flow cytometry result	21695619	Flu Vaccine-K 12-08-10_NCH-VK 26 B Panel.483641.txt	Flu Vaccine-K 12-08-10_NCH-VK 26 B Panel.txt	2799
+483642	Flow cytometry result	23287079	Flu Vaccine-K 12-08-10_NCH-VK 26 TFH Panel.483642.fcs	Flu Vaccine-K 12-08-10_NCH-VK 26 TFH Panel.fcs	2799
+483643	Flow cytometry result	27362554	Flu Vaccine-K 12-08-10_NCH-VK 26 TFH Panel.483643.txt	Flu Vaccine-K 12-08-10_NCH-VK 26 TFH Panel.txt	2799
+483644	Flow cytometry result	20687639	Flu Vaccine-K 11-19-10_NCH-VK 26 B Panel.483644.fcs	Flu Vaccine-K 11-19-10_NCH-VK 26 B Panel.fcs	2799
+483645	Flow cytometry compensation or control	5376926	Flu Vaccine-K 11-19-10_NCH-VK 26 Ctrl.483645.fcs	Flu Vaccine-K 11-19-10_NCH-VK 26 Ctrl.fcs	2799
+483646	Flow cytometry result	23961498	Flu Vaccine-K 11-19-10_NCH-VK 26 B Panel.483646.txt	Flu Vaccine-K 11-19-10_NCH-VK 26 B Panel.txt	2799
+483647	Flow cytometry result	19074069	Flu Vaccine-K 11-19-10_NCH-VK 26 TFH Panel.483647.fcs	Flu Vaccine-K 11-19-10_NCH-VK 26 TFH Panel.fcs	2799
+483648	Flow cytometry result	22185627	Flu Vaccine-K 11-19-10_NCH-VK 26 TFH Panel.483648.txt	Flu Vaccine-K 11-19-10_NCH-VK 26 TFH Panel.txt	2799
+483649	Flow cytometry result	19390813	Flu Vaccine-K 2-09-11_NCH-VK 26 B Panel.483649.fcs	Flu Vaccine-K 2-09-11_NCH-VK 26 B Panel.fcs	2799
+483650	Flow cytometry compensation or control	5018771	Flu Vaccine-K 2-09-11_NCH-VK 26 Ctrl.483650.fcs	Flu Vaccine-K 2-09-11_NCH-VK 26 Ctrl.fcs	2799
+483651	Flow cytometry result	22473185	Flu Vaccine-K 2-09-11_NCH-VK 26 B Panel.483651.txt	Flu Vaccine-K 2-09-11_NCH-VK 26 B Panel.txt	2799
+483652	Flow cytometry result	19854846	Flu Vaccine-K 2-09-11_NCH-VK 26 TFH Panel.483652.fcs	Flu Vaccine-K 2-09-11_NCH-VK 26 TFH Panel.fcs	2799
+483653	Flow cytometry result	23190166	Flu Vaccine-K 2-09-11_NCH-VK 26 TFH Panel.483653.txt	Flu Vaccine-K 2-09-11_NCH-VK 26 TFH Panel.txt	2799
+483654	Flow cytometry result	37596452	Flu Vaccine-K 11-10-10_NCH-VK 27 B Panel.483654.fcs	Flu Vaccine-K 11-10-10_NCH-VK 27 B Panel.fcs	2799
+483655	Flow cytometry compensation or control	9409667	Flu Vaccine-K 11-10-10_NCH-VK 27 Ctrl.483655.fcs	Flu Vaccine-K 11-10-10_NCH-VK 27 Ctrl.fcs	2799
+483656	Flow cytometry result	42081368	Flu Vaccine-K 11-10-10_NCH-VK 27 B Panel.483656.txt	Flu Vaccine-K 11-10-10_NCH-VK 27 B Panel.txt	2799
+483657	Flow cytometry result	35788674	Flu Vaccine-K 11-10-10_NCH-VK 27 TFH Panel.483657.fcs	Flu Vaccine-K 11-10-10_NCH-VK 27 TFH Panel.fcs	2799
+483658	Flow cytometry result	40509630	Flu Vaccine-K 11-10-10_NCH-VK 27 TFH Panel.483658.txt	Flu Vaccine-K 11-10-10_NCH-VK 27 TFH Panel.txt	2799
+483659	Flow cytometry result	42771050	Flu Vaccine-K 12-08-10_NCH-VK 27 B Panel.483659.fcs	Flu Vaccine-K 12-08-10_NCH-VK 27 B Panel.fcs	2799
+483660	Flow cytometry compensation or control	10861740	Flu Vaccine-K 12-08-10_NCH-VK 27 Ctrl.483660.fcs	Flu Vaccine-K 12-08-10_NCH-VK 27 Ctrl.fcs	2799
+483661	Flow cytometry result	48349010	Flu Vaccine-K 12-08-10_NCH-VK 27 B Panel.483661.txt	Flu Vaccine-K 12-08-10_NCH-VK 27 B Panel.txt	2799
+483662	Flow cytometry result	41438795	Flu Vaccine-K 12-08-10_NCH-VK 27 TFH Panel.483662.fcs	Flu Vaccine-K 12-08-10_NCH-VK 27 TFH Panel.fcs	2799
+483663	Flow cytometry result	46944388	Flu Vaccine-K 12-08-10_NCH-VK 27 TFH Panel.483663.txt	Flu Vaccine-K 12-08-10_NCH-VK 27 TFH Panel.txt	2799
+483664	Flow cytometry result	32261783	Flu Vaccine-K 11-17-10_NCH-VK 27 B Panel.483664.fcs	Flu Vaccine-K 11-17-10_NCH-VK 27 B Panel.fcs	2799
+483665	Flow cytometry compensation or control	8092710	Flu Vaccine-K 11-17-10_NCH-VK 27 Ctrl.483665.fcs	Flu Vaccine-K 11-17-10_NCH-VK 27 Ctrl.fcs	2799
+483666	Flow cytometry result	36011950	Flu Vaccine-K 11-17-10_NCH-VK 27 B Panel.483666.txt	Flu Vaccine-K 11-17-10_NCH-VK 27 B Panel.txt	2799
+483667	Flow cytometry result	32854677	Flu Vaccine-K 11-17-10_NCH-VK 27 TFH Panel.483667.fcs	Flu Vaccine-K 11-17-10_NCH-VK 27 TFH Panel.fcs	2799
+483668	Flow cytometry result	37045990	Flu Vaccine-K 11-17-10_NCH-VK 27 TFH Panel.483668.txt	Flu Vaccine-K 11-17-10_NCH-VK 27 TFH Panel.txt	2799
+483669	Flow cytometry result	28693824	Flu Vaccine-K 11-10-10_NCH-VK 28 B Panel.483669.fcs	Flu Vaccine-K 11-10-10_NCH-VK 28 B Panel.fcs	2799
+483670	Flow cytometry compensation or control	7096035	Flu Vaccine-K 11-10-10_NCH-VK 28 Ctrl.483670.fcs	Flu Vaccine-K 11-10-10_NCH-VK 28 Ctrl.fcs	2799
+483671	Flow cytometry result	33343656	Flu Vaccine-K 11-10-10_NCH-VK 28 B Panel.483671.txt	Flu Vaccine-K 11-10-10_NCH-VK 28 B Panel.txt	2799
+483672	Flow cytometry result	27961194	Flu Vaccine-K 11-10-10_NCH-VK 28 TFH Panel.483672.fcs	Flu Vaccine-K 11-10-10_NCH-VK 28 TFH Panel.fcs	2799
+483673	Flow cytometry result	32463988	Flu Vaccine-K 11-10-10_NCH-VK 28 TFH Panel.483673.txt	Flu Vaccine-K 11-10-10_NCH-VK 28 TFH Panel.txt	2799
+483674	Flow cytometry result	23493390	Flu Vaccine-K 12-08-10_NCH-VK 28 B Panel.483674.fcs	Flu Vaccine-K 12-08-10_NCH-VK 28 B Panel.fcs	2799
+483675	Flow cytometry compensation or control	7173896	Flu Vaccine-K 12-08-10_NCH-VK 28 Ctrl.483675.fcs	Flu Vaccine-K 12-08-10_NCH-VK 28 Ctrl.fcs	2799
+483676	Flow cytometry result	27286820	Flu Vaccine-K 12-08-10_NCH-VK 28 B Panel.483676.txt	Flu Vaccine-K 12-08-10_NCH-VK 28 B Panel.txt	2799
+483677	Flow cytometry result	28634327	Flu Vaccine-K 12-08-10_NCH-VK 28 TFH Panel.483677.fcs	Flu Vaccine-K 12-08-10_NCH-VK 28 TFH Panel.fcs	2799
+483678	Flow cytometry result	33380891	Flu Vaccine-K 12-08-10_NCH-VK 28 TFH Panel.483678.txt	Flu Vaccine-K 12-08-10_NCH-VK 28 TFH Panel.txt	2799
+483679	Flow cytometry result	20515735	Flu Vaccine-K 11-17-10_NCH-VK 28 B Panel.483679.fcs	Flu Vaccine-K 11-17-10_NCH-VK 28 B Panel.fcs	2799
+483680	Flow cytometry compensation or control	6851846	Flu Vaccine-K 11-17-10_NCH-VK 28 Ctrl.483680.fcs	Flu Vaccine-K 11-17-10_NCH-VK 28 Ctrl.fcs	2799
+483681	Flow cytometry result	23462233	Flu Vaccine-K 11-17-10_NCH-VK 28 B Panel.483681.txt	Flu Vaccine-K 11-17-10_NCH-VK 28 B Panel.txt	2799
+483682	Flow cytometry result	24902825	Flu Vaccine-K 11-17-10_NCH-VK 28 TFH Panel.483682.fcs	Flu Vaccine-K 11-17-10_NCH-VK 28 TFH Panel.fcs	2799
+483683	Flow cytometry result	28737249	Flu Vaccine-K 11-17-10_NCH-VK 28 TFH Panel.483683.txt	Flu Vaccine-K 11-17-10_NCH-VK 28 TFH Panel.txt	2799
+483684	Flow cytometry result	34915212	Flu Vaccine-K 11-11-10_NCH-VK 29 B Panel.483684.fcs	Flu Vaccine-K 11-11-10_NCH-VK 29 B Panel.fcs	2799
+483685	Flow cytometry compensation or control	9010711	Flu Vaccine-K 11-11-10_NCH-VK 29 Ctrl.483685.fcs	Flu Vaccine-K 11-11-10_NCH-VK 29 Ctrl.fcs	2799
+483686	Flow cytometry compensation or control	11995476	Comp Controls_LIN1 FITC 11_1112_10.483686.fcs	Comp Controls_LIN1 FITC 11_1112_10.fcs	2799
+483687	Flow cytometry compensation or control	3439981	Comp Controls_Cd3 PE 11_1112_10.483687.fcs	Comp Controls_Cd3 PE 11_1112_10.fcs	2799
+483688	Flow cytometry compensation or control	12312168	Comp Controls_CD19 PE-Texas Red 11_1112_10.483688.fcs	Comp Controls_CD19 PE-Texas Red 11_1112_10.fcs	2799
+483689	Flow cytometry compensation or control	9570193	Comp Controls_CD20 PE-Cy5 11_1112_10.483689.fcs	Comp Controls_CD20 PE-Cy5 11_1112_10.fcs	2799
+483690	Flow cytometry compensation or control	11210965	Comp Controls_CD56 PE-Cy7 11_1112_10.483690.fcs	Comp Controls_CD56 PE-Cy7 11_1112_10.fcs	2799
+483691	Flow cytometry compensation or control	7177214	Comp Controls_CD4 Pacific Blue 11_1112_10.483691.fcs	Comp Controls_CD4 Pacific Blue 11_1112_10.fcs	2799
+483692	Flow cytometry compensation or control	10550893	Comp Controls_CD45 QDOT 565 11_1112_10.483692.fcs	Comp Controls_CD45 QDOT 565 11_1112_10.fcs	2799
+483693	Flow cytometry compensation or control	13097007	Comp Controls_CD16 APC 11_1112_10.483693.fcs	Comp Controls_CD16 APC 11_1112_10.fcs	2799
+483694	Flow cytometry compensation or control	6644156	Comp Controls_CD3 Alexa 700 11_1112_10.483694.fcs	Comp Controls_CD3 Alexa 700 11_1112_10.fcs	2799
+483695	Flow cytometry compensation or control	7184480	Comp Controls_CD8 APC-Cy7 11_1112_10.483695.fcs	Comp Controls_CD8 APC-Cy7 11_1112_10.fcs	2799
+483696	Flow cytometry result	41102777	Flu Vaccine-K 11-11-10_NCH-VK 29 B Panel.483696.txt	Flu Vaccine-K 11-11-10_NCH-VK 29 B Panel.txt	2799
+483697	Flow cytometry result	32234110	Flu Vaccine-K 11-11-10_NCH-VK 29 TFH Panel.483697.fcs	Flu Vaccine-K 11-11-10_NCH-VK 29 TFH Panel.fcs	2799
+483698	Flow cytometry result	38125478	Flu Vaccine-K 11-11-10_NCH-VK 29 TFH Panel.483698.txt	Flu Vaccine-K 11-11-10_NCH-VK 29 TFH Panel.txt	2799
+483699	Flow cytometry result	22239062	Flu Vaccine-K 12-08-10_NCH-VK 29 B Panel.483699.fcs	Flu Vaccine-K 12-08-10_NCH-VK 29 B Panel.fcs	2799
+483700	Flow cytometry compensation or control	5664228	Flu Vaccine-K 12-08-10_NCH-VK 29 Ctrl.483700.fcs	Flu Vaccine-K 12-08-10_NCH-VK 29 Ctrl.fcs	2799
+483701	Flow cytometry result	25854104	Flu Vaccine-K 12-08-10_NCH-VK 29 B Panel.483701.txt	Flu Vaccine-K 12-08-10_NCH-VK 29 B Panel.txt	2799
+483702	Flow cytometry result	20740751	Flu Vaccine-K 12-08-10_NCH-VK 29 TFH Panel.483702.fcs	Flu Vaccine-K 12-08-10_NCH-VK 29 TFH Panel.fcs	2799
+483703	Flow cytometry result	24371510	Flu Vaccine-K 12-08-10_NCH-VK 29 TFH Panel.483703.txt	Flu Vaccine-K 12-08-10_NCH-VK 29 TFH Panel.txt	2799
+483704	Flow cytometry result	20974123	Flu Vaccine-K 11-19-10_NCH-VK 29 B Panel.483704.fcs	Flu Vaccine-K 11-19-10_NCH-VK 29 B Panel.fcs	2799
+483705	Flow cytometry compensation or control	5497830	Flu Vaccine-K 11-19-10_NCH-VK 29 Ctrl.483705.fcs	Flu Vaccine-K 11-19-10_NCH-VK 29 Ctrl.fcs	2799
+483706	Flow cytometry result	24253759	Flu Vaccine-K 11-19-10_NCH-VK 29 B Panel.483706.txt	Flu Vaccine-K 11-19-10_NCH-VK 29 B Panel.txt	2799
+483707	Flow cytometry result	19370617	Flu Vaccine-K 11-19-10_NCH-VK 29 TFH Panel.483707.fcs	Flu Vaccine-K 11-19-10_NCH-VK 29 TFH Panel.fcs	2799
+483708	Flow cytometry result	22602280	Flu Vaccine-K 11-19-10_NCH-VK 29 TFH Panel.483708.txt	Flu Vaccine-K 11-19-10_NCH-VK 29 TFH Panel.txt	2799
+483709	Flow cytometry result	37265428	Flu Vaccine-K 11-11-10_NCH-VK 30 B Panel.483709.fcs	Flu Vaccine-K 11-11-10_NCH-VK 30 B Panel.fcs	2799
+483710	Flow cytometry compensation or control	10394171	Flu Vaccine-K 11-11-10_NCH-VK 30 Ctrl.483710.fcs	Flu Vaccine-K 11-11-10_NCH-VK 30 Ctrl.fcs	2799
+483711	Flow cytometry result	43466340	Flu Vaccine-K 11-11-10_NCH-VK 30 B Panel.483711.txt	Flu Vaccine-K 11-11-10_NCH-VK 30 B Panel.txt	2799
+483712	Flow cytometry result	41912890	Flu Vaccine-K 11-11-10_NCH-VK 30 TFH Panel.483712.fcs	Flu Vaccine-K 11-11-10_NCH-VK 30 TFH Panel.fcs	2799
+483713	Flow cytometry result	49096322	Flu Vaccine-K 11-11-10_NCH-VK 30 TFH Panel.483713.txt	Flu Vaccine-K 11-11-10_NCH-VK 30 TFH Panel.txt	2799
+483714	Flow cytometry result	46650	Flu Vaccine-K 12-08-10_NCH-VK 30 B Panel.483714.fcs	Flu Vaccine-K 12-08-10_NCH-VK 30 B Panel.fcs	2799
+483715	Flow cytometry compensation or control	9519896	Flu Vaccine-K 12-08-10_NCH-VK 30 Ctrl.483715.fcs	Flu Vaccine-K 12-08-10_NCH-VK 30 Ctrl.fcs	2799
+483716	Flow cytometry result	48943	Flu Vaccine-K 12-08-10_NCH-VK 30 B Panel.483716.txt	Flu Vaccine-K 12-08-10_NCH-VK 30 B Panel.txt	2799
+483717	Flow cytometry result	39279931	Flu Vaccine-K 12-08-10_NCH-VK 30 TFH Panel.483717.fcs	Flu Vaccine-K 12-08-10_NCH-VK 30 TFH Panel.fcs	2799
+483718	Flow cytometry result	46126030	Flu Vaccine-K 12-08-10_NCH-VK 30 TFH Panel.483718.txt	Flu Vaccine-K 12-08-10_NCH-VK 30 TFH Panel.txt	2799
+483719	Flow cytometry result	25747655	Flu Vaccine-K 11-19-10_NCH-VK 30 B Panel.483719.fcs	Flu Vaccine-K 11-19-10_NCH-VK 30 B Panel.fcs	2799
+483720	Flow cytometry compensation or control	6957178	Flu Vaccine-K 11-19-10_NCH-VK 30 Ctrl.483720.fcs	Flu Vaccine-K 11-19-10_NCH-VK 30 Ctrl.fcs	2799
+483721	Flow cytometry result	29768755	Flu Vaccine-K 11-19-10_NCH-VK 30 B Panel.483721.txt	Flu Vaccine-K 11-19-10_NCH-VK 30 B Panel.txt	2799
+483722	Flow cytometry result	25220589	Flu Vaccine-K 11-19-10_NCH-VK 30 TFH Panel.483722.fcs	Flu Vaccine-K 11-19-10_NCH-VK 30 TFH Panel.fcs	2799
+483723	Flow cytometry result	29709345	Flu Vaccine-K 11-19-10_NCH-VK 30 TFH Panel.483723.txt	Flu Vaccine-K 11-19-10_NCH-VK 30 TFH Panel.txt	2799
+483724	Flow cytometry result	16204944	Flu Vaccine-K 11-11-10_NCH-VK 31 B Panel.483724.fcs	Flu Vaccine-K 11-11-10_NCH-VK 31 B Panel.fcs	2799
+483725	Flow cytometry compensation or control	4409695	Flu Vaccine-K 11-11-10_NCH-VK 31 Ctrl.483725.fcs	Flu Vaccine-K 11-11-10_NCH-VK 31 Ctrl.fcs	2799
+483726	Flow cytometry result	18826169	Flu Vaccine-K 11-11-10_NCH-VK 31 B Panel.483726.txt	Flu Vaccine-K 11-11-10_NCH-VK 31 B Panel.txt	2799
+483727	Flow cytometry result	16225550	Flu Vaccine-K 11-11-10_NCH-VK 31 TFH Panel.483727.fcs	Flu Vaccine-K 11-11-10_NCH-VK 31 TFH Panel.fcs	2799
+483728	Flow cytometry result	19127084	Flu Vaccine-K 11-11-10_NCH-VK 31 TFH Panel.483728.txt	Flu Vaccine-K 11-11-10_NCH-VK 31 TFH Panel.txt	2799
+483729	Flow cytometry result	18862977	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31  B Panel.483729.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31  B Panel.fcs	2799
+483730	Flow cytometry compensation or control	5354329	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 Ctrl.483730.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 Ctrl.fcs	2799
+483731	Flow cytometry result	20814568	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31  B Panel.483731.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31  B Panel.txt	2799
+483732	Flow cytometry result	20325170	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 DC Panel.483732.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 DC Panel.fcs	2799
+483733	Flow cytometry result	22783584	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 DC Panel.483733.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 DC Panel.txt	2799
+483734	Flow cytometry result	18368295	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 Mono,2f,Gran,2f,SLAM.483734.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 Mono,2f,Gran,2f,SLAM.fcs	2799
+483735	Flow cytometry result	20694567	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 Mono,2f,Gran,2f,SLAM.483735.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 Mono,2f,Gran,2f,SLAM.txt	2799
+483736	Flow cytometry result	19197876	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 TFH Panel.483736.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 TFH Panel.fcs	2799
+483737	Flow cytometry result	21483108	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 TFH Panel.483737.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 31 TFH Panel.txt	2799
+483738	Flow cytometry result	13390698	Flu Vaccine-K 12-07-10_NCH-VK 31 B Panel.483738.fcs	Flu Vaccine-K 12-07-10_NCH-VK 31 B Panel.fcs	2799
+483739	Flow cytometry compensation or control	3796268	Flu Vaccine-K 12-07-10_NCH-VK 31 Ctrl.483739.fcs	Flu Vaccine-K 12-07-10_NCH-VK 31 Ctrl.fcs	2799
+483740	Flow cytometry result	15315837	Flu Vaccine-K 12-07-10_NCH-VK 31 B Panel.483740.txt	Flu Vaccine-K 12-07-10_NCH-VK 31 B Panel.txt	2799
+483741	Flow cytometry result	13264423	Flu Vaccine-K 12-07-10_NCH-VK 31 TFH Panel.483741.fcs	Flu Vaccine-K 12-07-10_NCH-VK 31 TFH Panel.fcs	2799
+483742	Flow cytometry result	15431186	Flu Vaccine-K 12-07-10_NCH-VK 31 TFH Panel.483742.txt	Flu Vaccine-K 12-07-10_NCH-VK 31 TFH Panel.txt	2799
+483743	Flow cytometry result	14394511	Flu Vaccine-K 11-19-10_NCH-VK 31 B Panel.483743.fcs	Flu Vaccine-K 11-19-10_NCH-VK 31 B Panel.fcs	2799
+483744	Flow cytometry compensation or control	3937638	Flu Vaccine-K 11-19-10_NCH-VK 31 Ctrl.483744.fcs	Flu Vaccine-K 11-19-10_NCH-VK 31 Ctrl.fcs	2799
+483745	Flow cytometry result	16511669	Flu Vaccine-K 11-19-10_NCH-VK 31 B Panel.483745.txt	Flu Vaccine-K 11-19-10_NCH-VK 31 B Panel.txt	2799
+483746	Flow cytometry result	14277485	Flu Vaccine-K 11-19-10_NCH-VK 31 TFH Panel.483746.fcs	Flu Vaccine-K 11-19-10_NCH-VK 31 TFH Panel.fcs	2799
+483747	Flow cytometry result	16782174	Flu Vaccine-K 11-19-10_NCH-VK 31 TFH Panel.483747.txt	Flu Vaccine-K 11-19-10_NCH-VK 31 TFH Panel.txt	2799
+483748	Flow cytometry result	16297630	Flu Vaccine-K 2-08-11_NCH-VK 31 B Panel.483748.fcs	Flu Vaccine-K 2-08-11_NCH-VK 31 B Panel.fcs	2799
+483749	Flow cytometry compensation or control	3843324	Flu Vaccine-K 2-08-11_NCH-VK 31 Ctrl.483749.fcs	Flu Vaccine-K 2-08-11_NCH-VK 31 Ctrl.fcs	2799
+483750	Flow cytometry result	18910093	Flu Vaccine-K 2-08-11_NCH-VK 31 B Panel.483750.txt	Flu Vaccine-K 2-08-11_NCH-VK 31 B Panel.txt	2799
+483751	Flow cytometry result	13866631	Flu Vaccine-K 2-08-11_NCH-VK 31 TFH Panel.483751.fcs	Flu Vaccine-K 2-08-11_NCH-VK 31 TFH Panel.fcs	2799
+483752	Flow cytometry result	16445701	Flu Vaccine-K 2-08-11_NCH-VK 31 TFH Panel.483752.txt	Flu Vaccine-K 2-08-11_NCH-VK 31 TFH Panel.txt	2799
+483753	Flow cytometry result	30617408	Flu Vaccine-K 11-11-10_NCH-VK 32 B Panel.483753.fcs	Flu Vaccine-K 11-11-10_NCH-VK 32 B Panel.fcs	2799
+483754	Flow cytometry compensation or control	8629639	Flu Vaccine-K 11-11-10_NCH-VK 32 Ctrl.483754.fcs	Flu Vaccine-K 11-11-10_NCH-VK 32 Ctrl.fcs	2799
+483755	Flow cytometry result	35439216	Flu Vaccine-K 11-11-10_NCH-VK 32 B Panel.483755.txt	Flu Vaccine-K 11-11-10_NCH-VK 32 B Panel.txt	2799
+483756	Flow cytometry result	30532138	Flu Vaccine-K 11-11-10_NCH-VK 32 TFH Panel.483756.fcs	Flu Vaccine-K 11-11-10_NCH-VK 32 TFH Panel.fcs	2799
+483757	Flow cytometry result	35656464	Flu Vaccine-K 11-11-10_NCH-VK 32 TFH Panel.483757.txt	Flu Vaccine-K 11-11-10_NCH-VK 32 TFH Panel.txt	2799
+483758	Flow cytometry result	32473674	Flu Vaccine-K 12-03-10_NCH-VK 32 B Panel.483758.fcs	Flu Vaccine-K 12-03-10_NCH-VK 32 B Panel.fcs	2799
+483759	Flow cytometry compensation or control	8357776	Flu Vaccine-K 12-03-10_NCH-VK 32 Ctrl.483759.fcs	Flu Vaccine-K 12-03-10_NCH-VK 32 Ctrl.fcs	2799
+483760	Flow cytometry result	36293767	Flu Vaccine-K 12-03-10_NCH-VK 32 B Panel.483760.txt	Flu Vaccine-K 12-03-10_NCH-VK 32 B Panel.txt	2799
+483761	Flow cytometry result	33522575	Flu Vaccine-K 12-03-10_NCH-VK 32 TFH Panel.483761.fcs	Flu Vaccine-K 12-03-10_NCH-VK 32 TFH Panel.fcs	2799
+483762	Flow cytometry result	37618702	Flu Vaccine-K 12-03-10_NCH-VK 32 TFH Panel.483762.txt	Flu Vaccine-K 12-03-10_NCH-VK 32 TFH Panel.txt	2799
+483763	Flow cytometry result	25333535	Flu Vaccine-K 11-19-10_NCH-VK 32 B Panel.483763.fcs	Flu Vaccine-K 11-19-10_NCH-VK 32 B Panel.fcs	2799
+483764	Flow cytometry compensation or control	6590726	Flu Vaccine-K 11-19-10_NCH-VK 32 Ctrl.483764.fcs	Flu Vaccine-K 11-19-10_NCH-VK 32 Ctrl.fcs	2799
+483765	Flow cytometry result	28619274	Flu Vaccine-K 11-19-10_NCH-VK 32 B Panel.483765.txt	Flu Vaccine-K 11-19-10_NCH-VK 32 B Panel.txt	2799
+483766	Flow cytometry result	24522093	Flu Vaccine-K 11-19-10_NCH-VK 32 TFH Panel.483766.fcs	Flu Vaccine-K 11-19-10_NCH-VK 32 TFH Panel.fcs	2799
+483767	Flow cytometry result	28066953	Flu Vaccine-K 11-19-10_NCH-VK 32 TFH Panel.483767.txt	Flu Vaccine-K 11-19-10_NCH-VK 32 TFH Panel.txt	2799
+483768	Flow cytometry result	33137978	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 B Panel.483768.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 B Panel.fcs	2799
+483769	Flow cytometry compensation or control	10515360	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 Ctrl.483769.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 Ctrl.fcs	2799
+483770	Flow cytometry result	38277698	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 B Panel.483770.txt	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 B Panel.txt	2799
+483771	Flow cytometry result	35789843	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 TFH Panel.483771.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 TFH Panel.fcs	2799
+483772	Flow cytometry result	41494838	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 TFH Panel.483772.txt	Flu Vaccine-K 1-22-11 3M_NCH-VK 32 TFH Panel.txt	2799
+483773	Flow cytometry result	24877800	Flu Vaccine-K 11-11-10_NCH-VK 33 B Panel.483773.fcs	Flu Vaccine-K 11-11-10_NCH-VK 33 B Panel.fcs	2799
+483774	Flow cytometry compensation or control	6268679	Flu Vaccine-K 11-11-10_NCH-VK 33 Ctrl.483774.fcs	Flu Vaccine-K 11-11-10_NCH-VK 33 Ctrl.fcs	2799
+483775	Flow cytometry result	27971568	Flu Vaccine-K 11-11-10_NCH-VK 33 B Panel.483775.txt	Flu Vaccine-K 11-11-10_NCH-VK 33 B Panel.txt	2799
+483776	Flow cytometry result	23992782	Flu Vaccine-K 11-11-10_NCH-VK 33 TFH Panel.483776.fcs	Flu Vaccine-K 11-11-10_NCH-VK 33 TFH Panel.fcs	2799
+483777	Flow cytometry result	27297917	Flu Vaccine-K 11-11-10_NCH-VK 33 TFH Panel.483777.txt	Flu Vaccine-K 11-11-10_NCH-VK 33 TFH Panel.txt	2799
+483778	Flow cytometry result	55898769	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33  B Panel.483778.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33  B Panel.fcs	2799
+483779	Flow cytometry compensation or control	24671225	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 Ctrl.483779.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 Ctrl.fcs	2799
+483780	Flow cytometry result	60128177	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33  B Panel.483780.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33  B Panel.txt	2799
+483781	Flow cytometry result	59617882	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 DC Panel.483781.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 DC Panel.fcs	2799
+483782	Flow cytometry result	64374474	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 DC Panel.483782.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 DC Panel.txt	2799
+483783	Flow cytometry result	48188743	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 Mono,2f,Gran,2f,SLAM.483783.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 Mono,2f,Gran,2f,SLAM.fcs	2799
+483784	Flow cytometry result	52272752	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 Mono,2f,Gran,2f,SLAM.483784.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 Mono,2f,Gran,2f,SLAM.txt	2799
+483785	Flow cytometry result	41198392	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 TFH Panel.483785.fcs	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 TFH Panel.fcs	2799
+483786	Flow cytometry result	44587087	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 TFH Panel.483786.txt	Flu Vaccine-Kids 05-12-11 6M_NCH-VK 33 TFH Panel.txt	2799
+483787	Flow cytometry result	30255310	Flu Vaccine-K 12-03-10_NCH-VK 33 B Panel.483787.fcs	Flu Vaccine-K 12-03-10_NCH-VK 33 B Panel.fcs	2799
+483788	Flow cytometry compensation or control	9522684	Flu Vaccine-K 12-03-10_NCH-VK 33 Ctrl.483788.fcs	Flu Vaccine-K 12-03-10_NCH-VK 33 Ctrl.fcs	2799
+483789	Flow cytometry result	33761358	Flu Vaccine-K 12-03-10_NCH-VK 33 B Panel.483789.txt	Flu Vaccine-K 12-03-10_NCH-VK 33 B Panel.txt	2799
+483790	Flow cytometry result	26485799	Flu Vaccine-K 12-03-10_NCH-VK 33 TFH Panel.483790.fcs	Flu Vaccine-K 12-03-10_NCH-VK 33 TFH Panel.fcs	2799
+483791	Flow cytometry result	30049424	Flu Vaccine-K 12-03-10_NCH-VK 33 TFH Panel.483791.txt	Flu Vaccine-K 12-03-10_NCH-VK 33 TFH Panel.txt	2799
+483792	Flow cytometry result	25438459	Flu Vaccine-K 11-19-10_NCH-VK 33 B Panel.483792.fcs	Flu Vaccine-K 11-19-10_NCH-VK 33 B Panel.fcs	2799
+483793	Flow cytometry compensation or control	7971806	Flu Vaccine-K 11-19-10_NCH-VK 33 Ctrl.483793.fcs	Flu Vaccine-K 11-19-10_NCH-VK 33 Ctrl.fcs	2799
+483794	Flow cytometry result	28764796	Flu Vaccine-K 11-19-10_NCH-VK 33 B Panel.483794.txt	Flu Vaccine-K 11-19-10_NCH-VK 33 B Panel.txt	2799
+483795	Flow cytometry result	30048589	Flu Vaccine-K 11-19-10_NCH-VK 33 TFH Panel.483795.fcs	Flu Vaccine-K 11-19-10_NCH-VK 33 TFH Panel.fcs	2799
+483796	Flow cytometry result	34316196	Flu Vaccine-K 11-19-10_NCH-VK 33 TFH Panel.483796.txt	Flu Vaccine-K 11-19-10_NCH-VK 33 TFH Panel.txt	2799
+483797	Flow cytometry result	23279066	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 B Panel.483797.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 B Panel.fcs	2799
+483798	Flow cytometry compensation or control	8621832	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 Ctrl.483798.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 Ctrl.fcs	2799
+483799	Flow cytometry result	26208311	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 B Panel.483799.txt	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 B Panel.txt	2799
+483800	Flow cytometry result	27621003	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 TFH Panel.483800.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 TFH Panel.fcs	2799
+483801	Flow cytometry result	31352958	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 TFH Panel.483801.txt	Flu Vaccine-K 1-22-11 3M_NCH-VK 33 TFH Panel.txt	2799
+483802	Flow cytometry result	35301723	Flu Vaccine-K 11-12-10_NCH-VK 34 B Panel.483802.fcs	Flu Vaccine-K 11-12-10_NCH-VK 34 B Panel.fcs	2799
+483803	Flow cytometry compensation or control	7642550	Flu Vaccine-K 11-12-10_NCH-VK 34 Ctrl.483803.fcs	Flu Vaccine-K 11-12-10_NCH-VK 34 Ctrl.fcs	2799
+483804	Flow cytometry result	38815834	Flu Vaccine-K 11-12-10_NCH-VK 34 B Panel.483804.txt	Flu Vaccine-K 11-12-10_NCH-VK 34 B Panel.txt	2799
+483805	Flow cytometry result	32808845	Flu Vaccine-K 11-12-10_NCH-VK 34 TFH Panel.483805.fcs	Flu Vaccine-K 11-12-10_NCH-VK 34 TFH Panel.fcs	2799
+483806	Flow cytometry result	36551492	Flu Vaccine-K 11-12-10_NCH-VK 34 TFH Panel.483806.txt	Flu Vaccine-K 11-12-10_NCH-VK 34 TFH Panel.txt	2799
+483807	Flow cytometry result	28441614	Flu Vaccine-K 12-05-10_NCH-VK 34 B Panel.483807.fcs	Flu Vaccine-K 12-05-10_NCH-VK 34 B Panel.fcs	2799
+483808	Flow cytometry compensation or control	6778612	Flu Vaccine-K 12-05-10_NCH-VK 34 Ctrl.483808.fcs	Flu Vaccine-K 12-05-10_NCH-VK 34 Ctrl.fcs	2799
+483809	Flow cytometry result	32155204	Flu Vaccine-K 12-05-10_NCH-VK 34 B Panel.483809.txt	Flu Vaccine-K 12-05-10_NCH-VK 34 B Panel.txt	2799
+483810	Flow cytometry result	30330587	Flu Vaccine-K 12-05-10_NCH-VK 34 TFH Panel.483810.fcs	Flu Vaccine-K 12-05-10_NCH-VK 34 TFH Panel.fcs	2799
+483811	Flow cytometry result	34362716	Flu Vaccine-K 12-05-10_NCH-VK 34 TFH Panel.483811.txt	Flu Vaccine-K 12-05-10_NCH-VK 34 TFH Panel.txt	2799
+483812	Flow cytometry result	31854191	Flu Vaccine-K 11-19-10_NCH-VK 34 B Panel.483812.fcs	Flu Vaccine-K 11-19-10_NCH-VK 34 B Panel.fcs	2799
+483813	Flow cytometry compensation or control	7245022	Flu Vaccine-K 11-19-10_NCH-VK 34 Ctrl.483813.fcs	Flu Vaccine-K 11-19-10_NCH-VK 34 Ctrl.fcs	2799
+483814	Flow cytometry result	35206216	Flu Vaccine-K 11-19-10_NCH-VK 34 B Panel.483814.txt	Flu Vaccine-K 11-19-10_NCH-VK 34 B Panel.txt	2799
+483815	Flow cytometry result	32313193	Flu Vaccine-K 11-19-10_NCH-VK 34 TFH Panel.483815.fcs	Flu Vaccine-K 11-19-10_NCH-VK 34 TFH Panel.fcs	2799
+483816	Flow cytometry result	35937772	Flu Vaccine-K 11-19-10_NCH-VK 34 TFH Panel.483816.txt	Flu Vaccine-K 11-19-10_NCH-VK 34 TFH Panel.txt	2799
+483817	Flow cytometry result	26865033	Flu Vaccine-K 2-07-11_NCH-VK 34 B Panel.483817.fcs	Flu Vaccine-K 2-07-11_NCH-VK 34 B Panel.fcs	2799
+483818	Flow cytometry compensation or control	7105147	Flu Vaccine-K 2-07-11_NCH-VK 34 Ctrl.483818.fcs	Flu Vaccine-K 2-07-11_NCH-VK 34 Ctrl.fcs	2799
+483819	Flow cytometry result	30180038	Flu Vaccine-K 2-07-11_NCH-VK 34 B Panel.483819.txt	Flu Vaccine-K 2-07-11_NCH-VK 34 B Panel.txt	2799
+483820	Flow cytometry result	29438154	Flu Vaccine-K 2-07-11_NCH-VK 34 TFH Panel.483820.fcs	Flu Vaccine-K 2-07-11_NCH-VK 34 TFH Panel.fcs	2799
+483821	Flow cytometry result	33005095	Flu Vaccine-K 2-07-11_NCH-VK 34 TFH Panel.483821.txt	Flu Vaccine-K 2-07-11_NCH-VK 34 TFH Panel.txt	2799
+483822	Flow cytometry result	25727935	Flu Vaccine-K 11-12-10_NCH-VK 35 B Panel.483822.fcs	Flu Vaccine-K 11-12-10_NCH-VK 35 B Panel.fcs	2799
+483823	Flow cytometry compensation or control	5811854	Flu Vaccine-K 11-12-10_NCH-VK 35 Ctrl.483823.fcs	Flu Vaccine-K 11-12-10_NCH-VK 35 Ctrl.fcs	2799
+483824	Flow cytometry result	29134354	Flu Vaccine-K 11-12-10_NCH-VK 35 B Panel.483824.txt	Flu Vaccine-K 11-12-10_NCH-VK 35 B Panel.txt	2799
+483825	Flow cytometry result	22332901	Flu Vaccine-K 11-12-10_NCH-VK 35 TFH Panel.483825.fcs	Flu Vaccine-K 11-12-10_NCH-VK 35 TFH Panel.fcs	2799
+483826	Flow cytometry result	25821649	Flu Vaccine-K 11-12-10_NCH-VK 35 TFH Panel.483826.txt	Flu Vaccine-K 11-12-10_NCH-VK 35 TFH Panel.txt	2799
+483827	Flow cytometry result	19048230	Flu Vaccine-K 12-05-10_NCH-VK 35 B Panel.483827.fcs	Flu Vaccine-K 12-05-10_NCH-VK 35 B Panel.fcs	2799
+483828	Flow cytometry compensation or control	5156540	Flu Vaccine-K 12-05-10_NCH-VK 35 Ctrl.483828.fcs	Flu Vaccine-K 12-05-10_NCH-VK 35 Ctrl.fcs	2799
+483829	Flow cytometry result	21937223	Flu Vaccine-K 12-05-10_NCH-VK 35 B Panel.483829.txt	Flu Vaccine-K 12-05-10_NCH-VK 35 B Panel.txt	2799
+483830	Flow cytometry result	18615751	Flu Vaccine-K 12-05-10_NCH-VK 35 TFH Panel.483830.fcs	Flu Vaccine-K 12-05-10_NCH-VK 35 TFH Panel.fcs	2799
+483831	Flow cytometry result	21702815	Flu Vaccine-K 12-05-10_NCH-VK 35 TFH Panel.483831.txt	Flu Vaccine-K 12-05-10_NCH-VK 35 TFH Panel.txt	2799
+483832	Flow cytometry result	23701129	Flu Vaccine-K 11-19-10_NCH-VK 35 TFH Panel.483832.fcs	Flu Vaccine-K 11-19-10_NCH-VK 35 TFH Panel.fcs	2799
+483833	Flow cytometry result	27347723	Flu Vaccine-K 11-19-10_NCH-VK 35 TFH Panel.483833.txt	Flu Vaccine-K 11-19-10_NCH-VK 35 TFH Panel.txt	2799
+483834	Flow cytometry result	19775965	Flu Vaccine-K 2-07-11_NCH-VK 35 B Panel.483834.fcs	Flu Vaccine-K 2-07-11_NCH-VK 35 B Panel.fcs	2799
+483835	Flow cytometry compensation or control	5984167	Flu Vaccine-K 2-07-11_NCH-VK 35 Ctrl.483835.fcs	Flu Vaccine-K 2-07-11_NCH-VK 35 Ctrl.fcs	2799
+483836	Flow cytometry result	22693347	Flu Vaccine-K 2-07-11_NCH-VK 35 B Panel.483836.txt	Flu Vaccine-K 2-07-11_NCH-VK 35 B Panel.txt	2799
+483837	Flow cytometry result	19354774	Flu Vaccine-K 2-07-11_NCH-VK 35 TFH Panel.483837.fcs	Flu Vaccine-K 2-07-11_NCH-VK 35 TFH Panel.fcs	2799
+483838	Flow cytometry result	22604753	Flu Vaccine-K 2-07-11_NCH-VK 35 TFH Panel.483838.txt	Flu Vaccine-K 2-07-11_NCH-VK 35 TFH Panel.txt	2799
+483839	Flow cytometry result	35376455	Flu Vaccine-K 11-12-10_NCH-VK 36 B Panel.483839.fcs	Flu Vaccine-K 11-12-10_NCH-VK 36 B Panel.fcs	2799
+483840	Flow cytometry compensation or control	10993930	Flu Vaccine-K 11-12-10_NCH-VK 36 Ctrl.483840.fcs	Flu Vaccine-K 11-12-10_NCH-VK 36 Ctrl.fcs	2799
+483841	Flow cytometry result	40593045	Flu Vaccine-K 11-12-10_NCH-VK 36 B Panel.483841.txt	Flu Vaccine-K 11-12-10_NCH-VK 36 B Panel.txt	2799
+483842	Flow cytometry result	33927649	Flu Vaccine-K 11-12-10_NCH-VK 36 TFH Panel.483842.fcs	Flu Vaccine-K 11-12-10_NCH-VK 36 TFH Panel.fcs	2799
+483843	Flow cytometry result	39285121	Flu Vaccine-K 11-12-10_NCH-VK 36 TFH Panel.483843.txt	Flu Vaccine-K 11-12-10_NCH-VK 36 TFH Panel.txt	2799
+483844	Flow cytometry result	105078747	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36  B Panel.483844.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36  B Panel.fcs	2799
+483845	Flow cytometry compensation or control	31225539	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 Ctrl.483845.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 Ctrl.fcs	2799
+483846	Flow cytometry result	110542192	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36  B Panel.483846.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36  B Panel.txt	2799
+483847	Flow cytometry result	61066756	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 DC Panel.483847.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 DC Panel.fcs	2799
+483848	Flow cytometry result	65357264	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 DC Panel.483848.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 DC Panel.txt	2799
+483849	Flow cytometry result	79769777	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 Mono,2f,Gran,2f,SLAM.483849.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 Mono,2f,Gran,2f,SLAM.fcs	2799
+483850	Flow cytometry result	84849852	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 Mono,2f,Gran,2f,SLAM.483850.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 Mono,2f,Gran,2f,SLAM.txt	2799
+483851	Flow cytometry result	80715502	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 TFH Panel.483851.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 TFH Panel.fcs	2799
+483852	Flow cytometry result	85228864	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 TFH Panel.483852.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 36 TFH Panel.txt	2799
+483853	Flow cytometry result	30607686	Flu Vaccine-K 12-05-10_NCH-VK 36 B Panel.483853.fcs	Flu Vaccine-K 12-05-10_NCH-VK 36 B Panel.fcs	2799
+483854	Flow cytometry compensation or control	10605584	Flu Vaccine-K 12-05-10_NCH-VK 36 Ctrl.483854.fcs	Flu Vaccine-K 12-05-10_NCH-VK 36 Ctrl.fcs	2799
+483855	Flow cytometry result	35178035	Flu Vaccine-K 12-05-10_NCH-VK 36 B Panel.483855.txt	Flu Vaccine-K 12-05-10_NCH-VK 36 B Panel.txt	2799
+483856	Flow cytometry result	38032539	Flu Vaccine-K 12-05-10_NCH-VK 36 TFH Panel.483856.fcs	Flu Vaccine-K 12-05-10_NCH-VK 36 TFH Panel.fcs	2799
+483857	Flow cytometry result	43897832	Flu Vaccine-K 12-05-10_NCH-VK 36 TFH Panel.483857.txt	Flu Vaccine-K 12-05-10_NCH-VK 36 TFH Panel.txt	2799
+483858	Flow cytometry result	27738967	Flu Vaccine-K 11-19-10_NCH-VK 36 B Panel.483858.fcs	Flu Vaccine-K 11-19-10_NCH-VK 36 B Panel.fcs	2799
+483859	Flow cytometry compensation or control	11568938	Flu Vaccine-K 11-19-10_NCH-VK 36 Ctrl.483859.fcs	Flu Vaccine-K 11-19-10_NCH-VK 36 Ctrl.fcs	2799
+483860	Flow cytometry result	31800984	Flu Vaccine-K 11-19-10_NCH-VK 36 B Panel.483860.txt	Flu Vaccine-K 11-19-10_NCH-VK 36 B Panel.txt	2799
+483861	Flow cytometry result	25968317	Flu Vaccine-K 11-19-10_NCH-VK 36 TFH Panel.483861.fcs	Flu Vaccine-K 11-19-10_NCH-VK 36 TFH Panel.fcs	2799
+483862	Flow cytometry result	30034912	Flu Vaccine-K 11-19-10_NCH-VK 36 TFH Panel.483862.txt	Flu Vaccine-K 11-19-10_NCH-VK 36 TFH Panel.txt	2799
+483863	Flow cytometry result	29798009	Flu Vaccine-K 2-07-11_NCH-VK 36 B Panel.483863.fcs	Flu Vaccine-K 2-07-11_NCH-VK 36 B Panel.fcs	2799
+483864	Flow cytometry compensation or control	8101279	Flu Vaccine-K 2-07-11_NCH-VK 36 Ctrl.483864.fcs	Flu Vaccine-K 2-07-11_NCH-VK 36 Ctrl.fcs	2799
+483865	Flow cytometry result	33761677	Flu Vaccine-K 2-07-11_NCH-VK 36 B Panel.483865.txt	Flu Vaccine-K 2-07-11_NCH-VK 36 B Panel.txt	2799
+483866	Flow cytometry result	35648254	Flu Vaccine-K 2-07-11_NCH-VK 36 TFH Panel.483866.fcs	Flu Vaccine-K 2-07-11_NCH-VK 36 TFH Panel.fcs	2799
+483867	Flow cytometry result	40620420	Flu Vaccine-K 2-07-11_NCH-VK 36 TFH Panel.483867.txt	Flu Vaccine-K 2-07-11_NCH-VK 36 TFH Panel.txt	2799
+483868	Flow cytometry result	33912415	Flu Vaccine-K 11-12-10_NCH-VK 37 B Panel.483868.fcs	Flu Vaccine-K 11-12-10_NCH-VK 37 B Panel.fcs	2799
+483869	Flow cytometry compensation or control	18030774	Flu Vaccine-K 11-12-10_NCH-VK 37 Ctrl.483869.fcs	Flu Vaccine-K 11-12-10_NCH-VK 37 Ctrl.fcs	2799
+483870	Flow cytometry result	39629645	Flu Vaccine-K 11-12-10_NCH-VK 37 B Panel.483870.txt	Flu Vaccine-K 11-12-10_NCH-VK 37 B Panel.txt	2799
+483871	Flow cytometry result	36193885	Flu Vaccine-K 11-12-10_NCH-VK 37 TFH Panel.483871.fcs	Flu Vaccine-K 11-12-10_NCH-VK 37 TFH Panel.fcs	2799
+483872	Flow cytometry result	42791187	Flu Vaccine-K 11-12-10_NCH-VK 37 TFH Panel.483872.txt	Flu Vaccine-K 11-12-10_NCH-VK 37 TFH Panel.txt	2799
+483873	Flow cytometry result	45930919	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37  B Panel.483873.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37  B Panel.fcs	2799
+483874	Flow cytometry compensation or control	19959503	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 Ctrl.483874.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 Ctrl.fcs	2799
+483875	Flow cytometry result	48989211	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37  B Panel.483875.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37  B Panel.txt	2799
+483876	Flow cytometry result	49905168	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 DC Panel.483876.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 DC Panel.fcs	2799
+483877	Flow cytometry result	54235536	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 DC Panel.483877.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 DC Panel.txt	2799
+483878	Flow cytometry result	67889905	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 Mono,2f,Gran,2f,SLAM.483878.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 Mono,2f,Gran,2f,SLAM.fcs	2799
+483879	Flow cytometry result	73155280	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 Mono,2f,Gran,2f,SLAM.483879.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 Mono,2f,Gran,2f,SLAM.txt	2799
+483880	Flow cytometry result	55517626	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 TFH Panel.483880.fcs	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 TFH Panel.fcs	2799
+483881	Flow cytometry result	59349817	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 TFH Panel.483881.txt	Flu Vaccine-Kids 05-17-11 6M_NCH-VK 37 TFH Panel.txt	2799
+483882	Flow cytometry result	27010826	Flu Vaccine-K 12-03-10_NCH-VK 37 B Panel.483882.fcs	Flu Vaccine-K 12-03-10_NCH-VK 37 B Panel.fcs	2799
+483883	Flow cytometry compensation or control	6825464	Flu Vaccine-K 12-03-10_NCH-VK 37 Ctrl.483883.fcs	Flu Vaccine-K 12-03-10_NCH-VK 37 Ctrl.fcs	2799
+483884	Flow cytometry result	30977912	Flu Vaccine-K 12-03-10_NCH-VK 37 B Panel.483884.txt	Flu Vaccine-K 12-03-10_NCH-VK 37 B Panel.txt	2799
+483885	Flow cytometry result	24957703	Flu Vaccine-K 12-03-10_NCH-VK 37 TFH Panel.483885.fcs	Flu Vaccine-K 12-03-10_NCH-VK 37 TFH Panel.fcs	2799
+483886	Flow cytometry result	29012514	Flu Vaccine-K 12-03-10_NCH-VK 37 TFH Panel.483886.txt	Flu Vaccine-K 12-03-10_NCH-VK 37 TFH Panel.txt	2799
+483887	Flow cytometry result	15642245	Flu Vaccine-K 2-11-11_NCH-VK 37 B Panel.483887.fcs	Flu Vaccine-K 2-11-11_NCH-VK 37 B Panel.fcs	2799
+483888	Flow cytometry compensation or control	6892783	Flu Vaccine-K 2-11-11_NCH-VK 37 Ctrl.483888.fcs	Flu Vaccine-K 2-11-11_NCH-VK 37 Ctrl.fcs	2799
+483889	Flow cytometry result	17995194	Flu Vaccine-K 2-11-11_NCH-VK 37 B Panel.483889.txt	Flu Vaccine-K 2-11-11_NCH-VK 37 B Panel.txt	2799
+483890	Flow cytometry result	28258422	Flu Vaccine-K 2-11-11_NCH-VK 37 TFH Panel.483890.fcs	Flu Vaccine-K 2-11-11_NCH-VK 37 TFH Panel.fcs	2799
+483891	Flow cytometry result	32335174	Flu Vaccine-K 2-11-11_NCH-VK 37 TFH Panel.483891.txt	Flu Vaccine-K 2-11-11_NCH-VK 37 TFH Panel.txt	2799
+483892	Flow cytometry result	27552852	Flu Vaccine-K 11-29-10_NCH-VK 38 B Panel.483892.fcs	Flu Vaccine-K 11-29-10_NCH-VK 38 B Panel.fcs	2799
+483893	Flow cytometry compensation or control	7067474	Flu Vaccine-K 11-29-10_NCH-VK 38 Ctrl.483893.fcs	Flu Vaccine-K 11-29-10_NCH-VK 38 Ctrl.fcs	2799
+483894	Flow cytometry result	31524701	Flu Vaccine-K 11-29-10_NCH-VK 38 B Panel.483894.txt	Flu Vaccine-K 11-29-10_NCH-VK 38 B Panel.txt	2799
+483895	Flow cytometry result	29213811	Flu Vaccine-K 11-29-10_NCH-VK 38 DC Panel.483895.fcs	Flu Vaccine-K 11-29-10_NCH-VK 38 DC Panel.fcs	2799
+483896	Flow cytometry result	34470562	Flu Vaccine-K 11-29-10_NCH-VK 38 DC Panel.483896.txt	Flu Vaccine-K 11-29-10_NCH-VK 38 DC Panel.txt	2799
+483897	Flow cytometry result	29022469	Flu Vaccine-K 11-29-10_NCH-VK 38 TFH Panel.483897.fcs	Flu Vaccine-K 11-29-10_NCH-VK 38 TFH Panel.fcs	2799
+483898	Flow cytometry result	33576617	Flu Vaccine-K 11-29-10_NCH-VK 38 TFH Panel.483898.txt	Flu Vaccine-K 11-29-10_NCH-VK 38 TFH Panel.txt	2799
+483899	Flow cytometry result	25279464	Flu_NCH_VK_38_B_Panel.483899.fcs	Flu_NCH_VK_38_B_Panel.fcs	2799
+483900	Flow cytometry compensation or control	8042591	Flu_NCH_VK_38_Ctrl.483900.fcs	Flu_NCH_VK_38_Ctrl.fcs	2799
+483901	Flow cytometry result	28642712	Flu_NCH_VK_38_B_Panel.483901.txt	Flu_NCH_VK_38_B_Panel.txt	2799
+483902	Flow cytometry result	26311973	Flu_NCH_VK_38_DC_Panel.483902.fcs	Flu_NCH_VK_38_DC_Panel.fcs	2799
+483903	Flow cytometry result	30565678	Flu_NCH_VK_38_DC_Panel.483903.txt	Flu_NCH_VK_38_DC_Panel.txt	2799
+483904	Flow cytometry result	27028642	97693.483904.fcs	97693.fcs	2799
+483905	Flow cytometry result	31118686	97693.483905.txt	97693.txt	2799
+483906	Flow cytometry result	25805790	Flu_NCH_VK_38_TFH_Panel.483906.fcs	Flu_NCH_VK_38_TFH_Panel.fcs	2799
+483907	Flow cytometry result	29380500	Flu_NCH_VK_38_TFH_Panel.483907.txt	Flu_NCH_VK_38_TFH_Panel.txt	2799
+483908	Flow cytometry result	15502301	Flu Vaccine-K 12-05-10_NCH-VK 38 B Panel.483908.fcs	Flu Vaccine-K 12-05-10_NCH-VK 38 B Panel.fcs	2799
+483909	Flow cytometry compensation or control	6017283	Flu Vaccine-K 12-05-10_NCH-VK 38 Ctrl.483909.fcs	Flu Vaccine-K 12-05-10_NCH-VK 38 Ctrl.fcs	2799
+483910	Flow cytometry result	17843468	Flu Vaccine-K 12-05-10_NCH-VK 38 B Panel.483910.txt	Flu Vaccine-K 12-05-10_NCH-VK 38 B Panel.txt	2799
+483911	Flow cytometry result	21415310	Flu Vaccine-K 12-05-10_NCH-VK 38 TFH Panel.483911.fcs	Flu Vaccine-K 12-05-10_NCH-VK 38 TFH Panel.fcs	2799
+483912	Flow cytometry result	24724865	Flu Vaccine-K 12-05-10_NCH-VK 38 TFH Panel.483912.txt	Flu Vaccine-K 12-05-10_NCH-VK 38 TFH Panel.txt	2799
+483913	Flow cytometry result	20730113	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 B Panel.483913.fcs	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 B Panel.fcs	2799
+483914	Flow cytometry compensation or control	7956139	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 Ctrl.483914.fcs	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 Ctrl.fcs	2799
+483915	Flow cytometry result	23439245	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 B Panel.483915.txt	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 B Panel.txt	2799
+483916	Flow cytometry result	25159430	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 TFH Panel.483916.fcs	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 TFH Panel.fcs	2799
+483917	Flow cytometry result	28684267	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 TFH Panel.483917.txt	Flu Vaccine-K 3-21-11 3M_NCH-VK 38 TFH Panel.txt	2799
+483918	Flow cytometry result	26068207	Flu Vaccine-K 11-09-10_NCH-VK 39 B Panel.483918.fcs	Flu Vaccine-K 11-09-10_NCH-VK 39 B Panel.fcs	2799
+483919	Flow cytometry compensation or control	6460370	Flu Vaccine-K 11-09-10_NCH-VK 39 Ctrl.483919.fcs	Flu Vaccine-K 11-09-10_NCH-VK 39 Ctrl.fcs	2799
+483920	Flow cytometry result	28449684	Flu Vaccine-K 11-09-10_NCH-VK 39 B Panel.483920.txt	Flu Vaccine-K 11-09-10_NCH-VK 39 B Panel.txt	2799
+483921	Flow cytometry result	24093479	Flu Vaccine-K 11-09-10_NCH-VK 39 DC Panel.483921.fcs	Flu Vaccine-K 11-09-10_NCH-VK 39 DC Panel.fcs	2799
+483922	Flow cytometry result	26760209	Flu Vaccine-K 11-09-10_NCH-VK 39 DC Panel.483922.txt	Flu Vaccine-K 11-09-10_NCH-VK 39 DC Panel.txt	2799
+483923	Flow cytometry result	25610180	Flu Vaccine-K 11-09-10_NCH-VK 39 Mono,2f,Gran,2f,SLAN.483923.fcs	Flu Vaccine-K 11-09-10_NCH-VK 39 Mono,2f,Gran,2f,SLAN.fcs	2799
+483924	Flow cytometry result	28305581	Flu Vaccine-K 11-09-10_NCH-VK 39 Mono,2f,Gran,2f,SLAN.483924.txt	Flu Vaccine-K 11-09-10_NCH-VK 39 Mono,2f,Gran,2f,SLAN.txt	2799
+483925	Flow cytometry result	23798437	Flu Vaccine-K 11-09-10_NCH-VK 39 TFH Panel.483925.fcs	Flu Vaccine-K 11-09-10_NCH-VK 39 TFH Panel.fcs	2799
+483926	Flow cytometry result	26323021	Flu Vaccine-K 11-09-10_NCH-VK 39 TFH Panel.483926.txt	Flu Vaccine-K 11-09-10_NCH-VK 39 TFH Panel.txt	2799
+483927	Flow cytometry result	21632978	Flu Vaccine-K 12-07-10_NCH-VK 39 B Panel.483927.fcs	Flu Vaccine-K 12-07-10_NCH-VK 39 B Panel.fcs	2799
+483928	Flow cytometry compensation or control	6501852	Flu Vaccine-K 12-07-10_NCH-VK 39 Ctrl.483928.fcs	Flu Vaccine-K 12-07-10_NCH-VK 39 Ctrl.fcs	2799
+483929	Flow cytometry result	23814108	Flu Vaccine-K 12-07-10_NCH-VK 39 B Panel.483929.txt	Flu Vaccine-K 12-07-10_NCH-VK 39 B Panel.txt	2799
+483930	Flow cytometry result	23496451	Flu Vaccine-K 12-07-10_NCH-VK 39 TFH Panel.483930.fcs	Flu Vaccine-K 12-07-10_NCH-VK 39 TFH Panel.fcs	2799
+483931	Flow cytometry result	25790514	Flu Vaccine-K 12-07-10_NCH-VK 39 TFH Panel.483931.txt	Flu Vaccine-K 12-07-10_NCH-VK 39 TFH Panel.txt	2799
+483932	Flow cytometry result	19172327	Flu Vaccine-K 11-16-10_NCH-VK 39 B Panel.483932.fcs	Flu Vaccine-K 11-16-10_NCH-VK 39 B Panel.fcs	2799
+483933	Flow cytometry compensation or control	4917518	Flu Vaccine-K 11-16-10_NCH-VK 39 Ctrl.483933.fcs	Flu Vaccine-K 11-16-10_NCH-VK 39 Ctrl.fcs	2799
+483934	Flow cytometry result	20967954	Flu Vaccine-K 11-16-10_NCH-VK 39 B Panel.483934.txt	Flu Vaccine-K 11-16-10_NCH-VK 39 B Panel.txt	2799
+483935	Flow cytometry result	19424133	Flu Vaccine-K 11-16-10_NCH-VK 39 TFH Panel.483935.fcs	Flu Vaccine-K 11-16-10_NCH-VK 39 TFH Panel.fcs	2799
+483936	Flow cytometry result	21391656	Flu Vaccine-K 11-16-10_NCH-VK 39 TFH Panel.483936.txt	Flu Vaccine-K 11-16-10_NCH-VK 39 TFH Panel.txt	2799
+483937	Flow cytometry result	18645954	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 B Panel.483937.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 B Panel.fcs	2799
+483938	Flow cytometry compensation or control	5076380	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 Ctrl.483938.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 Ctrl.fcs	2799
+483939	Flow cytometry result	20535022	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 B Panel.483939.txt	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 B Panel.txt	2799
+483940	Flow cytometry result	18774543	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 TFH Panel.483940.fcs	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 TFH Panel.fcs	2799
+483941	Flow cytometry result	20844881	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 TFH Panel.483941.txt	Flu Vaccine-K 1-22-11 3M_NCH-VK 39 TFH Panel.txt	2799
+483942	Flow cytometry result	24342844	Flu Vaccine-K 11-29-10_NCH-VK 40 B Panel.483942.fcs	Flu Vaccine-K 11-29-10_NCH-VK 40 B Panel.fcs	2799
+483943	Flow cytometry compensation or control	12352162	Flu Vaccine-K 11-29-10_NCH-VK 40 Ctrl.483943.fcs	Flu Vaccine-K 11-29-10_NCH-VK 40 Ctrl.fcs	2799
+483944	Flow cytometry result	28366092	Flu Vaccine-K 11-29-10_NCH-VK 40 B Panel.483944.txt	Flu Vaccine-K 11-29-10_NCH-VK 40 B Panel.txt	2799
+483945	Flow cytometry result	27320691	Flu Vaccine-K 11-29-10_NCH-VK 40 DC Panel.483945.fcs	Flu Vaccine-K 11-29-10_NCH-VK 40 DC Panel.fcs	2799
+483946	Flow cytometry result	32713253	Flu Vaccine-K 11-29-10_NCH-VK 40 DC Panel.483946.txt	Flu Vaccine-K 11-29-10_NCH-VK 40 DC Panel.txt	2799
+483947	Flow cytometry result	24332664	Flu Vaccine-K 11-29-10_NCH-VK 40 Mono,2f,Gran,2f,SLAN.483947.fcs	Flu Vaccine-K 11-29-10_NCH-VK 40 Mono,2f,Gran,2f,SLAN.fcs	2799
+483948	Flow cytometry result	28864142	Flu Vaccine-K 11-29-10_NCH-VK 40 Mono,2f,Gran,2f,SLAN.483948.txt	Flu Vaccine-K 11-29-10_NCH-VK 40 Mono,2f,Gran,2f,SLAN.txt	2799
+483949	Flow cytometry result	30253609	Flu Vaccine-K 11-29-10_NCH-VK 40 TFH Panel.483949.fcs	Flu Vaccine-K 11-29-10_NCH-VK 40 TFH Panel.fcs	2799
+483950	Flow cytometry result	35184689	Flu Vaccine-K 11-29-10_NCH-VK 40 TFH Panel.483950.txt	Flu Vaccine-K 11-29-10_NCH-VK 40 TFH Panel.txt	2799
+483951	Flow cytometry result	17450834	Flu_NCH_VK_40_B_Panel.483951.fcs	Flu_NCH_VK_40_B_Panel.fcs	2799
+483952	Flow cytometry compensation or control	4343663	Flu_NCH_VK_40_Ctrl.483952.fcs	Flu_NCH_VK_40_Ctrl.fcs	2799
+483953	Flow cytometry result	19644492	Flu_NCH_VK_40_B_Panel.483953.txt	Flu_NCH_VK_40_B_Panel.txt	2799
+483954	Flow cytometry result	16298429	Flu_NCH_VK_40_DC_Panel.483954.fcs	Flu_NCH_VK_40_DC_Panel.fcs	2799
+483955	Flow cytometry result	18772259	Flu_NCH_VK_40_DC_Panel.483955.txt	Flu_NCH_VK_40_DC_Panel.txt	2799
+483956	Flow cytometry result	17600306	97695.483956.fcs	97695.fcs	2799
+483957	Flow cytometry result	19867631	97695.483957.txt	97695.txt	2799
+483958	Flow cytometry result	17032702	Flu_NCH_VK_40_TFH_Panel.483958.fcs	Flu_NCH_VK_40_TFH_Panel.fcs	2799
+483959	Flow cytometry result	19351181	Flu_NCH_VK_40_TFH_Panel.483959.txt	Flu_NCH_VK_40_TFH_Panel.txt	2799
+483960	Flow cytometry result	56102789	Flu Vaccine-K 12-05-10_NCH-VK 40 B Panel.483960.fcs	Flu Vaccine-K 12-05-10_NCH-VK 40 B Panel.fcs	2799
+483961	Flow cytometry compensation or control	16833023	Flu Vaccine-K 12-05-10_NCH-VK 40 Ctrl.483961.fcs	Flu Vaccine-K 12-05-10_NCH-VK 40 Ctrl.fcs	2799
+483962	Flow cytometry result	65418628	Flu Vaccine-K 12-05-10_NCH-VK 40 B Panel.483962.txt	Flu Vaccine-K 12-05-10_NCH-VK 40 B Panel.txt	2799
+483963	Flow cytometry result	62082030	Flu Vaccine-K 12-05-10_NCH-VK 40 TFH Panel.483963.fcs	Flu Vaccine-K 12-05-10_NCH-VK 40 TFH Panel.fcs	2799
+483964	Flow cytometry result	71641299	Flu Vaccine-K 12-05-10_NCH-VK 40 TFH Panel.483964.txt	Flu Vaccine-K 12-05-10_NCH-VK 40 TFH Panel.txt	2799
+483965	Flow cytometry result	20685301	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 B Panel.483965.fcs	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 B Panel.fcs	2799
+483966	Flow cytometry compensation or control	7288583	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 Ctrl.483966.fcs	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 Ctrl.fcs	2799
+483967	Flow cytometry result	23304084	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 B Panel.483967.txt	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 B Panel.txt	2799
+483968	Flow cytometry result	21262758	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 TFH Panel.483968.fcs	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 TFH Panel.fcs	2799
+483969	Flow cytometry result	24203414	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 TFH Panel.483969.txt	Flu Vaccine-K 3-21-11 3M_NCH-VK 40 TFH Panel.txt	2799
+483973	Flow cytometry result	29396964	Flu Vaccine-K 11-29-10_NCH-VK 38 Mono,2f,Gran,2f,SLAN.483973.fcs	Flu Vaccine-K 11-29-10_NCH-VK 38 Mono,2f,Gran,2f,SLAN.fcs	2799
+483974	Flow cytometry compensation or control	7067474	Flu Vaccine-K 11-29-10_NCH-VK 38 Ctrl.483974.fcs	Flu Vaccine-K 11-29-10_NCH-VK 38 Ctrl.fcs	2799
+483975	Flow cytometry result	34327951	Flu Vaccine-K 11-29-10_NCH-VK 38 Mono,2f,Gran,2f,SLAN.483975.txt	Flu Vaccine-K 11-29-10_NCH-VK 38 Mono,2f,Gran,2f,SLAN.txt	2799
+483977	Flow cytometry workspace	24382742	NCH Healthy 2010_sas.483977.xml	NCH Healthy 2010_sas.xml	2799
+703288	Illumina BeadArray	84253221	SDY387_EXP13732_microarray.703288.tsv	SDY387_EXP13732_microarray.tsv	2799

@@ -1,0 +1,30 @@
+INTERVENTION_ACCESSION	COMPOUND_NAME_REPORTED	COMPOUND_ROLE	DOSE	DOSE_FREQ_PER_INTERVAL	DOSE_REPORTED	DOSE_UNITS	DURATION	DURATION_UNIT	END_DAY	END_TIME	FORMULATION	IS_ONGOING	NAME_PREFERRED	NAME_REPORTED	REPORTED_INDICATION	ROUTE_OF_ADMIN_PREFERRED	ROUTE_OF_ADMIN_REPORTED	START_DAY	START_TIME	STATUS	STUDY_ACCESSION	SUBJECT_ACCESSION	WORKSPACE_ID
+SM148943	Albuterol	Concomitant Medication			UNK									Albuterol			inhaler	0			SDY368	SUB135723	2799
+SM148955	Nasonex	Concomitant Medication			UNK									Nasonex				0			SDY368	SUB135719	2799
+SM149010	Concerta	Concomitant Medication	36	daily	36 mg	mg								Concerta				0			SDY368	SUB135724	2799
+SM149018	Doryx	Concomitant Medication	100	daily	100 mg	mg								Doryx				0			SDY368	SUB135727	2799
+SM148940	Zyrtec	Concomitant Medication	1	daily PRN	1 tsp	tsp								Zyrtec				0			SDY368	SUB135723	2799
+SM148942	Skin cream for eczema	Concomitant Medication			UNK									Skin cream for eczema				0			SDY368	SUB135723	2799
+SM148959	Zoloft	Concomitant Medication			UNK									Zoloft				0			SDY368	SUB135719	2799
+SM149012	Ritalin	Concomitant Medication	5	Q afternoon	5 mg	mg								Ritalin				0			SDY368	SUB135724	2799
+SM148944	Concerta	Concomitant Medication	28	am	28 mg (am)	mg			28					Concerta				0			SDY368	SUB135723	2799
+SM148947	Epipen	Concomitant Medication			UNK									Epipen				0			SDY368	SUB135736	2799
+SM148951	Daytrana	Concomitant Medication	10	School Days	10 mg	mg								Daytrana				0			SDY368	SUB135738	2799
+SM148968	Tylenol	Concomitant Medication			UNK				21					Tylenol				18			SDY368	SUB135729	2799
+SM148969	Atarax	Concomitant Medication		QHS	UNK									Atarax				0			SDY368	SUB135729	2799
+SM148995	Prevacid	Concomitant Medication			UNK									Prevacid				0			SDY368	SUB135726	2799
+SM148939	Miralax	Concomitant Medication			UNK									Miralax				0			SDY368	SUB135723	2799
+SM148957	Albuterol	Concomitant Medication			UNK									Albuterol			inhaler	0			SDY368	SUB135719	2799
+SM148958	Minacycline	Concomitant Medication			UNK									Minacycline				0			SDY368	SUB135719	2799
+SM148941	Melatonin	Concomitant Medication	10		10 mg	mg								Melatonin				0			SDY368	SUB135723	2799
+SM148956	Advair	Concomitant Medication			UNK									Advair				0			SDY368	SUB135719	2799
+SM148988	Claritin	Concomitant Medication			UNK									Claritin				0			SDY368	SUB135721	2799
+SM149013	Clonidine	Concomitant Medication	0.1	1-2 caps QHS	0.1 mg 1-2 caps	mg								Clonidine				0			SDY368	SUB135724	2799
+SM148996	Nordet	Concomitant Medication			UNK									Nordet				0			SDY368	SUB135726	2799
+SM149009	Tri phasil	Concomitant Medication			UNK									Tri phasil				0			SDY368	SUB135725	2799
+SM149011	Zyrtec1	Concomitant Medication	1	daily	1 tsp	tsp								Zyrtec1				0			SDY368	SUB135724	2799
+SM148953	Focalin	Concomitant Medication	20	daily	20 mg	mg								Focalin				0			SDY368	SUB135735	2799
+SM148954	Nordatropin	Concomitant Medication	2.5	daily	2.5 mg	mg								Nordatropin				0			SDY368	SUB135735	2799
+SM148967	Dayquil	Concomitant Medication			UNK				21					Dayquil				18			SDY368	SUB135729	2799
+SM149043	Zyrtec	Concomitant Medication			UNK									Zyrtec				29			SDY368	SUB135733	2799
+SM148938	Concerta	Concomitant Medication	36	am	36 mg (am)	mg								Concerta				28			SDY368	SUB135723	2799

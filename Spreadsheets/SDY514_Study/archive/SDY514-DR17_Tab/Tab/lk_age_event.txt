@@ -1,0 +1,8 @@
+NAME	DESCRIPTION	LINK	SORT_ORDER
+Age at enrollment	Age Event is the Age at enrollment. In the case of a subject enrolled in multiple studies, this value is the minimum age for all the studies.	http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000011	1
+Age at initial treatment	Age Event is the Age at initial treatment.	http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000011	2
+Age at infection	Age Event is the Age at infection.	http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000011	3
+Age at initial vaccine administration	Age Event is the Age at initial vaccine administration.	http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000011	4
+Age at Study Day 0	Age Event is the Age at Study Day 0.	http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000011	5
+Other	Age Event is some Other value not in CV Terms.	http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000011	6
+Not_Specified	Age Event is not specified or not received. If no Age Event value is received, then this is the system default value.	http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0000011	7

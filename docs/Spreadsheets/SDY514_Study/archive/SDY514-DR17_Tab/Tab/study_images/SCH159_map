@@ -1,0 +1,4 @@
+
+<MAP NAME=studyImageMap>
+	<AREA SHAPE=RECT COORDS=7,4,957,715 alt=Study HREF=javascript:refreshParent('clinical/study/displayStudyDetails.do?&itemList=SDY514'); TITLE=Click to learn more details about this study>
+</MAP>

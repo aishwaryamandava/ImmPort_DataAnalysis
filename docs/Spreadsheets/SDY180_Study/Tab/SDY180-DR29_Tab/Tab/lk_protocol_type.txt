@@ -1,0 +1,18 @@
+NAME	DESCRIPTION	LINK
+Assay	Protocol used to assay or measure an experiment sample	
+Bio Sample Preparation	Biological Sample Preparation.	
+Bio Sample Treatment	Protocol used to prepare Biological Sample.	
+Biomaterial Transformation	Protocol used to prepare or modify a biological sample	
+Clinical	Clinical	
+Data Processing	Data Processing	
+Data Transformation	Protocol used to analyze or reformat data	
+Experiment	Protocol used in the Experiment.	
+Experimental Sample	Protocol used for Experimental Sample.	
+Not Specified	Protcol Type is not specified or not received. If no Protocol Type value is received, then this is the system default value.	
+Other	Other	
+Study Protocol	'Study_Protocol' Study design description.	
+Study Summary	'Study_Summary' Study review after a study is closed.	
+Subject Organism Treatment	Subject Organism Treatment	
+Clinical Study Protocol	Clinical Study Protocol	https://ncit.nci.nih.gov/ncitbrowser/pages/concept_details.jsf?dictionary=NCI_Thesaurus&version=17.10e&code=C25320
+Statistical Analysis Documentation	Statistical Analysis Documentation	https://ncit.nci.nih.gov/ncitbrowser/pages/concept_details.jsf?dictionary=NCI_Thesaurus&version=17.10e&code=C115732
+Case Report Form	Case Report Form	https://ncit.nci.nih.gov/ncitbrowser/pages/concept_details.jsf?dictionary=NCI_Thesaurus&version=17.10e&code=C40988

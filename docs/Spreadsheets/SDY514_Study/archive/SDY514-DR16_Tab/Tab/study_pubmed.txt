@@ -1,0 +1,2 @@
+STUDY_ACCESSION	PUBMED_ID	AUTHORS	DOI	ISSUE	JOURNAL	MONTH	PAGES	TITLE	YEAR	WORKSPACE_ID
+SDY514	25594173	Brodin P(1), Jojic V(2), Gao T(2), Bhattacharya S(3), Angel CJ(4), Furman D(4), Shen-Orr S(5), Dekker CL(6), Swan GE(7), Butte AJ(8), Maecker HT(9), Davis MM(10).		160 1-2	Cell.	Jan	37-47	Variation in the human immune system is largely driven by non-heritable influences.	2015	2883
