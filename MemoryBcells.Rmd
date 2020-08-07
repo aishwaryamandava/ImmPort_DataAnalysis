@@ -167,15 +167,15 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Populations:
 Gating co-ordinates for SDY144
-![alt text](./input_files/SDY144_config_memB.png)
+![alt text](./figure-html/SDY144_config_memB.png)
 Gating hierarchy used to identify the cell populations (example: SUB118176 at Day 7)
-![alt text](./input_files/SDY144_1_memB.png)
+![alt text](./figure-html/SDY144_1_memB.png)
 
-![alt text](./input_files/SDY144_2_memB.png)
+![alt text](./figure-html/SDY144_2_memB.png)
 
-![alt text](./input_files/SDY144_3_memB.png)
+![alt text](./figure-html/SDY144_3_memB.png)
 
-![alt text](./input_files/SDY144_4_memB.png)
+![alt text](./figure-html/SDY144_4_memB.png)
 ```{r, include=FALSE}
 #####Read the files########
 sdy144 <- read.xlsx("./Spreadsheets/SDY144_MemoryBcells.xlsx",sheet=2)[,-1]
@@ -322,19 +322,19 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Proportions
 Gating co-ordinates for SDY364
-![alt text](./input_files/SDY364_config_memB.png)
+![alt text](./figure-html/SDY364_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB135685 at Day 1 )
-![alt text](./input_files/SDY364_1_memB.png)
+![alt text](./figure-html/SDY364_1_memB.png)
 
-![alt text](./input_files/SDY364_2_memB.png)
-
-
-![alt text](./input_files/SDY364_3_memB.png)
+![alt text](./figure-html/SDY364_2_memB.png)
 
 
-![alt text](./input_files/SDY364_4_memB.png)
+![alt text](./figure-html/SDY364_3_memB.png)
+
+
+![alt text](./figure-html/SDY364_4_memB.png)
 ```{r, include=FALSE}
 #####Read the files########
 sdy364 <- read.xlsx("./Spreadsheets/SDY364_MemoryBcells.xlsx",sheet=2)[,-1]
@@ -484,19 +484,19 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Proportions:
 Gating co-ordinates for SDY368
-![alt text](./input_files/SDY368_config_memB.png)
+![alt text](./figure-html/SDY368_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB135730 at Day 28)
-![alt text](./input_files/SDY368_1_memB.png)
+![alt text](./figure-html/SDY368_1_memB.png)
 
-![alt text](./input_files/SDY368_2_memB.png)
-
-
-![alt text](./input_files/SDY368_3_memB.png)
+![alt text](./figure-html/SDY368_2_memB.png)
 
 
-![alt text](./input_files/SDY368_4_memB.png)
+![alt text](./figure-html/SDY368_3_memB.png)
+
+
+![alt text](./figure-html/SDY368_4_memB.png)
 
 Colors indicate responder or non-repsonder based on the titer values at Day 0. 
 ```{r, include=FALSE}
@@ -649,19 +649,19 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Proportions:
 Gating co-ordinates for SDY387
-![alt text](./input_files/SDY387_config_memB.png)
+![alt text](./figure-html/SDY387_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB135864 at Day 7)
-![alt text](./input_files/SDY387_1_memB.png)
+![alt text](./figure-html/SDY387_1_memB.png)
 
-![alt text](./input_files/SDY387_2_memB.png)
-
-
-![alt text](./input_files/SDY387_3_memB.png)
+![alt text](./figure-html/SDY387_2_memB.png)
 
 
-![alt text](./input_files/SDY387_4_memB.png)
+![alt text](./figure-html/SDY387_3_memB.png)
+
+
+![alt text](./figure-html/SDY387_4_memB.png)
 
 Colors indicate responder or non-repsonder based on the titer values at Day 0. 
 ```{r, include=FALSE}
@@ -813,19 +813,19 @@ ggplot(na.omit(melt_response),aes(x=variable,y=value,group=subject_accession,col
 
 ###Cell Proportions:
 Gating co-ordinates for SDY372
-![alt text](./input_files/SDY372_config_memB.png)
+![alt text](./figure-html/SDY372_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB135772 at Day 7)
-![alt text](./input_files/SDY372_1_memB.png)
+![alt text](./figure-html/SDY372_1_memB.png)
 
-![alt text](./input_files/SDY372_2_memB.png)
-
-
-![alt text](./input_files/SDY372_3_memB.png)
+![alt text](./figure-html/SDY372_2_memB.png)
 
 
-![alt text](./input_files/SDY372_4_memB.png)
+![alt text](./figure-html/SDY372_3_memB.png)
+
+
+![alt text](./figure-html/SDY372_4_memB.png)
 
 Colors indicate responder or non-repsonder based on the titer values at Day 0. 
 ```{r, include=FALSE}
@@ -978,19 +978,19 @@ resp_sdy180$FoldChange <- resp_sdy180$`28`/(resp_sdy180$`pre`+0.00001)
 
 ###Cell Proportions:
 Gating co-ordinates for SDY180
-![alt text](./input_files/SDY180_config_memB.png)
+![alt text](./figure-html/SDY180_config_memB.png)
 
 
 Gating hierarchy used to identify the cell populations (example: SUB119262 at Day -7, i.e. 7 days prior vaccination)
-![alt text](./input_files/SDY180_1_memB.png)
+![alt text](./figure-html/SDY180_1_memB.png)
 
-![alt text](./input_files/SDY180_2_memB.png)
-
-
-![alt text](./input_files/SDY180_3_memB.png)
+![alt text](./figure-html/SDY180_2_memB.png)
 
 
-![alt text](./input_files/SDY180_4_memB.png)
+![alt text](./figure-html/SDY180_3_memB.png)
+
+
+![alt text](./figure-html/SDY180_4_memB.png)
 
 Colors indicate responder or non-repsonder based on the titer values at Day 0. 
 ```{r, include=FALSE}

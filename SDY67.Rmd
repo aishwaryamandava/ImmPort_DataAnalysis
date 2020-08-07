@@ -24,7 +24,7 @@ knit: (function(input_file, encoding) {
 * Translational Bcells
 * Naive Bcells
 
-![B-cell panel gating hierarchy](./input_files/SDY67_Bcell.png)
+![B-cell panel gating hierarchy](./figure-html/SDY67_Bcell.png)
 
 ```{r, include=FALSE,echo=FALSE, message=FALSE}
 library(RImmPort)
@@ -243,9 +243,9 @@ p1<-ggscatter(data,x="Day_0",y="FoldChange",add = "reg.line", conf.int = TRUE,
 * CD11c+ CD16- mDC
 * CD11c+ CD16+ mDC
    
-![alt text](./input_files/SDY67_DCells1.png)
-![alt text](./input_files/SDY67_DCells2.png)
-![alt text](./input_files/SDY67_DCells3.png)
+![alt text](./figure-html/SDY67_DCells1.png)
+![alt text](./figure-html/SDY67_DCells2.png)
+![alt text](./figure-html/SDY67_DCells3.png)
 #### B) Metadata
 ```{r, include=FALSE, echo=FALSE}
 sdy <- "SDY67"
